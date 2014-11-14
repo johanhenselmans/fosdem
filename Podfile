@@ -1,6 +1,5 @@
 source 'https://github.com/CocoaPods/Specs.git'
-xcodeproj 'fosdem/fosdem.xcodeproj'
-
+xcodeproj 'fosdem.xcodeproj'
 
 platform :ios, '6.1'
 

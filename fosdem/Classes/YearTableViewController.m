@@ -42,7 +42,7 @@ int lastYear;
   // first, get the most recent year. Next create an NSArray of years.
   yearArray = [NSMutableArray array];
   int i = 0;
-  for (i = 2013; i <= lastYear; i++){
+  for (i = 2012; i <= lastYear; i++){
     [yearArray addObject:[NSNumber numberWithInt:i]];
   }
   // NSLog(@"yearArray: %@, currentyear: %ld", yearArray, (long)[currentYearMonthDay year]);
