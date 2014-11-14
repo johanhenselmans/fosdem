@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schedule>
+  <conference>
+    <title>FOSDEM 2015</title>
+    <subtitle/>
+    <venue>ULB (Université Libre de Bruxelles)</venue>
+    <city>Brussels</city>
+    <start>2015-01-31</start>
+    <end>2015-02-01</end>
+    <days>2</days>
+    <day_change>09:00:00</day_change>
+    <timeslot_duration>00:05:00</timeslot_duration>
+  </conference>
+  <day index="1" date="2015-01-31">
+    <room name="Janson">
+      <event id="2632">
+        <start>09:30</start>
+        <duration>00:25</duration>
+        <room>Janson</room>
+        <slug>keynotes_welcome</slug>
+        <title>Welcome to FOSDEM 2015</title>
+        <subtitle/>
+        <track>Keynotes</track>
+        <type>keynote</type>
+        <language/>
+        <abstract>&lt;p&gt;FOSDEM welcome and opening talk.&lt;/p&gt;</abstract>
+        <description>&lt;p&gt;Welcome to FOSDEM 2015!&lt;/p&gt;</description>
+        <persons>
+          <person id="6">FOSDEM Staff</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="2605">
+        <start>10:00</start>
+        <duration>01:00</duration>
+        <room>Janson</room>
+        <slug>identity_crisis</slug>
+        <title>Identity Crisis: Are we who we say we are? </title>
+        <subtitle/>
+        <track>Keynotes</track>
+        <type>keynote</type>
+        <language/>
+        <abstract>&lt;p&gt;Karen Sandler, Executive Director of the Software Freedom Conservancy, will discuss the peculiar tension in the intersection of free and open source software and corporate interest. Working in free software often triggers a complicated set of allegiances. When tricky situations arise how do developers decide what their priorities are? As a community how do you know whether a contributor is advocated the best for the project of the best for their employer? How much can governance help? And at the end of the day, how do the ideological components to these projects really play out? And how should they?&lt;/p&gt;</abstract>
+        <description>&lt;p&gt;This is a very confusing area in free and open source software communities.  I will use specific examples from a few different free software communities to illustrate the current state of ambiguity. This presentation will shed light on the situation and propose proactive solutions.&lt;/p&gt;</description>
+        <persons>
+          <person id="448">Karen Sandler</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="2557">
+        <start>12:00</start>
+        <duration>00:50</duration>
+        <room>Janson</room>
+        <slug>building_high_performance_language_implementations</slug>
+        <title>Building High-Performance Language Implementations With Low Effort</title>
+        <subtitle/>
+        <track>Performance</track>
+        <type>maintrack</type>
+        <language/>
+        <abstract>&lt;p&gt;Programming languages are never perfect, so people start building
+domain-specific languages to be able to solve their problems more easily.
+However, custom languages are often slow, or take enormous amounts of effort to
+be made fast by building custom compilers or virtual machines.&lt;/p&gt;
+
+&lt;p&gt;With the notion of self-optimizing interpreters, researchers proposed a way to
+implement languages easily and generate a JIT compiler from a simple
+interpreter. We explore the idea and experiment with it on top of RPython (of
+PyPy fame) with its meta-tracing JIT compiler, as well as Truffle, the JVM
+framework of Oracle Labs for self-optimizing interpreters.&lt;/p&gt;
+
+&lt;p&gt;In this talk, we show how a simple interpreter can reach the same order of
+magnitude of performance as the highly optimizing JVM for Java. We discuss the
+implementation on top of RPython as well as on top of Java with Truffle so that
+you can start right away, independent of whether you prefer the Python or JVM
+ecosystem.&lt;/p&gt;
+
+&lt;p&gt;While our own experiments focus on SOM, a little Smalltalk variant to keep
+things simple, other people have used this approach to improve peek performance
+of JRuby, or build languages such as JavaScript, R, and Python 3.&lt;/p&gt;</abstract>
+        <description></description>
+        <persons>
+          <person id="2295">Stefan Marr</person>
+        </persons>
+        <links>
+          <link href="http://som-st.github.io/">SOM Smalltalk homepage</link>
+          <link href="http://lafo.ssw.uni-linz.ac.at/papers/2012_DLS_SelfOptimizingASTInterpreters.pdf">Paper on self-optimzing interpreters</link>
+          <link href="http://lafo.ssw.uni-linz.ac.at/papers/2013_Onward_OneVMToRuleThemAll.pdf">One VM to Rule Them All, a paper on using partial evaluation to compile self-optimizing interpreters</link>
+          <link href="http://stefan-marr.de/papers/ieee-soft-marr-et-al-are-we-there-yet/">Are We There Yet? A Paper on first experiments with RPython and Truffle</link>
+        </links>
+      </event>
+      <event id="2542">
+        <start>13:00</start>
+        <duration>00:50</duration>
+        <room>Janson</room>
+        <slug>igprof_the_ignominous_profiler</slug>
+        <title>IgProf</title>
+        <subtitle>The Ignominous Profiler</subtitle>
+        <track>Performance</track>
+        <type>maintrack</type>
+        <language/>
+        <abstract>&lt;p&gt;IgProf is a GPL, general purpose, cross platform (x86_64, x86, ARMv7-A, ARM64/AArch64), memory and performance profiling tool originally developed 10 years ago in the context of LHC experiments at CERN (*), to enable optimisation of simulation and data acquisition software. It provides detailed, call-stack level, information on where time / energy is spent and memory allocations happen using a variety of techniques varying from dynamic instrumentation to sampled profiling. While not dissimilar from other similar softwares like Google perftools it was specially tailored to profile extremely large C++ applications comprising millions lines of codes, loading thousands of dynamic libraries and with a very high memory allocation frequency. In addition, ease-of-use and the ability to easily share performance profiles between distributed collaborators are important aspects to enable use by a large community of scientists with varying software development skills.&lt;/p&gt;</abstract>
+        <description>&lt;p&gt;We present our experience about profiling and improving performance  of large applications, discuss similarities and differences with other similar tools and show a few of the new features we have been working on lately, in particular ARM64 support and energy profiling via a PAPI add on. We also show how we gave back to the opensource  community by providing patches to libunwind for both x86 and ARM.&lt;/p&gt;
+
+&lt;p&gt;(*) CMS is one of the flagship experiments at CERN, a collaboration of  over 4000 researchers distributed in more than 100 institutes around the world. They use a distributed computing architecture consisting of more than 100K x86-64 cores to answer questions about the origin of the universe and the structure of matter. Given the scale of the computational resources, software performance optimization is a critical need.&lt;/p&gt;</description>
+        <persons>
+          <person id="2279">Giulio Eulisse</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="2622">
+        <start>14:00</start>
+        <duration>00:50</duration>
+        <room>Janson</room>
+        <slug>superoptimization</slug>
+        <title>Superoptimization</title>
+        <subtitle>How fast can your code go?</subtitle>
+        <track>Performance</track>
+        <type>maintrack</type>
+        <language/>
+        <abstract>&lt;p&gt;Modern compiler optimization can take almost any code and produce a reasonably efficient binary at the end. However compiler "optimization" doesn't make your code "optimal", just better.&lt;/p&gt;
+
+&lt;p&gt;In contrast, superoptimization can produce perfect code - the fastest, the smallest or the most energy efficient code. The technique, first introduced in the late 80s found in some cases it could do 25% better than the best assembly programmer, and 40% better than the best compiler at the time.&lt;/p&gt;
+
+&lt;p&gt;Free software has always played a central role in superoptimization research, with the GNU Superoptimizer being one of the very first tools constructed.&lt;/p&gt;
+
+&lt;p&gt;However there is a downside. Superoptimization today is incredibly demanding of compute time, so currently it is limited to short instruction sequences. At present it is most valuable in optimizing code hotspots and key library routines, and can also be a valuable aid to the compiler writer for peephole optimization. Recent research has developed new techniques that can make superoptimization more applicable to general code.&lt;/p&gt;
+
+&lt;p&gt;In this talk I will introduce superoptimization and give some examples of the weird and wonderfully short sequences of code it produces. I will introduce the GNU superoptimizer and show how it is used, including some of the recent improvements I have contributed. The final part of my talk will look at the latest research including machine learning and constraint solving, and show how in future superoptimizers may be able to optimize much larger programs.&lt;/p&gt;</abstract>
+        <description></description>
+        <persons>
+          <person id="1836">James Pallister</person>
+        </persons>
+        <links>
+          <link href="http://www.superoptimization.org">http://www.superoptimization.org</link>
+        </links>
+      </event>
+      <event id="2598">
+        <start>15:00</start>
+        <duration>00:50</duration>
+        <room>Janson</room>
+        <slug>ubiquitous_performance_analysis_and_system_introspection</slug>
+        <title>Ubiquitous Performance Analysis and System Introspection</title>
+        <subtitle>An introduction to Performace Co-Pilot and Systemtap</subtitle>
+        <track>Performance</track>
+        <type>maintrack</type>
+        <language/>
+        <abstract>&lt;p&gt;Performance Co-Pilot is a highly adaptable and established toolkit for those
+interested in examining the details of system performance.  Similarly,
+Systemtap is a powerful tool for digging deep into the innards of a program.
+This presentation will go over the basics of the tools, recent developments,
+and examples.&lt;/p&gt;</abstract>
+        <description>&lt;p&gt;Performance Co-Pilot is a highly adaptable and established toolkit for those
+interested in examining the details of system performance.  When used in tandem
+with Systemtap, an introspection tool, both developers and system administrators
+are able to progress from a high level view of the current performance, to detailed
+information about a specific subsystem or program. This presentation will go
+over the basics of the tools, recent developments, and examples.&lt;/p&gt;</description>
+        <persons>
+          <person id="2304">Lukas Berk</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+    </room>
+    <room name="K.1.105 (La Fontaine)">
+      <event id="2656">
+        <start>12:00</start>
+        <duration>00:50</duration>
+        <room>K.1.105 (La Fontaine)</room>
+        <slug>computers_clocks_and_network_time</slug>
+        <title>Computers, Clocks and Network Time</title>
+        <subtitle>Everything you never wanted to know about time.</subtitle>
+        <track>Time</track>
+        <type>maintrack</type>
+        <language/>
+        <abstract>&lt;p&gt;Most people who work with computers have no idea how the computers keep time.  All networked computer  systems require some form of temporal synchronization.  As networks have gotten faster the demands for accurate, distributed, timekeeping have increased, but most programmers have no idea about the quality of the clocks in their systems, nor how they might be kept in sync.  This talk will go over the basics of computer clocks, why they're inaccurate, and what can be expected from various strategies for getting systems into sync.&lt;/p&gt;</abstract>
+        <description>&lt;p&gt;All networked computer  systems require some form of temporal synchronization.  As networks have gotten faster the demands for accurate, distributed, timekeeping have increased, but most programmers have no idea about the quality of the clocks in their systems, nor how they might be kept in sync.  Most programmers have at least heard of NTP (The Network Time Protocol) which is used to synchronize computer clocks over a network, but fewer have heard about more recent work, such as the Precision Time Protocol which can keep computers accurate to within several hundred nanoseconds when working over a LAN.  Well synchronized clocks are used in financial applications such as High Frequency Trading as well as the electrical grid and cellular telephone networks.&lt;/p&gt;
+
+&lt;p&gt;This talk will cover:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;How computers keep track of the time, and how they fail miserably at this.&lt;/li&gt;
+&lt;li&gt;The fundamental ideas behind network based time keeping, why we do it, and how it works.&lt;/li&gt;
+&lt;li&gt;Network Time Protocols (NTP and PTP) deployment, use and tuning.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <persons>
+          <person id="2316">George Neville-Neil</person>
+        </persons>
+        <links>
+          <link href="http://ptpd.sf.net">Open Source PTP Daemon</link>
+        </links>
+      </event>
+      <event id="2725">
+        <start>15:00</start>
+        <duration>01:00</duration>
+        <room>K.1.105 (La Fontaine)</room>
+        <slug>get_ready_to_party</slug>
+        <title>Get ready to party!</title>
+        <subtitle/>
+        <track>Languages</track>
+        <type>maintrack</type>
+        <language/>
+        <abstract>&lt;p&gt;The last pieces are finally falling into place.  After years of design and implementation, 2015 will be the year that Perl 6 officially launches for production use.&lt;/p&gt;</abstract>
+        <description>&lt;p&gt;In this talk, the creator of Perl reflects on the history of the effort, how the team got some things right, and how it learned from its mistakes when it got them wrong. But mostly how a bunch of stubbornly fun-loving people outlasted the naysayers to accomplish the extraordinary task of implementing a language that was so ambitious, even its designers said it was impossible. Prepare to be delightfully surprised.&lt;/p&gt;</description>
+        <persons>
+          <person id="2457">Larry Wall</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="2597">
+        <start>16:00</start>
+        <duration>00:50</duration>
+        <room>K.1.105 (La Fontaine)</room>
+        <slug>design_and_implementation_of_a_perl_number_theory_module</slug>
+        <title>Design and Implementation of a Perl Number Theory Module</title>
+        <subtitle/>
+        <track>Languages</track>
+        <type>maintrack</type>
+        <language/>
+        <abstract>&lt;p&gt;This talk describes the history, design, and implementation details of a number theory module for Perl.  With implementations for most functions in C, C+GMP, and Perl this offers speed on most platforms as well as portability.  Comparisons will be made with tools such as Pari/GP, SymPy, SAGE, Primo, OpenPFGW, and others.&lt;/p&gt;</abstract>
+        <description>&lt;p&gt;The Perl ntheory module (aka Math::Prime::Util) offers a portable solution for many integer number theory tasks in Perl.  While not offering the full feature set of robust and mature packages such as Pari/GP and SAGE, there are many areas where this package offers improvements.&lt;/p&gt;
+
+&lt;p&gt;With implementations in C, C+GMP, and Perl, there were a number of design choices made.  We describe the choices and tradeoffs of making a package that is both portable, robust, and performant.  Design choices for some algorithms (e.g. primality tests) are also discussed.&lt;/p&gt;
+
+&lt;p&gt;Highlights of this open source package include:
+  - Fastest single threaded open source prime count and nth&lt;em&gt;prime
+  - Fastest 64-bit primality testing
+  - Fastest bigint probable prime testing to 10k digits
+  - Fastest next&lt;/em&gt;prime, prev_prime
+  - Fastest open source AKS primality proofs
+  - Fastest open source ECPP primality proofs
+  - Support for random primes and random proven primes
+  - Ability to compile standalone C programs for tasks such as prime count, primality tests, primality proving, and primality certificate verification.&lt;/p&gt;
+
+&lt;p&gt;The random primes and primality testing/proving have been used in some new crypto modules, replacing older CPAN modules that were slower and had defects.  The ECPP verifier written as part of this project is being used by FactorDB.  In less than a year of use, simple Perl scripts using this module have been able to find over 37% of all current record prime gaps.  Numerous defects in other open source packages have been identified during testing of this module.&lt;/p&gt;</description>
+        <persons>
+          <person id="2324">Dana Jacobsen</person>
+        </persons>
+        <links>
+          <link href="https://metacpan.org/pod/ntheory">ntheory module description</link>
+          <link href="https://metacpan.org/pod/Math::Prime::Util">Detailed documentation</link>
+          <link href="http://sti15.com/talk/2014-06-24/MPU-2014yapcna.pdf">A version of my YAPC lightning talk on the subject.</link>
+        </links>
+      </event>
+    </room>
+  </day>
+  <day index="2" date="2015-02-01">
+    <room name="Janson">
+      <event id="2633">
+        <start>17:50</start>
+        <duration>00:10</duration>
+        <room>Janson</room>
+        <slug>closing_fosdem</slug>
+        <title>Closing FOSDEM 2015</title>
+        <subtitle/>
+        <track>Keynotes</track>
+        <type>keynote</type>
+        <language/>
+        <abstract>&lt;p&gt;Some closing words.  Don't miss it!&lt;/p&gt;</abstract>
+        <description></description>
+        <persons>
+          <person id="6">FOSDEM Staff</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+    </room>
+    <room name="K.1.105 (La Fontaine)">
+    </room>
+  </day>
+</schedule>
