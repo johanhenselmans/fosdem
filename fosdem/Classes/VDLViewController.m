@@ -80,6 +80,7 @@
 
 -(void) viewWillDisappear:(BOOL)animated
 {
+  [super viewWillDisappear:animated];
   [_mediaplayer pause];
   //_mediaplayer = nil;
 }

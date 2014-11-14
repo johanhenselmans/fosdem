@@ -36,7 +36,7 @@ int lastYear;
   currentYearMonthDay = [cal components:( NSYearCalendarUnit| NSMonthCalendarUnit| NSDayCalendarUnit  ) fromDate:today];
   if ([currentYearMonthDay month] > 8){
     // let's assume the next year is already available
-    lastYear = [currentYearMonthDay year]+1;
+    lastYear = (int)[currentYearMonthDay year]+1;
   }
   
   // first, get the most recent year. Next create an NSArray of years.

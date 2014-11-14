@@ -37,10 +37,10 @@ NSString *downloadString = @"";
   NSDate *today = [NSDate date];
   NSCalendar* cal = [NSCalendar currentCalendar]; // get current calender
   currentYearMonthDay = [cal components:( NSYearCalendarUnit| NSMonthCalendarUnit| NSDayCalendarUnit  ) fromDate:today];
-  int currentYear;
+  int currentYear=0;
   if ([currentYearMonthDay month] > 8){
     // let's assume the next year is already available
-    currentYear = [currentYearMonthDay year]+1;
+    currentYear = (int)[currentYearMonthDay year]+1;
   }
 
   downloadString = [NSString stringWithFormat:@"%@%d%@", @"https://fosdem.org/", currentYear,@"/schedule/xml"];
@@ -56,7 +56,7 @@ NSString *downloadString = @"";
 
 
 - (void)viewDidAppear:(BOOL)animated {
-  
+  [super viewDidAppear:animated];
   //  if (downloadString.length != 0 ){
   //    [self refreshDatabase:nil];
   //  }
