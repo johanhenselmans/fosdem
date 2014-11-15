@@ -93,6 +93,10 @@
 		04D1DC3A1A1689E3004AC9D8 /* clock@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 04D1DC381A1689E3004AC9D8 /* clock@2x.png */; };
 		04D1DCA81A168AAC004AC9D8 /* LAEventsListTableViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 04D1DCA71A168AAC004AC9D8 /* LAEventsListTableViewController.xib */; };
 		04D1DCAA1A168AB8004AC9D8 /* YearTableViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 04D1DCA91A168AB8004AC9D8 /* YearTableViewController.xib */; };
+		04E481661A16A0D300735ACF /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04E481651A16A0D300735ACF /* Images.xcassets */; };
+		04E481681A16A1A800735ACF /* FOSDEM_logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 04E481671A16A1A800735ACF /* FOSDEM_logo.png */; };
+		04E481691A177A9200735ACF /* VDLViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0481C4131A14001600530389 /* VDLViewController.xib */; };
+		04E4816B1A177AC500735ACF /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 04E4816A1A177AC500735ACF /* LICENSE */; };
 		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
 		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
 		233CA63610A478A800D84609 /* TODO in Resources */ = {isa = PBXBuildFile; fileRef = 233CA63510A478A800D84609 /* TODO */; };
@@ -108,7 +112,6 @@
 		35A443FC10DB5FF600DA30A3 /* CoreFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 35A443FB10DB5FF600DA30A3 /* CoreFoundation.framework */; };
 		35A444C110DC2FEC00DA30A3 /* LAUpcomingEventsTableViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 35A444BF10DC2FEC00DA30A3 /* LAUpcomingEventsTableViewController.xib */; };
 		35D23B81106F87C3003D9E0A /* descriptionPage.css in Resources */ = {isa = PBXBuildFile; fileRef = 35D23B80106F87C3003D9E0A /* descriptionPage.css */; };
-		6BD1991FB95FC859BF808D13 /* libPods-fosdem.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 8CE741CD88F93BC5AAC92013 /* libPods-fosdem.a */; };
 		7508893E166E431E00810759 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7508893D166E431E00810759 /* QuartzCore.framework */; };
 		8D5120D2F40335423308CE6F /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 0E30D2F262571DA315D4E8F6 /* libPods.a */; };
 /* End PBXBuildFile section */
@@ -218,6 +221,9 @@
 		04D1DC941A168A65004AC9D8 /* YearTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = YearTableViewController.m; path = fosdem/Classes/YearTableViewController.m; sourceTree = SOURCE_ROOT; };
 		04D1DCA71A168AAC004AC9D8 /* LAEventsListTableViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = LAEventsListTableViewController.xib; path = fosdem/LAEventsListTableViewController.xib; sourceTree = "<group>"; };
 		04D1DCA91A168AB8004AC9D8 /* YearTableViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = YearTableViewController.xib; path = fosdem/YearTableViewController.xib; sourceTree = "<group>"; };
+		04E481651A16A0D300735ACF /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = fosdem/Images.xcassets; sourceTree = "<group>"; };
+		04E481671A16A1A800735ACF /* FOSDEM_logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = FOSDEM_logo.png; path = fosdem/FOSDEM_logo.png; sourceTree = "<group>"; };
+		04E4816A1A177AC500735ACF /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = LICENSE; path = fosdem/LICENSE; sourceTree = "<group>"; };
 		068B2AFA751C07B6E11AAFCC /* Pods.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.debug.xcconfig; path = "Pods/Target Support Files/Pods/Pods.debug.xcconfig"; sourceTree = "<group>"; };
 		0E30D2F262571DA315D4E8F6 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		123CADF10906ED2A34724D83 /* Pods.distribution.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.distribution.xcconfig; path = "Pods/Target Support Files/Pods/Pods.distribution.xcconfig"; sourceTree = "<group>"; };
@@ -240,8 +246,8 @@
 		35A444BF10DC2FEC00DA30A3 /* LAUpcomingEventsTableViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = LAUpcomingEventsTableViewController.xib; path = fosdem/LAUpcomingEventsTableViewController.xib; sourceTree = "<group>"; };
 		35D23B80106F87C3003D9E0A /* descriptionPage.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; name = descriptionPage.css; path = fosdem/descriptionPage.css; sourceTree = "<group>"; };
 		7508893D166E431E00810759 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
-		8CE741CD88F93BC5AAC92013 /* libPods-fosdem.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-fosdem.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8D1107310486CEB800E47090 /* fosdem-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "fosdem-Info.plist"; path = "fosdem/fosdem-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+		96E54A3C6DE982051B3BEF98 /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.release.xcconfig; path = "Pods/Target Support Files/Pods/Pods.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -262,7 +268,6 @@
 				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
 				35A443FC10DB5FF600DA30A3 /* CoreFoundation.framework in Frameworks */,
 				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
-				6BD1991FB95FC859BF808D13 /* libPods-fosdem.a in Frameworks */,
 				8D5120D2F40335423308CE6F /* libPods.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -387,10 +392,12 @@
 		29B97317FDCFA39411CA2CEA /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				04E481651A16A0D300735ACF /* Images.xcassets */,
 				35D23B80106F87C3003D9E0A /* descriptionPage.css */,
 				2377DBC610BECE68008FDE65 /* fosdem_schedule.xcal */,
 				0481C3F71A13E8CF00530389 /* fosdem_schedule.xml */,
 				8D1107310486CEB800E47090 /* fosdem-Info.plist */,
+				04E4816A1A177AC500735ACF /* LICENSE */,
 				75E54BF41694C73000E9593D /* Images */,
 				3525421B10BC4D66007D9C6B /* LAEventDetailViewController.xib */,
 				04D1DCA71A168AAC004AC9D8 /* LAEventsListTableViewController.xib */,
@@ -425,7 +432,6 @@
 				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
 				1D30AB110D05D00D00671497 /* Foundation.framework */,
 				288765070DF74369002DB57D /* CoreGraphics.framework */,
-				8CE741CD88F93BC5AAC92013 /* libPods-fosdem.a */,
 				0E30D2F262571DA315D4E8F6 /* libPods.a */,
 			);
 			name = Frameworks;
@@ -436,6 +442,7 @@
 			children = (
 				068B2AFA751C07B6E11AAFCC /* Pods.debug.xcconfig */,
 				123CADF10906ED2A34724D83 /* Pods.distribution.xcconfig */,
+				96E54A3C6DE982051B3BEF98 /* Pods.release.xcconfig */,
 			);
 			name = Pods;
 			sourceTree = "<group>";
@@ -487,6 +494,7 @@
 		75E54BFE1694FE3200E9593D /* App Icons */ = {
 			isa = PBXGroup;
 			children = (
+				04E481671A16A1A800735ACF /* FOSDEM_logo.png */,
 				04D1DBCD1A1688CE004AC9D8 /* Icon-72.png */,
 				04D1DBCE1A1688CE004AC9D8 /* Icon-72@2x.png */,
 				04D1DBCF1A1688CE004AC9D8 /* icon-80.png */,
@@ -565,12 +573,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				04E481691A177A9200735ACF /* VDLViewController.xib in Resources */,
+				04E481681A16A1A800735ACF /* FOSDEM_logo.png in Resources */,
 				28AD73880D9D96C1002E5188 /* MainWindow.xib in Resources */,
 				04D1DCA81A168AAC004AC9D8 /* LAEventsListTableViewController.xib in Resources */,
 				35D23B81106F87C3003D9E0A /* descriptionPage.css in Resources */,
 				04D1DC2F1A1689C4004AC9D8 /* StarOff.png in Resources */,
 				04D1DBDA1A1688CE004AC9D8 /* icon-120.png in Resources */,
 				04D1DC291A1689A9004AC9D8 /* UB2.252A (Lameere).png in Resources */,
+				04E4816B1A177AC500735ACF /* LICENSE in Resources */,
 				357675D61089D2310042806B /* LAEventsTableViewController.xib in Resources */,
 				233CA63610A478A800D84609 /* TODO in Resources */,
 				04D1DC191A1689A9004AC9D8 /* H.1309.png in Resources */,
@@ -589,6 +600,7 @@
 				3525449010BC7ED0007D9C6B /* template.html in Resources */,
 				2377DBC710BECE68008FDE65 /* fosdem_schedule.xcal in Resources */,
 				04D1DC0D1A1689A9004AC9D8 /* AW1.124.png in Resources */,
+				04E481661A16A0D300735ACF /* Images.xcassets in Resources */,
 				35A444C110DC2FEC00DA30A3 /* LAUpcomingEventsTableViewController.xib in Resources */,
 				04D1DC1E1A1689A9004AC9D8 /* K.1.105 (La Fontaine).png in Resources */,
 				04D1DC181A1689A9004AC9D8 /* H.1309 (Van Rijn).png in Resources */,
@@ -738,10 +750,13 @@
 		};
 		0442A8DD1A16979E0064A6DF /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 96E54A3C6DE982051B3BEF98 /* Pods.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CLANG_ENABLE_MODULES = YES;
-				CODE_SIGN_IDENTITY = "";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
@@ -762,10 +777,13 @@
 		};
 		1D6058940D05DD3E006BFB54 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 068B2AFA751C07B6E11AAFCC /* Pods.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CLANG_ENABLE_MODULES = YES;
-				CODE_SIGN_IDENTITY = "";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
 				GCC_DYNAMIC_NO_PIC = NO;
@@ -819,10 +837,13 @@
 		};
 		231FF6E210F135F2001658B8 /* Distribution */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 123CADF10906ED2A34724D83 /* Pods.distribution.xcconfig */;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CLANG_ENABLE_MODULES = YES;
-				CODE_SIGN_IDENTITY = "";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
