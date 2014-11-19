@@ -16,6 +16,15 @@
 		04897F511A16458C005F4F1B /* CFNetwork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 04897F501A16458C005F4F1B /* CFNetwork.framework */; };
 		04897F531A164597005F4F1B /* OpenGLES.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 04897F521A164597005F4F1B /* OpenGLES.framework */; };
 		04897F551A1645AA005F4F1B /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 04897F541A1645AA005F4F1B /* AudioToolbox.framework */; };
+		048CCDDF1A1CF3520088340C /* fosdem_schedule2007.xml in Resources */ = {isa = PBXBuildFile; fileRef = 048CCDD61A1CF3520088340C /* fosdem_schedule2007.xml */; };
+		048CCDE01A1CF3520088340C /* fosdem_schedule2008.xml in Resources */ = {isa = PBXBuildFile; fileRef = 048CCDD71A1CF3520088340C /* fosdem_schedule2008.xml */; };
+		048CCDE11A1CF3520088340C /* fosdem_schedule2009.xml in Resources */ = {isa = PBXBuildFile; fileRef = 048CCDD81A1CF3520088340C /* fosdem_schedule2009.xml */; };
+		048CCDE21A1CF3520088340C /* fosdem_schedule2010.xml in Resources */ = {isa = PBXBuildFile; fileRef = 048CCDD91A1CF3520088340C /* fosdem_schedule2010.xml */; };
+		048CCDE31A1CF3520088340C /* fosdem_schedule2011.xml in Resources */ = {isa = PBXBuildFile; fileRef = 048CCDDA1A1CF3520088340C /* fosdem_schedule2011.xml */; };
+		048CCDE41A1CF3520088340C /* fosdem_schedule2012.xml in Resources */ = {isa = PBXBuildFile; fileRef = 048CCDDB1A1CF3520088340C /* fosdem_schedule2012.xml */; };
+		048CCDE51A1CF3520088340C /* fosdem_schedule2013.xml in Resources */ = {isa = PBXBuildFile; fileRef = 048CCDDC1A1CF3520088340C /* fosdem_schedule2013.xml */; };
+		048CCDE61A1CF3520088340C /* fosdem_schedule2014.xml in Resources */ = {isa = PBXBuildFile; fileRef = 048CCDDD1A1CF3520088340C /* fosdem_schedule2014.xml */; };
+		048CCDE71A1CF3520088340C /* fosdem_schedule2015.xml in Resources */ = {isa = PBXBuildFile; fileRef = 048CCDDE1A1CF3520088340C /* fosdem_schedule2015.xml */; };
 		04B3FABF1A168F6F002BDBBD /* fosdemAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 04D1DC721A168A65004AC9D8 /* fosdemAppDelegate.m */; };
 		04B3FAC01A168F74002BDBBD /* LADownload.m in Sources */ = {isa = PBXBuildFile; fileRef = 04D1DC741A168A65004AC9D8 /* LADownload.m */; };
 		04B3FAC11A168F79002BDBBD /* LAEvent.m in Sources */ = {isa = PBXBuildFile; fileRef = 04D1DC761A168A65004AC9D8 /* LAEvent.m */; };
@@ -127,6 +136,15 @@
 		04897F501A16458C005F4F1B /* CFNetwork.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CFNetwork.framework; path = System/Library/Frameworks/CFNetwork.framework; sourceTree = SDKROOT; };
 		04897F521A164597005F4F1B /* OpenGLES.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGLES.framework; path = System/Library/Frameworks/OpenGLES.framework; sourceTree = SDKROOT; };
 		04897F541A1645AA005F4F1B /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
+		048CCDD61A1CF3520088340C /* fosdem_schedule2007.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = fosdem_schedule2007.xml; path = fosdem/fosdem_schedule2007.xml; sourceTree = "<group>"; };
+		048CCDD71A1CF3520088340C /* fosdem_schedule2008.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = fosdem_schedule2008.xml; path = fosdem/fosdem_schedule2008.xml; sourceTree = "<group>"; };
+		048CCDD81A1CF3520088340C /* fosdem_schedule2009.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = fosdem_schedule2009.xml; path = fosdem/fosdem_schedule2009.xml; sourceTree = "<group>"; };
+		048CCDD91A1CF3520088340C /* fosdem_schedule2010.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = fosdem_schedule2010.xml; path = fosdem/fosdem_schedule2010.xml; sourceTree = "<group>"; };
+		048CCDDA1A1CF3520088340C /* fosdem_schedule2011.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = fosdem_schedule2011.xml; path = fosdem/fosdem_schedule2011.xml; sourceTree = "<group>"; };
+		048CCDDB1A1CF3520088340C /* fosdem_schedule2012.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = fosdem_schedule2012.xml; path = fosdem/fosdem_schedule2012.xml; sourceTree = "<group>"; };
+		048CCDDC1A1CF3520088340C /* fosdem_schedule2013.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = fosdem_schedule2013.xml; path = fosdem/fosdem_schedule2013.xml; sourceTree = "<group>"; };
+		048CCDDD1A1CF3520088340C /* fosdem_schedule2014.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = fosdem_schedule2014.xml; path = fosdem/fosdem_schedule2014.xml; sourceTree = "<group>"; };
+		048CCDDE1A1CF3520088340C /* fosdem_schedule2015.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = fosdem_schedule2015.xml; path = fosdem/fosdem_schedule2015.xml; sourceTree = "<group>"; };
 		04BD90DB1A1115D8006D0251 /* YearTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = YearTableViewCell.xib; path = fosdem/YearTableViewCell.xib; sourceTree = "<group>"; };
 		04D1DBCD1A1688CE004AC9D8 /* Icon-72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-72.png"; path = "fosdem/Icon-72.png"; sourceTree = "<group>"; };
 		04D1DBCE1A1688CE004AC9D8 /* Icon-72@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-72@2x.png"; path = "fosdem/Icon-72@2x.png"; sourceTree = "<group>"; };
@@ -396,6 +414,15 @@
 				35D23B80106F87C3003D9E0A /* descriptionPage.css */,
 				2377DBC610BECE68008FDE65 /* fosdem_schedule.xcal */,
 				0481C3F71A13E8CF00530389 /* fosdem_schedule.xml */,
+				048CCDD61A1CF3520088340C /* fosdem_schedule2007.xml */,
+				048CCDD71A1CF3520088340C /* fosdem_schedule2008.xml */,
+				048CCDD81A1CF3520088340C /* fosdem_schedule2009.xml */,
+				048CCDD91A1CF3520088340C /* fosdem_schedule2010.xml */,
+				048CCDDA1A1CF3520088340C /* fosdem_schedule2011.xml */,
+				048CCDDB1A1CF3520088340C /* fosdem_schedule2012.xml */,
+				048CCDDC1A1CF3520088340C /* fosdem_schedule2013.xml */,
+				048CCDDD1A1CF3520088340C /* fosdem_schedule2014.xml */,
+				048CCDDE1A1CF3520088340C /* fosdem_schedule2015.xml */,
 				8D1107310486CEB800E47090 /* fosdem-Info.plist */,
 				04E4816A1A177AC500735ACF /* LICENSE */,
 				75E54BF41694C73000E9593D /* Images */,
@@ -579,8 +606,10 @@
 				04D1DCA81A168AAC004AC9D8 /* LAEventsListTableViewController.xib in Resources */,
 				35D23B81106F87C3003D9E0A /* descriptionPage.css in Resources */,
 				04D1DC2F1A1689C4004AC9D8 /* StarOff.png in Resources */,
+				048CCDDF1A1CF3520088340C /* fosdem_schedule2007.xml in Resources */,
 				04D1DBDA1A1688CE004AC9D8 /* icon-120.png in Resources */,
 				04D1DC291A1689A9004AC9D8 /* UB2.252A (Lameere).png in Resources */,
+				048CCDE61A1CF3520088340C /* fosdem_schedule2014.xml in Resources */,
 				04E4816B1A177AC500735ACF /* LICENSE in Resources */,
 				357675D61089D2310042806B /* LAEventsTableViewController.xib in Resources */,
 				233CA63610A478A800D84609 /* TODO in Resources */,
@@ -595,11 +624,14 @@
 				04D1DC251A1689A9004AC9D8 /* K.4.601.png in Resources */,
 				04D1DC1A1A1689A9004AC9D8 /* H.2213.png in Resources */,
 				3525421E10BC4D66007D9C6B /* LATracksTableViewController.xib in Resources */,
+				048CCDE31A1CF3520088340C /* fosdem_schedule2011.xml in Resources */,
 				04D1DC091A1689A9004AC9D8 /* AW1.105.png in Resources */,
 				3525422210BC4DA5007D9C6B /* LAStarredTableViewController.xib in Resources */,
 				3525449010BC7ED0007D9C6B /* template.html in Resources */,
 				2377DBC710BECE68008FDE65 /* fosdem_schedule.xcal in Resources */,
+				048CCDE11A1CF3520088340C /* fosdem_schedule2009.xml in Resources */,
 				04D1DC0D1A1689A9004AC9D8 /* AW1.124.png in Resources */,
+				048CCDE51A1CF3520088340C /* fosdem_schedule2013.xml in Resources */,
 				04E481661A16A0D300735ACF /* Images.xcassets in Resources */,
 				35A444C110DC2FEC00DA30A3 /* LAUpcomingEventsTableViewController.xib in Resources */,
 				04D1DC1E1A1689A9004AC9D8 /* K.1.105 (La Fontaine).png in Resources */,
@@ -623,11 +655,13 @@
 				04D1DC261A1689A9004AC9D8 /* Lameere.png in Resources */,
 				0481C3F81A13E8CF00530389 /* fosdem_schedule.xml in Resources */,
 				04D1DC221A1689A9004AC9D8 /* K.3.601.png in Resources */,
+				048CCDE71A1CF3520088340C /* fosdem_schedule2015.xml in Resources */,
 				23F7D4BD10FF414700CCDAA1 /* LAEventTableViewCell.xib in Resources */,
 				04D1DC311A1689C4004AC9D8 /* StarOn.png in Resources */,
 				04D1DC361A1689D5004AC9D8 /* tracks@2x.png in Resources */,
 				04D1DC281A1689A9004AC9D8 /* UA2.114.png in Resources */,
 				04D1DBE61A1688E7004AC9D8 /* Default@2x.png in Resources */,
+				048CCDE21A1CF3520088340C /* fosdem_schedule2010.xml in Resources */,
 				04D1DBDD1A1688CE004AC9D8 /* Icon-Small.png in Resources */,
 				04D1DC201A1689A9004AC9D8 /* K.3.201.png in Resources */,
 				04D1DBE51A1688E7004AC9D8 /* Default.png in Resources */,
@@ -638,6 +672,7 @@
 				04D1DC231A1689A9004AC9D8 /* K.4.201.png in Resources */,
 				04D1DC271A1689A9004AC9D8 /* UA2.114 (Baudoux).png in Resources */,
 				04D1DC161A1689A9004AC9D8 /* H.1308 (Rolin).png in Resources */,
+				048CCDE41A1CF3520088340C /* fosdem_schedule2012.xml in Resources */,
 				04D1DC0A1A1689A9004AC9D8 /* AW1.117.png in Resources */,
 				04D1DC0E1A1689A9004AC9D8 /* AW1.125.png in Resources */,
 				04D1DC1D1A1689A9004AC9D8 /* Janson.png in Resources */,
@@ -646,6 +681,7 @@
 				04D1DBDC1A1688CE004AC9D8 /* Icon-Small-50@2x.png in Resources */,
 				04D1DC3A1A1689E3004AC9D8 /* clock@2x.png in Resources */,
 				04D1DC0F1A1689A9004AC9D8 /* AW1.126.png in Resources */,
+				048CCDE01A1CF3520088340C /* fosdem_schedule2008.xml in Resources */,
 				04D1DBDE1A1688CE004AC9D8 /* Icon-Small@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
