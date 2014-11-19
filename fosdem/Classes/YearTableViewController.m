@@ -9,6 +9,7 @@
 #import "YearTableViewController.h"
 #import "YearTableViewCell.h"
 #import "LAEventsTableViewController.h"
+#import "fosdemAppDelegate.h"
 
 @interface YearTableViewController ()
 
@@ -18,31 +19,27 @@
 NSMutableArray *yearArray;
 NSDateComponents* currentYearMonthDay ;
 int lastYear;
-
+fosdemAppDelegate *myapp;
 
 
 @implementation YearTableViewController
 
+
+
+
 - (void)viewDidLoad {
   [super viewDidLoad];
-  
   // Uncomment the following line to preserve selection between presentations.
   // self.clearsSelectionOnViewWillAppear = NO;
+  myapp = (fosdemAppDelegate *)[[UIApplication sharedApplication] delegate];
   
   // Uncomment the following line to display an Edit button in the navigation bar for this view controller.
   // self.navigationItem.rightBarButtonItem = self.editButtonItem;
-  NSDate *today = [NSDate date];
-  NSCalendar* cal = [NSCalendar currentCalendar]; // get current calender
-  currentYearMonthDay = [cal components:( NSYearCalendarUnit| NSMonthCalendarUnit| NSDayCalendarUnit  ) fromDate:today];
-  if ([currentYearMonthDay month] > 8){
-    // let's assume the next year is already available
-    lastYear = (int)[currentYearMonthDay year]+1;
-  }
   
   // first, get the most recent year. Next create an NSArray of years.
   yearArray = [NSMutableArray array];
   int i = 0;
-  for (i = 2012; i <= lastYear; i++){
+  for (i = 2007; i <= lastYear; i++){
     [yearArray addObject:[NSNumber numberWithInt:i]];
   }
   // NSLog(@"yearArray: %@, currentyear: %ld", yearArray, (long)[currentYearMonthDay year]);
@@ -89,7 +86,9 @@ int lastYear;
   
   // Configure the cell...
   [[ (YearTableViewCell *)cell yearLabel] setText: [yearArray[indexPath.row] stringValue]];
-  
+  if ( (NSNumber*)yearArray[indexPath.row] == myapp.selectedyear){
+    [cell setSelected:true];
+  }
   return cell;
 }
 
@@ -135,10 +134,11 @@ int lastYear;
 {
   
   NSNumber *selectedYear = yearArray[[indexPath row]];
-  
+  [myapp setSelectedyear:selectedYear];
+
   LAEventsTableViewController *eventsTableViewController = [[LAEventsTableViewController alloc] initWithNibName: @"LAEventsTableViewController" bundle: [NSBundle mainBundle]];
   BOOL currentyear = true;
-  if ([selectedYear integerValue]!= lastYear){
+  if ([selectedYear integerValue]!= myapp.currentyear.integerValue){
     currentyear = false;
   }
   //[eventsTableViewController setYear: selectedYear : currentyear ];

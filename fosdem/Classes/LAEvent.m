@@ -13,7 +13,7 @@
 
 @implementation LAEvent
 
-@synthesize identifier, title, subtitle, speaker, location, track, type, contentVideo ,contentAbstract, contentDescription, startDate, endDate;
+@synthesize identifier, title, subtitle, speakers, speaker, location, track, type, contentVideo ,contentAbstract, contentDescription, startDate, endDate;
 
 - (LAEvent *)init {
 
@@ -23,6 +23,7 @@
         // Not doing this will reult in erroneous search results
         
         track = [[NSString alloc] init];
+        speakers = [[NSArray alloc] init];
         speaker = [[NSString alloc] init];
         
     }

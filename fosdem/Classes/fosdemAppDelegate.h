@@ -22,5 +22,7 @@
 
 @property (nonatomic, retain) IBOutlet UIWindow *window;
 @property (nonatomic, retain) IBOutlet UITabBarController *tabBarController;
+@property (nonatomic, retain) NSNumber *currentyear;
+@property (nonatomic, retain) NSNumber *selectedyear;
 
 @end

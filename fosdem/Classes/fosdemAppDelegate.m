@@ -15,12 +15,27 @@
 
 @synthesize window;
 @synthesize tabBarController;
+@synthesize currentyear;
+@synthesize selectedyear;
 
 
 - (void)applicationDidFinishLaunching:(UIApplication *)application {
-    
-    // Set the root view controller to the tab bar controller
-    
+  
+    // set the currentyear, so we have a reference
+    NSDate *today = [NSDate date];
+    NSCalendar* cal = [NSCalendar currentCalendar]; // get current calender
+    NSDateComponents* currentYearMonthDay = [cal components:( NSYearCalendarUnit| NSMonthCalendarUnit| NSDayCalendarUnit  ) fromDate:today];
+    // let's assume the next year is already available
+  if ([currentYearMonthDay month] > 8){
+    // let's assume the next year is already available
+    currentyear = [NSNumber numberWithInt:((int)[currentYearMonthDay year]+1)];
+  } else {
+    currentyear = [NSNumber numberWithInteger:[currentYearMonthDay year]];
+  }
+  // when we start, the selected year is the current year
+  selectedyear = currentyear;
+
+  // Set the root view controller to the tab bar controller
     [[self window] setRootViewController: tabBarController];
     
 }

@@ -9,7 +9,7 @@
  */
 
 #import "LAEventsTableViewController.h"
-
+#import "fosdemAppDelegate.h"
 
 @implementation LAEventsTableViewController
 
@@ -23,27 +23,20 @@
 
 NSDateComponents* currentYearMonthDay ;
 NSString *downloadString = @"";
+fosdemAppDelegate * myapp;
 
 - (void)viewDidLoad {
   
   [super viewDidLoad];
-  
+  myapp = (fosdemAppDelegate *)[[UIApplication sharedApplication] delegate];
+ 
   filteredEvents = [[NSMutableArray alloc] init];
   
   timeDateFormatter = [[NSDateFormatter alloc] init];
   [timeDateFormatter setDateFormat: @"HH:mm"];
   [timeDateFormatter setTimeZone: [NSTimeZone timeZoneForSecondsFromGMT: 3600]];
-  // calculate what the current year is.
-  NSDate *today = [NSDate date];
-  NSCalendar* cal = [NSCalendar currentCalendar]; // get current calender
-  currentYearMonthDay = [cal components:( NSYearCalendarUnit| NSMonthCalendarUnit| NSDayCalendarUnit  ) fromDate:today];
-  int currentYear=0;
-  if ([currentYearMonthDay month] > 8){
-    // let's assume the next year is already available
-    currentYear = (int)[currentYearMonthDay year]+1;
-  }
 
-  downloadString = [NSString stringWithFormat:@"%@%d%@", @"https://fosdem.org/", currentYear,@"/schedule/xml"];
+  downloadString = [NSString stringWithFormat:@"%@%d%@", @"https://fosdem.org/", myapp.currentyear.intValue,@"/schedule/xml"];
   
   [[NSNotificationCenter defaultCenter] addObserver: self
                                            selector: @selector(eventDatabaseUpdated)
@@ -333,18 +326,25 @@ NSString *downloadString = @"";
 }
 
 
-- (void) setYear: (NSNumber*) aYear currentYear :(BOOL) aCurrentYear {
+- (void) setYear: (NSNumber*) aYear currentYear:(BOOL) aCurrentYear {
+  
   // depending on the year the string will be
   //  https://archive.fosdem.org/[year]/schedule/xml
   // or
   // https://fosdem.org/[year]/schedule/xml
+  
+
+  // check if we already have the data. If that is the case, do not bother to download unless it is the current year of the previous year.
+  
+  
   if (aCurrentYear){
     downloadString = [NSString stringWithFormat:@"%@%d%@", @"https://fosdem.org/", [aYear intValue],@"/schedule/xml"];
   } else {
     downloadString = [NSString stringWithFormat:@"%@%d%@", @"https://archive.fosdem.org/", [aYear intValue],@"/schedule/xml"];
   }
   NSLog(@"downloadString: %@", downloadString );
-
+  
+  
   NSURLRequest *databaseDownloadRequest = [NSURLRequest requestWithURL: [NSURL URLWithString: downloadString]];
   LADownload *fileDownload = [[LADownload alloc] initWithRequest:databaseDownloadRequest
                                                      destination: [LAEventDatabase cachedDatabaseLocation]

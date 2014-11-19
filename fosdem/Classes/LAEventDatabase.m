@@ -9,7 +9,7 @@
  */
 
 #import "LAEventDatabase.h"
-
+#import "fosdemAppDelegate.h"
 
 @implementation LAEventDatabase
 
@@ -17,6 +17,7 @@
 @synthesize events, eventsUserData;
 
 static LAEventDatabase *mainEventDatabase = nil;
+fosdemAppDelegate * myapp;
 
 + (LAEventDatabase *) sharedEventDatabase
 {
@@ -41,6 +42,7 @@ static LAEventDatabase *mainEventDatabase = nil;
     // Get rid of the old shared instance and create a new one
     
     mainEventDatabase = nil;
+		mainEventDatabase = [[LAEventDatabase alloc] initWithContentsOfFile: [self eventDatabaseLocation]];
     [LAEventDatabase sharedEventDatabase];
 
 }
@@ -49,6 +51,8 @@ static LAEventDatabase *mainEventDatabase = nil;
     if (self = [super init]) {
         events = [[NSMutableArray alloc] init];
 		//stared = [[NSMutableArray alloc] init];
+      myapp = (fosdemAppDelegate *)[[UIApplication sharedApplication] delegate];
+
         eventsOnDayCache = [[NSMutableDictionary alloc] init];
 		
         [[NSNotificationCenter defaultCenter] addObserver: self 
@@ -68,7 +72,7 @@ static LAEventDatabase *mainEventDatabase = nil;
             userDataDictionary = [[NSMutableDictionary alloc] init];
         }
         
-		[self setEventsUserData: userDataDictionary];
+        [self setEventsUserData: userDataDictionary];
         
         LAEventsXMLParser *xmlParser = [[LAEventsXMLParser alloc] initWithContentsOfFile: filePath delegate: self];
         [xmlParser parse];
@@ -249,9 +253,11 @@ static LAEventDatabase *mainEventDatabase = nil;
     if ([[NSFileManager defaultManager] fileExistsAtPath: cacheFileLocation]) {
         return cacheFileLocation;
     }
-    
-    NSString *resourcesDirectory = [[NSBundle mainBundle] bundlePath];
-    NSString *resourceFileLocation = [resourcesDirectory stringByAppendingPathComponent:@"fosdem_schedule.xml"];
+  
+  NSString *resourcesDirectory = [[NSBundle mainBundle] bundlePath];
+//  NSString *schedulefile =[NSString stringWithFormat:@"fosdem_schedule%d.xml",2015];
+  NSString *schedulefile =[NSString stringWithFormat:@"fosdem_schedule%d.xml",myapp.selectedyear.intValue];
+  NSString *resourceFileLocation = [resourcesDirectory stringByAppendingPathComponent:schedulefile];
     return resourceFileLocation;
     
 }
@@ -260,7 +266,7 @@ static LAEventDatabase *mainEventDatabase = nil;
 	
 	NSArray *paths = NSSearchPathForDirectoriesInDomains(NSDocumentDirectory, NSUserDomainMask, YES);
     NSString *cachesDirectory = [paths objectAtIndex:0];
-    NSString *cacheFileLocation = [cachesDirectory stringByAppendingPathComponent:@"fosdem_schedule.xml"];
+    NSString *cacheFileLocation = [cachesDirectory stringByAppendingPathComponent:[NSString stringWithFormat:@"fosdem_schedule%d.xml",myapp.selectedyear.intValue]];
     
     return cacheFileLocation;
 	
@@ -270,7 +276,7 @@ static LAEventDatabase *mainEventDatabase = nil;
 + (NSString *) userDataFileLocation {
 	NSArray *paths = NSSearchPathForDirectoriesInDomains(NSDocumentDirectory, NSUserDomainMask, YES);
     NSString *documentDirectory = [paths objectAtIndex:0];
-    NSString *userDataFileLocation = [documentDirectory stringByAppendingPathComponent:@"userData.plist"];
+    NSString *userDataFileLocation = [documentDirectory stringByAppendingPathComponent:[NSString stringWithFormat:@"userData%d.plist",myapp.selectedyear.intValue]];
     
     return userDataFileLocation;
 }
