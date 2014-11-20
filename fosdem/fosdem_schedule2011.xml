@@ -27,10 +27,11 @@
       <persons>
           <person id="1">Pieter Hintjens</person>
       </persons>
-      <links></links>
-      <video></video>
-      <end></end>
-  </event>  <event id="2">
+      <links>
+          <link href="http://video.fosdem.org/2011/lightningtalks/0mq.xvid.avi">Video (XVID)</link>
+      </links>
+  </event>
+  <event id="2">
       <start>18:00</start>
       <duration>00:15</duration>
       <room>Ferrer</room>
@@ -45,10 +46,11 @@
       <persons>
           <person id="21">Adrian Yanes</person>
       </persons>
-      <links></links>
-      <video></video>
-      <end></end>
-  </event>  <event id="8">
+      <links>
+          <link href="http://video.fosdem.org/2011/lightningtalks/0mq.xvid.avi">Video (XVID)</link>
+      </links>
+  </event>
+  <event id="8">
       <start>16:20</start>
       <duration>00:15</duration>
       <room>Ferrer</room>
@@ -63,10 +65,11 @@
       <persons>
           <person id="81">Holger Grandy</person>
       </persons>
-      <links></links>
-      <video></video>
-      <end></end>
-  </event>  <event id="11">
+      <links>
+          <link href="http://video.fosdem.org/2011/lightningtalks/apache-echt.xvid.avi">Video (XVID)</link>
+      </links>
+  </event>
+  <event id="11">
       <start>13:00</start>
       <duration>01:00</duration>
       <room>Lameere</room>
@@ -167,10 +170,11 @@
       <persons>
           <person id="291">felix winkelmann</person>
       </persons>
-      <links></links>
-      <video></video>
-      <end></end>
-  </event>  <event id="30">
+      <links>
+          <link href="http://video.fosdem.org/2011/lightningtalks/chicken.xvid.avi">Video (XVID)</link>
+      </links>
+  </event>
+  <event id="30">
       <start>17:40</start>
       <duration>00:15</duration>
       <room>Ferrer</room>
@@ -185,10 +189,11 @@
       <persons>
           <person id="301">Rik Arends</person>
       </persons>
-      <links></links>
-      <video></video>
-      <end></end>
-  </event>  <event id="33">
+      <links>
+          <link href="http://video.fosdem.org/2011/lightningtalks/cloud9.xvid.avi">Video (XVID)</link>
+      </links>
+  </event>
+  <event id="33">
       <start>14:00</start>
       <duration>00:45</duration>
       <room>H.1309</room>
@@ -221,10 +226,11 @@
       <persons>
           <person id="341">Rudolf Marek</person>
       </persons>
-      <links></links>
-      <video></video>
-      <end></end>
-  </event>  <event id="36">
+      <links>
+          <link href="http://video.fosdem.org/2011/lightningtalks/coreboot.xvid.avi">Video (XVID)</link>
+      </links>
+  </event>
+  <event id="36">
       <start>15:30</start>
       <duration>00:15</duration>
       <room>H.1309</room>
@@ -277,10 +283,11 @@
       <persons>
           <person id="381">Jean-Michel Pouré</person>
       </persons>
-      <links></links>
-      <video></video>
-      <end></end>
-  </event>  <event id="40">
+      <links>
+          <link href="http://video.fosdem.org/2011/devrooms/security/security_1315__smartcard__poure.webm">Video (WebM)</link>
+      </links>
+  </event>  
+  <event id="40">
       <start>17:20</start>
       <duration>00:15</duration>
       <room>Ferrer</room>
@@ -295,10 +302,11 @@
       <persons>
           <person id="401">Larry Stefonic</person>
       </persons>
-      <links></links>
-      <video></video>
-      <end></end>
-  </event>  <event id="41">
+      <links>
+          <link href="http://video.fosdem.org/2011/lightningtalks/cyassl.xvid.avi">Video (XVID)</link>
+      </links>
+  </event>
+  <event id="41">
       <start>14:45</start>
       <duration>00:15</duration>
       <room>AW1.105</room>
@@ -313,7 +321,9 @@
       <persons>
           <person id="411">Larry Stefonic</person>
       </persons>
-      <links></links>
+      <links>
+          <link href="http://video.fosdem.org/2011/devrooms/security/security_1445__cyassl__stefonic.webm">Video (WebM)</link>
+      </links>
       <video></video>
       <end></end>
   </event>  <event id="44">
@@ -422,10 +432,11 @@
       <persons>
           <person id="501">James Turnbull</person>
       </persons>
-      <links></links>
-      <video></video>
-      <end></end>
-  </event>  <event id="51">
+      <links>
+          <link href="http://video.fosdem.org/2011/maintracks/devops.xvid.avi">Video (XVID)</link>
+</links>
+  </event>
+  <event id="51">
       <start>15:40</start>
       <duration>00:20</duration>
       <room>AW1.125</room>
@@ -713,10 +724,11 @@
       <persons>
           <person id="881">Daniel Pocock</person>
       </persons>
-      <links></links>
-      <video></video>
-      <end></end>
-  </event>  <event id="89">
+      <links>
+	<link href="http://video.fosdem.org/2011/devrooms/security/security_1730__dynalogin__pocock.webm">Video (WebM)</link>
+      </links>
+  </event>
+  <event id="89">
       <start>17:15</start>
       <duration>00:45</duration>
       <room>H.1309</room>
@@ -749,10 +761,11 @@
       <persons>
           <person id="941">Tomas Gustavsson</person>
       </persons>
-      <links></links>
-      <video></video>
-      <end></end>
-  </event>  <event id="95">
+      <links>
+          <link href="http://video.fosdem.org/2011/devrooms/security/security_1530__ejbca__gustavsson.webm">Video (WebM)</link>
+      </links>
+  </event>  
+  <event id="95">
       <start>14:45</start>
       <duration>00:15</duration>
       <room>AW1.117</room>
@@ -839,10 +852,11 @@
       <persons>
           <person id="1011">Brian King</person>
       </persons>
-      <links></links>
-      <video></video>
-      <end></end>
-  </event>  <event id="102">
+      <links>
+          <link href="http://video.fosdem.org/2011/maintracks/firefox4.xvid.avi">Video (XVID)</link>
+      </links>
+  </event>
+  <event id="102">
       <start>16:00</start>
       <duration>00:45</duration>
       <room>Chavanne</room>
@@ -876,10 +890,11 @@
       <persons>
           <person id="1031">Chris Hofmann</person>
       </persons>
-      <links></links>
-      <video></video>
-      <end></end>
-  </event>  <event id="104">
+      <links>
+          <link href="http://video.fosdem.org/2011/maintracks/life-of-a-firefox-feature.xvid.avi">Video (XVID)</link>
+      </links>
+  </event>
+  <event id="104">
       <start>15:30</start>
       <duration>00:45</duration>
       <room>H.1301</room>
@@ -913,10 +928,11 @@
       <persons>
           <person id="1061">Carl-Daniel Hailfinger</person>
       </persons>
-      <links></links>
-      <video></video>
-      <end></end>
-  </event>  <event id="107">
+      <links>
+          <link href="http://video.fosdem.org/2011/lightningtalks/flashrom.xvid.avi">Video (XVID)</link>
+      </links>
+  </event>
+  <event id="107">
       <start>15:00</start>
       <duration>01:00</duration>
       <room>Lameere</room>
@@ -949,10 +965,11 @@
       <persons>
           <person id="1081">Alexandre Dulaunoy</person>
       </persons>
-      <links></links>
-      <video></video>
-      <end></end>
-  </event>  <event id="112">
+      <links>
+          <link href="http://video.fosdem.org/2011/lightningtalks/forban.xvid.avi">Video (XVID)</link>
+      </links>
+  </event>
+  <event id="112">
       <start>15:00</start>
       <duration>01:00</duration>
       <room>AW1.126</room>
@@ -985,10 +1002,11 @@
       <persons>
           <person id="1141">Samuel Lidén Borell</person>
       </persons>
-      <links></links>
-      <video></video>
-      <end></end>
-  </event>  <event id="116">
+      <links>
+          <link href="http://video.fosdem.org/2011/devrooms/security/security_1500__fribid__borell.webm">Video (WebM)</link>
+      </links>
+  </event>  
+  <event id="116">
       <start>14:45</start>
       <duration>00:45</duration>
       <room>H.1309</room>
@@ -1163,10 +1181,11 @@
       <persons>
           <person id="1311">Spike Morelli</person>
       </persons>
-      <links></links>
-      <video></video>
-      <end></end>
-  </event>  <event id="132">
+      <links>
+          <link href="http://video.fosdem.org/2011/maintracks/mad.xvid.avi">Video (XVID)</link>
+      </links>
+  </event>
+  <event id="132">
       <start>18:15</start>
       <duration>00:15</duration>
       <room>AW1.124</room>
@@ -1322,7 +1341,9 @@
       <abstract>&#xA;&lt;p&gt;Introduction of the schedule for the day and introduction of presenters.&lt;/p&gt;      </abstract>
       <description>&#xA;&lt;p&gt;You get to meet in person the people leading the sessions later in the day and ask a question or two as we set up the tech.&lt;/p&gt;      </description>
       <persons></persons>
-      <links></links>
+      <links>
+          <link href="http://video.fosdem.org/2011/devrooms/security/security_1300__intro__paljak.webm">Video (WebM)</link>
+      </links>
       <video></video>
       <end></end>
   </event>  <event id="150">
@@ -1358,10 +1379,11 @@
       <persons>
           <person id="1521">Pieter Colpaert</person>
       </persons>
-      <links></links>
-      <video></video>
-      <end></end>
-  </event>  <event id="153">
+      <links>
+          <link href="http://video.fosdem.org/2011/lightningtalks/irail.xvid.avi">Video (XVID)</link>
+      </links>
+  </event>  
+  <event id="153">
       <start>17:00</start>
       <duration>00:30</duration>
       <room>AW1.125</room>
@@ -1412,10 +1434,11 @@
       <persons>
           <person id="1611">FOSDEM Staff</person>
       </persons>
-      <links></links>
-      <video></video>
-      <end></end>
-  </event>  <event id="164">
+      <links>
+          <link href="http://video.fosdem.org/2011/maintracks/welcome.xvid.avi">Video (XVID)</link>
+      </links>
+  </event>
+  <event id="164">
       <start>18:00</start>
       <duration>00:30</duration>
       <room>AW1.125</room>
@@ -1448,10 +1471,11 @@
       <persons>
           <person id="1651">Daniel Stenberg</person>
       </persons>
-      <links></links>
-      <video></video>
-      <end></end>
-  </event>  <event id="167">
+      <links>
+          <link href="http://video.fosdem.org/2011/devrooms/security/security_1415__libcurl__stenberg.webm">Video (WebM)</link>
+      </links>
+  </event>
+  <event id="167">
       <start>13:40</start>
       <duration>00:15</duration>
       <room>Ferrer</room>
@@ -1466,10 +1490,11 @@
       <persons>
           <person id="1671">ginger coons</person>
       </persons>
-      <links></links>
-      <video></video>
-      <end></end>
-  </event>  <event id="171">
+      <links>
+          <link href="http://video.fosdem.org/2011/lightningtalks/libregraphics.xvid.avi">Video (XVID)</link>
+      </links>
+  </event>
+  <event id="171">
       <start>13:45</start>
       <duration>00:30</duration>
       <room>AW1.105</room>
@@ -1484,10 +1509,11 @@
       <persons>
           <person id="1711">Aris Adamantiadis</person>
       </persons>
-      <links></links>
-      <video></video>
-      <end></end>
-  </event>  <event id="174">
+      <links>
+          <link href="http://video.fosdem.org/2011/devrooms/security/security_1345__ssh__adamantiadis.webm">Video (WebM)</link>
+      </links>
+  </event>
+  <event id="174">
       <start>11:45</start>
       <duration>00:45</duration>
       <room>Janson</room>
@@ -1606,10 +1632,11 @@
       <persons>
           <person id="1851">Flávio Moringa</person>
       </persons>
-      <links></links>
-      <video></video>
-      <end></end>
-  </event>  <event id="186">
+      <links>
+          <link href="http://video.fosdem.org/2011/lightningtalks/magellan.xvid.avi">Video (XVID)</link>
+      </links>
+  </event>
+  <event id="186">
       <start>13:45</start>
       <duration>00:30</duration>
       <room>AW1.124</room>
@@ -2109,10 +2136,11 @@
       <persons>
           <person id="2281">Jordi Valverde</person>
       </persons>
-      <links></links>
-      <video></video>
-      <end></end>
-  </event>  <event id="229">
+      <links>
+          <link href="http://video.fosdem.org/2011/lightningtalks/neo4j.xvid.avi">Video (XVID)</link>
+      </links>
+  </event>
+  <event id="229">
       <start>16:00</start>
       <duration>00:25</duration>
       <room>H.2213</room>
@@ -2200,7 +2228,9 @@
       <persons>
           <person id="2391">Martin Paljak</person>
       </persons>
-      <links></links>
+      <links>
+	<link href="http://video.fosdem.org/2011/devrooms/security/security_1800__opensc__paljak.webm">Video (WebM)</link>
+      </links>
       <video></video>
       <end></end>
   </event>  <event id="242">
@@ -2254,10 +2284,11 @@
       <persons>
           <person id="2451">Bjarni Runar Einarsson</person>
       </persons>
-      <links></links>
-      <video></video>
-      <end></end>
-  </event>  <event id="246">
+      <links>
+          <link href="http://video.fosdem.org/2011/lightningtalks/pagekite.xvid.avi">Video (XVID)</link>
+      </links>
+  </event>
+  <event id="246">
       <start>18:15</start>
       <duration>00:45</duration>
       <room>AW1.105</room>
@@ -2342,10 +2373,11 @@
       <persons>
           <person id="2571">Nikos Mavrogiannopoulos</person>
       </persons>
-      <links></links>
-      <video></video>
-      <end></end>
-  </event>  <event id="258">
+      <links>
+	<link href="http://video.fosdem.org/2011/devrooms/security/security_1600__pkcs11__mavrogiannopoulos.webm">Video (WebM)</link>
+      </links>
+  </event>
+  <event id="258">
       <start>16:30</start>
       <duration>00:30</duration>
       <room>AW1.105</room>
@@ -2360,10 +2392,11 @@
       <persons>
           <person id="2581">Stef Walter</person>
       </persons>
-      <links></links>
-      <video></video>
-      <end></end>
-  </event>  <event id="261">
+      <links>
+	<link href="http://video.fosdem.org/2011/devrooms/security/security_1630__trust__walter.webm">Video (WebM)</link>
+      </links>
+  </event>  
+  <event id="261">
       <start>17:00</start>
       <duration>00:30</duration>
       <room>H.2214</room>
@@ -2522,10 +2555,11 @@
       <persons>
           <person id="2781">Andreas Worm</person>
       </persons>
-      <links></links>
-      <video></video>
-      <end></end>
-  </event>  <event id="279">
+      <links>
+          <link href="http://video.fosdem.org/2011/lightningtalks/sahi.xvid.avi">Video (XVID)</link>
+      </links>
+  </event>
+  <event id="279">
       <start>18:40</start>
       <duration>00:15</duration>
       <room>Ferrer</room>
@@ -2540,10 +2574,11 @@
       <persons>
           <person id="2791">Romain Pelisse</person>
       </persons>
-      <links></links>
-      <video></video>
-      <end></end>
-  </event>  <event id="280">
+      <links>
+          <link href="http://video.fosdem.org/2011/lightningtalks/scala.xvid.avi">Video (XVID)</link>
+      </links>
+  </event>
+  <event id="280">
       <start>16:00</start>
       <duration>00:15</duration>
       <room>AW1.124</room>
@@ -2576,10 +2611,11 @@
       <persons>
           <person id="2811">Emmanuel Benazera</person>
       </persons>
-      <links></links>
-      <video></video>
-      <end></end>
-  </event>  <event id="282">
+      <links>
+          <link href="http://video.fosdem.org/2011/lightningtalks/seeks.xvid.avi">Video (XVID)</link>
+      </links>
+  </event>
+  <event id="282">
       <start>15:40</start>
       <duration>00:15</duration>
       <room>Ferrer</room>
@@ -2612,10 +2648,11 @@
       <persons>
           <person id="2861">Laura Czajkowski</person>
       </persons>
-      <links></links>
-      <video></video>
-      <end></end>
-  </event>  <event id="287">
+      <links>
+          <link href="http://video.fosdem.org/2011/lightningtalks/sirius.xvid.avi">Video (XVID)</link>
+      </links>
+  </event>
+  <event id="287">
       <start>10:45</start>
       <duration>00:45</duration>
       <room>Janson</room>
@@ -2630,10 +2667,11 @@
       <persons>
           <person id="2871">Eben Moglen</person>
       </persons>
-      <links></links>
-      <video></video>
-      <end></end>
-  </event>  <event id="291">
+      <links>
+          <link href="http://video.fosdem.org/2011/maintracks/political.xvid.avi">Video (XVID)</link>
+      </links>
+  </event>
+  <event id="291">
       <start>15:00</start>
       <duration>00:50</duration>
       <room>Janson</room>
@@ -2648,10 +2686,11 @@
       <persons>
           <person id="2911">Lennart Poettering</person>
       </persons>
-      <links></links>
-      <video></video>
-      <end></end>
-  </event>  <event id="293">
+      <links>
+          <link href="http://video.fosdem.org/2011/maintracks/systemd.xvid.avi">Video (XVID)</link>
+      </links>
+  </event>
+  <event id="293">
       <start>17:00</start>
       <duration>00:30</duration>
       <room>AW1.105</room>
@@ -2666,10 +2705,11 @@
       <persons>
           <person id="2931">Adrien Kunysz</person>
       </persons>
-      <links></links>
-      <video></video>
-      <end></end>
-  </event>  <event id="294">
+      <links>
+	<link href="http://video.fosdem.org/2011/devrooms/security/security_1700__systemtap__kunysz.webm">Video (WebM)</link>
+      </links>
+  </event>  
+  <event id="294">
       <start>15:30</start>
       <duration>00:25</duration>
       <room>H.2213</room>
@@ -2756,10 +2796,11 @@
       <persons>
           <person id="3151">Kenneth Christiansen</person>
       </persons>
-      <links></links>
-      <video></video>
-      <end></end>
-  </event>  <event id="318">
+      <links>
+          <link href="http://video.fosdem.org/2011/maintracks/qt-webkit.xvid.avi">Video (XVID)</link>
+      </links>
+  </event>
+  <event id="318">
       <start>13:00</start>
       <duration>00:10</duration>
       <room>AW1.125</room>
@@ -3026,10 +3067,11 @@
       <persons>
           <person id="51">Eduardo Robles</person>
       </persons>
-      <links></links>
-      <video></video>
-      <end></end>
-  </event>  <event id="6">
+      <links>
+          <link href="http://video.fosdem.org/2011/lightningtalks/agora.xvid.avi">Video (XVID)</link>
+      </links>
+  </event>
+  <event id="6">
       <start>16:00</start>
       <duration>00:30</duration>
       <room>AW1.125</room>
@@ -3062,10 +3104,11 @@
       <persons>
           <person id="71">Fernando Garcia</person>
       </persons>
-      <links></links>
-      <video></video>
-      <end></end>
-  </event>  <event id="9">
+      <links>
+          <link href="http://video.fosdem.org/2011/lightningtalks/android_video_streaming.xvid.avi">Video (XVID)</link>
+      </links>
+  </event>
+  <event id="9">
       <start>10:00</start>
       <duration>00:50</duration>
       <room>Chavanne</room>
@@ -3080,10 +3123,11 @@
       <persons>
           <person id="91">Martijn Dashorst</person>
       </persons>
-      <links></links>
-      <video></video>
-      <end></end>
-  </event>  <event id="10">
+      <links>
+          <link href="http://video.fosdem.org/2011/maintracks/apache-wicket.xvid.avi">Video (XVID)</link>
+      </links>
+  </event>
+  <event id="10">
       <start>11:00</start>
       <duration>00:45</duration>
       <room>AW1.120</room>
@@ -3260,10 +3304,11 @@
       <persons>
           <person id="221">Boudewijn  Rempt</person>
       </persons>
-      <links></links>
-      <video></video>
-      <end></end>
-  </event>  <event id="25">
+      <links>
+          <link href="http://video.fosdem.org/2011/maintracks/calligra.xvid.avi">Video (XVID)</link>
+      </links>
+  </event>
+  <event id="25">
       <start>09:00</start>
       <duration>00:45</duration>
       <room>AW1.120</room>
@@ -3444,10 +3489,11 @@
       <persons>
           <person id="431">Manik  Surtani</person>
       </persons>
-      <links></links>
-      <video></video>
-      <end></end>
-  </event>  <event id="49">
+      <links>
+          <link href="http://video.fosdem.org/2011/maintracks/infinispanfull.xvid.avi">Video (XVID)</link>
+      </links>
+  </event>
+  <event id="49">
       <start>14:30</start>
       <duration>00:45</duration>
       <room>H.1309</room>
@@ -3863,10 +3909,11 @@
       <persons>
           <person id="871">Andrew Godwin</person>
       </persons>
-      <links></links>
-      <video></video>
-      <end></end>
-  </event>  <event id="90">
+      <links>
+          <link href="http://video.fosdem.org/2011/maintracks/django.xvid.avi">Video (XVID)</link>
+</links>
+  </event>
+  <event id="90">
       <start>12:30</start>
       <duration>00:30</duration>
       <room>H.2214</room>
@@ -3990,10 +4037,11 @@
       <persons>
           <person id="1051">Mike Hommey</person>
       </persons>
-      <links></links>
-      <video></video>
-      <end></end>
-  </event>  <event id="109">
+      <links>
+	<link href="http://video.fosdem.org/2011/devrooms/mozilla/mozilla_sun1300__fighting_i_o__hommey.webm">Video</link>
+      </links>
+  </event>  
+  <event id="109">
       <start>14:00</start>
       <duration>00:45</duration>
       <room>AW1.120</room>
@@ -4045,10 +4093,11 @@
       <persons>
           <person id="1111">Soren Hansen</person>
       </persons>
-      <links></links>
-      <video></video>
-      <end></end>
-  </event>  <event id="113">
+      <links>
+          <link href="http://video.fosdem.org/2011/maintracks/openstack.xvid.avi">Video (XVID)</link>
+      </links>
+  </event>
+  <event id="113">
       <start>15:40</start>
       <duration>00:15</duration>
       <room>Ferrer</room>
@@ -4063,10 +4112,11 @@
       <persons>
           <person id="1131">Eric MAEKER</person>
       </persons>
-      <links></links>
-      <video></video>
-      <end></end>
-  </event>  <event id="115">
+      <links>
+          <link href="http://video.fosdem.org/2011/lightningtalks/freemedforms.xvid.avi">Video (XVID)</link>
+      </links>
+  </event>
+  <event id="115">
       <start>16:00</start>
       <duration>00:45</duration>
       <room>AW1.120</room>
@@ -4351,10 +4401,11 @@
       <persons>
           <person id="1581">Milian Wolff</person>
       </persons>
-      <links></links>
-      <video></video>
-      <end></end>
-  </event>  <event id="159">
+      <links>
+          <link href="http://video.fosdem.org/2011/lightningtalks/kdevelop.xvid.avi">Video (XVID)</link>
+      </links>
+  </event>
+  <event id="159">
       <start>10:15</start>
       <duration>00:45</duration>
       <room>H.1309</room>
@@ -4387,10 +4438,11 @@
       <persons>
           <person id="1601">Jonathan Corbet</person>
       </persons>
-      <links></links>
-      <video></video>
-      <end></end>
-  </event>  <event id="162">
+      <links>
+          <link href="http://video.fosdem.org/2011/maintracks/kernel-development.xvid.avi">Video (XVID)</link>
+      </links>
+  </event>
+  <event id="162">
       <start>12:00</start>
       <duration>02:00</duration>
       <room>Ferrer</room>
@@ -4493,10 +4545,11 @@
       <persons>
           <person id="1701">Michael Meeks</person>
       </persons>
-      <links></links>
-      <video></video>
-      <end></end>
-  </event>  <event id="172">
+      <links>
+          <link href="http://video.fosdem.org/2011/maintracks/libreoffice.xvid.avi">Video (XVID)</link>
+      </links>
+  </event>
+  <event id="172">
       <start>10:00</start>
       <duration>01:00</duration>
       <room>Lameere</room>
@@ -4529,10 +4582,11 @@
       <persons>
           <person id="1731">Gratien D&#39;haese</person>
       </persons>
-      <links></links>
-      <video></video>
-      <end></end>
-  </event>  <event id="175">
+      <links>
+          <link href="http://video.fosdem.org/2011/maintracks/linux-disaster-rear.xvid.avi">Video (XVID)</link>
+      </links>
+  </event>
+  <event id="175">
       <start>15:30</start>
       <duration>00:30</duration>
       <room>H.2214</room>
@@ -4667,10 +4721,11 @@
       <persons>
           <person id="1901">Peter Forgacs</person>
       </persons>
-      <links></links>
-      <video></video>
-      <end></end>
-  </event>  <event id="191">
+      <links>
+          <link href="http://video.fosdem.org/2011/lightningtalks/mediamosa.xvid.avi">Video (XVID)</link>
+      </links>
+  </event>
+  <event id="191">
       <start>12:00</start>
       <duration>01:00</duration>
       <room>Lameere</room>
@@ -4757,10 +4812,11 @@
       <persons>
           <person id="1971">Andrew Yourtchenko</person>
       </persons>
-      <links></links>
-      <video></video>
-      <end></end>
-  </event>  <event id="209">
+      <links>
+          <link href="http://video.fosdem.org/2011/lightningtalks/mongrel2.xvid.avi">Video (XVID)</link>
+</links>
+  </event>
+  <event id="209">
       <start>12:10</start>
       <duration>00:40</duration>
       <room>AW1.126</room>
@@ -4809,7 +4865,9 @@
       <persons>
           <person id="2161">Henrik Skupin</person>
       </persons>
-      <links></links>
+      <links>
+          <link href="http://video.fosdem.org/2011/devrooms/mozilla/mozilla_sun1330__mozmill__skupin.webm">Video (WebM)</link>
+      </links>
       <video></video>
       <end></end>
   </event>  <event id="224">
@@ -4891,10 +4949,11 @@
       <persons>
           <person id="2321">David Chisnall</person>
       </persons>
-      <links></links>
-      <video></video>
-      <end></end>
-  </event>  <event id="233">
+      <links>
+          <link href="http://video.fosdem.org/2011/maintracks/objectc.xvid.avi">Video (XVID)</link>
+      </links>
+  </event>
+  <event id="233">
       <start>10:00</start>
       <duration>00:55</duration>
       <room>AW1.121</room>
@@ -5179,10 +5238,11 @@
       <persons>
           <person id="2591">David Fetter</person>
       </persons>
-      <links></links>
-      <video></video>
-      <end></end>
-  </event>  <event id="260">
+      <links>
+          <link href="http://video.fosdem.org/2011/maintracks/pl-parrot.xvid.avi">Video (XVID)</link>
+      </links>
+  </event>
+  <event id="260">
       <start>12:00</start>
       <duration>00:30</duration>
       <room>AW1.125</room>
@@ -5215,10 +5275,11 @@
       <persons>
           <person id="2621">Andrew Gerrand</person>
       </persons>
-      <links></links>
-      <video></video>
-      <end></end>
-  </event>  <event id="264">
+      <links>
+          <link href="http://video.fosdem.org/2011/maintracks/golang.xvid.avi">Video (XVID)</link>
+      </links>
+  </event>
+  <event id="264">
       <start>11:45</start>
       <duration>00:45</duration>
       <room>H.1309</room>
@@ -5308,10 +5369,11 @@
       <persons>
           <person id="2711">Bogdan Gaza</person>
       </persons>
-      <links></links>
-      <video></video>
-      <end></end>
-  </event>  <event id="272">
+      <links>
+          <link href="http://video.fosdem.org/2011/lightningtalks/railsadmin.xvid.avi">Video (XVID)</link>
+      </links>
+  </event>
+  <event id="272">
       <start>14:00</start>
       <duration>00:30</duration>
       <room>Lameere</room>
@@ -5470,10 +5532,11 @@
       <persons>
           <person id="2901">Nicolas Spiegelberg</person>
       </persons>
-      <links></links>
-      <video></video>
-      <end></end>
-  </event>  <event id="292">
+      <links>
+          <link href="http://video.fosdem.org/2011/maintracks/facebook-messages.xvid.avi">Video (XVID)</link>
+      </links>
+  </event>
+  <event id="292">
       <start>11:30</start>
       <duration>00:30</duration>
       <room>AW1.125</room>
@@ -5614,10 +5677,11 @@
       <persons>
           <person id="3011">Eduardo Robles</person>
       </persons>
-      <links></links>
-      <video></video>
-      <end></end>
-  </event>  <event id="303">
+      <links>
+          <link href="http://video.fosdem.org/2011/lightningtalks/timebank.xvid.avi">Video (XVID)</link>
+      </links>
+  </event>
+  <event id="303">
       <start>11:00</start>
       <duration>00:30</duration>
       <room>AW1.126</room>
@@ -5650,10 +5714,11 @@
       <persons>
           <person id="3041">Romain Gauthier</person>
       </persons>
-      <links></links>
-      <video></video>
-      <end></end>
-  </event>  <event id="305">
+      <links>
+          <link href="http://video.fosdem.org/2011/lightningtalks/ucengine.xvid.avi">Video (XVID)</link>
+      </links>
+  </event>
+  <event id="305">
       <start>14:40</start>
       <duration>00:20</duration>
       <room>AW1.105</room>
@@ -5741,10 +5806,11 @@
       <persons>
           <person id="3101">Donatus Onwunumah</person>
       </persons>
-      <links></links>
-      <video></video>
-      <end></end>
-  </event>  <event id="311">
+      <links>
+          <link href="http://video.fosdem.org/2011/lightningtalks/villagetelco.xvid.avi">Video (XVID)</link>
+      </links>
+  </event>
+  <event id="311">
       <start>11:20</start>
       <duration>00:20</duration>
       <room>AW1.105</room>
@@ -5831,10 +5897,11 @@
       <persons>
           <person id="3171">Jos van den Oever</person>
       </persons>
-      <links></links>
-      <video></video>
-      <end></end>
-  </event>  <event id="319">
+      <links>
+          <link href="http://video.fosdem.org/2011/maintracks/webODF.xvid.avi">Video (XVID)</link>
+      </links>
+  </event>
+  <event id="319">
       <start>11:45</start>
       <duration>00:30</duration>
       <room>H.2214</room>
@@ -5940,10 +6007,11 @@
       <persons>
           <person id="3331">Anca Luca</person>
       </persons>
-      <links></links>
-      <video></video>
-      <end></end>
-  </event>  <event id="334">
+      <links>
+          <link href="http://video.fosdem.org/2011/lightningtalks/xwiki.xvid.avi">Video (XVID)</link>
+      </links>
+  </event>
+  <event id="334">
       <start>16:00</start>
       <duration>00:40</duration>
       <room>AW1.124</room>

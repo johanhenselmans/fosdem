@@ -29,7 +29,7 @@
 - (void)downloadDidFinish: (LADownload *) aDownload;
 
 - (void)download: (LADownload *) aDownload didReceiveDataOfLength: (NSUInteger) dataLength;
-- (void)setYear: (NSNumber*) aYear currentYear: (BOOL) aCurrentYear;
+- (void)setYear: (NSNumber*) aYear ;
 
 @property (nonatomic, retain) IBOutlet LAEventTableViewCell *eventCell;
 @property (retain) NSDateFormatter *timeDateFormatter;

@@ -23,7 +23,7 @@
         // Not doing this will reult in erroneous search results
         
         track = [[NSString alloc] init];
-        speakers = [[NSArray alloc] init];
+        speakers = [[NSMutableArray alloc] init];
         speaker = [[NSString alloc] init];
         
     }
@@ -38,22 +38,34 @@
 }*/
 
 - (BOOL) isStarred {
-
     return starred;
-
 }
 
 
 - (void) setStarred:(BOOL) isStarred {
     starred = isStarred;
-    NSDictionary *infoDict = [NSDictionary dictionaryWithObjectsAndKeys: [self identifier], @"identifier", [NSNumber  numberWithBool: isStarred], @"starred", nil];
-    [[NSNotificationCenter defaultCenter] postNotificationName: @"LAEventUpdated" 
-                                                        object: self 
-                                                      userInfo: infoDict];
+//    NSDictionary *infoDict = [NSDictionary dictionaryWithObjectsAndKeys: [self identifier], @"identifier", [NSNumber  numberWithBool: isStarred], @"starred", nil];
+//    [[NSNotificationCenter defaultCenter] postNotificationName: @"LAEventUpdated"
+//                                                        object: nil
+//                                                      userInfo: infoDict];
 }
 
 - (NSComparisonResult) compareDateWithEvent: (LAEvent *) otherEvent {
 	return [[self startDate] compare: [otherEvent startDate]];
 }
+
+- (NSString *) speakerString{
+  NSString * aSpeakerString = @"";
+  for (int i = 0 ; i < speakers.count ; i++){
+    // if there is more than one speaker, add a comma and the previous speakers.
+    if (i > 0){
+      aSpeakerString = [NSString stringWithFormat:@"%@,%@",aSpeakerString, (NSString *)speakers[i]];
+    } else {
+      aSpeakerString = [NSString stringWithFormat:@"%@", (NSString *)speakers[i]];
+    }
+  }
+  return aSpeakerString;
+}
+
 
 @end

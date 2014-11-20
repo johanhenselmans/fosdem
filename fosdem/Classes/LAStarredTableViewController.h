@@ -15,4 +15,7 @@
 
 @interface LAStarredTableViewController : LAEventsTableViewController
 
+- (void)eventDatabaseUpdated;
+
+
 @end

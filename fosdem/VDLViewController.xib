@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="6250" systemVersion="14B23" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="6250" systemVersion="14B25" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
     <dependencies>
         <deployment version="1552" identifier="iOS"/>
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6244"/>
@@ -10,6 +10,8 @@
             <connections>
                 <outlet property="movieView" destination="14" id="29"/>
                 <outlet property="playButton" destination="8" id="JGc-dB-0Ag"/>
+                <outlet property="positionSlider" destination="abG-J3-YKC" id="I5U-6o-oCy"/>
+                <outlet property="timeDisplay" destination="Im7-pH-OIa" id="7Xh-f4-esi"/>
                 <outlet property="view" destination="6" id="7"/>
             </connections>
         </placeholder>
@@ -19,44 +21,80 @@
             <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
             <subviews>
                 <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="14">
-                    <rect key="frame" x="8" y="0.0" width="584" height="528"/>
-                    <subviews>
-                        <button clearsContextBeforeDrawing="NO" alpha="0.49999999999999961" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="8">
-                            <rect key="frame" x="222" y="464" width="140" height="56"/>
-                            <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
-                            <constraints>
-                                <constraint firstAttribute="width" constant="140" id="WNz-gw-0p2"/>
-                                <constraint firstAttribute="height" constant="56" id="dmr-fb-kpL"/>
-                            </constraints>
-                            <fontDescription key="fontDescription" type="boldSystem" pointSize="15"/>
-                            <color key="tintColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
-                            <state key="normal" title="Play">
-                                <color key="titleColor" cocoaTouchSystemColor="darkTextColor"/>
-                                <color key="titleShadowColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
-                            </state>
-                            <variation key="heightClass=compact" fixedFrame="YES">
-                                <rect key="frame" x="285" y="185" width="30" height="30"/>
-                            </variation>
-                            <connections>
-                                <action selector="playandPause:" destination="-1" eventType="touchUpInside" id="12"/>
-                            </connections>
-                        </button>
-                    </subviews>
+                    <rect key="frame" x="8" y="8" width="584" height="464"/>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                </view>
+                <button clearsContextBeforeDrawing="NO" alpha="0.49999999999999961" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="8">
+                    <rect key="frame" x="230" y="480" width="140" height="56"/>
                     <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                     <constraints>
-                        <constraint firstItem="8" firstAttribute="centerX" secondItem="14" secondAttribute="centerX" id="Rzg-cq-Qt4"/>
-                        <constraint firstItem="8" firstAttribute="bottom" secondItem="14" secondAttribute="bottomMargin" id="dMS-Jt-lUN"/>
+                        <constraint firstAttribute="height" constant="56" id="HN6-zd-iZT"/>
+                        <constraint firstAttribute="width" constant="140" id="izr-s0-guH"/>
                     </constraints>
-                </view>
+                    <fontDescription key="fontDescription" type="boldSystem" pointSize="15"/>
+                    <color key="tintColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                    <state key="normal" title="Play">
+                        <color key="titleColor" cocoaTouchSystemColor="darkTextColor"/>
+                        <color key="titleShadowColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                    </state>
+                    <variation key="heightClass=compact" fixedFrame="YES">
+                        <rect key="frame" x="285" y="185" width="30" height="30"/>
+                    </variation>
+                    <connections>
+                        <action selector="playandPause:" destination="-1" eventType="touchUpInside" id="12"/>
+                    </connections>
+                </button>
+                <slider opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="bottom" minValue="0.0" maxValue="1" translatesAutoresizingMaskIntoConstraints="NO" id="abG-J3-YKC" userLabel="Position Slider">
+                    <rect key="frame" x="14" y="498" width="188" height="31"/>
+                    <accessibility key="accessibilityConfiguration">
+                        <accessibilityTraits key="traits" none="YES" updatesFrequently="YES"/>
+                    </accessibility>
+                    <connections>
+                        <action selector="positionSliderAction:" destination="-1" eventType="valueChanged" id="BoY-1z-h8b"/>
+                        <action selector="positionSliderDrag:" destination="-1" eventType="touchUpInside" id="Nwi-jQ-Hlw"/>
+                        <action selector="positionSliderDrag:" destination="-1" eventType="touchUpOutside" id="wgE-4X-93n"/>
+                    </connections>
+                </slider>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Im7-pH-OIa">
+                    <rect key="frame" x="528" y="496" width="54" height="28"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="54" id="uhv-c4-i7R"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="boldSystem" pointSize="13"/>
+                    <state key="normal" title="--:--">
+                        <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <state key="highlighted">
+                        <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <connections>
+                        <action selector="toggleTimeDisplay:" destination="-1" eventType="touchUpInside" id="u7w-bY-ema"/>
+                    </connections>
+                </button>
             </subviews>
             <constraints>
-                <constraint firstItem="14" firstAttribute="top" secondItem="6" secondAttribute="top" id="DoO-ua-FkI"/>
-                <constraint firstAttribute="bottom" secondItem="14" secondAttribute="bottom" constant="8" id="P4h-sz-Upg"/>
+                <constraint firstItem="abG-J3-YKC" firstAttribute="top" secondItem="14" secondAttribute="bottom" constant="24" id="D89-9x-t68"/>
+                <constraint firstItem="14" firstAttribute="top" secondItem="6" secondAttribute="top" constant="8" id="DoO-ua-FkI"/>
+                <constraint firstItem="8" firstAttribute="centerX" secondItem="14" secondAttribute="centerX" id="LMj-f6-AOU"/>
+                <constraint firstItem="abG-J3-YKC" firstAttribute="leading" secondItem="6" secondAttribute="leading" constant="16" id="O2k-Gm-5rc"/>
+                <constraint firstAttribute="bottom" secondItem="abG-J3-YKC" secondAttribute="bottom" constant="8" id="O36-Ow-72L"/>
+                <constraint firstAttribute="bottom" secondItem="14" secondAttribute="bottom" constant="64" id="P4h-sz-Upg"/>
+                <constraint firstItem="8" firstAttribute="leading" secondItem="abG-J3-YKC" secondAttribute="trailing" constant="30" id="aYK-OI-2gj"/>
+                <constraint firstAttribute="trailing" secondItem="Im7-pH-OIa" secondAttribute="trailing" constant="18" id="aqM-Yx-7nL"/>
+                <constraint firstAttribute="bottom" secondItem="8" secondAttribute="bottom" id="e8F-jy-jmo"/>
                 <constraint firstItem="14" firstAttribute="leading" secondItem="6" secondAttribute="leadingMargin" id="jnR-Gv-XBT"/>
+                <constraint firstAttribute="bottom" secondItem="Im7-pH-OIa" secondAttribute="bottom" constant="12" id="m0N-oh-hQg"/>
                 <constraint firstItem="14" firstAttribute="trailing" secondItem="6" secondAttribute="trailingMargin" id="xTg-gO-Qy1"/>
             </constraints>
             <simulatedNavigationBarMetrics key="simulatedTopBarMetrics" translucent="NO" prompted="NO"/>
-            <point key="canvasLocation" x="14" y="38"/>
+            <nil key="simulatedBottomBarMetrics"/>
+            <variation key="default">
+                <mask key="constraints">
+                    <exclude reference="D89-9x-t68"/>
+                </mask>
+            </variation>
+            <point key="canvasLocation" x="14" y="151"/>
         </view>
     </objects>
 </document>

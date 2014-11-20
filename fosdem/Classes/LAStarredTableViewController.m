@@ -58,6 +58,11 @@
     return nil;
 }
 
+- (void)eventDatabaseUpdated {
+  [[self tableView] reloadData];
+}
+
+
 
 @end
 

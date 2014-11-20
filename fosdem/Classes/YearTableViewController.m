@@ -39,7 +39,7 @@ fosdemAppDelegate *myapp;
   // first, get the most recent year. Next create an NSArray of years.
   yearArray = [NSMutableArray array];
   int i = 0;
-  for (i = 2007; i <= lastYear; i++){
+  for (i = 2007; i <= myapp.currentyear.intValue; i++){
     [yearArray addObject:[NSNumber numberWithInt:i]];
   }
   // NSLog(@"yearArray: %@, currentyear: %ld", yearArray, (long)[currentYearMonthDay year]);
@@ -59,6 +59,7 @@ fosdemAppDelegate *myapp;
 
 - (void) eventDatabaseUpdated {
   //TODO here we should set the current year as selected
+  [[self tableView] reloadData];
 }
 
 #pragma mark - Table view data source
@@ -86,7 +87,7 @@ fosdemAppDelegate *myapp;
   
   // Configure the cell...
   [[ (YearTableViewCell *)cell yearLabel] setText: [yearArray[indexPath.row] stringValue]];
-  if ( (NSNumber*)yearArray[indexPath.row] == myapp.selectedyear){
+  if ( [(NSNumber *)yearArray[indexPath.row] intValue] == myapp.selectedyear.intValue){
     [cell setSelected:true];
   }
   return cell;
@@ -137,12 +138,8 @@ fosdemAppDelegate *myapp;
   [myapp setSelectedyear:selectedYear];
 
   LAEventsTableViewController *eventsTableViewController = [[LAEventsTableViewController alloc] initWithNibName: @"LAEventsTableViewController" bundle: [NSBundle mainBundle]];
-  BOOL currentyear = true;
-  if ([selectedYear integerValue]!= myapp.currentyear.integerValue){
-    currentyear = false;
-  }
-  //[eventsTableViewController setYear: selectedYear : currentyear ];
-  [eventsTableViewController setYear:selectedYear currentYear:currentyear];
+
+  [eventsTableViewController setYear:selectedYear ];
   [[self navigationController] pushViewController: eventsTableViewController animated: YES];
   
 }

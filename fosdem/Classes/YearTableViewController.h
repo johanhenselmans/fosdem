@@ -10,4 +10,6 @@
 
 @interface YearTableViewController : UITableViewController
 
+- (void) eventDatabaseUpdated;
+
 @end

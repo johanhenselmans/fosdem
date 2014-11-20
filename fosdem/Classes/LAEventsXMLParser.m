@@ -15,7 +15,7 @@
 
 @synthesize delegate;
 @synthesize eventsXMLParser;
-bool pentabarf = true;
+bool pentabarf = false;
 NSDate *currentDate;
 NSDate *totalStartDate;
 
@@ -83,6 +83,7 @@ NSDate *totalStartDate;
   
   if ([elementName isEqualToString: @"vevent"] || [elementName isEqualToString:@"event"]) {
     currentEvent = [[LAEvent alloc] init];
+    totalStartDate = nil;
     // [currentEvent setIdentifier: [attributeDict objectForKey: @"pentabarf:event-id"]];
     //we make a distinction between the pentabarf XML file and the conference xml file
     if ([elementName isEqualToString: @"vevent"]) {
@@ -195,8 +196,9 @@ NSDate *totalStartDate;
     //   [currentEvent setIdentifier: [NSString stringWithString: currentStringValue]];
     // }
     
-    if ([elementName isEqualToString: @"start"]) {
+    if ([elementName isEqualToString: @"start"] && currentEvent != nil ){
       // TODO calculate date from day element + hm time
+      if (currentStringValue.length > 0){
       NSCalendar* cal = [NSCalendar currentCalendar]; // get current calender
       NSDateComponents* totalYMDHM = [cal components:( NSYearCalendarUnit | NSMonthCalendarUnit |  NSDayCalendarUnit ) fromDate:currentDate];
 
@@ -208,11 +210,13 @@ NSDate *totalStartDate;
       }
       totalStartDate = [cal dateFromComponents:totalYMDHM ];
       [currentEvent setStartDate: totalStartDate];
+      }
     }
     
     if ([elementName isEqualToString: @"duration"]) {
       // TODO: calculate time end from start+duration
       // duration is in HH:MM format
+      if ( totalStartDate != nil ){
       NSDate *tmpDate = [dateFormatterHM dateFromString: currentStringValue];
       NSCalendar* cal = [NSCalendar currentCalendar]; // get current calender
       // make NSDateComponents
@@ -221,6 +225,7 @@ NSDate *totalStartDate;
       NSDate *eventEndDate = [totalStartDate dateByAddingTimeInterval:theTimeInterval];
       
       [currentEvent setEndDate: eventEndDate];
+      }
     }
     
     if ([elementName isEqualToString: @"title"]) {
@@ -259,9 +264,8 @@ NSDate *totalStartDate;
     
     if ([elementName isEqualToString: @"person"]) {
       [currentEvent setSpeaker: [NSString stringWithString: currentStringValue]];
+      [currentEvent.speakers addObject:currentEvent.speaker];
     }
-
-
     
     if ([elementName isEqualToString: @"event"]) {
       [delegate parser: self foundEvent: currentEvent];

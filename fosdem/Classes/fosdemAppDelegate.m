@@ -17,7 +17,7 @@
 @synthesize tabBarController;
 @synthesize currentyear;
 @synthesize selectedyear;
-
+@synthesize downloadString;
 
 - (void)applicationDidFinishLaunching:(UIApplication *)application {
   
@@ -32,6 +32,7 @@
   } else {
     currentyear = [NSNumber numberWithInteger:[currentYearMonthDay year]];
   }
+  downloadString = [NSString stringWithFormat:@"%@%d%@", @"https://fosdem.org/", currentyear.intValue ,@"/schedule/xml"];
   // when we start, the selected year is the current year
   selectedyear = currentyear;
 

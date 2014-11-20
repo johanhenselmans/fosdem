@@ -12,4 +12,6 @@
 
 @property (nonatomic, retain) IBOutlet UILabel *yearLabel;
 
+- (void) eventDatabaseUpdated;
+
 @end

@@ -30,11 +30,13 @@
     
 }
 
+
 - (void)eventDatabaseUpdated {
 
     [[self tableView] reloadData];
 
 }
+
 
 - (void)didReceiveMemoryWarning {
     

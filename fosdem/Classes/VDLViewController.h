@@ -31,7 +31,13 @@
 @property (nonatomic, strong) IBOutlet UIView *movieView;
 @property (nonatomic, strong) NSString  *contentVideo;
 @property (weak, nonatomic) IBOutlet UIButton *playButton;
+@property (nonatomic, strong) IBOutlet UISlider *positionSlider;
+@property (nonatomic, strong) IBOutlet UIButton *timeDisplay;
+
 
 - (IBAction)playandPause:(id)sender;
+- (IBAction)positionSliderDrag:(id)sender;
+- (IBAction)positionSliderAction:(id)sender;
+- (IBAction)toggleTimeDisplay:(id)sender;
 
 @end

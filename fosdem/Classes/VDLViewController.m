@@ -28,6 +28,11 @@
 @interface VDLViewController () <VLCMediaPlayerDelegate>
 {
     VLCMediaPlayer *_mediaplayer;
+  NSTimer *_idleTimer;
+  BOOL _setPosition;
+  BOOL _displayRemainingTime;
+
+
 }
 
 @end
@@ -40,49 +45,170 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    self.navigationController.navigationBar.translucent = NO;
     /* setup the media player instance, give it a delegate and something to draw into */
-    _mediaplayer = [[VLCMediaPlayer alloc] init];
-    _mediaplayer.delegate = self;
-    _mediaplayer.drawable = self.movieView;
 
-    if (contentVideo.length!=0){
-    /* create a media object and give it to the player */
-   _mediaplayer.media = [VLCMedia mediaWithURL:[NSURL URLWithString:contentVideo]];
-    }  // _mediaplayer.media = [VLCMedia mediaWithURL:[NSURL URLWithString:@"http://video.fosdem.org/2014/Janson/Saturday/Welcome_to_FOSDEM_2014.webm"]];
- // _mediaplayer.media = [VLCMedia mediaWithURL:[NSURL URLWithString:@"http://video.fosdem.org/2013/maintracks/Janson/The_Open_Observatory_of_Network_Interference.ogg"]];
+}
+
+-(void) viewWillAppear:(BOOL)animated
+{
+  [super viewWillAppear:animated];
   
- //  Does not work....
- // _mediaplayer.media = [VLCMedia mediaWithURL:[NSURL URLWithString:@"https://www.youtube.com/watch?v=vMQmf4hype4"]];
-//  [_playButton setTitle:@"Play" forState:UIControlStateNormal];
-//  [_playButton setTitle:@"Pauze" forState:UIControlStateHighlighted];
+  _mediaplayer = [[VLCMediaPlayer alloc] init];
+  _mediaplayer.delegate = self;
+  _mediaplayer.drawable = self.movieView;
+  [self.timeDisplay setTitle:@"" forState:UIControlStateNormal];
+  /* listen for notifications from the player */
+  [_mediaplayer addObserver:self forKeyPath:@"time" options:0 context:nil];
+  [_mediaplayer addObserver:self forKeyPath:@"remainingTime" options:0 context:nil];
 
+  if (contentVideo.length!=0){
+    /* create a media object and give it to the player and start playing*/
+    _mediaplayer.media = [VLCMedia mediaWithURL:[NSURL URLWithString:contentVideo]];
+    
+  }
+  // _mediaplayer.media = [VLCMedia mediaWithURL:[NSURL URLWithString:@"http://video.fosdem.org/2014/Janson/Saturday/Welcome_to_FOSDEM_2014.webm"]];
+  // _mediaplayer.media = [VLCMedia mediaWithURL:[NSURL URLWithString:@"http://video.fosdem.org/2013/maintracks/Janson/The_Open_Observatory_of_Network_Interference.ogg"]];
+  //  Does not work....
+  // _mediaplayer.media = [VLCMedia mediaWithURL:[NSURL URLWithString:@"https://www.youtube.com/watch?v=vMQmf4hype4"]];
+
+  [_mediaplayer play];
+  
+  [_playButton setTitle:@"Pauze" forState:UIControlStateNormal];
+ 
+  [self _resetIdleTimer];
+
+
+}
+
+
+- (void)viewWillDisappear:(BOOL)animated
+{
+  [super viewWillDisappear:animated];
+  
+  if (_mediaplayer) {
+    @try {
+      [_mediaplayer removeObserver:self forKeyPath:@"time"];
+      [_mediaplayer removeObserver:self forKeyPath:@"remainingTime"];
+    }
+    @catch (NSException *exception) {
+      NSLog(@"we weren't an observer yet");
+    }
+    
+    if (_mediaplayer.media)
+      [_mediaplayer stop];
+    
+    if (_mediaplayer)
+      _mediaplayer = nil;
+  }
+  
+  if (_idleTimer) {
+    [_idleTimer invalidate];
+    _idleTimer = nil;
+  }
+}
+
+-(void) viewDidDisappear:(BOOL)animated
+{
+  [super viewWillDisappear:animated];
+  //[_mediaplayer pause];
+  //_mediaplayer = nil;
+}
+
+- (void)didReceiveMemoryWarning
+{
+  [super didReceiveMemoryWarning];
+  // Dispose of any resources that can be recreated.
 }
 
 - (IBAction)playandPause:(id)sender
 {
   if (_mediaplayer.isPlaying){
-      [_mediaplayer pause];
-      [_playButton setTitle:@"Play" forState:UIControlStateNormal];
-
+    [_mediaplayer pause];
+    [_playButton setTitle:@"Play" forState:UIControlStateNormal];
+    
   } else {
     [_mediaplayer play];
     [_playButton setTitle:@"Pauze" forState:UIControlStateNormal];
-
+    
   }
 }
 
-- (void)didReceiveMemoryWarning
+
+
+
+- (void)observeValueForKeyPath:(NSString *)keyPath ofObject:(id)object change:(NSDictionary *)change context:(void *)context
 {
-    [super didReceiveMemoryWarning];
-    // Dispose of any resources that can be recreated.
+  self.positionSlider.value = [_mediaplayer position];
+  
+  if (_displayRemainingTime)
+    [self.timeDisplay setTitle:[[_mediaplayer remainingTime] stringValue] forState:UIControlStateNormal];
+  else
+    [self.timeDisplay setTitle:[[_mediaplayer time] stringValue] forState:UIControlStateNormal];
 }
 
 
--(void) viewWillDisappear:(BOOL)animated
+
+- (IBAction)toggleTimeDisplay:(id)sender
 {
-  [super viewWillDisappear:animated];
-  [_mediaplayer pause];
-  //_mediaplayer = nil;
+  [self _resetIdleTimer];
+  _displayRemainingTime = !_displayRemainingTime;
 }
+
+
+- (UIResponder *)nextResponder
+{
+  [self _resetIdleTimer];
+  return [super nextResponder];
+}
+
+
+
+- (IBAction)positionSliderAction:(UISlider *)sender
+{
+  [self _resetIdleTimer];
+  
+  /* we need to limit the number of events sent by the slider, since otherwise, the user
+   * wouldn't see the I-frames when seeking on current mobile devices. This isn't a problem
+   * within the Simulator, but especially on older ARMv7 devices, it's clearly noticeable. */
+  [self performSelector:@selector(_setPositionForReal) withObject:nil afterDelay:0.3];
+  _setPosition = NO;
+}
+
+- (void)_setPositionForReal
+{
+  if (!_setPosition) {
+    _mediaplayer.position = _positionSlider.value;
+    _setPosition = YES;
+  }
+}
+
+- (IBAction)positionSliderDrag:(id)sender
+{
+  [self _resetIdleTimer];
+}
+
+
+- (void)_resetIdleTimer
+{
+  if (!_idleTimer)
+    _idleTimer = [NSTimer scheduledTimerWithTimeInterval:5.
+                                                  target:self
+                                                selector:@selector(idleTimerExceeded)
+                                                userInfo:nil
+                                                 repeats:NO];
+  else {
+    if (fabs([_idleTimer.fireDate timeIntervalSinceNow]) < 5.)
+      [_idleTimer setFireDate:[NSDate dateWithTimeIntervalSinceNow:5.]];
+  }
+}
+
+- (void)idleTimerExceeded
+{
+  _idleTimer = nil;
+  
+}
+
+
 
 @end

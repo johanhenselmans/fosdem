@@ -21,8 +21,8 @@
   
   
     NSDateFormatter *dateFormatter = [[NSDateFormatter alloc] init];
-   
-    [theTitle setText: [event speaker]];
+    [theTitle setText: event.speakerString];
+    self.navigationController.navigationBar.translucent = NO;
 
     [dateFormatter setDateFormat: @"EEEE"];
     [dateFormatter setTimeZone: [NSTimeZone timeZoneForSecondsFromGMT: 3600]];
@@ -91,6 +91,10 @@
 	else {
 		[[self event] setStarred: YES];
 	}
+    NSDictionary *infoDict = [NSDictionary dictionaryWithObjectsAndKeys: [event identifier], @"identifier", [NSNumber  numberWithBool: [[self event] isStarred]], @"starred", nil];
+    [[NSNotificationCenter defaultCenter] postNotificationName: @"LAEventUpdated"
+                                                        object: nil
+                                                      userInfo: infoDict];
     [self updateToolbar];
 }
 
@@ -102,13 +106,13 @@
   [vdlViewController setContentVideo: [[self event] contentVideo]];
   [[self navigationController] pushViewController: vdlViewController animated: YES];
 
-  if ([[self event] isStarred]) {
-    [[self event] setStarred: NO];
-  }
-  else {
-    [[self event] setStarred: YES];
-  }
-  [self updateToolbar];
+//  if ([[self event] isStarred]) {
+//    [[self event] setStarred: NO];
+//  }
+//  else {
+//    [[self event] setStarred: YES];
+//  }
+//  [self updateToolbar];
 }
 
 
@@ -118,13 +122,11 @@
     UIBarButtonItem *playbutton;
     UIBarButtonItem *flexibleSpace = [[UIBarButtonItem alloc] initWithBarButtonSystemItem: UIBarButtonSystemItemFlexibleSpace target: nil action: nil];
   
-    playbutton = [[UIBarButtonItem alloc] initWithImage: [UIImage imageNamed: @"tracks.png"] style:UIBarButtonItemStylePlain target: self action: @selector(playVideo:)];
+    playbutton = [[UIBarButtonItem alloc] initWithImage: [UIImage imageNamed: @"video.png"] style:UIBarButtonItemStylePlain target: self action: @selector(playVideo:)];
 
     if([[self event] isStarred]) {
         button = [[UIBarButtonItem alloc] initWithImage: [UIImage imageNamed: @"starOn.png"] style:UIBarButtonItemStylePlain target: self action: @selector(toggleStarred:)];
-        
-    }
-    else {
+    } else {
         button = [[UIBarButtonItem alloc] initWithImage: [UIImage imageNamed: @"starOff.png"] style: UIBarButtonItemStylePlain target: self action: @selector(toggleStarred:)];
     }
   // add a video toolbar if there is a video
@@ -139,7 +141,6 @@
     NSArray *toolbarItems = [NSArray arrayWithObjects: flexibleSpace, button, flexibleSpace, nil];
     [toolbar setItems: toolbarItems];
   }
-    //[toolbar setItems: toolbarItems];
     
 }
 

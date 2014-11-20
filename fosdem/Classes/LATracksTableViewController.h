@@ -16,4 +16,5 @@
 
 @interface LATracksTableViewController : UITableViewController
 
+- (void)eventDatabaseUpdated;
 @end

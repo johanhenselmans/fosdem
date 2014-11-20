@@ -25,6 +25,8 @@
 		048CCDE51A1CF3520088340C /* fosdem_schedule2013.xml in Resources */ = {isa = PBXBuildFile; fileRef = 048CCDDC1A1CF3520088340C /* fosdem_schedule2013.xml */; };
 		048CCDE61A1CF3520088340C /* fosdem_schedule2014.xml in Resources */ = {isa = PBXBuildFile; fileRef = 048CCDDD1A1CF3520088340C /* fosdem_schedule2014.xml */; };
 		048CCDE71A1CF3520088340C /* fosdem_schedule2015.xml in Resources */ = {isa = PBXBuildFile; fileRef = 048CCDDE1A1CF3520088340C /* fosdem_schedule2015.xml */; };
+		048CCDEA1A1D4ABB0088340C /* video.png in Resources */ = {isa = PBXBuildFile; fileRef = 048CCDE81A1D4ABB0088340C /* video.png */; };
+		048CCDEB1A1D4ABB0088340C /* video@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 048CCDE91A1D4ABB0088340C /* video@2x.png */; };
 		04B3FABF1A168F6F002BDBBD /* fosdemAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 04D1DC721A168A65004AC9D8 /* fosdemAppDelegate.m */; };
 		04B3FAC01A168F74002BDBBD /* LADownload.m in Sources */ = {isa = PBXBuildFile; fileRef = 04D1DC741A168A65004AC9D8 /* LADownload.m */; };
 		04B3FAC11A168F79002BDBBD /* LAEvent.m in Sources */ = {isa = PBXBuildFile; fileRef = 04D1DC761A168A65004AC9D8 /* LAEvent.m */; };
@@ -145,6 +147,8 @@
 		048CCDDC1A1CF3520088340C /* fosdem_schedule2013.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = fosdem_schedule2013.xml; path = fosdem/fosdem_schedule2013.xml; sourceTree = "<group>"; };
 		048CCDDD1A1CF3520088340C /* fosdem_schedule2014.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = fosdem_schedule2014.xml; path = fosdem/fosdem_schedule2014.xml; sourceTree = "<group>"; };
 		048CCDDE1A1CF3520088340C /* fosdem_schedule2015.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = fosdem_schedule2015.xml; path = fosdem/fosdem_schedule2015.xml; sourceTree = "<group>"; };
+		048CCDE81A1D4ABB0088340C /* video.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = video.png; path = fosdem/video.png; sourceTree = "<group>"; };
+		048CCDE91A1D4ABB0088340C /* video@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "video@2x.png"; path = "fosdem/video@2x.png"; sourceTree = "<group>"; };
 		04BD90DB1A1115D8006D0251 /* YearTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = YearTableViewCell.xib; path = fosdem/YearTableViewCell.xib; sourceTree = "<group>"; };
 		04D1DBCD1A1688CE004AC9D8 /* Icon-72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-72.png"; path = "fosdem/Icon-72.png"; sourceTree = "<group>"; };
 		04D1DBCE1A1688CE004AC9D8 /* Icon-72@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-72@2x.png"; path = "fosdem/Icon-72@2x.png"; sourceTree = "<group>"; };
@@ -500,6 +504,8 @@
 		75E54BF61694C75600E9593D /* Toolbar Icons */ = {
 			isa = PBXGroup;
 			children = (
+				048CCDE81A1D4ABB0088340C /* video.png */,
+				048CCDE91A1D4ABB0088340C /* video@2x.png */,
 				04D1DC2B1A1689C4004AC9D8 /* StarOff.png */,
 				04D1DC2C1A1689C4004AC9D8 /* starOff@2x.png */,
 				04D1DC2D1A1689C4004AC9D8 /* StarOn.png */,
@@ -619,6 +625,7 @@
 				04D1DBD81A1688CE004AC9D8 /* Icon-72@2x.png in Resources */,
 				3525421D10BC4D66007D9C6B /* LAEventDetailViewController.xib in Resources */,
 				04D1DC351A1689D5004AC9D8 /* tracks.png in Resources */,
+				048CCDEA1A1D4ABB0088340C /* video.png in Resources */,
 				04D1DC141A1689A9004AC9D8 /* H.1302 (Depagne).png in Resources */,
 				04D1DC0B1A1689A9004AC9D8 /* AW1.120.png in Resources */,
 				04D1DC251A1689A9004AC9D8 /* K.4.601.png in Resources */,
@@ -632,6 +639,7 @@
 				048CCDE11A1CF3520088340C /* fosdem_schedule2009.xml in Resources */,
 				04D1DC0D1A1689A9004AC9D8 /* AW1.124.png in Resources */,
 				048CCDE51A1CF3520088340C /* fosdem_schedule2013.xml in Resources */,
+				048CCDEB1A1D4ABB0088340C /* video@2x.png in Resources */,
 				04E481661A16A0D300735ACF /* Images.xcassets in Resources */,
 				35A444C110DC2FEC00DA30A3 /* LAUpcomingEventsTableViewController.xib in Resources */,
 				04D1DC1E1A1689A9004AC9D8 /* K.1.105 (La Fontaine).png in Resources */,
