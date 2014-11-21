@@ -27,64 +27,13 @@
       <persons>
           <person id="61">Pieter Hintjens</person>
       </persons>
-      <links></links>
+      <links>
+        <link href="http://video.fosdem.org/2009/maintracks/openamq.xvid.avi">Video (XVID)</link>
+      </links>
       <video></video>
       <end></end>
-  </event>  <event id="7">
-      <start>15:00</start>
-      <duration>01:00</duration>
-      <room>Janson</room>
-      <slug></slug>
-      <title>The Fedora Project</title>
-      <subtitle></subtitle>
-      <track>Distributions</track>
-      <type></type>
-      <language></language>
-      <abstract>&#xA;&lt;p&gt;The talk will take a look at the current roadmap for the Fedora Project, &#xA;from a technical and community-building point of view.  The discussion &#xA;will focus on the recently-released Fedora 10 as well as the &#xA;in-development Fedora 11, as well as other Fedora projects such as &#xA;infrastructure, websites, translation, etc.&#xA;&lt;/p&gt;&#xA;  </abstract>
-      <description></description>
-      <persons>
-          <person id="71">Max Spevack</person>
-      </persons>
-      <links></links>
-      <video></video>
-      <end></end>
-  </event>  <event id="8">
-      <start>15:00</start>
-      <duration>01:00</duration>
-      <room>Chavanne</room>
-      <slug></slug>
-      <title>Reverse Engineering of Proprietary Protocols, Tools and Techniques</title>
-      <subtitle></subtitle>
-      <track>Development and Languages</track>
-      <type></type>
-      <language></language>
-      <abstract>&#xA;&lt;p&gt;This talk is about reverse engineering a proprietary network protocol,&#xA;and then creating my own implementation. The talk will cover the tools&#xA;used to take binary data apart, capture the data, and techniques I use&#xA;for decoding unknown formats. The protocol covered is the RTMP protocol&#xA;used by Adobe flash, and this new implementation is part of the Gnash&#xA;project.&#xA;&lt;/p&gt;&#xA;  </abstract>
-      <description></description>
-      <persons>
-          <person id="81">Rob Savoye</person>
-      </persons>
-      <links></links>
-      <video></video>
-      <end></end>
-  </event>  <event id="9">
-      <start>11:30</start>
-      <duration>01:00</duration>
-      <room>Janson</room>
-      <slug></slug>
-      <title>Debian</title>
-      <subtitle></subtitle>
-      <track>Keynotes</track>
-      <type></type>
-      <language></language>
-      <abstract>&#xA;&lt;p&gt;Observations about the role that Debian plays in the world of Free&#xA;Software, and some lessons learned that may help other Free Software&#xA;projects.&#xA;&lt;/p&gt;&#xA;  </abstract>
-      <description></description>
-      <persons>
-          <person id="91">Bdale Garbee</person>
-      </persons>
-      <links></links>
-      <video></video>
-      <end></end>
-  </event>  <event id="10">
+  </event>
+  <event id="10">
       <start>10:30</start>
       <duration>01:00</duration>
       <room>Janson</room>
@@ -94,33 +43,19 @@
       <track>Keynotes</track>
       <type></type>
       <language></language>
-      <abstract>&#xA;&lt;p&gt;Freedom, openness and participation have become a pervasive part of digital &#xA;life. 250 million people use Firefox. Wikipedia reaches people in 260 languages. &#xA;Whole countries have Linux in their schools. Flickr hosts millions of openly &#xA;licenses photos. Apache underpins the Internet. We have moved mountains.&#xA;&lt;/p&gt;&#xA;  </abstract>
-      <description>&#xA;&lt;p&gt;At the same time, the terrain has shifted. Our digital world has moved into the &#xA;cloud. And, our window into this world is just as often unhackable phones in our &#xA;pocket as it is flexible computers on our desktop. Hundreds of millions of &#xA;people take being digital for granted, and rarely stop to think what it means. &#xA;The world where free and open source software were born is not the same as the &#xA;world they have helped to build.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;It&amp;#39;s time to ask: what do freedom, openness and participation look like 10 years &#xA;from now? How do we promote these values into the future? Building the open web &#xA;and hackability into the world of mobile is part of the answer. Promoting privacy, &#xA;portability and user control in the cloud are also critical. But what else? Mark &#xA;Surman will reflect on these questions and chat with the FOSDEM crowd.&#xA;&lt;/p&gt;&#xA;  </description>
+      <abstract></abstract>
+      <description>&#xA;&lt;p&gt;Freedom, openness and participation have become a pervasive part of digital &#xA;life. 250 million people use Firefox. Wikipedia reaches people in 260 languages. &#xA;Whole countries have Linux in their schools. Flickr hosts millions of openly &#xA;licenses photos. Apache underpins the Internet. We have moved mountains.&#xA;&lt;/p&gt;&#xA;
+        &#xA;&lt;p&gt;At the same time, the terrain has shifted. Our digital world has moved into the &#xA;cloud. And, our window into this world is just as often unhackable phones in our &#xA;pocket as it is flexible computers on our desktop. Hundreds of millions of &#xA;people take being digital for granted, and rarely stop to think what it means. &#xA;The world where free and open source software were born is not the same as the &#xA;world they have helped to build.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;It&amp;#39;s time to ask: what do freedom, openness and participation look like 10 years &#xA;from now? How do we promote these values into the future? Building the open web &#xA;and hackability into the world of mobile is part of the answer. Promoting privacy, &#xA;portability and user control in the cloud are also critical. But what else? Mark &#xA;Surman will reflect on these questions and chat with the FOSDEM crowd.&#xA;&lt;/p&gt;&#xA;  </description>
       <persons>
           <person id="101">Mark Surman</person>
       </persons>
-      <links></links>
+      <links>
+        <link href="http://video.fosdem.org/2009/maintracks/freeopenfuture.xvid.avi">Video (XVID)</link>
+      </links>
       <video></video>
       <end></end>
-  </event>  <event id="13">
-      <start>16:00</start>
-      <duration>01:00</duration>
-      <room>Chavanne</room>
-      <slug></slug>
-      <title>Scala - A Scalable Language</title>
-      <subtitle></subtitle>
-      <track>Development and Languages</track>
-      <type></type>
-      <language></language>
-      <abstract>&#xA;&lt;p&gt;In this talk I&amp;#39;ll describe the design principles of the Scala&#xA;programming language, which has scalability as its primary design&#xA;objective.&#xA;&lt;/p&gt;&#xA;  </abstract>
-      <description>&#xA;&lt;p&gt;Today&amp;#39;s software landscape resembles increasingly a tower of Babel:&#xA;Systems are built using many different languages, combining&#xA;server-side and client-side languages, scripting and systems&#xA;programming languages, general and domain specific languages, all&#xA;glued together with a hefty amount of XML.  The advantage of this&#xA;approach is that each individual language can be tailored to a&#xA;specific application domain.  Its disadvantage is that the necessary&#xA;amount of cross-language glue can make applications cumbersome to&#xA;write, deploy, and maintain.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;An alternative is offered by scalable languages, which can be used for&#xA;many different applications, ranging from small scripts to very large&#xA;systems. An important aspect of a scalable language is that it itself&#xA;is extensible and malleable. It should be possible to define very&#xA;high-level libraries in it, which act in effect as specialized domain&#xA;specific languages.  The advantages of this approach is that it leads&#xA;to more regular system designs, gives better static checking, makes&#xA;applications easier to deploy, and increases their reliability.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;In this talk I&amp;#39;ll describe the design principles of the Scala&#xA;programming language, which has scalability as its primary design&#xA;objective.  Scala combines lightweight syntax with strong static&#xA;checking on a Java-compatible platform. It encourages the embedding of&#xA;domain-specific languages as high-level libraries. I discuss how Scala&#xA;affects systems design and discuss its suitability for large scale&#xA;industrial deployment.&#xA;&lt;/p&gt;&#xA;  </description>
-      <persons>
-          <person id="131">Martin Odersky</person>
-      </persons>
-      <links></links>
-      <video></video>
-      <end></end>
-  </event>  <event id="17">
+  </event>
+  <event id="17">
       <start>16:00</start>
       <duration>01:00</duration>
       <room>Janson</room>
@@ -135,7 +70,9 @@
       <persons>
           <person id="171">Bryan Østergaard</person>
       </persons>
-      <links></links>
+      <links>
+        <link href="http://video.fosdem.org/2009/maintracks/exherbo.xvid.avi">Video (XVID)</link>
+</links>
       <video></video>
       <end></end>
   </event>  <event id="18">
@@ -153,7 +90,8 @@
       <persons>
           <person id="181">Thomas Quinot</person>
       </persons>
-      <links></links>
+      <links>
+      </links>
       <video></video>
       <end></end>
   </event>  <event id="20">
@@ -279,7 +217,9 @@
       <persons>
           <person id="311">Marcel Offermans</person>
       </persons>
-      <links></links>
+      <links>
+        <link href="http://video.fosdem.org/2009/lightningtalks/apache_felix.xvid.avi">Video (XVID)</link>
+</links>
       <video></video>
       <end></end>
   </event>  <event id="32">
@@ -297,7 +237,9 @@
       <persons>
           <person id="321">Lenz Grimmer</person>
       </persons>
-      <links></links>
+      <links>
+        <link href="http://video.fosdem.org/2009/lightningtalks/bazaar.xvid.avi">Video (XVID)</link>
+</links>
       <video></video>
       <end></end>
   </event>  <event id="35">
@@ -369,7 +311,9 @@
       <persons>
           <person id="391">Ken Gilmer</person>
       </persons>
-      <links></links>
+      <links>
+        <link href="http://video.fosdem.org/2009/lightningtalks/bug.xvid.avi">Video (XVID)</link>
+      </links>
       <video></video>
       <end></end>
   </event>  <event id="40">
@@ -387,7 +331,9 @@
       <persons>
           <person id="401">Stefan Schneider</person>
       </persons>
-      <links></links>
+      <links>
+        <link href="http://video.fosdem.org/2009/lightningtalks/custom_opensolaris.xvid.avi">Video (XVID)</link>
+</links>
       <video></video>
       <end></end>
   </event>  <event id="42">
@@ -405,7 +351,9 @@
       <persons>
           <person id="421">Erik Janssens</person>
       </persons>
-      <links></links>
+      <links>
+        <link href="http://video.fosdem.org/2009/lightningtalks/camelot.xvid.avi">Video (XVID)</link>
+      </links>
       <video></video>
       <end></end>
   </event>  <event id="50">
@@ -423,7 +371,9 @@
       <persons>
           <person id="501">Bdale Garbee</person>
       </persons>
-      <links></links>
+      <links>
+        <link href="http://video.fosdem.org/2009/maintracks/debian.xvid.avi">Video (XVID)</link>
+      </links>
       <video></video>
       <end></end>
   </event>  <event id="52">
@@ -441,7 +391,9 @@
       <persons>
           <person id="521">Enrico Zini</person>
       </persons>
-      <links></links>
+      <links>
+      <link href="http://video.fosdem.org/2009/devrooms/debian/Introducing_DDE_Debian_Data_Export.ogg">Video (XVID)</link>
+      </links>
       <video></video>
       <end></end>
   </event>  <event id="53">
@@ -459,7 +411,9 @@
       <persons>
           <person id="531">Steve McIntyre</person>
       </persons>
-      <links></links>
+      <links>
+        <link href="http://video.fosdem.org/2009/devrooms/debian/What_does_the_DPL_do.ogg">Video (XVID)</link>
+      </links>
       <video></video>
       <end></end>
   </event>  <event id="55">
@@ -479,7 +433,9 @@
           <person id="552">Steffen Möller</person>
           <person id="553">Mattias Ellert</person>
       </persons>
-      <links></links>
+      <links>
+        <link href="http://video.fosdem.org/2009/devrooms/debian/Grid_Computing_with_Debian_Globus_and_ARC.ogg">Video (XVID)</link>
+      </links>
       <video></video>
       <end></end>
   </event>  <event id="60">
@@ -497,7 +453,9 @@
       <persons>
           <person id="601">Martin Michlmayr</person>
       </persons>
-      <links></links>
+      <links>
+        <link href="http://video.fosdem.org/2009/devrooms/debian/Debian_on_inexpensive_NAS_devices.ogg">Video (XVID)</link>
+      </links>
       <video></video>
       <end></end>
   </event>  <event id="61">
@@ -515,7 +473,9 @@
       <persons>
           <person id="611">Luca Capello</person>
       </persons>
-      <links></links>
+      <links>
+        <link href="http://video.fosdem.org/2009/devrooms/debian/Debian_on_Openmoko.ogg">Video (XVID)</link>
+      </links>
       <video></video>
       <end></end>
   </event>  <event id="64">
@@ -534,7 +494,9 @@
           <person id="641">Stefano Zacchiroli</person>
           <person id="642">Lucas Nussbaum</person>
       </persons>
-      <links></links>
+      <links>
+        <link href="http://video.fosdem.org/2009/devrooms/debian/Ultimate_Debian_Database.ogg">Video (XVID)</link>
+      </links>
       <video></video>
       <end></end>
   </event>  <event id="65">
@@ -553,7 +515,9 @@
           <person id="651">Ben Hutchings</person>
           <person id="652">Holger Levsen</person>
       </persons>
-      <links></links>
+      <links>
+        <link href="http://video.fosdem.org/2009/devrooms/debian/DebConf_video_team_and_DVswitch.ogg">Video (XVID)</link>
+      </links>
       <video></video>
       <end></end>
   </event>  <event id="76">
@@ -662,10 +626,13 @@
       <persons>
           <person id="901">Max Spevack</person>
       </persons>
-      <links></links>
+      <links>
+        <link href="http://video.fosdem.org/2009/maintracks/fedora.xvid.avi">Video (XVID)</link>
+</links>
       <video></video>
       <end></end>
-  </event>  <event id="91">
+  </event>
+  <event id="91">
       <start>18:00</start>
       <duration>01:00</duration>
       <room>H.2213</room>
@@ -790,28 +757,13 @@
       <persons>
           <person id="991">Jesus M. Gonzalez Barahona</person>
       </persons>
-      <links></links>
+      <links>
+        <link href="http://video.fosdem.org/2009/lightningtalks/flossmetrics.xvid.avi">Video (XVID)</link>
+        </links>
       <video></video>
       <end></end>
-  </event>  <event id="103">
-      <start>10:30</start>
-      <duration>01:00</duration>
-      <room>Janson</room>
-      <slug></slug>
-      <title>Free. Open. Future?</title>
-      <subtitle></subtitle>
-      <track>Keynotes</track>
-      <type></type>
-      <language></language>
-      <abstract>&#xA;&lt;p&gt;Freedom, openness and participation have become a pervasive part of digital &#xA;life. 250 million people use Firefox. Wikipedia reaches people in 260 languages. &#xA;Whole countries have Linux in their schools. Flickr hosts millions of openly &#xA;licenses photos. Apache underpins the Internet. We have moved mountains.&#xA;&lt;/p&gt;&#xA;  </abstract>
-      <description>&#xA;&lt;p&gt;At the same time, the terrain has shifted. Our digital world has moved into the &#xA;cloud. And, our window into this world is just as often unhackable phones in our &#xA;pocket as it is flexible computers on our desktop. Hundreds of millions of &#xA;people take being digital for granted, and rarely stop to think what it means. &#xA;The world where free and open source software were born is not the same as the &#xA;world they have helped to build.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;It&amp;#39;s time to ask: what do freedom, openness and participation look like 10 years &#xA;from now? How do we promote these values into the future? Building the open web &#xA;and hackability into the world of mobile is part of the answer. Promoting privacy, &#xA;portability and user control in the cloud are also critical. But what else? Mark &#xA;Surman will reflect on these questions and chat with the FOSDEM crowd.&#xA;&lt;/p&gt;&#xA;  </description>
-      <persons>
-          <person id="1031">Mark Surman</person>
-      </persons>
-      <links></links>
-      <video></video>
-      <end></end>
-  </event>  <event id="104">
+  </event>
+  <event id="104">
       <start>18:40</start>
       <duration>00:15</duration>
       <room>Ferrer</room>
@@ -826,10 +778,13 @@
       <persons>
           <person id="1041">Jean-Etienne Poirrier</person>
       </persons>
-      <links></links>
+      <links>
+        <link href="http://video.fosdem.org/2009/lightningtalks/gemvid.xvid.avi">Video (XVID)</link>
+      </links>
       <video></video>
       <end></end>
-  </event>  <event id="105">
+  </event>
+  <event id="105">
       <start>17:00</start>
       <duration>01:00</duration>
       <room>AW1.117</room>
@@ -839,15 +794,17 @@
       <track>GNUstep + OpenGroupware + Etoile</track>
       <type></type>
       <language></language>
-      <abstract>&#xA;&lt;p&gt;&lt;a href=&#34;http://etoileos.com/etoile/&#34;&gt;Etoile&lt;/a&gt; is a Desktop Environment for Unix based on the GNUstep frameworks.&#xA;It focuses on the notions of modularity and small components, collaboration, persistence and flexibility.&#xA;&lt;/p&gt;&#xA;  </abstract>
-      <description>&#xA;&lt;p&gt;In this talk I will present an overview of the project: its goals, concepts, and its current state.&#xA;&lt;/p&gt;&#xA;  </description>
+      <abstract></abstract>
+      <description>>&#xA;&lt;p&gt;&lt;a href=&#34;http://etoileos.com/etoile/&#34;&gt;Etoile&lt;/a&gt; is a Desktop Environment for Unix based on the GNUstep frameworks.&#xA;It focuses on the notions of modularity and small components, collaboration, persistence and flexibility.&#xA;&lt;/p&gt;&#xA;  &#xA;&lt;p&gt;In this talk I will present an overview of the project: its goals, concepts, and its current state.&#xA;&lt;/p&gt;&#xA;  </description>
       <persons>
           <person id="1051">Nicolas Roard</person>
       </persons>
-      <links></links>
+      <links>
+      </links>
       <video></video>
       <end></end>
-  </event>  <event id="109">
+  </event>
+  <event id="109">
       <start>14:00</start>
       <duration>01:00</duration>
       <room>AW1.117</room>
@@ -857,15 +814,18 @@
       <track>GNUstep + OpenGroupware + Etoile</track>
       <type></type>
       <language></language>
-      <abstract>&#xA;&lt;p&gt;This presentation presents ScalableOGo, a standards compliant free software groupware server.&#xA;&lt;/p&gt;&#xA;  </abstract>
-      <description>&#xA;&lt;p&gt;Scalable OGo (SOGo) is a free groupware server focused on scalability instead of depth in functionality. The web interface uses human readable URLs and can be accessed according to REST web service ideas.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The server stores data in the iCalendar/vCard formats and has broad support for theCalDAV/GroupDAV protocols.&#xA;&lt;/p&gt;&#xA;  </description>
+      <abstract></abstract>
+      <description>&#xA;&lt;p&gt;This presentation presents ScalableOGo, a standards compliant free software groupware server.&#xA;&lt;/p&gt;&#xA;  &#xA;&lt;p&gt;Scalable OGo (SOGo) is a free groupware server focused on scalability instead of depth in functionality. The web interface uses human readable URLs and can be accessed according to REST web service ideas.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The server stores data in the iCalendar/vCard formats and has broad support for theCalDAV/GroupDAV protocols.&#xA;&lt;/p&gt;&#xA;  </description>
       <persons>
           <person id="1091">Helge Heß</person>
       </persons>
-      <links></links>
+      <links>
+        <link href="http://video.fosdem.org/2009/devrooms/gnustep/02.ScalableOGo%20-%20Helge%20Hess%20-%20FOSDEM%202009.mov">Video (Mov)</link>
+      </links>
       <video></video>
       <end></end>
-  </event>  <event id="111">
+  </event>
+  <event id="111">
       <start>16:00</start>
       <duration>01:00</duration>
       <room>AW1.117</room>
@@ -881,10 +841,12 @@
           <person id="1111">Riccardo Mottola</person>
           <person id="1112">Richard Frith-Macdonald</person>
       </persons>
-      <links></links>
+      <links>
+      </links>
       <video></video>
       <end></end>
-  </event>  <event id="112">
+  </event>
+  <event id="112">
       <start>16:15</start>
       <duration>00:45</duration>
       <room>H.1302</room>
@@ -899,7 +861,8 @@
       <persons>
           <person id="1121">Pierre-Luc Beaudoin</person>
       </persons>
-      <links></links>
+      <links>
+      </links>
       <video></video>
       <end></end>
   </event>  <event id="113">
@@ -1044,7 +1007,8 @@
       <persons>
           <person id="1211">Richard Frith-Macdonald</person>
       </persons>
-      <links></links>
+      <links>
+      </links>
       <video></video>
       <end></end>
   </event>  <event id="122">
@@ -1062,10 +1026,12 @@
       <persons>
           <person id="1221">Nicola Pero</person>
       </persons>
-      <links></links>
+      <links>
+      </links>
       <video></video>
       <end></end>
-  </event>  <event id="125">
+  </event>
+  <event id="125">
       <start>17:40</start>
       <duration>00:15</duration>
       <room>Ferrer</room>
@@ -1080,7 +1046,9 @@
       <persons>
           <person id="1251">Marcus Bauer</person>
       </persons>
-      <links></links>
+      <links>
+         <link href="http://video.fosdem.org/2009/lightningtalks/mobile_development.xvid.avi">Video (XVID)</link>
+      </links>
       <video></video>
       <end></end>
   </event>  <event id="132">
@@ -1334,7 +1302,8 @@
       <persons>
           <person id="1481">Robert Schuster</person>
       </persons>
-      <links></links>
+      <links>
+      </links>
       <video></video>
       <end></end>
   </event>  <event id="150">
@@ -1643,7 +1612,9 @@
       <persons>
           <person id="1811">Mario Behling</person>
       </persons>
-      <links></links>
+      <links>
+         <link href="http://video.fosdem.org/2009/lightningtalks/lxde.xvid.avi">Video (XVID)</link>
+      </links>
       <video></video>
       <end></end>
   </event>  <event id="182">
@@ -1661,7 +1632,9 @@
       <persons>
           <person id="1821">Marco Stronati</person>
       </persons>
-      <links></links>
+      <links>
+         <link href="http://video.fosdem.org/2009/lightningtalks/marionnet.xvid.avi">Video (XVID)</link>
+      </links>
       <video></video>
       <end></end>
   </event>  <event id="185">
@@ -1899,24 +1872,6 @@
       <links></links>
       <video></video>
       <end></end>
-  </event>  <event id="220">
-      <start>14:00</start>
-      <duration>01:00</duration>
-      <room>Chavanne</room>
-      <slug></slug>
-      <title>OpenAMQ</title>
-      <subtitle></subtitle>
-      <track>Development and Languages</track>
-      <type></type>
-      <language></language>
-      <abstract>&#xA;&lt;p&gt;I&amp;#39;ll speak about a new messaging protocol called AMQP, and the iMatix&#xA;projects that implement this protocol.&#xA;&lt;/p&gt;&#xA;  </abstract>
-      <description>&#xA;&lt;p&gt;AMQP makes it possible to make cheap, fast distributed applications, for pubsub, cloud computing,&#xA;telecoms, etc..  I&amp;#39;ll explain our OpenAMQ implementation of AMQP, and&#xA;also our web-based RESTful messaging project, Zyre, which makes AMQP&#xA;work over plain HTTP.  This talk is aimed at FOSS developers with&#xA;interest in new protocols.  AMQP is a good example of how large&#xA;businesses are promoting and investing in FOSS today.&#xA;&lt;/p&gt;&#xA;  </description>
-      <persons>
-          <person id="2201">Pieter Hintjens</person>
-      </persons>
-      <links></links>
-      <video></video>
-      <end></end>
   </event>  <event id="221">
       <start>14:00</start>
       <duration>01:00</duration>
@@ -1932,7 +1887,8 @@
       <persons>
           <person id="2211">Joe Brockmeier</person>
       </persons>
-      <links></links>
+      <links>
+      </links>
       <video></video>
       <end></end>
   </event>  <event id="222">
@@ -1950,7 +1906,9 @@
       <persons>
           <person id="2221">Jan Blunck</person>
       </persons>
-      <links></links>
+      <links>
+        <link href="http://video.fosdem.org/2009/devrooms/opensuse/fosdem09_day1_10-apport.ogg">Video (XVID)</link>
+      </links>
       <video></video>
       <end></end>
   </event>  <event id="224">
@@ -1986,7 +1944,9 @@
       <persons>
           <person id="2251">Dinar Valeev</person>
       </persons>
-      <links></links>
+      <links>
+         <link href="http://video.fosdem.org/2009/devrooms/opensuse/fosdem09_day1_03-openSUSE_community.ogg">Video (XVID)</link>
+      </links>
       <video></video>
       <end></end>
   </event>  <event id="227">
@@ -2004,7 +1964,9 @@
       <persons>
           <person id="2271">Jan-Christoph Bornschlegel</person>
       </persons>
-      <links></links>
+      <links>
+        <link href="http://video.fosdem.org/2009/devrooms/opensuse/fosdem09_day1_07-kiwi.ogg">Video (XVID)</link>
+      </links>
       <video></video>
       <end></end>
   </event>  <event id="230">
@@ -2022,7 +1984,9 @@
       <persons>
           <person id="2301">Jürgen Weigert</person>
       </persons>
-      <links></links>
+      <links>
+      <link href="http://video.fosdem.org/2009/devrooms/opensuse/fosdem09_day1_09-legal.ogg">Video (XVID)</link>
+      </links>
       <video></video>
       <end></end>
   </event>  <event id="233">
@@ -2040,7 +2004,9 @@
       <persons>
           <person id="2331">Hendrik Vogelsang</person>
       </persons>
-      <links></links>
+      <links>
+         <link href="http://video.fosdem.org/2009/devrooms/opensuse/fosdem09_day1_05-collaboration.ogg">Video (XVID)</link>
+      </links>
       <video></video>
       <end></end>
   </event>  <event id="234">
@@ -2058,7 +2024,9 @@
       <persons>
           <person id="2341">Martin Mohring</person>
       </persons>
-      <links></links>
+      <links>
+         <link href="http://video.fosdem.org/2009/devrooms/opensuse/fosdem09_day1_06-cross_build.ogg">Video (XVID)</link>
+      </links>
       <video></video>
       <end></end>
   </event>  <event id="235">
@@ -2076,7 +2044,9 @@
       <persons>
           <person id="2351">Marko Jung</person>
       </persons>
-      <links></links>
+      <links>
+        
+      </links>
       <video></video>
       <end></end>
   </event>  <event id="237">
@@ -2095,7 +2065,9 @@
           <person id="2371">Daniel Bornkessel</person>
           <person id="2372">Cornelius Schumacher</person>
       </persons>
-      <links></links>
+      <links>
+      <link href="http://video.fosdem.org/2009/devrooms/opensuse/fosdem09_day1_08-studio.ogg">Video (XVID)</link>
+      </links>
       <video></video>
       <end></end>
   </event>  <event id="238">
@@ -2113,7 +2085,9 @@
       <persons>
           <person id="2381">Martin Lasarsch</person>
       </persons>
-      <links></links>
+      <links>
+         <link href="http://video.fosdem.org/2009/devrooms/opensuse/fosdem09_day1_01-welcome.ogg">Video (XVID)</link>
+      </links>
       <video></video>
       <end></end>
   </event>  <event id="242">
@@ -2131,7 +2105,9 @@
       <persons>
           <person id="2421">James Peel</person>
       </persons>
-      <links></links>
+      <links>
+   <link href="http://video.fosdem.org/2009/lightningtalks/opsview.xvid.avi">Video (XVID)</link>
+      </links>
       <video></video>
       <end></end>
   </event>  <event id="243">
@@ -2149,7 +2125,9 @@
       <persons>
           <person id="2431">Michael Tiemann</person>
       </persons>
-      <links></links>
+      <links>
+      <link href="http://video.fosdem.org/2009/lightningtalks/osi.xvid.avi">Video (XVID)</link>
+      </links>
       <video></video>
       <end></end>
   </event>  <event id="244">
@@ -2261,7 +2239,9 @@
       <persons>
           <person id="2601">Rob Savoye</person>
       </persons>
-      <links></links>
+      <links>
+        <link href="http://video.fosdem.org/2009/maintracks/reverse.xvid.avi">Video (XVID)</link>
+      </links>
       <video></video>
       <end></end>
   </event>  <event id="272">
@@ -2279,7 +2259,9 @@
       <persons>
           <person id="2721">Martin Odersky</person>
       </persons>
-      <links></links>
+      <links>
+        <link href="http://video.fosdem.org/2009/maintracks/scala.xvid.avi">Video (XVID)</link>
+      </links>
       <video></video>
       <end></end>
   </event>  <event id="276">
@@ -2297,7 +2279,9 @@
       <persons>
           <person id="2761">Peter Roozemaal</person>
       </persons>
-      <links></links>
+      <links>
+        <link href="http://video.fosdem.org/2009/lightningtalks/smallmail.xvid.avi">Video (XVID)</link>
+      </links>
       <video></video>
       <end></end>
   </event>  <event id="278">
@@ -2315,7 +2299,9 @@
       <persons>
           <person id="2781">Keith Bergelt</person>
       </persons>
-      <links></links>
+      <links>
+      <link href="http://video.fosdem.org/2009/lightningtalks/linux_defenders.xvid.avi">Video (XVID)</link>
+      </links>
       <video></video>
       <end></end>
   </event>  <event id="281">
@@ -2333,7 +2319,9 @@
       <persons>
           <person id="2811">Frans Schreuder</person>
       </persons>
-      <links></links>
+      <links>
+      <link href="http://video.fosdem.org/2009/lightningtalks/usbpicprog.xvid.avi">Video (XVID)</link>
+      </links>
       <video></video>
       <end></end>
   </event>  <event id="282">
@@ -2351,7 +2339,9 @@
       <persons>
           <person id="2821">FOSDEM Staff</person>
       </persons>
-      <links></links>
+      <links>
+        <link href="http://video.fosdem.org/2009/maintracks/welcome.xvid.avi">Video (XVID)</link>
+      </links>
       <video></video>
       <end></end>
   </event>  <event id="291">
@@ -2408,7 +2398,8 @@
       <links></links>
       <video></video>
       <end></end>
-  </event>  <event id="298">
+  </event>
+  <event id="298">
       <start>15:00</start>
       <duration>01:00</duration>
       <room>H.1309</room>
@@ -2426,153 +2417,10 @@
       <links></links>
       <video></video>
       <end></end>
-  </event>  </day>
+  </event>
+  </day>
   <day index="2" date="2009-02-08">
-  <event id="2">
-      <start>11:00</start>
-      <duration>01:00</duration>
-      <room>Chavanne</room>
-      <slug></slug>
-      <title>FreeIPA, Identity Management</title>
-      <subtitle></subtitle>
-      <track>Security</track>
-      <type></type>
-      <language></language>
-      <abstract>&#xA;&lt;p&gt;Free Software Identity Management challenges and technical details&#xA;&lt;/p&gt;&#xA;  </abstract>
-      <description>&#xA;&lt;p&gt;The presentation will revolve around the problems of building a modern&#xA;Free Software based Identity Management Solution. The challenges we&#xA;faced in trying to combine security, ease of used, standards, features,&#xA;and interoperability with other solutions. The choices we have made for&#xA;the current code base, and the choices we are facing going forward.&#xA;The vision and future directions.&#xA;The presentation will introduce the public to the technologies used, the&#xA;modifications or additions we performed and will dive into technical&#xA;details about how we architect the server and the future client&#xA;components.&#xA;&lt;/p&gt;&#xA;  </description>
-      <persons>
-          <person id="21">Simo Sorce</person>
-      </persons>
-      <links></links>
-      <video></video>
-      <end></end>
-  </event>  <event id="3">
-      <start>17:15</start>
-      <duration>01:00</duration>
-      <room>Janson</room>
-      <slug></slug>
-      <title>Google Summer of Code: A Behind the Scenes Look at Large Scale Community Management</title>
-      <subtitle></subtitle>
-      <track>Keynotes</track>
-      <type></type>
-      <language></language>
-      <abstract>&#xA;&lt;p&gt;Ever wondered what it takes to make a community of more than 180 F/LOSS&#xA;projects and 5,000+ geeks create great software?&#xA;&lt;/p&gt;&#xA;  </abstract>
-      <description>&#xA;&lt;p&gt;In this talk, Leslie Hawthorn will explore the successes and setbacks of &lt;a href=&#34;http://code.google.com/soc/&#34;&gt;Google Summer of Code&lt;/a&gt;, the first global program&#xA;designed to introduce University students to Free and Open Source software&#xA;development practices and methodologies. Leslie will discuss the program&amp;#39;s&#xA;inception, history, and impact, and the evolving requirements for managing a&#xA;large scale global community.  She will share lessons learned during the&#xA;past three years as the program&amp;#39;s Community Manager, with an eye to&#xA;providing audience members with strategies for organizing their own&#xA;community participation initiative, and provide attendees with an update on&#xA;&lt;a href=&#34;http://code.google.com/p/soc/&#34;&gt;Melange&lt;/a&gt;, the new work flow application&#xA;designed to manage *Google Summer of Code* - or similar programs - and&#xA;Google&amp;#39;s first Open Source project developed in the open from the first&#xA;commit.&#xA;&lt;/p&gt;&#xA;  </description>
-      <persons>
-          <person id="31">Leslie Hawthorn</person>
-      </persons>
-      <links></links>
-      <video></video>
-      <end></end>
-  </event>  <event id="4">
-      <start>11:00</start>
-      <duration>01:00</duration>
-      <room>Janson</room>
-      <slug></slug>
-      <title>MySQL High Availability Solutions</title>
-      <subtitle></subtitle>
-      <track>Systems</track>
-      <type></type>
-      <language></language>
-      <abstract>&#xA;&lt;p&gt;There are many ways of how to ensure the availability of a MySQL Server and how to provide additional redundancy and fault-tolerance.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;In this talk, Lenz will give an overview over some best practices and commonly used HA setups for MySQL.&#xA;&lt;/p&gt;&#xA;  </abstract>
-      <description>&#xA;&lt;p&gt;The talk will cover the Open Source components and tools that are frequently utilized, with a focus on Linux and OpenSolaris. The session will also cover MySQL Cluster, the architecture and relationship to the MySQL Server.&#xA;&lt;/p&gt;&#xA;  </description>
-      <persons>
-          <person id="41">Lenz Grimmer</person>
-      </persons>
-      <links></links>
-      <video></video>
-      <end></end>
-  </event>  <event id="5">
-      <start>12:00</start>
-      <duration>01:00</duration>
-      <room>Chavanne</room>
-      <slug></slug>
-      <title>Fusil</title>
-      <subtitle></subtitle>
-      <track>Security</track>
-      <type></type>
-      <language></language>
-      <abstract>&#xA;&lt;p&gt;The talk will present how a fuzzer is written and how it works. Then we will &#xA;analyze a crash. And finally we will see how to report it to the vendor and &#xA;typical vendor reactions.&#xA;&lt;/p&gt;&#xA;  </abstract>
-      <description>&#xA;&lt;p&gt;Fusil the fuzzer is a Python library to write fuzzers and a collection of &#xA;twenty specific fuzzers: ClamAV, Firefox, mplayer, poppler (PDF), etc. A &#xA;simple fuzzer can crash most (all?) applications.&#xA;&lt;/p&gt;&#xA;  </description>
-      <persons>
-          <person id="51">Victor Stinner</person>
-      </persons>
-      <links></links>
-      <video></video>
-      <end></end>
-  </event>  <event id="11">
-      <start>14:00</start>
-      <duration>01:00</duration>
-      <room>Chavanne</room>
-      <slug></slug>
-      <title>MediaWiki</title>
-      <subtitle></subtitle>
-      <track>Collaboration</track>
-      <type></type>
-      <language></language>
-      <abstract>&#xA;&lt;p&gt;I&amp;#39;ll be going over some of the particular UI and workflow issues in &#xA;editing, media uploading, and other areas that we intend to tackle, &#xA;summarize some of the existing work toward those ends, and give a &#xA;preview our upcoming Wikipedia Usability Initiative.&#xA;&lt;/p&gt;&#xA;  </abstract>
-      <description>&#xA;&lt;p&gt;MediaWiki was born in 2002, when Wikipedia&amp;#39;s editing activity outgrew &#xA;the concurrency limits of its original wiki engine. The first 6 years of &#xA;this open-source wiki platform&amp;#39;s development were largely devoted to &#xA;scaling and performance, ensuring that the world&amp;#39;s most editable online &#xA;encyclopedia could keep up with the number of articles, visitors, and &#xA;changes that come with being an insanely popular user-written site. But &#xA;the user interface hasn&amp;#39;t changed much since 2003; if anything, packing &#xA;in more features has made many aspects of the wiki harder to use over time.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;In 2009, MediaWiki developers are turning their eye towards usability &#xA;and design issues. As with the scaling problems we&amp;#39;ve tackled before, we &#xA;have to be able to target anything from a tiny personal or intranet wiki &#xA;to the massive Wikipedia sites, making a range of different use cases &#xA;with different needs... It&amp;#39;ll be fun!&#xA;&lt;/p&gt;&#xA;  </description>
-      <persons>
-          <person id="111">Brion Vibber</person>
-      </persons>
-      <links></links>
-      <video></video>
-      <end></end>
-  </event>  <event id="12">
-      <start>15:00</start>
-      <duration>01:00</duration>
-      <room>Chavanne</room>
-      <slug></slug>
-      <title>Easy Integration with plugin frameworks for open source Zarafa Groupware and advanced replication</title>
-      <subtitle></subtitle>
-      <track>Collaboration</track>
-      <type></type>
-      <language></language>
-      <abstract>&#xA;&lt;p&gt;The Zarafa webaccess plugin system is aimed at allowing developers to add functionality to the Zarafa webaccess, while not requiring them to modify existing system files inside the core of the Zarafa WebAccess software.&#xA;&lt;/p&gt; &#xA;&lt;p&gt;Zarafa will show how to programm a module and shows the architecture integrations with open source solutions such as Alfresco and Sugarcrm and other community contributions.&#xA;&lt;/p&gt;&#xA;  </abstract>
-      <description>&#xA;&lt;p&gt;The Zarafa webaccess plugin system is aimed at allowing developers to add functionality to the Zarafa WebAccess, while not requiring them to modify existing system files inside the core of the Zarafa WebAccess software.&#xA;&lt;/p&gt; &#xA;&lt;p&gt;Steve will show how to program a module and shows the architecture integrations with open source solutions such as Alfresco and Sugarcrm and other community contributions.&#xA;&lt;/p&gt;&#xA;  </description>
-      <persons>
-          <person id="121">Steve Hardy</person>
-      </persons>
-      <links></links>
-      <video></video>
-      <end></end>
-  </event>  <event id="14">
-      <start>16:00</start>
-      <duration>01:00</duration>
-      <room>Janson</room>
-      <slug></slug>
-      <title>Help my system is slow...</title>
-      <subtitle></subtitle>
-      <track>Kernel</track>
-      <type></type>
-      <language></language>
-      <abstract></abstract>
-      <description>&#xA;&lt;p&gt;An understanding of the nature of your system workload is an important &#xA;step in optimizing it for maximum performance on your hardware.  I will &#xA;discuss some useful tools and techniques for evaluating the workload of &#xA;your FreeBSD system, and identifying the bottlenecks that are limiting &#xA;performance.&#xA;&lt;/p&gt;&#xA;  </description>
-      <persons>
-          <person id="141">Kris Kennaway</person>
-      </persons>
-      <links></links>
-      <video></video>
-      <end></end>
-  </event>  <event id="15">
-      <start>12:00</start>
-      <duration>01:00</duration>
-      <room>Janson</room>
-      <slug></slug>
-      <title>Upstart</title>
-      <subtitle></subtitle>
-      <track>Systems</track>
-      <type></type>
-      <language></language>
-      <abstract>&#xA;&lt;p&gt;This talk takes a trip along the Roadmap for Upstart 1.0, introducing&#xA; what features will be available.&#xA;&lt;/p&gt;&#xA;  </abstract>
-      <description>&#xA;&lt;p&gt;Linux has always traditionally lacked good service management&#xA; facilities, so much so that the typical daemon doesn&amp;#39;t use what ones we&#xA; have and instead relies on hokey shell scripts.&#xA;&lt;/p&gt;&#xA;&lt;p&gt; Upstart is being developed to not only solve this problem but also how&#xA; it, through integration with D-Bus, DeviceKit and similar frameworks,&#xA; allows service lifecycles to be tied to hardware and system state.&#xA;&lt;/p&gt;&#xA;  </description>
-      <persons>
-          <person id="151">Scott James Remnant</person>
-      </persons>
-      <links></links>
-      <video></video>
-      <end></end>
-  </event>  <event id="16">
+    <event id="16">
       <start>10:00</start>
       <duration>01:00</duration>
       <room>Chavanne</room>
@@ -2587,7 +2435,9 @@
       <persons>
           <person id="161">Matteo Meucci</person>
       </persons>
-      <links></links>
+      <links>
+      <link href="http://video.fosdem.org/2009/maintracks/owasp.xvid.avi">Video (XVID)</link>
+      </links>
       <video></video>
       <end></end>
   </event>  <event id="19">
@@ -2768,7 +2618,9 @@
       <persons>
           <person id="411">Helge Heß</person>
       </persons>
-      <links></links>
+      <links>
+      <link href="http://video.fosdem.org/2009/maintracks/caldav.xvid.avi">Video (XVID)</link>
+      </links>
       <video></video>
       <end></end>
   </event>  <event id="43">
@@ -2895,7 +2747,9 @@
           <person id="491">Robert Lazzurs</person>
           <person id="492">Jasper Capel</person>
       </persons>
-      <links></links>
+      <links>
+      <link href="http://video.fosdem.org/2009/maintracks/cobbler.xvid.avi">Video (XVID)</link>
+      </links>
       <video></video>
       <end></end>
   </event>  <event id="51">
@@ -2913,7 +2767,9 @@
       <persons>
           <person id="511">Peter Eisentraut</person>
       </persons>
-      <links></links>
+      <links>
+        <link href="http://video.fosdem.org/2009/devrooms/debian/The_Common_Debian_Build_System_CDBS.ogg">Video (XVID)</link>
+      </links>
       <video></video>
       <end></end>
   </event>  <event id="54">
@@ -2931,7 +2787,9 @@
       <persons>
           <person id="541">Nicolas Spalinger</person>
       </persons>
-      <links></links>
+      <links>
+      <link href="http://video.fosdem.org/2009/devrooms/debian/Debian_Font_Task_Force.ogg">Video (XVID)</link>
+      </links>
       <video></video>
       <end></end>
   </event>  <event id="56">
@@ -2949,7 +2807,9 @@
       <persons>
           <person id="561">Obey Arthur Liu</person>
       </persons>
-      <links></links>
+      <links>
+      <link href="http://video.fosdem.org/2009/devrooms/debian/Debian_and_Google_Summer_of_Code_2008.ogg">Video (XVID)</link>
+      </links>
       <video></video>
       <end></end>
   </event>  <event id="57">
@@ -2967,7 +2827,9 @@
       <persons>
           <person id="571">Nicolas François</person>
       </persons>
-      <links></links>
+      <links>
+      <link href="http://video.fosdem.org/2009/devrooms/debian/Internationalization_in_Debian.ogg">Video (XVID)</link>
+      </links>
       <video></video>
       <end></end>
   </event>  <event id="58">
@@ -2985,7 +2847,9 @@
       <persons>
           <person id="581">Sune Vuorela</person>
       </persons>
-      <links></links>
+      <links>
+        <link href="http://video.fosdem.org/2009/devrooms/debian/The_long_road_to_KDE4_in_Debian.ogg">Video (XVID)</link>
+      </links>
       <video></video>
       <end></end>
   </event>  <event id="59">
@@ -3003,7 +2867,9 @@
       <persons>
           <person id="591">Neil McGovern</person>
       </persons>
-      <links></links>
+      <links>
+        <link href="http://video.fosdem.org/2009/devrooms/debian/Lenny_the_road_to_release.ogg">Video (XVID)</link>
+      </links>
       <video></video>
       <end></end>
   </event>  <event id="62">
@@ -3021,7 +2887,9 @@
       <persons>
           <person id="621">Frans Pop</person>
       </persons>
-      <links></links>
+      <links>
+      <link href="http://video.fosdem.org/2009/devrooms/debian/Release_management_in_Debian_can_we_do_better.ogg">Video (XVID)</link>
+      </links>
       <video></video>
       <end></end>
   </event>  <event id="63">
@@ -3039,7 +2907,9 @@
       <persons>
           <person id="631">Neil Williams</person>
       </persons>
-      <links></links>
+      <links>
+      <link href="http://video.fosdem.org/2009/devrooms/debian/TDebs_draft_specification.ogg">Video (XVID)</link>
+      </links>
       <video></video>
       <end></end>
   </event>  <event id="66">
@@ -3060,7 +2930,8 @@
       <links></links>
       <video></video>
       <end></end>
-  </event>  <event id="67">
+  </event>
+  <event id="67">
       <start>15:30</start>
       <duration>00:45</duration>
       <room>H.1302</room>
@@ -3364,10 +3235,13 @@
       <persons>
           <person id="881">Theodore Ts&#39;o</person>
       </persons>
-      <links></links>
+      <links>
+      <link href="http://video.fosdem.org/2009/maintracks/ext4.xvid.avi">Video (XVID)</link>
+      </links>
       <video></video>
       <end></end>
-  </event>  <event id="89">
+  </event>
+  <event id="89">
       <start>15:20</start>
       <duration>00:15</duration>
       <room>Ferrer</room>
@@ -3382,10 +3256,13 @@
       <persons>
           <person id="891">Paul Borgermans</person>
       </persons>
-      <links></links>
+      <links>
+      <link href="http://video.fosdem.org/2009/lightningtalks/ez_find.xvid.avi">Video (XVID)</link>
+      </links>
       <video></video>
       <end></end>
-  </event>  <event id="92">
+  </event>
+  <event id="92">
       <start>15:00</start>
       <duration>01:00</duration>
       <room>H.2213</room>
@@ -3404,7 +3281,8 @@
       <links></links>
       <video></video>
       <end></end>
-  </event>  <event id="94">
+  </event>
+  <event id="94">
       <start>16:00</start>
       <duration>01:00</duration>
       <room>H.2213</room>
@@ -3422,7 +3300,8 @@
       <links></links>
       <video></video>
       <end></end>
-  </event>  <event id="100">
+  </event>
+  <event id="100">
       <start>14:00</start>
       <duration>00:15</duration>
       <room>Ferrer</room>
@@ -3437,10 +3316,13 @@
       <persons>
           <person id="1001">Arthur Huillet</person>
       </persons>
-      <links></links>
+      <links>
+        <link href="http://video.fosdem.org/2009/lightningtalks/freedroidrpg.xvid.avi">Video (XVID)</link>
+      </links>
       <video></video>
       <end></end>
-  </event>  <event id="101">
+  </event>
+  <event id="101">
       <start>11:00</start>
       <duration>01:00</duration>
       <room>Chavanne</room>
@@ -3455,10 +3337,13 @@
       <persons>
           <person id="1011">Simo Sorce</person>
       </persons>
-      <links></links>
+      <links>
+      <link href="http://video.fosdem.org/2009/maintracks/freeipa.xvid.avi">Video (XVID)</link>
+      </links>
       <video></video>
       <end></end>
-  </event>  <event id="102">
+  </event>
+  <event id="102">
       <start>12:00</start>
       <duration>01:00</duration>
       <room>Chavanne</room>
@@ -3473,10 +3358,13 @@
       <persons>
           <person id="1021">Victor Stinner</person>
       </persons>
-      <links></links>
+      <links>
+       <link href="http://video.fosdem.org/2009/maintracks/fusil.xvid.avi">Video (XVID)</link>
+      </links>
       <video></video>
       <end></end>
-  </event>  <event id="106">
+  </event>
+  <event id="106">
       <start>10:00</start>
       <duration>01:00</duration>
       <room>AW1.117</room>
@@ -3491,10 +3379,12 @@
       <persons>
           <person id="1061">Riccardo Mottola</person>
       </persons>
-      <links></links>
+      <links>
+      </links>
       <video></video>
       <end></end>
-  </event>  <event id="107">
+  </event>
+  <event id="107">
       <start>09:00</start>
       <duration>01:00</duration>
       <room>AW1.117</room>
@@ -3509,10 +3399,12 @@
       <persons>
           <person id="1071">Richard Frith-Macdonald</person>
       </persons>
-      <links></links>
+      <links>
+      </links>
       <video></video>
       <end></end>
-  </event>  <event id="108">
+  </event>
+  <event id="108">
       <start>11:00</start>
       <duration>01:00</duration>
       <room>AW1.117</room>
@@ -3527,10 +3419,12 @@
       <persons>
           <person id="1081">Nicolas Roard</person>
       </persons>
-      <links></links>
+      <links>
+      </links>
       <video></video>
       <end></end>
-  </event>  <event id="110">
+  </event>
+  <event id="110">
       <start>12:00</start>
       <duration>01:00</duration>
       <room>AW1.117</room>
@@ -3545,10 +3439,12 @@
       <persons>
           <person id="1101">Nicola Pero</person>
       </persons>
-      <links></links>
+      <links>
+      </links>
       <video></video>
       <end></end>
-  </event>  <event id="120">
+  </event>
+  <event id="120">
       <start>10:00</start>
       <duration>00:15</duration>
       <room>Ferrer</room>
@@ -3563,10 +3459,13 @@
       <persons>
           <person id="1201">Simon Josefsson</person>
       </persons>
-      <links></links>
+      <links>
+        <link href="http://video.fosdem.org/2009/lightningtalks/tls.xvid.avi">Video (XVID)</link>
+      </links>
       <video></video>
       <end></end>
-  </event>  <event id="123">
+  </event>
+  <event id="123">
       <start>14:00</start>
       <duration>01:00</duration>
       <room>AW1.117</room>
@@ -3581,7 +3480,8 @@
       <persons>
           <person id="1231">Helge Heß</person>
       </persons>
-      <links></links>
+      <links>
+      </links>
       <video></video>
       <end></end>
   </event>  <event id="124">
@@ -3599,10 +3499,13 @@
       <persons>
           <person id="1241">Leslie Hawthorn</person>
       </persons>
-      <links></links>
+      <links>
+      <link href="http://video.fosdem.org/2009/maintracks/google_soc.xvid.avi">Video (XVID)</link>
+      </links>
       <video></video>
       <end></end>
-  </event>  <event id="131">
+  </event>
+  <event id="131">
       <start>11:00</start>
       <duration>00:15</duration>
       <room>Ferrer</room>
@@ -3617,10 +3520,13 @@
       <persons>
           <person id="1311">Renzo Davoli</person>
       </persons>
-      <links></links>
+      <links>
+      <link href="http://video.fosdem.org/2009/lightningtalks/renew_berkeley_sockets_api.xvid.avi">Video (XVID)</link>
+      </links>
       <video></video>
       <end></end>
-  </event>  <event id="142">
+  </event>
+  <event id="142">
       <start>10:00</start>
       <duration>00:15</duration>
       <room>AW1.125</room>
@@ -3638,7 +3544,8 @@
       <links></links>
       <video></video>
       <end></end>
-  </event>  <event id="145">
+  </event>
+  <event id="145">
       <start>11:45</start>
       <duration>00:30</duration>
       <room>AW1.125</room>
@@ -3656,7 +3563,8 @@
       <links></links>
       <video></video>
       <end></end>
-  </event>  <event id="146">
+  </event>
+  <event id="146">
       <start>14:15</start>
       <duration>00:30</duration>
       <room>AW1.125</room>
@@ -3674,7 +3582,8 @@
       <links></links>
       <video></video>
       <end></end>
-  </event>  <event id="149">
+  </event>
+  <event id="149">
       <start>14:00</start>
       <duration>00:15</duration>
       <room>AW1.125</room>
@@ -3692,7 +3601,8 @@
       <links></links>
       <video></video>
       <end></end>
-  </event>  <event id="151">
+  </event>
+  <event id="151">
       <start>10:45</start>
       <duration>00:15</duration>
       <room>AW1.125</room>
@@ -3710,7 +3620,8 @@
       <links></links>
       <video></video>
       <end></end>
-  </event>  <event id="152">
+  </event>
+  <event id="152">
       <start>14:45</start>
       <duration>00:30</duration>
       <room>AW1.125</room>
@@ -3728,7 +3639,8 @@
       <links></links>
       <video></video>
       <end></end>
-  </event>  <event id="153">
+  </event>
+  <event id="153">
       <start>12:45</start>
       <duration>00:30</duration>
       <room>AW1.125</room>
@@ -3746,7 +3658,8 @@
       <links></links>
       <video></video>
       <end></end>
-  </event>  <event id="155">
+  </event>
+  <event id="155">
       <start>16:00</start>
       <duration>00:30</duration>
       <room>AW1.125</room>
@@ -3764,7 +3677,8 @@
       <links></links>
       <video></video>
       <end></end>
-  </event>  <event id="156">
+  </event>
+  <event id="156">
       <start>11:00</start>
       <duration>00:30</duration>
       <room>AW1.125</room>
@@ -3782,7 +3696,8 @@
       <links></links>
       <video></video>
       <end></end>
-  </event>  <event id="157">
+  </event>
+  <event id="157">
       <start>16:30</start>
       <duration>00:30</duration>
       <room>AW1.125</room>
@@ -3800,7 +3715,8 @@
       <links></links>
       <video></video>
       <end></end>
-  </event>  <event id="158">
+  </event>
+  <event id="158">
       <start>15:45</start>
       <duration>00:15</duration>
       <room>AW1.125</room>
@@ -3818,7 +3734,8 @@
       <links></links>
       <video></video>
       <end></end>
-  </event>  <event id="162">
+  </event>
+  <event id="162">
       <start>12:15</start>
       <duration>00:30</duration>
       <room>AW1.125</room>
@@ -3836,7 +3753,8 @@
       <links></links>
       <video></video>
       <end></end>
-  </event>  <event id="163">
+  </event>
+  <event id="163">
       <start>10:15</start>
       <duration>00:30</duration>
       <room>AW1.125</room>
@@ -3854,7 +3772,8 @@
       <links></links>
       <video></video>
       <end></end>
-  </event>  <event id="165">
+  </event>
+  <event id="165">
       <start>15:15</start>
       <duration>00:15</duration>
       <room>AW1.125</room>
@@ -3872,7 +3791,8 @@
       <links></links>
       <video></video>
       <end></end>
-  </event>  <event id="166">
+  </event>
+  <event id="166">
       <start>10:40</start>
       <duration>00:15</duration>
       <room>Ferrer</room>
@@ -3887,10 +3807,13 @@
       <persons>
           <person id="1661">Francesco Russo</person>
       </persons>
-      <links></links>
+      <links>
+      <link href="http://video.fosdem.org/2009/lightningtalks/jtr.xvid.avi">Video (XVID)</link>
+      </links>
       <video></video>
       <end></end>
-  </event>  <event id="175">
+  </event>
+  <event id="175">
       <start>12:00</start>
       <duration>02:00</duration>
       <room>Ferrer</room>
@@ -3906,10 +3829,12 @@
           <person id="1751">Joost van Baal</person>
           <person id="1752">Theus Hagen</person>
       </persons>
-      <links></links>
+      <links>
+      </links>
       <video></video>
       <end></end>
-  </event>  <event id="178">
+  </event>
+  <event id="178">
       <start>10:30</start>
       <duration>01:30</duration>
       <room>Guillissen</room>
@@ -3927,7 +3852,8 @@
       <links></links>
       <video></video>
       <end></end>
-  </event>  <event id="179">
+  </event>
+  <event id="179">
       <start>13:00</start>
       <duration>01:30</duration>
       <room>Guillissen</room>
@@ -3945,7 +3871,8 @@
       <links></links>
       <video></video>
       <end></end>
-  </event>  <event id="180">
+  </event>
+  <event id="180">
       <start>15:00</start>
       <duration>01:30</duration>
       <room>Guillissen</room>
@@ -3963,7 +3890,8 @@
       <links></links>
       <video></video>
       <end></end>
-  </event>  <event id="183">
+  </event>
+  <event id="183">
       <start>14:00</start>
       <duration>01:00</duration>
       <room>Chavanne</room>
@@ -3978,10 +3906,13 @@
       <persons>
           <person id="1831">Brion Vibber</person>
       </persons>
-      <links></links>
+      <links>
+      <link href="http://video.fosdem.org/2009/maintracks/mediawiki.xvid.avi">Video (XVID)</link>
+      </links>
       <video></video>
       <end></end>
-  </event>  <event id="184">
+  </event>
+  <event id="184">
       <start>11:20</start>
       <duration>00:15</duration>
       <room>Ferrer</room>
@@ -3996,10 +3927,13 @@
       <persons>
           <person id="1841">Agustín Benito</person>
       </persons>
-      <links></links>
+      <links>
+      <link href="http://video.fosdem.org/2009/lightningtalks/modularit.xvid.avi">Video (XVID)</link>
+      </links>
       <video></video>
       <end></end>
-  </event>  <event id="188">
+  </event>
+  <event id="188">
       <start>15:30</start>
       <duration>00:45</duration>
       <room>H.1308</room>
@@ -4017,7 +3951,8 @@
       <links></links>
       <video></video>
       <end></end>
-  </event>  <event id="191">
+  </event>
+  <event id="191">
       <start>16:15</start>
       <duration>00:45</duration>
       <room>H.1308</room>
@@ -4035,7 +3970,8 @@
       <links></links>
       <video></video>
       <end></end>
-  </event>  <event id="192">
+  </event>
+  <event id="192">
       <start>14:00</start>
       <duration>02:00</duration>
       <room>AW1.105</room>
@@ -4054,7 +3990,8 @@
       <links></links>
       <video></video>
       <end></end>
-  </event>  <event id="193">
+  </event>
+  <event id="193">
       <start>14:45</start>
       <duration>00:45</duration>
       <room>H.1308</room>
@@ -4073,7 +4010,8 @@
       <links></links>
       <video></video>
       <end></end>
-  </event>  <event id="194">
+  </event>
+  <event id="194">
       <start>10:30</start>
       <duration>00:45</duration>
       <room>H.1308</room>
@@ -4091,7 +4029,8 @@
       <links></links>
       <video></video>
       <end></end>
-  </event>  <event id="195">
+  </event>
+  <event id="195">
       <start>14:00</start>
       <duration>00:45</duration>
       <room>H.1308</room>
@@ -4109,7 +4048,8 @@
       <links></links>
       <video></video>
       <end></end>
-  </event>  <event id="196">
+  </event>
+  <event id="196">
       <start>09:45</start>
       <duration>00:45</duration>
       <room>H.1308</room>
@@ -4127,7 +4067,8 @@
       <links></links>
       <video></video>
       <end></end>
-  </event>  <event id="197">
+  </event>
+  <event id="197">
       <start>09:00</start>
       <duration>00:45</duration>
       <room>H.1308</room>
@@ -4145,7 +4086,8 @@
       <links></links>
       <video></video>
       <end></end>
-  </event>  <event id="198">
+  </event>
+  <event id="198">
       <start>11:15</start>
       <duration>00:45</duration>
       <room>H.1308</room>
@@ -4163,7 +4105,8 @@
       <links></links>
       <video></video>
       <end></end>
-  </event>  <event id="199">
+  </event>
+  <event id="199">
       <start>12:00</start>
       <duration>01:00</duration>
       <room>H.1308</room>
@@ -4182,7 +4125,8 @@
       <links></links>
       <video></video>
       <end></end>
-  </event>  <event id="202">
+  </event>
+  <event id="202">
       <start>14:40</start>
       <duration>00:15</duration>
       <room>Ferrer</room>
@@ -4197,10 +4141,13 @@
       <persons>
           <person id="2021">Thomas Bonte</person>
       </persons>
-      <links></links>
+      <links>
+      <link href="http://video.fosdem.org/2009/lightningtalks/muse_score.xvid.avi">Video (XVID)</link>
+      </links>
       <video></video>
       <end></end>
-  </event>  <event id="203">
+  </event>
+  <event id="203">
       <start>11:00</start>
       <duration>00:45</duration>
       <room>AW1.126</room>
@@ -4218,7 +4165,8 @@
       <links></links>
       <video></video>
       <end></end>
-  </event>  <event id="204">
+  </event>
+  <event id="204">
       <start>11:00</start>
       <duration>01:00</duration>
       <room>Janson</room>
@@ -4233,10 +4181,13 @@
       <persons>
           <person id="2041">Lenz Grimmer</person>
       </persons>
-      <links></links>
+      <links>
+        <link href="http://video.fosdem.org/2009/maintracks/mysql_ha.xvid.avi">Video (XVID)</link>
+      </links>
       <video></video>
       <end></end>
-  </event>  <event id="205">
+  </event>
+  <event id="205">
       <start>10:00</start>
       <duration>01:00</duration>
       <room>AW1.126</room>
@@ -4254,7 +4205,8 @@
       <links></links>
       <video></video>
       <end></end>
-  </event>  <event id="206">
+  </event>
+  <event id="206">
       <start>15:00</start>
       <duration>01:00</duration>
       <room>AW1.126</room>
@@ -4272,7 +4224,8 @@
       <links></links>
       <video></video>
       <end></end>
-  </event>  <event id="207">
+  </event>
+  <event id="207">
       <start>09:00</start>
       <duration>01:00</duration>
       <room>AW1.126</room>
@@ -4290,7 +4243,8 @@
       <links></links>
       <video></video>
       <end></end>
-  </event>  <event id="208">
+  </event>
+  <event id="208">
       <start>11:45</start>
       <duration>01:00</duration>
       <room>AW1.126</room>
@@ -4308,7 +4262,8 @@
       <links></links>
       <video></video>
       <end></end>
-  </event>  <event id="209">
+  </event>
+  <event id="209">
       <start>16:00</start>
       <duration>01:00</duration>
       <room>AW1.126</room>
@@ -4326,7 +4281,8 @@
       <links></links>
       <video></video>
       <end></end>
-  </event>  <event id="210">
+  </event>
+  <event id="210">
       <start>13:15</start>
       <duration>01:00</duration>
       <room>AW1.126</room>
@@ -4344,7 +4300,8 @@
       <links></links>
       <video></video>
       <end></end>
-  </event>  <event id="211">
+  </event>
+  <event id="211">
       <start>14:15</start>
       <duration>00:45</duration>
       <room>AW1.126</room>
@@ -4362,7 +4319,8 @@
       <links></links>
       <video></video>
       <end></end>
-  </event>  <event id="213">
+  </event>
+  <event id="213">
       <start>11:00</start>
       <duration>02:00</duration>
       <room>AW1.105</room>
@@ -4380,7 +4338,8 @@
       <links></links>
       <video></video>
       <end></end>
-  </event>  <event id="214">
+  </event>
+  <event id="214">
       <start>09:00</start>
       <duration>02:00</duration>
       <room>AW1.105</room>
@@ -4398,7 +4357,8 @@
       <links></links>
       <video></video>
       <end></end>
-  </event>  <event id="223">
+  </event>
+  <event id="223">
       <start>14:45</start>
       <duration>00:45</duration>
       <room>H.2214</room>
@@ -4413,10 +4373,13 @@
       <persons>
           <person id="2231">Brent McConnell</person>
       </persons>
-      <links></links>
+      <links>
+        <link href="http://video.fosdem.org/2009/devrooms/opensuse/fosdem09_day2_08-collaboration.ogg">Video (XVID)</link>
+      </links>
       <video></video>
       <end></end>
-  </event>  <event id="226">
+  </event>
+  <event id="226">
       <start>16:15</start>
       <duration>00:45</duration>
       <room>H.2214</room>
@@ -4431,10 +4394,13 @@
       <persons>
           <person id="2261">Will Stephenson</person>
       </persons>
-      <links></links>
+      <links>
+      <link href="http://video.fosdem.org/2009/devrooms/opensuse/fosdem09_day2_10-kde.ogg">Video (XVID)</link>
+      </links>
       <video></video>
       <end></end>
-  </event>  <event id="228">
+  </event>
+  <event id="228">
       <start>10:00</start>
       <duration>00:45</duration>
       <room>H.2214</room>
@@ -4450,10 +4416,13 @@
           <person id="2281">Lars Vogdt</person>
           <person id="2282">Andrea Florio</person>
       </persons>
-      <links></links>
+      <links>
+      <link href="http://video.fosdem.org/2009/devrooms/opensuse/fosdem09_day2_01-education.ogg">Video (XVID)</link>
+      </links>
       <video></video>
       <end></end>
-  </event>  <event id="229">
+  </event>
+  <event id="229">
       <start>15:30</start>
       <duration>00:45</duration>
       <room>H.2214</room>
@@ -4468,10 +4437,13 @@
       <persons>
           <person id="2291">Vincent Untz</person>
       </persons>
-      <links></links>
+      <links>
+      <link href="http://video.fosdem.org/2009/devrooms/opensuse/fosdem09_day2_09-gnome.ogg">Video (XVID)</link>
+      </links>
       <video></video>
       <end></end>
-  </event>  <event id="231">
+  </event>
+  <event id="231">
       <start>12:00</start>
       <duration>00:45</duration>
       <room>H.2214</room>
@@ -4486,10 +4458,13 @@
       <persons>
           <person id="2311">Peter Poeml</person>
       </persons>
-      <links></links>
+      <links>
+      <link href="http://video.fosdem.org/2009/devrooms/opensuse/fosdem09_day2_04-cdn.ogg">Video (XVID)</link>
+      </links>
       <video></video>
       <end></end>
-  </event>  <event id="232">
+  </event>
+  <event id="232">
       <start>12:45</start>
       <duration>00:45</duration>
       <room>H.2214</room>
@@ -4504,10 +4479,13 @@
       <persons>
           <person id="2321">Stefan Seyfried</person>
       </persons>
-      <links></links>
+      <links>
+      <link href="http://video.fosdem.org/2009/devrooms/opensuse/fosdem09_day2_05-netbooks.ogg">Video (XVID)</link>
+      </links>
       <video></video>
       <end></end>
-  </event>  <event id="236">
+  </event>
+  <event id="236">
       <start>14:15</start>
       <duration>00:30</duration>
       <room>H.2214</room>
@@ -4522,10 +4500,13 @@
       <persons>
           <person id="2361">Thomas Schmidt</person>
       </persons>
-      <links></links>
+      <links>
+      <link href="http://video.fosdem.org/2009/devrooms/opensuse/fosdem09_day2_07-openfate.ogg">Video (XVID)</link>
+      </links>
       <video></video>
       <end></end>
-  </event>  <event id="239">
+  </event>
+  <event id="239">
       <start>11:15</start>
       <duration>00:45</duration>
       <room>H.2214</room>
@@ -4540,10 +4521,13 @@
       <persons>
           <person id="2391">Marcus Meissner</person>
       </persons>
-      <links></links>
+      <links>
+      <link href="http://video.fosdem.org/2009/devrooms/opensuse/fosdem09_day2_03-wine.ogg">Video (XVID)</link>
+      </links>
       <video></video>
       <end></end>
-  </event>  <event id="240">
+  </event>
+  <event id="240">
       <start>13:30</start>
       <duration>00:45</duration>
       <room>H.2214</room>
@@ -4558,10 +4542,13 @@
       <persons>
           <person id="2401">Duncan Mac-Vicar Prett</person>
       </persons>
-      <links></links>
+      <links>
+      <link href="http://video.fosdem.org/2009/devrooms/opensuse/fosdem09_day2_06-yast.ogg">Video (XVID)</link>
+      </links>
       <video></video>
       <end></end>
-  </event>  <event id="241">
+  </event>
+  <event id="241">
       <start>10:45</start>
       <duration>00:30</duration>
       <room>H.2214</room>
@@ -4576,10 +4563,12 @@
       <persons>
           <person id="2411">Ján Kupec</person>
       </persons>
-      <links></links>
+      <links>
+      <link href="http://video.fosdem.org/2009/devrooms/opensuse/fosdem09_day2_02-zypper.ogg">Video (XVID)</link></links>
       <video></video>
       <end></end>
-  </event>  <event id="248">
+  </event>
+  <event id="248">
       <start>15:00</start>
       <duration>01:00</duration>
       <room>UA2.114</room>
@@ -4597,7 +4586,8 @@
       <links></links>
       <video></video>
       <end></end>
-  </event>  <event id="249">
+  </event>
+  <event id="249">
       <start>13:00</start>
       <duration>00:30</duration>
       <room>UA2.114</room>
@@ -4615,7 +4605,8 @@
       <links></links>
       <video></video>
       <end></end>
-  </event>  <event id="250">
+  </event>
+  <event id="250">
       <start>11:00</start>
       <duration>01:00</duration>
       <room>UA2.114</room>
@@ -4633,7 +4624,8 @@
       <links></links>
       <video></video>
       <end></end>
-  </event>  <event id="251">
+  </event>
+  <event id="251">
       <start>10:00</start>
       <duration>01:00</duration>
       <room>UA2.114</room>
@@ -4651,7 +4643,8 @@
       <links></links>
       <video></video>
       <end></end>
-  </event>  <event id="252">
+  </event>
+  <event id="252">
       <start>09:30</start>
       <duration>00:30</duration>
       <room>UA2.114</room>
@@ -4669,7 +4662,8 @@
       <links></links>
       <video></video>
       <end></end>
-  </event>  <event id="253">
+  </event>
+  <event id="253">
       <start>09:00</start>
       <duration>00:30</duration>
       <room>UA2.114</room>
@@ -4687,7 +4681,8 @@
       <links></links>
       <video></video>
       <end></end>
-  </event>  <event id="254">
+  </event>
+  <event id="254">
       <start>14:00</start>
       <duration>00:30</duration>
       <room>UA2.114</room>
@@ -4705,7 +4700,8 @@
       <links></links>
       <video></video>
       <end></end>
-  </event>  <event id="256">
+  </event>
+  <event id="256">
       <start>14:30</start>
       <duration>00:30</duration>
       <room>UA2.114</room>
@@ -4723,7 +4719,8 @@
       <links></links>
       <video></video>
       <end></end>
-  </event>  <event id="257">
+  </event>
+  <event id="257">
       <start>13:30</start>
       <duration>00:30</duration>
       <room>UA2.114</room>
@@ -4741,7 +4738,8 @@
       <links></links>
       <video></video>
       <end></end>
-  </event>  <event id="258">
+  </event>
+  <event id="258">
       <start>11:40</start>
       <duration>00:15</duration>
       <room>Ferrer</room>
@@ -4756,10 +4754,13 @@
       <persons>
           <person id="2581">Marlon de Boer</person>
       </persons>
-      <links></links>
+      <links>
+      <link href="http://video.fosdem.org/2009/lightningtalks/hyves_puppet.xvid.avi">Video (XVID)</link>
+      </links>
       <video></video>
       <end></end>
-  </event>  <event id="259">
+  </event>
+  <event id="259">
       <start>15:00</start>
       <duration>00:15</duration>
       <room>Ferrer</room>
@@ -4774,10 +4775,13 @@
       <persons>
           <person id="2591">Bruno Bord</person>
       </persons>
-      <links></links>
+      <links>
+        <link href="http://video.fosdem.org/2009/lightningtalks/pyroom.xvid.avi">Video (XVID)</link>
+      </links>
       <video></video>
       <end></end>
-  </event>  <event id="261">
+  </event>
+  <event id="261">
       <start>16:15</start>
       <duration>00:45</duration>
       <room>AW1.120</room>
@@ -4795,7 +4799,8 @@
       <links></links>
       <video></video>
       <end></end>
-  </event>  <event id="262">
+  </event>
+  <event id="262">
       <start>15:30</start>
       <duration>00:45</duration>
       <room>AW1.120</room>
@@ -4813,7 +4818,8 @@
       <links></links>
       <video></video>
       <end></end>
-  </event>  <event id="263">
+  </event>
+  <event id="263">
       <start>09:15</start>
       <duration>00:45</duration>
       <room>AW1.120</room>
@@ -4831,7 +4837,8 @@
       <links></links>
       <video></video>
       <end></end>
-  </event>  <event id="264">
+  </event>
+  <event id="264">
       <start>10:30</start>
       <duration>00:30</duration>
       <room>AW1.120</room>
@@ -4849,7 +4856,8 @@
       <links></links>
       <video></video>
       <end></end>
-  </event>  <event id="265">
+  </event>
+  <event id="265">
       <start>11:15</start>
       <duration>00:45</duration>
       <room>AW1.120</room>
@@ -4867,7 +4875,8 @@
       <links></links>
       <video></video>
       <end></end>
-  </event>  <event id="266">
+  </event>
+  <event id="266">
       <start>13:30</start>
       <duration>00:45</duration>
       <room>AW1.120</room>
@@ -4885,7 +4894,8 @@
       <links></links>
       <video></video>
       <end></end>
-  </event>  <event id="267">
+  </event>
+  <event id="267">
       <start>10:00</start>
       <duration>00:30</duration>
       <room>AW1.120</room>
@@ -4903,7 +4913,8 @@
       <links></links>
       <video></video>
       <end></end>
-  </event>  <event id="268">
+  </event>
+  <event id="268">
       <start>14:45</start>
       <duration>00:30</duration>
       <room>AW1.120</room>
@@ -4921,7 +4932,8 @@
       <links></links>
       <video></video>
       <end></end>
-  </event>  <event id="269">
+  </event>
+  <event id="269">
       <start>14:15</start>
       <duration>00:30</duration>
       <room>AW1.120</room>
@@ -4939,7 +4951,8 @@
       <links></links>
       <video></video>
       <end></end>
-  </event>  <event id="270">
+  </event>
+  <event id="270">
       <start>09:00</start>
       <duration>00:15</duration>
       <room>AW1.120</room>
@@ -4957,7 +4970,8 @@
       <links></links>
       <video></video>
       <end></end>
-  </event>  <event id="271">
+  </event>
+  <event id="271">
       <start>12:00</start>
       <duration>00:30</duration>
       <room>AW1.120</room>
@@ -4975,7 +4989,8 @@
       <links></links>
       <video></video>
       <end></end>
-  </event>  <event id="273">
+  </event>
+  <event id="273">
       <start>10:20</start>
       <duration>00:15</duration>
       <room>Ferrer</room>
@@ -4990,10 +5005,13 @@
       <persons>
           <person id="2731">Joost van Baal</person>
       </persons>
-      <links></links>
+      <links>
+      <link href="http://video.fosdem.org/2009/lightningtalks/secure_list_server.xvid.avi">Video (XVID)</link>
+      </links>
       <video></video>
       <end></end>
-  </event>  <event id="274">
+  </event>
+  <event id="274">
       <start>14:20</start>
       <duration>00:15</duration>
       <room>Ferrer</room>
@@ -5008,10 +5026,13 @@
       <persons>
           <person id="2741">Steven Goodwin</person>
       </persons>
-      <links></links>
+      <links>
+      <link href="http://video.fosdem.org/2009/lightningtalks/games_engines_done_good.xvid.avi">Video (XVID)</link>
+      </links>
       <video></video>
       <end></end>
-  </event>  <event id="275">
+  </event>
+  <event id="275">
       <start>16:00</start>
       <duration>01:00</duration>
       <room>Janson</room>
@@ -5026,10 +5047,13 @@
       <persons>
           <person id="2751">Kris Kennaway</person>
       </persons>
-      <links></links>
+      <links>
+        <link href="http://video.fosdem.org/2009/maintracks/my_system_is_slow.xvid.avi">Video (XVID)</link>
+      </links>
       <video></video>
       <end></end>
-  </event>  <event id="277">
+  </event>
+  <event id="277">
       <start>14:00</start>
       <duration>01:00</duration>
       <room>Janson</room>
@@ -5044,10 +5068,13 @@
       <persons>
           <person id="2771">H. Peter Anvin</person>
       </persons>
-      <links></links>
+      <links>
+      <link href="http://video.fosdem.org/2009/maintracks/syslinux.xvid.avi">Video (XVID)</link>
+      </links>
       <video></video>
       <end></end>
-  </event>  <event id="279">
+  </event>
+  <event id="279">
       <start>16:00</start>
       <duration>00:15</duration>
       <room>Ferrer</room>
@@ -5062,10 +5089,13 @@
       <persons>
           <person id="2791">Marc Laporte</person>
       </persons>
-      <links></links>
+      <links>
+      <link href="http://video.fosdem.org/2009/lightningtalks/tikiwiki.xvid.avi">Video (XVID)</link>
+      </links>
       <video></video>
       <end></end>
-  </event>  <event id="280">
+  </event>
+  <event id="280">
       <start>12:00</start>
       <duration>01:00</duration>
       <room>Janson</room>
@@ -5080,10 +5110,13 @@
       <persons>
           <person id="2801">Scott James Remnant</person>
       </persons>
-      <links></links>
+      <links>
+      <link href="http://video.fosdem.org/2009/maintracks/upstart.xvid.avi">Video (XVID)</link>
+      </links>
       <video></video>
       <end></end>
-  </event>  <event id="283">
+  </event>
+  <event id="283">
       <start>16:00</start>
       <duration>00:45</duration>
       <room>H.1301</room>
@@ -5119,7 +5152,8 @@
       <links></links>
       <video></video>
       <end></end>
-  </event>  <event id="285">
+  </event>
+  <event id="285">
       <start>10:15</start>
       <duration>00:45</duration>
       <room>H.1301</room>
@@ -5137,7 +5171,8 @@
       <links></links>
       <video></video>
       <end></end>
-  </event>  <event id="286">
+  </event>
+  <event id="286">
       <start>15:15</start>
       <duration>00:45</duration>
       <room>H.1301</room>
@@ -5155,7 +5190,8 @@
       <links></links>
       <video></video>
       <end></end>
-  </event>  <event id="287">
+  </event>
+  <event id="287">
       <start>13:45</start>
       <duration>00:45</duration>
       <room>H.1301</room>
@@ -5173,7 +5209,8 @@
       <links></links>
       <video></video>
       <end></end>
-  </event>  <event id="288">
+  </event>
+  <event id="288">
       <start>10:00</start>
       <duration>00:15</duration>
       <room>H.1301</room>
@@ -5193,7 +5230,8 @@
       <links></links>
       <video></video>
       <end></end>
-  </event>  <event id="289">
+  </event>
+  <event id="289">
       <start>11:00</start>
       <duration>00:45</duration>
       <room>H.1301</room>
@@ -5211,7 +5249,8 @@
       <links></links>
       <video></video>
       <end></end>
-  </event>  <event id="290">
+  </event>
+  <event id="290">
       <start>14:30</start>
       <duration>00:45</duration>
       <room>H.1301</room>
@@ -5229,7 +5268,8 @@
       <links></links>
       <video></video>
       <end></end>
-  </event>  <event id="292">
+  </event>
+  <event id="292">
       <start>15:00</start>
       <duration>01:00</duration>
       <room>H.1309</room>
@@ -5247,7 +5287,8 @@
       <links></links>
       <video></video>
       <end></end>
-  </event>  <event id="293">
+  </event>
+  <event id="293">
       <start>11:00</start>
       <duration>01:00</duration>
       <room>H.1309</room>
@@ -5265,7 +5306,8 @@
       <links></links>
       <video></video>
       <end></end>
-  </event>  <event id="295">
+  </event>
+  <event id="295">
       <start>12:00</start>
       <duration>01:00</duration>
       <room>H.1309</room>
@@ -5283,7 +5325,8 @@
       <links></links>
       <video></video>
       <end></end>
-  </event>  <event id="296">
+  </event>
+  <event id="296">
       <start>14:00</start>
       <duration>01:00</duration>
       <room>H.1309</room>
@@ -5301,7 +5344,8 @@
       <links></links>
       <video></video>
       <end></end>
-  </event>  <event id="299">
+  </event>
+  <event id="299">
       <start>16:00</start>
       <duration>01:00</duration>
       <room>H.1309</room>
@@ -5319,7 +5363,8 @@
       <links></links>
       <video></video>
       <end></end>
-  </event>  <event id="300">
+  </event>
+  <event id="300">
       <start>15:40</start>
       <duration>00:15</duration>
       <room>Ferrer</room>
@@ -5334,10 +5379,13 @@
       <persons>
           <person id="3001">Anca Luca</person>
       </persons>
-      <links></links>
+      <links>
+      <link href="http://video.fosdem.org/2009/lightningtalks/xwiki.xvid.avi">Video (XVID)</link>
+      </links>
       <video></video>
       <end></end>
-  </event>  <event id="301">
+  </event>
+  <event id="301">
       <start>15:00</start>
       <duration>01:00</duration>
       <room>Chavanne</room>
@@ -5352,8 +5400,11 @@
       <persons>
           <person id="3011">Steve Hardy</person>
       </persons>
-      <links></links>
+      <links>
+      <link href="http://video.fosdem.org/2009/maintracks/zarafa.xvid.avi">Video (XVID)</link>
+      </links>
       <video></video>
       <end></end>
-  </event>  </day>
+  </event>
+  </day>
 </schedule>
