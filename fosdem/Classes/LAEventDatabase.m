@@ -201,10 +201,12 @@ fosdemAppDelegate * myapp;
     }
     
   }
-  
-  tracksCache = tracks;
-  
-  return tracks;
+  //tracksCache = tracks;
+  //return tracks;
+  // we sort the tracks, so that we have a nice overview
+  tracksCache = [tracks sortedArrayUsingSelector:@selector(localizedCaseInsensitiveCompare:)];
+  NSArray *trackssorted = [tracks sortedArrayUsingSelector:@selector(localizedCaseInsensitiveCompare:)];
+  return trackssorted;
 }
 
 - (NSMutableArray *) starredEvents {
@@ -371,6 +373,27 @@ fosdemAppDelegate * myapp;
   if ([[NSFileManager defaultManager] fileExistsAtPath: [NSString stringWithFormat: @"%@/%@.png", [[NSBundle mainBundle] resourcePath], [event location]]]) {
     
     return [NSString stringWithFormat: @"<img src=\"%@/%@.png\" />", [[NSBundle mainBundle] resourcePath], [event location]];
+    
+  }
+		
+  return @"Map Not Found!";
+  
+}
+
+- (NSString*) mapHTMLForConference {
+  
+  //if ([[NSFileManager defaultManager] fileExistsAtPath: [NSString stringWithFormat: @"%@%@", [[NSBundle mainBundle] resourcePath], [event location]]])
+  //NSLog([NSString stringWithFormat: @"%@/%@.png", [[NSBundle mainBundle] resourcePath], [event location]]);
+  
+  /* String for the path
+   
+   [NSString stringWithFormat: @"%@/%@.png", [[NSBundle mainBundle] resourcePath], [event location]];
+   
+   */
+  
+  if ([[NSFileManager defaultManager] fileExistsAtPath: [NSString stringWithFormat: @"%@/%@", [[NSBundle mainBundle] resourcePath], @"ulb_solbosch.png"]]) {
+    
+    return [NSString stringWithFormat: @"<img src=\"%@/%@\" />", [[NSBundle mainBundle] resourcePath], @"ulb_solbosch.png"];
     
   }
 		

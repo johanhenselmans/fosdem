@@ -59,6 +59,7 @@
 + (void) resetMainEventDatabase;
 
 - (NSString*) mapHTMLForEvent: (LAEvent*) event;
+- (NSString*) mapHTMLForConference;
 
 @property (retain) NSMutableArray *events;
 @property (retain) NSMutableDictionary *eventsUserData;

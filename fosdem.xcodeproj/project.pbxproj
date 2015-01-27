@@ -27,6 +27,11 @@
 		048CCDE71A1CF3520088340C /* fosdem_schedule2015.xml in Resources */ = {isa = PBXBuildFile; fileRef = 048CCDDE1A1CF3520088340C /* fosdem_schedule2015.xml */; };
 		048CCDEA1A1D4ABB0088340C /* video.png in Resources */ = {isa = PBXBuildFile; fileRef = 048CCDE81A1D4ABB0088340C /* video.png */; };
 		048CCDEB1A1D4ABB0088340C /* video@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 048CCDE91A1D4ABB0088340C /* video@2x.png */; };
+		04A862C91A6FA19E0019C7BE /* ulb_solbosch.png in Resources */ = {isa = PBXBuildFile; fileRef = 04A862C81A6FA19E0019C7BE /* ulb_solbosch.png */; };
+		04A862CB1A6FF7550019C7BE /* UB2.147.png in Resources */ = {isa = PBXBuildFile; fileRef = 04A862CA1A6FF7550019C7BE /* UB2.147.png */; };
+		04A862CD1A6FF75F0019C7BE /* H.1302 (Depage).png in Resources */ = {isa = PBXBuildFile; fileRef = 04A862CC1A6FF75F0019C7BE /* H.1302 (Depage).png */; };
+		04A862CF1A6FF7AD0019C7BE /* UD2.218A.png in Resources */ = {isa = PBXBuildFile; fileRef = 04A862CE1A6FF7AD0019C7BE /* UD2.218A.png */; };
+		04A862D11A6FF8670019C7BE /* H.3327.png in Resources */ = {isa = PBXBuildFile; fileRef = 04A862D01A6FF8670019C7BE /* H.3327.png */; };
 		04B3FABF1A168F6F002BDBBD /* fosdemAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 04D1DC721A168A65004AC9D8 /* fosdemAppDelegate.m */; };
 		04B3FAC01A168F74002BDBBD /* LADownload.m in Sources */ = {isa = PBXBuildFile; fileRef = 04D1DC741A168A65004AC9D8 /* LADownload.m */; };
 		04B3FAC11A168F79002BDBBD /* LAEvent.m in Sources */ = {isa = PBXBuildFile; fileRef = 04D1DC761A168A65004AC9D8 /* LAEvent.m */; };
@@ -149,6 +154,11 @@
 		048CCDDE1A1CF3520088340C /* fosdem_schedule2015.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = fosdem_schedule2015.xml; path = fosdem/fosdem_schedule2015.xml; sourceTree = "<group>"; };
 		048CCDE81A1D4ABB0088340C /* video.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = video.png; path = fosdem/video.png; sourceTree = "<group>"; };
 		048CCDE91A1D4ABB0088340C /* video@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "video@2x.png"; path = "fosdem/video@2x.png"; sourceTree = "<group>"; };
+		04A862C81A6FA19E0019C7BE /* ulb_solbosch.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ulb_solbosch.png; path = fosdem/maps/ulb_solbosch.png; sourceTree = SOURCE_ROOT; };
+		04A862CA1A6FF7550019C7BE /* UB2.147.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = UB2.147.png; path = fosdem/maps/UB2.147.png; sourceTree = SOURCE_ROOT; };
+		04A862CC1A6FF75F0019C7BE /* H.1302 (Depage).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "H.1302 (Depage).png"; path = "fosdem/maps/H.1302 (Depage).png"; sourceTree = SOURCE_ROOT; };
+		04A862CE1A6FF7AD0019C7BE /* UD2.218A.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = UD2.218A.png; path = fosdem/maps/UD2.218A.png; sourceTree = SOURCE_ROOT; };
+		04A862D01A6FF8670019C7BE /* H.3327.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = H.3327.png; path = fosdem/maps/H.3327.png; sourceTree = SOURCE_ROOT; };
 		04BD90DB1A1115D8006D0251 /* YearTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = YearTableViewCell.xib; path = fosdem/YearTableViewCell.xib; sourceTree = "<group>"; };
 		04D1DBCD1A1688CE004AC9D8 /* Icon-72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-72.png"; path = "fosdem/Icon-72.png"; sourceTree = "<group>"; };
 		04D1DBCE1A1688CE004AC9D8 /* Icon-72@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-72@2x.png"; path = "fosdem/Icon-72@2x.png"; sourceTree = "<group>"; };
@@ -362,6 +372,7 @@
 				04D1DBEF1A1689A9004AC9D8 /* Ferrer.png */,
 				04D1DBF01A1689A9004AC9D8 /* H.1301 (Cornil).png */,
 				04D1DBF11A1689A9004AC9D8 /* H.1301.png */,
+				04A862CC1A6FF75F0019C7BE /* H.1302 (Depage).png */,
 				04D1DBF21A1689A9004AC9D8 /* H.1302 (Depagne).png */,
 				04D1DBF31A1689A9004AC9D8 /* H.1302.png */,
 				04D1DBF41A1689A9004AC9D8 /* H.1308 (Rolin).png */,
@@ -371,6 +382,7 @@
 				04D1DBF81A1689A9004AC9D8 /* H.2213.png */,
 				04D1DBF91A1689A9004AC9D8 /* H.2214.png */,
 				04D1DBFA1A1689A9004AC9D8 /* H.2215 (Ferrer).png */,
+				04A862D01A6FF8670019C7BE /* H.3327.png */,
 				04D1DBFB1A1689A9004AC9D8 /* Janson.png */,
 				04D1DBFC1A1689A9004AC9D8 /* K.1.105 (La Fontaine).png */,
 				04D1DBFD1A1689A9004AC9D8 /* K.1.105.png */,
@@ -383,8 +395,11 @@
 				04D1DC041A1689A9004AC9D8 /* Lameere.png */,
 				04D1DC051A1689A9004AC9D8 /* UA2.114 (Baudoux).png */,
 				04D1DC061A1689A9004AC9D8 /* UA2.114.png */,
+				04A862CA1A6FF7550019C7BE /* UB2.147.png */,
 				04D1DC071A1689A9004AC9D8 /* UB2.252A (Lameere).png */,
 				04D1DC081A1689A9004AC9D8 /* UD2.120 (Chavanne).png */,
+				04A862CE1A6FF7AD0019C7BE /* UD2.218A.png */,
+				04A862C81A6FA19E0019C7BE /* ulb_solbosch.png */,
 			);
 			path = maps;
 			sourceTree = "<group>";
@@ -607,11 +622,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				04E481691A177A9200735ACF /* VDLViewController.xib in Resources */,
+				04A862CD1A6FF75F0019C7BE /* H.1302 (Depage).png in Resources */,
 				04E481681A16A1A800735ACF /* FOSDEM_logo.png in Resources */,
 				28AD73880D9D96C1002E5188 /* MainWindow.xib in Resources */,
 				04D1DCA81A168AAC004AC9D8 /* LAEventsListTableViewController.xib in Resources */,
 				35D23B81106F87C3003D9E0A /* descriptionPage.css in Resources */,
 				04D1DC2F1A1689C4004AC9D8 /* StarOff.png in Resources */,
+				04A862CB1A6FF7550019C7BE /* UB2.147.png in Resources */,
 				048CCDDF1A1CF3520088340C /* fosdem_schedule2007.xml in Resources */,
 				04D1DBDA1A1688CE004AC9D8 /* icon-120.png in Resources */,
 				04D1DC291A1689A9004AC9D8 /* UB2.252A (Lameere).png in Resources */,
@@ -621,6 +638,7 @@
 				233CA63610A478A800D84609 /* TODO in Resources */,
 				04D1DC191A1689A9004AC9D8 /* H.1309.png in Resources */,
 				04D1DC1C1A1689A9004AC9D8 /* H.2215 (Ferrer).png in Resources */,
+				04A862CF1A6FF7AD0019C7BE /* UD2.218A.png in Resources */,
 				04D1DCAA1A168AB8004AC9D8 /* YearTableViewController.xib in Resources */,
 				04D1DBD81A1688CE004AC9D8 /* Icon-72@2x.png in Resources */,
 				3525421D10BC4D66007D9C6B /* LAEventDetailViewController.xib in Resources */,
@@ -655,6 +673,7 @@
 				04D1DC101A1689A9004AC9D8 /* Chavanne.png in Resources */,
 				04D1DBDF1A1688CE004AC9D8 /* icon.png in Resources */,
 				04D1DC171A1689A9004AC9D8 /* H.1308.png in Resources */,
+				04A862D11A6FF8670019C7BE /* H.3327.png in Resources */,
 				04D1DC111A1689A9004AC9D8 /* Ferrer.png in Resources */,
 				04D1DC321A1689C4004AC9D8 /* starOn@2x.png in Resources */,
 				04D1DBE41A1688E7004AC9D8 /* Default-568h@2x.png in Resources */,
@@ -666,6 +685,7 @@
 				048CCDE71A1CF3520088340C /* fosdem_schedule2015.xml in Resources */,
 				23F7D4BD10FF414700CCDAA1 /* LAEventTableViewCell.xib in Resources */,
 				04D1DC311A1689C4004AC9D8 /* StarOn.png in Resources */,
+				04A862C91A6FA19E0019C7BE /* ulb_solbosch.png in Resources */,
 				04D1DC361A1689D5004AC9D8 /* tracks@2x.png in Resources */,
 				04D1DC281A1689A9004AC9D8 /* UA2.114.png in Resources */,
 				04D1DBE61A1688E7004AC9D8 /* Default@2x.png in Resources */,

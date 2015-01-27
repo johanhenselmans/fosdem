@@ -49,7 +49,7 @@
 	}
 	
     NSString *templateString = [NSString stringWithContentsOfFile: [[[NSBundle mainBundle] resourcePath] stringByAppendingPathComponent: @"template.html"] encoding: NSUTF8StringEncoding error:nil];
-    NSString *HTMLString = [NSString stringWithFormat: templateString, [event title], description, [[LAEventDatabase sharedEventDatabase] mapHTMLForEvent: event]];
+    NSString *HTMLString = [NSString stringWithFormat: templateString, [event title], description, [[LAEventDatabase sharedEventDatabase] mapHTMLForEvent: event], [[LAEventDatabase sharedEventDatabase] mapHTMLForConference]];
     [webView loadHTMLString: HTMLString  baseURL: resourceURL];
     
     // Initialize the toolbar

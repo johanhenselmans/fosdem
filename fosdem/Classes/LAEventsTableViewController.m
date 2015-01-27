@@ -350,7 +350,7 @@ fosdemAppDelegate * myapp;
     } else {
       [myapp setDownloadString : [NSString stringWithFormat:@"%@%d%@", @"https://archive.fosdem.org/", [aYear intValue],@"/schedule/xml"]];
     }
-    NSLog(@"downloadString: %@", myapp.downloadString );
+    // NSLog(@"downloadString: %@", myapp.downloadString );
     
     NSURLRequest *databaseDownloadRequest = [NSURLRequest requestWithURL: [NSURL URLWithString: myapp.downloadString]];
     LADownload *fileDownload = [[LADownload alloc] initWithRequest:databaseDownloadRequest
