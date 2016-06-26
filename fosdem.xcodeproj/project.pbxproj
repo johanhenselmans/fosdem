@@ -3,14 +3,11 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 46;
+	objectVersion = 47;
 	objects = {
 
 /* Begin PBXBuildFile section */
 		0481C3F81A13E8CF00530389 /* fosdem_schedule.xml in Resources */ = {isa = PBXBuildFile; fileRef = 0481C3F71A13E8CF00530389 /* fosdem_schedule.xml */; };
-		04897F471A1644EA005F4F1B /* libstdc++.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 04897F461A1644EA005F4F1B /* libstdc++.dylib */; };
-		04897F491A1644F8005F4F1B /* libiconv.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 04897F481A1644F8005F4F1B /* libiconv.dylib */; };
-		04897F4B1A164502005F4F1B /* libbz2.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 04897F4A1A164502005F4F1B /* libbz2.dylib */; };
 		04897F4D1A16455C005F4F1B /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 04897F4C1A16455C005F4F1B /* Security.framework */; };
 		04897F4F1A16457E005F4F1B /* CoreText.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 04897F4E1A16457E005F4F1B /* CoreText.framework */; };
 		04897F511A16458C005F4F1B /* CFNetwork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 04897F501A16458C005F4F1B /* CFNetwork.framework */; };
@@ -27,11 +24,6 @@
 		048CCDE71A1CF3520088340C /* fosdem_schedule2015.xml in Resources */ = {isa = PBXBuildFile; fileRef = 048CCDDE1A1CF3520088340C /* fosdem_schedule2015.xml */; };
 		048CCDEA1A1D4ABB0088340C /* video.png in Resources */ = {isa = PBXBuildFile; fileRef = 048CCDE81A1D4ABB0088340C /* video.png */; };
 		048CCDEB1A1D4ABB0088340C /* video@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 048CCDE91A1D4ABB0088340C /* video@2x.png */; };
-		04A862C91A6FA19E0019C7BE /* ulb_solbosch.png in Resources */ = {isa = PBXBuildFile; fileRef = 04A862C81A6FA19E0019C7BE /* ulb_solbosch.png */; };
-		04A862CB1A6FF7550019C7BE /* UB2.147.png in Resources */ = {isa = PBXBuildFile; fileRef = 04A862CA1A6FF7550019C7BE /* UB2.147.png */; };
-		04A862CD1A6FF75F0019C7BE /* H.1302 (Depage).png in Resources */ = {isa = PBXBuildFile; fileRef = 04A862CC1A6FF75F0019C7BE /* H.1302 (Depage).png */; };
-		04A862CF1A6FF7AD0019C7BE /* UD2.218A.png in Resources */ = {isa = PBXBuildFile; fileRef = 04A862CE1A6FF7AD0019C7BE /* UD2.218A.png */; };
-		04A862D11A6FF8670019C7BE /* H.3327.png in Resources */ = {isa = PBXBuildFile; fileRef = 04A862D01A6FF8670019C7BE /* H.3327.png */; };
 		04B3FABF1A168F6F002BDBBD /* fosdemAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 04D1DC721A168A65004AC9D8 /* fosdemAppDelegate.m */; };
 		04B3FAC01A168F74002BDBBD /* LADownload.m in Sources */ = {isa = PBXBuildFile; fileRef = 04D1DC741A168A65004AC9D8 /* LADownload.m */; };
 		04B3FAC11A168F79002BDBBD /* LAEvent.m in Sources */ = {isa = PBXBuildFile; fileRef = 04D1DC761A168A65004AC9D8 /* LAEvent.m */; };
@@ -129,15 +121,11 @@
 		35A444C110DC2FEC00DA30A3 /* LAUpcomingEventsTableViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 35A444BF10DC2FEC00DA30A3 /* LAUpcomingEventsTableViewController.xib */; };
 		35D23B81106F87C3003D9E0A /* descriptionPage.css in Resources */ = {isa = PBXBuildFile; fileRef = 35D23B80106F87C3003D9E0A /* descriptionPage.css */; };
 		7508893E166E431E00810759 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7508893D166E431E00810759 /* QuartzCore.framework */; };
-		8D5120D2F40335423308CE6F /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 0E30D2F262571DA315D4E8F6 /* libPods.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		0481C3F71A13E8CF00530389 /* fosdem_schedule.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = fosdem_schedule.xml; path = fosdem/fosdem_schedule.xml; sourceTree = "<group>"; };
 		0481C4131A14001600530389 /* VDLViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = VDLViewController.xib; path = fosdem/VDLViewController.xib; sourceTree = "<group>"; };
-		04897F461A1644EA005F4F1B /* libstdc++.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = "libstdc++.dylib"; path = "usr/lib/libstdc++.dylib"; sourceTree = SDKROOT; };
-		04897F481A1644F8005F4F1B /* libiconv.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libiconv.dylib; path = usr/lib/libiconv.dylib; sourceTree = SDKROOT; };
-		04897F4A1A164502005F4F1B /* libbz2.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libbz2.dylib; path = usr/lib/libbz2.dylib; sourceTree = SDKROOT; };
 		04897F4C1A16455C005F4F1B /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = System/Library/Frameworks/Security.framework; sourceTree = SDKROOT; };
 		04897F4E1A16457E005F4F1B /* CoreText.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreText.framework; path = System/Library/Frameworks/CoreText.framework; sourceTree = SDKROOT; };
 		04897F501A16458C005F4F1B /* CFNetwork.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CFNetwork.framework; path = System/Library/Frameworks/CFNetwork.framework; sourceTree = SDKROOT; };
@@ -154,11 +142,6 @@
 		048CCDDE1A1CF3520088340C /* fosdem_schedule2015.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = fosdem_schedule2015.xml; path = fosdem/fosdem_schedule2015.xml; sourceTree = "<group>"; };
 		048CCDE81A1D4ABB0088340C /* video.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = video.png; path = fosdem/video.png; sourceTree = "<group>"; };
 		048CCDE91A1D4ABB0088340C /* video@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "video@2x.png"; path = "fosdem/video@2x.png"; sourceTree = "<group>"; };
-		04A862C81A6FA19E0019C7BE /* ulb_solbosch.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ulb_solbosch.png; path = fosdem/maps/ulb_solbosch.png; sourceTree = SOURCE_ROOT; };
-		04A862CA1A6FF7550019C7BE /* UB2.147.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = UB2.147.png; path = fosdem/maps/UB2.147.png; sourceTree = SOURCE_ROOT; };
-		04A862CC1A6FF75F0019C7BE /* H.1302 (Depage).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "H.1302 (Depage).png"; path = "fosdem/maps/H.1302 (Depage).png"; sourceTree = SOURCE_ROOT; };
-		04A862CE1A6FF7AD0019C7BE /* UD2.218A.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = UD2.218A.png; path = fosdem/maps/UD2.218A.png; sourceTree = SOURCE_ROOT; };
-		04A862D01A6FF8670019C7BE /* H.3327.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = H.3327.png; path = fosdem/maps/H.3327.png; sourceTree = SOURCE_ROOT; };
 		04BD90DB1A1115D8006D0251 /* YearTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = YearTableViewCell.xib; path = fosdem/YearTableViewCell.xib; sourceTree = "<group>"; };
 		04D1DBCD1A1688CE004AC9D8 /* Icon-72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-72.png"; path = "fosdem/Icon-72.png"; sourceTree = "<group>"; };
 		04D1DBCE1A1688CE004AC9D8 /* Icon-72@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-72@2x.png"; path = "fosdem/Icon-72@2x.png"; sourceTree = "<group>"; };
@@ -257,7 +240,7 @@
 		04E481671A16A1A800735ACF /* FOSDEM_logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = FOSDEM_logo.png; path = fosdem/FOSDEM_logo.png; sourceTree = "<group>"; };
 		04E4816A1A177AC500735ACF /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = LICENSE; path = fosdem/LICENSE; sourceTree = "<group>"; };
 		068B2AFA751C07B6E11AAFCC /* Pods.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.debug.xcconfig; path = "Pods/Target Support Files/Pods/Pods.debug.xcconfig"; sourceTree = "<group>"; };
-		0E30D2F262571DA315D4E8F6 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		0EB5E5EE56285C4550390546 /* Pods-fosdem.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-fosdem.release.xcconfig"; path = "Pods/Target Support Files/Pods-fosdem/Pods-fosdem.release.xcconfig"; sourceTree = "<group>"; };
 		123CADF10906ED2A34724D83 /* Pods.distribution.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.distribution.xcconfig; path = "Pods/Target Support Files/Pods/Pods.distribution.xcconfig"; sourceTree = "<group>"; };
 		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		1D6058910D05DD3D006BFB54 /* fosdem.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = fosdem.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -274,9 +257,11 @@
 		3525422110BC4DA5007D9C6B /* LAStarredTableViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = LAStarredTableViewController.xib; path = fosdem/LAStarredTableViewController.xib; sourceTree = "<group>"; };
 		3525448F10BC7ED0007D9C6B /* template.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; name = template.html; path = fosdem/template.html; sourceTree = "<group>"; };
 		357675D31089D2310042806B /* LAEventsTableViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = LAEventsTableViewController.xib; path = fosdem/LAEventsTableViewController.xib; sourceTree = "<group>"; };
+		358EB2A229C70D37C90D5AA4 /* Pods-fosdem.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-fosdem.debug.xcconfig"; path = "Pods/Target Support Files/Pods-fosdem/Pods-fosdem.debug.xcconfig"; sourceTree = "<group>"; };
 		35A443FB10DB5FF600DA30A3 /* CoreFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreFoundation.framework; path = System/Library/Frameworks/CoreFoundation.framework; sourceTree = SDKROOT; };
 		35A444BF10DC2FEC00DA30A3 /* LAUpcomingEventsTableViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = LAUpcomingEventsTableViewController.xib; path = fosdem/LAUpcomingEventsTableViewController.xib; sourceTree = "<group>"; };
 		35D23B80106F87C3003D9E0A /* descriptionPage.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; name = descriptionPage.css; path = fosdem/descriptionPage.css; sourceTree = "<group>"; };
+		64928F37B1D4C61DA8D97FF9 /* Pods-fosdem.distribution.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-fosdem.distribution.xcconfig"; path = "Pods/Target Support Files/Pods-fosdem/Pods-fosdem.distribution.xcconfig"; sourceTree = "<group>"; };
 		7508893D166E431E00810759 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
 		8D1107310486CEB800E47090 /* fosdem-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "fosdem-Info.plist"; path = "fosdem/fosdem-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
 		96E54A3C6DE982051B3BEF98 /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.release.xcconfig; path = "Pods/Target Support Files/Pods/Pods.release.xcconfig"; sourceTree = "<group>"; };
@@ -290,9 +275,6 @@
 				04897F4D1A16455C005F4F1B /* Security.framework in Frameworks */,
 				288765080DF74369002DB57D /* CoreGraphics.framework in Frameworks */,
 				7508893E166E431E00810759 /* QuartzCore.framework in Frameworks */,
-				04897F471A1644EA005F4F1B /* libstdc++.dylib in Frameworks */,
-				04897F491A1644F8005F4F1B /* libiconv.dylib in Frameworks */,
-				04897F4B1A164502005F4F1B /* libbz2.dylib in Frameworks */,
 				04897F4F1A16457E005F4F1B /* CoreText.framework in Frameworks */,
 				04897F511A16458C005F4F1B /* CFNetwork.framework in Frameworks */,
 				04897F531A164597005F4F1B /* OpenGLES.framework in Frameworks */,
@@ -300,7 +282,6 @@
 				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
 				35A443FC10DB5FF600DA30A3 /* CoreFoundation.framework in Frameworks */,
 				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
-				8D5120D2F40335423308CE6F /* libPods.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -372,7 +353,6 @@
 				04D1DBEF1A1689A9004AC9D8 /* Ferrer.png */,
 				04D1DBF01A1689A9004AC9D8 /* H.1301 (Cornil).png */,
 				04D1DBF11A1689A9004AC9D8 /* H.1301.png */,
-				04A862CC1A6FF75F0019C7BE /* H.1302 (Depage).png */,
 				04D1DBF21A1689A9004AC9D8 /* H.1302 (Depagne).png */,
 				04D1DBF31A1689A9004AC9D8 /* H.1302.png */,
 				04D1DBF41A1689A9004AC9D8 /* H.1308 (Rolin).png */,
@@ -382,7 +362,6 @@
 				04D1DBF81A1689A9004AC9D8 /* H.2213.png */,
 				04D1DBF91A1689A9004AC9D8 /* H.2214.png */,
 				04D1DBFA1A1689A9004AC9D8 /* H.2215 (Ferrer).png */,
-				04A862D01A6FF8670019C7BE /* H.3327.png */,
 				04D1DBFB1A1689A9004AC9D8 /* Janson.png */,
 				04D1DBFC1A1689A9004AC9D8 /* K.1.105 (La Fontaine).png */,
 				04D1DBFD1A1689A9004AC9D8 /* K.1.105.png */,
@@ -395,11 +374,8 @@
 				04D1DC041A1689A9004AC9D8 /* Lameere.png */,
 				04D1DC051A1689A9004AC9D8 /* UA2.114 (Baudoux).png */,
 				04D1DC061A1689A9004AC9D8 /* UA2.114.png */,
-				04A862CA1A6FF7550019C7BE /* UB2.147.png */,
 				04D1DC071A1689A9004AC9D8 /* UB2.252A (Lameere).png */,
 				04D1DC081A1689A9004AC9D8 /* UD2.120 (Chavanne).png */,
-				04A862CE1A6FF7AD0019C7BE /* UD2.218A.png */,
-				04A862C81A6FA19E0019C7BE /* ulb_solbosch.png */,
 			);
 			path = maps;
 			sourceTree = "<group>";
@@ -467,9 +443,6 @@
 			children = (
 				04897F4C1A16455C005F4F1B /* Security.framework */,
 				7508893D166E431E00810759 /* QuartzCore.framework */,
-				04897F461A1644EA005F4F1B /* libstdc++.dylib */,
-				04897F481A1644F8005F4F1B /* libiconv.dylib */,
-				04897F4A1A164502005F4F1B /* libbz2.dylib */,
 				04897F4E1A16457E005F4F1B /* CoreText.framework */,
 				04897F501A16458C005F4F1B /* CFNetwork.framework */,
 				04897F521A164597005F4F1B /* OpenGLES.framework */,
@@ -478,7 +451,6 @@
 				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
 				1D30AB110D05D00D00671497 /* Foundation.framework */,
 				288765070DF74369002DB57D /* CoreGraphics.framework */,
-				0E30D2F262571DA315D4E8F6 /* libPods.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -489,6 +461,9 @@
 				068B2AFA751C07B6E11AAFCC /* Pods.debug.xcconfig */,
 				123CADF10906ED2A34724D83 /* Pods.distribution.xcconfig */,
 				96E54A3C6DE982051B3BEF98 /* Pods.release.xcconfig */,
+				358EB2A229C70D37C90D5AA4 /* Pods-fosdem.debug.xcconfig */,
+				64928F37B1D4C61DA8D97FF9 /* Pods-fosdem.distribution.xcconfig */,
+				0EB5E5EE56285C4550390546 /* Pods-fosdem.release.xcconfig */,
 			);
 			name = Pods;
 			sourceTree = "<group>";
@@ -564,11 +539,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "fosdem" */;
 			buildPhases = (
-				FBB0EC23F9D157CB5AB95407 /* Check Pods Manifest.lock */,
+				FBB0EC23F9D157CB5AB95407 /* [CP] Check Pods Manifest.lock */,
 				1D60588D0D05DD3D006BFB54 /* Resources */,
 				1D60588E0D05DD3D006BFB54 /* Sources */,
 				1D60588F0D05DD3D006BFB54 /* Frameworks */,
-				099CF1B4A13C8E8B1E5D3CE5 /* Copy Pods Resources */,
+				099CF1B4A13C8E8B1E5D3CE5 /* [CP] Copy Pods Resources */,
+				831FCE899CD4F10F53FCA331 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -598,7 +574,7 @@
 				};
 			};
 			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "fosdem" */;
-			compatibilityVersion = "Xcode 3.2";
+			compatibilityVersion = "Xcode 6.3";
 			developmentRegion = English;
 			hasScannedForEncodings = 1;
 			knownRegions = (
@@ -622,13 +598,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				04E481691A177A9200735ACF /* VDLViewController.xib in Resources */,
-				04A862CD1A6FF75F0019C7BE /* H.1302 (Depage).png in Resources */,
 				04E481681A16A1A800735ACF /* FOSDEM_logo.png in Resources */,
 				28AD73880D9D96C1002E5188 /* MainWindow.xib in Resources */,
 				04D1DCA81A168AAC004AC9D8 /* LAEventsListTableViewController.xib in Resources */,
 				35D23B81106F87C3003D9E0A /* descriptionPage.css in Resources */,
 				04D1DC2F1A1689C4004AC9D8 /* StarOff.png in Resources */,
-				04A862CB1A6FF7550019C7BE /* UB2.147.png in Resources */,
 				048CCDDF1A1CF3520088340C /* fosdem_schedule2007.xml in Resources */,
 				04D1DBDA1A1688CE004AC9D8 /* icon-120.png in Resources */,
 				04D1DC291A1689A9004AC9D8 /* UB2.252A (Lameere).png in Resources */,
@@ -638,7 +612,6 @@
 				233CA63610A478A800D84609 /* TODO in Resources */,
 				04D1DC191A1689A9004AC9D8 /* H.1309.png in Resources */,
 				04D1DC1C1A1689A9004AC9D8 /* H.2215 (Ferrer).png in Resources */,
-				04A862CF1A6FF7AD0019C7BE /* UD2.218A.png in Resources */,
 				04D1DCAA1A168AB8004AC9D8 /* YearTableViewController.xib in Resources */,
 				04D1DBD81A1688CE004AC9D8 /* Icon-72@2x.png in Resources */,
 				3525421D10BC4D66007D9C6B /* LAEventDetailViewController.xib in Resources */,
@@ -673,7 +646,6 @@
 				04D1DC101A1689A9004AC9D8 /* Chavanne.png in Resources */,
 				04D1DBDF1A1688CE004AC9D8 /* icon.png in Resources */,
 				04D1DC171A1689A9004AC9D8 /* H.1308.png in Resources */,
-				04A862D11A6FF8670019C7BE /* H.3327.png in Resources */,
 				04D1DC111A1689A9004AC9D8 /* Ferrer.png in Resources */,
 				04D1DC321A1689C4004AC9D8 /* starOn@2x.png in Resources */,
 				04D1DBE41A1688E7004AC9D8 /* Default-568h@2x.png in Resources */,
@@ -685,7 +657,6 @@
 				048CCDE71A1CF3520088340C /* fosdem_schedule2015.xml in Resources */,
 				23F7D4BD10FF414700CCDAA1 /* LAEventTableViewCell.xib in Resources */,
 				04D1DC311A1689C4004AC9D8 /* StarOn.png in Resources */,
-				04A862C91A6FA19E0019C7BE /* ulb_solbosch.png in Resources */,
 				04D1DC361A1689D5004AC9D8 /* tracks@2x.png in Resources */,
 				04D1DC281A1689A9004AC9D8 /* UA2.114.png in Resources */,
 				04D1DBE61A1688E7004AC9D8 /* Default@2x.png in Resources */,
@@ -717,29 +688,44 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		099CF1B4A13C8E8B1E5D3CE5 /* Copy Pods Resources */ = {
+		099CF1B4A13C8E8B1E5D3CE5 /* [CP] Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputPaths = (
 			);
-			name = "Copy Pods Resources";
+			name = "[CP] Copy Pods Resources";
 			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods/Pods-resources.sh\"\n";
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-fosdem/Pods-fosdem-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		FBB0EC23F9D157CB5AB95407 /* Check Pods Manifest.lock */ = {
+		831FCE899CD4F10F53FCA331 /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputPaths = (
 			);
-			name = "Check Pods Manifest.lock";
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-fosdem/Pods-fosdem-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		FBB0EC23F9D157CB5AB95407 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
 			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -814,7 +800,7 @@
 		};
 		0442A8DD1A16979E0064A6DF /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 96E54A3C6DE982051B3BEF98 /* Pods.release.xcconfig */;
+			baseConfigurationReference = 0EB5E5EE56285C4550390546 /* Pods-fosdem.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -841,7 +827,7 @@
 		};
 		1D6058940D05DD3E006BFB54 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 068B2AFA751C07B6E11AAFCC /* Pods.debug.xcconfig */;
+			baseConfigurationReference = 358EB2A229C70D37C90D5AA4 /* Pods-fosdem.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -901,7 +887,7 @@
 		};
 		231FF6E210F135F2001658B8 /* Distribution */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 123CADF10906ED2A34724D83 /* Pods.distribution.xcconfig */;
+			baseConfigurationReference = 64928F37B1D4C61DA8D97FF9 /* Pods-fosdem.distribution.xcconfig */;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
