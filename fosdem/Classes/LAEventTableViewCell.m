@@ -11,7 +11,7 @@
 
 @implementation LAEventTableViewCell
 
-@synthesize titleLabel, subtitleLabel, timeLabel;
+@synthesize titleLabel, subtitleLabel, timeLabel, videoImage;
 
 - (id)initWithStyle:(UITableViewCellStyle)style reuseIdentifier:(NSString *)reuseIdentifier {
     if (self = [super initWithStyle:style reuseIdentifier:reuseIdentifier]) {

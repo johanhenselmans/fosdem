@@ -24,7 +24,7 @@
  * POSSIBILITY OF SUCH DAMAGE. */
 
 #import <UIKit/UIKit.h>
-#import <VLCMediaPlayer.h>
+#import <MobileVLCKit/VLCMediaPlayer.h>
 
 @interface VDLViewController : UIViewController
 

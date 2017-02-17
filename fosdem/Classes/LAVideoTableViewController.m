@@ -8,59 +8,71 @@
  * ----------------------------------------------------------------------------
  */
 
-#import "LAStarredTableViewController.h"
+#import "LAVideoTableViewController.h"
 
 
-@implementation LAStarredTableViewController
+@implementation LAVideoTableViewController
+
 
 
 - (void)viewDidLoad {
+    
     [super viewDidLoad];
-    [[NSNotificationCenter defaultCenter] addObserver: self 
+
+    [[NSNotificationCenter defaultCenter] addObserver: self
                                              selector: @selector(eventDatabaseUpdated)
-                                                 name: @"LAEventUpdated"  
+                                                 name: @"LAEventDatabaseUpdated"
                                                object: nil];
+    
 }
+
 
 - (void)eventDatabaseUpdated {
-  [[self tableView] reloadData];
+
+    [[self tableView] reloadData];
+
 }
 
+
+- (void)didReceiveMemoryWarning {
+    
+	// Releases the view if it doesn't have a superview.
+    
+    [super didReceiveMemoryWarning];
+	
+	// Release any cached data, images, etc that aren't in use.
+    
+}
+
+- (void)viewDidUnload {
+  [super viewDidUnload];
+	// Release any retained subviews of the main view.
+	// e.g. self.myOutlet = nil;
+}
 
 #pragma mark Table view methods
 
 - (NSInteger)numberOfSectionsInTableView:(UITableView *)tableView {
     
     return 1;
-    
+
 }
 
-
-// Customize the number of rows in the table view.
 - (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section {
-    
-    if (tableView == self.searchDisplayController.searchResultsTableView)
-	{
-        return [[self filteredEvents] count];
-    }
-	else
-	{
-        return [[[LAEventDatabase sharedEventDatabase] starredEvents] count];
-    }
-    
-}
+	
+    return [[[LAEventDatabase sharedEventDatabase] videoEvents] count];
 
+}
 
 - (LAEvent *)eventForRowAtIndexPath:(NSIndexPath *)indexPath {
-	LAEvent *event = nil;
-	event = [[[LAEventDatabase sharedEventDatabase] starredEvents] objectAtIndex: indexPath.row];
-	return event;
+  LAEvent *event = nil;
+  event = [[[LAEventDatabase sharedEventDatabase] videoEvents] objectAtIndex: indexPath.row];
+  return event;
 }
 
 - (NSString *)tableView: (UITableView *)tableView titleForHeaderInSection:(NSInteger)section {
-    return nil;
+  return nil;
 }
-
 
 
 @end

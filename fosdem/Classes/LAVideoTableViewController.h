@@ -10,27 +10,12 @@
 
 #import <UIKit/UIKit.h>
 
-#import "LAHeaderView.h"
-#import "LAEvent.h"
+#import "LAEventsTableViewController.h"
 #import "LAEventDatabase.h"
+#import "LAEvent.h"
 
-@interface LAEventDetailViewController : UIViewController {
 
-    IBOutlet UIView *headerHolderView;
-    IBOutlet UIWebView *webView;
-    IBOutlet UILabel *theTitle;
-    IBOutlet UILabel *time;
-    IBOutlet UILabel *track;
-    IBOutlet UILabel *location;
-    IBOutlet UIToolbar *toolbar;
-    
-}
+@interface LAVideoTableViewController : LAEventsTableViewController
 
-- (BOOL)hidesBottomBarWhenPushed;
-
-- (IBAction) toggleStarred: (id) sender;
-- (void) updateToolbar;
-
-@property (retain) LAEvent *event;
-
+- (void)eventDatabaseUpdated;
 @end

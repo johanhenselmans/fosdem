@@ -99,6 +99,9 @@
   [[(LAEventTableViewCell*)cell titleLabel] setText: [event title]];
   [[(LAEventTableViewCell*)cell subtitleLabel] setText: [event speakerString]];
   [[(LAEventTableViewCell*)cell timeLabel] setText: [timeDateFormatter stringFromDate: [event startDate]]];
+  if (event.contentVideo == nil){
+    [[(LAEventTableViewCell*)cell videoImage] setHidden:YES];
+  }
   
   return cell;
 }

@@ -15,5 +15,6 @@
 @property (nonatomic, retain) IBOutlet UILabel *titleLabel;
 @property (nonatomic, retain) IBOutlet UILabel *subtitleLabel;
 @property (nonatomic, retain) IBOutlet UILabel *timeLabel;
+@property (weak, nonatomic) IBOutlet UIImageView *videoImage;
 
 @end

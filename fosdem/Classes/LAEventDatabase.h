@@ -45,6 +45,7 @@
 - (NSArray *) tracks;
 - (NSArray *) eventsForTrack: (NSString*) trackName;
 - (NSMutableArray *) starredEvents;
+- (NSMutableArray *) videoEvents;
 
 - (NSMutableDictionary *) userDataForEventWithIdentifier: (NSString *) identifier;
 - (void) eventUpdated: (NSNotification *) notification;

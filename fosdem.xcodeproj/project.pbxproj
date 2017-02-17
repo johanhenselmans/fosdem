@@ -7,10 +7,14 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0430634D1A89D32400F1764F /* calendar.png in Resources */ = {isa = PBXBuildFile; fileRef = 0430634B1A89D32400F1764F /* calendar.png */; };
+		0430634E1A89D32400F1764F /* calendar@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0430634C1A89D32400F1764F /* calendar@2x.png */; };
+		0453F6D21A880E1C00C710C1 /* LAVideoTableViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0453F6D11A880E1C00C710C1 /* LAVideoTableViewController.xib */; };
+		0453F6D51A880E6C00C710C1 /* LAVideoTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0453F6D41A880E6C00C710C1 /* LAVideoTableViewController.m */; };
 		0481C3F81A13E8CF00530389 /* fosdem_schedule.xml in Resources */ = {isa = PBXBuildFile; fileRef = 0481C3F71A13E8CF00530389 /* fosdem_schedule.xml */; };
-		04897F471A1644EA005F4F1B /* libstdc++.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 04897F461A1644EA005F4F1B /* libstdc++.dylib */; };
-		04897F491A1644F8005F4F1B /* libiconv.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 04897F481A1644F8005F4F1B /* libiconv.dylib */; };
-		04897F4B1A164502005F4F1B /* libbz2.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 04897F4A1A164502005F4F1B /* libbz2.dylib */; };
+		04897F471A1644EA005F4F1B /* libstdc++.6.0.9.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 04897F461A1644EA005F4F1B /* libstdc++.6.0.9.tbd */; };
+		04897F491A1644F8005F4F1B /* libiconv.2.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 04897F481A1644F8005F4F1B /* libiconv.2.tbd */; };
+		04897F4B1A164502005F4F1B /* libbz2.1.0.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 04897F4A1A164502005F4F1B /* libbz2.1.0.tbd */; };
 		04897F4D1A16455C005F4F1B /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 04897F4C1A16455C005F4F1B /* Security.framework */; };
 		04897F4F1A16457E005F4F1B /* CoreText.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 04897F4E1A16457E005F4F1B /* CoreText.framework */; };
 		04897F511A16458C005F4F1B /* CFNetwork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 04897F501A16458C005F4F1B /* CFNetwork.framework */; };
@@ -113,6 +117,7 @@
 		04E481681A16A1A800735ACF /* FOSDEM_logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 04E481671A16A1A800735ACF /* FOSDEM_logo.png */; };
 		04E481691A177A9200735ACF /* VDLViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0481C4131A14001600530389 /* VDLViewController.xib */; };
 		04E4816B1A177AC500735ACF /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 04E4816A1A177AC500735ACF /* LICENSE */; };
+		1095CF86052F683B763E378E /* libPods-fosdem.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 73963968E205686DBB46E87F /* libPods-fosdem.a */; };
 		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
 		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
 		233CA63610A478A800D84609 /* TODO in Resources */ = {isa = PBXBuildFile; fileRef = 233CA63510A478A800D84609 /* TODO */; };
@@ -129,15 +134,19 @@
 		35A444C110DC2FEC00DA30A3 /* LAUpcomingEventsTableViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 35A444BF10DC2FEC00DA30A3 /* LAUpcomingEventsTableViewController.xib */; };
 		35D23B81106F87C3003D9E0A /* descriptionPage.css in Resources */ = {isa = PBXBuildFile; fileRef = 35D23B80106F87C3003D9E0A /* descriptionPage.css */; };
 		7508893E166E431E00810759 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7508893D166E431E00810759 /* QuartzCore.framework */; };
-		8D5120D2F40335423308CE6F /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 0E30D2F262571DA315D4E8F6 /* libPods.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0430634B1A89D32400F1764F /* calendar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = calendar.png; path = fosdem/calendar.png; sourceTree = "<group>"; };
+		0430634C1A89D32400F1764F /* calendar@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "calendar@2x.png"; path = "fosdem/calendar@2x.png"; sourceTree = "<group>"; };
+		0453F6D11A880E1C00C710C1 /* LAVideoTableViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = LAVideoTableViewController.xib; path = fosdem/LAVideoTableViewController.xib; sourceTree = "<group>"; };
+		0453F6D31A880E6C00C710C1 /* LAVideoTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = LAVideoTableViewController.h; path = fosdem/Classes/LAVideoTableViewController.h; sourceTree = SOURCE_ROOT; };
+		0453F6D41A880E6C00C710C1 /* LAVideoTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = LAVideoTableViewController.m; path = fosdem/Classes/LAVideoTableViewController.m; sourceTree = SOURCE_ROOT; };
 		0481C3F71A13E8CF00530389 /* fosdem_schedule.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = fosdem_schedule.xml; path = fosdem/fosdem_schedule.xml; sourceTree = "<group>"; };
 		0481C4131A14001600530389 /* VDLViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = VDLViewController.xib; path = fosdem/VDLViewController.xib; sourceTree = "<group>"; };
-		04897F461A1644EA005F4F1B /* libstdc++.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = "libstdc++.dylib"; path = "usr/lib/libstdc++.dylib"; sourceTree = SDKROOT; };
-		04897F481A1644F8005F4F1B /* libiconv.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libiconv.dylib; path = usr/lib/libiconv.dylib; sourceTree = SDKROOT; };
-		04897F4A1A164502005F4F1B /* libbz2.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libbz2.dylib; path = usr/lib/libbz2.dylib; sourceTree = SDKROOT; };
+		04897F461A1644EA005F4F1B /* libstdc++.6.0.9.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = "libstdc++.6.0.9.tbd"; path = "../iPhoneOS.sdk/usr/lib/libstdc++.6.0.9.tbd"; sourceTree = SDKROOT; };
+		04897F481A1644F8005F4F1B /* libiconv.2.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libiconv.2.tbd; path = ../iPhoneOS.sdk/usr/lib/libiconv.2.tbd; sourceTree = SDKROOT; };
+		04897F4A1A164502005F4F1B /* libbz2.1.0.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libbz2.1.0.tbd; path = ../iPhoneOS.sdk/usr/lib/libbz2.1.0.tbd; sourceTree = SDKROOT; };
 		04897F4C1A16455C005F4F1B /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = System/Library/Frameworks/Security.framework; sourceTree = SDKROOT; };
 		04897F4E1A16457E005F4F1B /* CoreText.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreText.framework; path = System/Library/Frameworks/CoreText.framework; sourceTree = SDKROOT; };
 		04897F501A16458C005F4F1B /* CFNetwork.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CFNetwork.framework; path = System/Library/Frameworks/CFNetwork.framework; sourceTree = SDKROOT; };
@@ -256,9 +265,6 @@
 		04E481651A16A0D300735ACF /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = fosdem/Images.xcassets; sourceTree = "<group>"; };
 		04E481671A16A1A800735ACF /* FOSDEM_logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = FOSDEM_logo.png; path = fosdem/FOSDEM_logo.png; sourceTree = "<group>"; };
 		04E4816A1A177AC500735ACF /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = LICENSE; path = fosdem/LICENSE; sourceTree = "<group>"; };
-		068B2AFA751C07B6E11AAFCC /* Pods.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.debug.xcconfig; path = "Pods/Target Support Files/Pods/Pods.debug.xcconfig"; sourceTree = "<group>"; };
-		0E30D2F262571DA315D4E8F6 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
-		123CADF10906ED2A34724D83 /* Pods.distribution.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.distribution.xcconfig; path = "Pods/Target Support Files/Pods/Pods.distribution.xcconfig"; sourceTree = "<group>"; };
 		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		1D6058910D05DD3D006BFB54 /* fosdem.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = fosdem.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
@@ -277,9 +283,12 @@
 		35A443FB10DB5FF600DA30A3 /* CoreFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreFoundation.framework; path = System/Library/Frameworks/CoreFoundation.framework; sourceTree = SDKROOT; };
 		35A444BF10DC2FEC00DA30A3 /* LAUpcomingEventsTableViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = LAUpcomingEventsTableViewController.xib; path = fosdem/LAUpcomingEventsTableViewController.xib; sourceTree = "<group>"; };
 		35D23B80106F87C3003D9E0A /* descriptionPage.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; name = descriptionPage.css; path = fosdem/descriptionPage.css; sourceTree = "<group>"; };
+		73963968E205686DBB46E87F /* libPods-fosdem.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-fosdem.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7508893D166E431E00810759 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		80C7529A16DEA419192B847E /* Pods-fosdem.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-fosdem.release.xcconfig"; path = "Pods/Target Support Files/Pods-fosdem/Pods-fosdem.release.xcconfig"; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* fosdem-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "fosdem-Info.plist"; path = "fosdem/fosdem-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
-		96E54A3C6DE982051B3BEF98 /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.release.xcconfig; path = "Pods/Target Support Files/Pods/Pods.release.xcconfig"; sourceTree = "<group>"; };
+		A4C627116833B3484050F9A0 /* Pods-fosdem.distribution.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-fosdem.distribution.xcconfig"; path = "Pods/Target Support Files/Pods-fosdem/Pods-fosdem.distribution.xcconfig"; sourceTree = "<group>"; };
+		C702F5131C5F4D8E3A398B1C /* Pods-fosdem.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-fosdem.debug.xcconfig"; path = "Pods/Target Support Files/Pods-fosdem/Pods-fosdem.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -290,9 +299,9 @@
 				04897F4D1A16455C005F4F1B /* Security.framework in Frameworks */,
 				288765080DF74369002DB57D /* CoreGraphics.framework in Frameworks */,
 				7508893E166E431E00810759 /* QuartzCore.framework in Frameworks */,
-				04897F471A1644EA005F4F1B /* libstdc++.dylib in Frameworks */,
-				04897F491A1644F8005F4F1B /* libiconv.dylib in Frameworks */,
-				04897F4B1A164502005F4F1B /* libbz2.dylib in Frameworks */,
+				04897F471A1644EA005F4F1B /* libstdc++.6.0.9.tbd in Frameworks */,
+				04897F491A1644F8005F4F1B /* libiconv.2.tbd in Frameworks */,
+				04897F4B1A164502005F4F1B /* libbz2.1.0.tbd in Frameworks */,
 				04897F4F1A16457E005F4F1B /* CoreText.framework in Frameworks */,
 				04897F511A16458C005F4F1B /* CFNetwork.framework in Frameworks */,
 				04897F531A164597005F4F1B /* OpenGLES.framework in Frameworks */,
@@ -300,7 +309,7 @@
 				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
 				35A443FC10DB5FF600DA30A3 /* CoreFoundation.framework in Frameworks */,
 				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
-				8D5120D2F40335423308CE6F /* libPods.a in Frameworks */,
+				1095CF86052F683B763E378E /* libPods-fosdem.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -338,6 +347,8 @@
 				04D1DC8A1A168A65004AC9D8 /* LATracksTableViewController.m */,
 				04D1DC8B1A168A65004AC9D8 /* LAUpcomingEventsTableViewController.h */,
 				04D1DC8C1A168A65004AC9D8 /* LAUpcomingEventsTableViewController.m */,
+				0453F6D31A880E6C00C710C1 /* LAVideoTableViewController.h */,
+				0453F6D41A880E6C00C710C1 /* LAVideoTableViewController.m */,
 				04D1DC8D1A168A65004AC9D8 /* NSDate+Between.h */,
 				04D1DC8E1A168A65004AC9D8 /* NSDate+Between.m */,
 				04D1DC8F1A168A65004AC9D8 /* VDLViewController.h */,
@@ -404,7 +415,7 @@
 			path = maps;
 			sourceTree = "<group>";
 		};
-		29B97314FDCFA39411CA2CEA /* fosdem */ = {
+		29B97314FDCFA39411CA2CEA = {
 			isa = PBXGroup;
 			children = (
 				080E96DDFE201D6D7F000001 /* Classes */,
@@ -412,7 +423,7 @@
 				29B97317FDCFA39411CA2CEA /* Resources */,
 				29B97323FDCFA39411CA2CEA /* Frameworks */,
 				19C28FACFE9D520D11CA2CBB /* Products */,
-				478936134463BA9003C4EBC2 /* Pods */,
+				4BAF21DEC9C1E5310DAB4EA9 /* Pods */,
 			);
 			name = fosdem;
 			sourceTree = "<group>";
@@ -452,6 +463,7 @@
 				3525422110BC4DA5007D9C6B /* LAStarredTableViewController.xib */,
 				3525421C10BC4D66007D9C6B /* LATracksTableViewController.xib */,
 				35A444BF10DC2FEC00DA30A3 /* LAUpcomingEventsTableViewController.xib */,
+				0453F6D11A880E1C00C710C1 /* LAVideoTableViewController.xib */,
 				28AD73870D9D96C1002E5188 /* MainWindow.xib */,
 				3525448F10BC7ED0007D9C6B /* template.html */,
 				233CA63510A478A800D84609 /* TODO */,
@@ -467,9 +479,9 @@
 			children = (
 				04897F4C1A16455C005F4F1B /* Security.framework */,
 				7508893D166E431E00810759 /* QuartzCore.framework */,
-				04897F461A1644EA005F4F1B /* libstdc++.dylib */,
-				04897F481A1644F8005F4F1B /* libiconv.dylib */,
-				04897F4A1A164502005F4F1B /* libbz2.dylib */,
+				04897F461A1644EA005F4F1B /* libstdc++.6.0.9.tbd */,
+				04897F481A1644F8005F4F1B /* libiconv.2.tbd */,
+				04897F4A1A164502005F4F1B /* libbz2.1.0.tbd */,
 				04897F4E1A16457E005F4F1B /* CoreText.framework */,
 				04897F501A16458C005F4F1B /* CFNetwork.framework */,
 				04897F521A164597005F4F1B /* OpenGLES.framework */,
@@ -478,17 +490,17 @@
 				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
 				1D30AB110D05D00D00671497 /* Foundation.framework */,
 				288765070DF74369002DB57D /* CoreGraphics.framework */,
-				0E30D2F262571DA315D4E8F6 /* libPods.a */,
+				73963968E205686DBB46E87F /* libPods-fosdem.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		478936134463BA9003C4EBC2 /* Pods */ = {
+		4BAF21DEC9C1E5310DAB4EA9 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				068B2AFA751C07B6E11AAFCC /* Pods.debug.xcconfig */,
-				123CADF10906ED2A34724D83 /* Pods.distribution.xcconfig */,
-				96E54A3C6DE982051B3BEF98 /* Pods.release.xcconfig */,
+				C702F5131C5F4D8E3A398B1C /* Pods-fosdem.debug.xcconfig */,
+				A4C627116833B3484050F9A0 /* Pods-fosdem.distribution.xcconfig */,
+				80C7529A16DEA419192B847E /* Pods-fosdem.release.xcconfig */,
 			);
 			name = Pods;
 			sourceTree = "<group>";
@@ -519,6 +531,8 @@
 		75E54BF61694C75600E9593D /* Toolbar Icons */ = {
 			isa = PBXGroup;
 			children = (
+				0430634B1A89D32400F1764F /* calendar.png */,
+				0430634C1A89D32400F1764F /* calendar@2x.png */,
 				048CCDE81A1D4ABB0088340C /* video.png */,
 				048CCDE91A1D4ABB0088340C /* video@2x.png */,
 				04D1DC2B1A1689C4004AC9D8 /* StarOff.png */,
@@ -564,11 +578,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "fosdem" */;
 			buildPhases = (
-				FBB0EC23F9D157CB5AB95407 /* Check Pods Manifest.lock */,
+				F6195F4520B2B6090C6412D8 /* [CP] Check Pods Manifest.lock */,
 				1D60588D0D05DD3D006BFB54 /* Resources */,
 				1D60588E0D05DD3D006BFB54 /* Sources */,
 				1D60588F0D05DD3D006BFB54 /* Frameworks */,
-				099CF1B4A13C8E8B1E5D3CE5 /* Copy Pods Resources */,
+				3FAC38DEFFC7E70CE83ECCB6 /* [CP] Embed Pods Frameworks */,
+				E39C1A5AD6B77FA18FA9AF9F /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -585,7 +600,7 @@
 		29B97313FDCFA39411CA2CEA /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0610;
+				LastUpgradeCheck = 0720;
 				TargetAttributes = {
 					1D6058900D05DD3D006BFB54 = {
 						DevelopmentTeam = TRVBMB3KPB;
@@ -607,7 +622,8 @@
 				French,
 				German,
 			);
-			mainGroup = 29B97314FDCFA39411CA2CEA /* fosdem */;
+			mainGroup = 29B97314FDCFA39411CA2CEA;
+			productRefGroup = 19C28FACFE9D520D11CA2CBB /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
@@ -622,6 +638,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				04E481691A177A9200735ACF /* VDLViewController.xib in Resources */,
+				0430634E1A89D32400F1764F /* calendar@2x.png in Resources */,
 				04A862CD1A6FF75F0019C7BE /* H.1302 (Depage).png in Resources */,
 				04E481681A16A1A800735ACF /* FOSDEM_logo.png in Resources */,
 				28AD73880D9D96C1002E5188 /* MainWindow.xib in Resources */,
@@ -653,6 +670,7 @@
 				04D1DC091A1689A9004AC9D8 /* AW1.105.png in Resources */,
 				3525422210BC4DA5007D9C6B /* LAStarredTableViewController.xib in Resources */,
 				3525449010BC7ED0007D9C6B /* template.html in Resources */,
+				0453F6D21A880E1C00C710C1 /* LAVideoTableViewController.xib in Resources */,
 				2377DBC710BECE68008FDE65 /* fosdem_schedule.xcal in Resources */,
 				048CCDE11A1CF3520088340C /* fosdem_schedule2009.xml in Resources */,
 				04D1DC0D1A1689A9004AC9D8 /* AW1.124.png in Resources */,
@@ -689,6 +707,7 @@
 				04D1DC361A1689D5004AC9D8 /* tracks@2x.png in Resources */,
 				04D1DC281A1689A9004AC9D8 /* UA2.114.png in Resources */,
 				04D1DBE61A1688E7004AC9D8 /* Default@2x.png in Resources */,
+				0430634D1A89D32400F1764F /* calendar.png in Resources */,
 				048CCDE21A1CF3520088340C /* fosdem_schedule2010.xml in Resources */,
 				04D1DBDD1A1688CE004AC9D8 /* Icon-Small.png in Resources */,
 				04D1DC201A1689A9004AC9D8 /* K.3.201.png in Resources */,
@@ -717,34 +736,49 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		099CF1B4A13C8E8B1E5D3CE5 /* Copy Pods Resources */ = {
+		3FAC38DEFFC7E70CE83ECCB6 /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputPaths = (
 			);
-			name = "Copy Pods Resources";
+			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods/Pods-resources.sh\"\n";
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-fosdem/Pods-fosdem-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		FBB0EC23F9D157CB5AB95407 /* Check Pods Manifest.lock */ = {
+		E39C1A5AD6B77FA18FA9AF9F /* [CP] Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputPaths = (
 			);
-			name = "Check Pods Manifest.lock";
+			name = "[CP] Copy Pods Resources";
 			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-fosdem/Pods-fosdem-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		F6195F4520B2B6090C6412D8 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
 			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */
@@ -760,6 +794,7 @@
 				04B3FAC11A168F79002BDBBD /* LAEvent.m in Sources */,
 				04B3FAC21A168F7E002BDBBD /* LAEventCollection.m in Sources */,
 				04B3FAC31A168F81002BDBBD /* LAEventDatabase.m in Sources */,
+				0453F6D51A880E6C00C710C1 /* LAVideoTableViewController.m in Sources */,
 				04B3FAC41A168F84002BDBBD /* LAEventDetailViewController.m in Sources */,
 				04B3FAC51A168F88002BDBBD /* LAEventsListTableViewController.m in Sources */,
 				04B3FAC61A168F8A002BDBBD /* LAEventsTableViewController.m in Sources */,
@@ -792,6 +827,7 @@
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				GCC_C_LANGUAGE_STANDARD = c99;
 				GCC_PREFIX_HEADER = "";
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
@@ -814,7 +850,7 @@
 		};
 		0442A8DD1A16979E0064A6DF /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 96E54A3C6DE982051B3BEF98 /* Pods.release.xcconfig */;
+			baseConfigurationReference = 80C7529A16DEA419192B847E /* Pods-fosdem.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -831,6 +867,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited)";
 				LIBRARY_SEARCH_PATHS = "$(inherited)";
+				PRODUCT_BUNDLE_IDENTIFIER = nl.netsense.FOSDEM;
 				PRODUCT_NAME = fosdem;
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
@@ -841,7 +878,7 @@
 		};
 		1D6058940D05DD3E006BFB54 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 068B2AFA751C07B6E11AAFCC /* Pods.debug.xcconfig */;
+			baseConfigurationReference = C702F5131C5F4D8E3A398B1C /* Pods-fosdem.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -859,6 +896,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited)";
 				LIBRARY_SEARCH_PATHS = "$(inherited)";
+				PRODUCT_BUNDLE_IDENTIFIER = nl.netsense.FOSDEM;
 				PRODUCT_NAME = fosdem;
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
@@ -879,6 +917,7 @@
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
 				GCC_C_LANGUAGE_STANDARD = c99;
 				GCC_PREFIX_HEADER = "";
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
@@ -901,7 +940,7 @@
 		};
 		231FF6E210F135F2001658B8 /* Distribution */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 123CADF10906ED2A34724D83 /* Pods.distribution.xcconfig */;
+			baseConfigurationReference = A4C627116833B3484050F9A0 /* Pods-fosdem.distribution.xcconfig */;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -918,6 +957,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited)";
 				LIBRARY_SEARCH_PATHS = "$(inherited)";
+				PRODUCT_BUNDLE_IDENTIFIER = nl.netsense.FOSDEM;
 				PRODUCT_NAME = fosdem;
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
@@ -940,6 +980,8 @@
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
+				ENABLE_BITCODE = NO;
+				ENABLE_TESTABILITY = YES;
 				GCC_C_LANGUAGE_STANDARD = c99;
 				GCC_PREFIX_HEADER = "";
 				GCC_PREPROCESSOR_DEFINITIONS = "DEBUG=1";

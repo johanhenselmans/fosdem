@@ -44,10 +44,10 @@
 
 - (void) setStarred:(BOOL) isStarred {
     starred = isStarred;
-//    NSDictionary *infoDict = [NSDictionary dictionaryWithObjectsAndKeys: [self identifier], @"identifier", [NSNumber  numberWithBool: isStarred], @"starred", nil];
-//    [[NSNotificationCenter defaultCenter] postNotificationName: @"LAEventUpdated"
-//                                                        object: nil
-//                                                      userInfo: infoDict];
+    NSDictionary *infoDict = [NSDictionary dictionaryWithObjectsAndKeys: [self identifier], @"identifier", [NSNumber  numberWithBool: isStarred], @"starred", nil];
+    [[NSNotificationCenter defaultCenter] postNotificationName: @"LAEventUpdated"
+                                                        object: nil
+                                                      userInfo: infoDict];
 }
 
 - (NSComparisonResult) compareDateWithEvent: (LAEvent *) otherEvent {

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="6250" systemVersion="14B25" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="10117" systemVersion="15G1217" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
     <dependencies>
         <deployment version="1552" identifier="iOS"/>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6244"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
         <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
     </dependencies>
     <objects>
@@ -12,7 +12,7 @@
             <rect key="frame" x="0.0" y="0.0" width="573" height="44"/>
             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
             <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="3" id="jJA-b5-cDs">
-                <rect key="frame" x="0.0" y="0.0" width="300" height="43"/>
+                <rect key="frame" x="0.0" y="0.0" width="540" height="43"/>
                 <autoresizingMask key="autoresizingMask"/>
                 <subviews>
                     <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" text="Title" lineBreakMode="tailTruncation" minimumFontSize="10" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="4">
@@ -31,22 +31,29 @@
                         <nil key="highlightedColor"/>
                     </label>
                     <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" text="Subtitle" lineBreakMode="tailTruncation" minimumFontSize="10" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="5">
-                        <rect key="frame" x="8" y="23" width="469" height="21"/>
+                        <rect key="frame" x="8" y="24" width="435" height="20"/>
                         <fontDescription key="fontDescription" name="Helvetica" family="Helvetica" pointSize="15"/>
                         <color key="textColor" red="0.29803922770000002" green="0.29803922770000002" blue="0.29803922770000002" alpha="1" colorSpace="calibratedRGB"/>
                         <nil key="highlightedColor"/>
                     </label>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="video.png" translatesAutoresizingMaskIntoConstraints="NO" id="ELO-d7-VOu">
+                        <rect key="frame" x="444" y="24" width="33" height="16"/>
+                    </imageView>
                 </subviews>
                 <constraints>
+                    <constraint firstItem="6" firstAttribute="leading" secondItem="ELO-d7-VOu" secondAttribute="trailing" constant="8" id="1s3-VB-Zxt"/>
                     <constraint firstItem="4" firstAttribute="top" secondItem="jJA-b5-cDs" secondAttribute="topMargin" constant="-9" id="6KP-XY-mXi"/>
                     <constraint firstItem="4" firstAttribute="leading" secondItem="5" secondAttribute="leading" id="N8k-mf-tvE"/>
                     <constraint firstItem="6" firstAttribute="top" secondItem="jJA-b5-cDs" secondAttribute="topMargin" constant="7" id="Oq7-K6-TEq"/>
-                    <constraint firstItem="5" firstAttribute="top" secondItem="jJA-b5-cDs" secondAttribute="topMargin" constant="15" id="Psf-1L-wA7"/>
+                    <constraint firstItem="5" firstAttribute="top" secondItem="jJA-b5-cDs" secondAttribute="topMargin" constant="16" id="Psf-1L-wA7"/>
                     <constraint firstAttribute="bottomMargin" secondItem="6" secondAttribute="bottom" constant="-1" id="YuK-Su-9AK"/>
                     <constraint firstItem="6" firstAttribute="leading" secondItem="4" secondAttribute="trailing" constant="8" symbolic="YES" id="Zvx-NU-F5p"/>
+                    <constraint firstItem="ELO-d7-VOu" firstAttribute="top" secondItem="5" secondAttribute="top" id="a1k-uQ-bBb"/>
+                    <constraint firstItem="ELO-d7-VOu" firstAttribute="leading" secondItem="5" secondAttribute="trailing" constant="1" id="b0z-so-UcK"/>
                     <constraint firstAttribute="bottomMargin" secondItem="5" secondAttribute="bottom" constant="-9" id="d4R-re-s4L"/>
-                    <constraint firstItem="6" firstAttribute="leading" secondItem="5" secondAttribute="trailing" constant="8" symbolic="YES" id="g3H-fb-yIK"/>
+                    <constraint firstItem="6" firstAttribute="leading" secondItem="5" secondAttribute="trailing" constant="42" id="g3H-fb-yIK"/>
                     <constraint firstItem="5" firstAttribute="leading" secondItem="jJA-b5-cDs" secondAttribute="leadingMargin" id="hIC-aP-UE5"/>
+                    <constraint firstAttribute="bottomMargin" secondItem="ELO-d7-VOu" secondAttribute="bottom" constant="-5" id="lVL-EX-5YE"/>
                     <constraint firstItem="6" firstAttribute="trailing" secondItem="jJA-b5-cDs" secondAttribute="trailingMargin" id="sTe-KJ-1lG"/>
                     <constraint firstAttribute="bottomMargin" secondItem="4" secondAttribute="bottom" constant="11" id="vVc-4v-bRw"/>
                 </constraints>
@@ -56,8 +63,12 @@
                 <outlet property="subtitleLabel" destination="5" id="12"/>
                 <outlet property="timeLabel" destination="6" id="13"/>
                 <outlet property="titleLabel" destination="4" id="11"/>
+                <outlet property="videoImage" destination="ELO-d7-VOu" id="KTX-2x-AWl"/>
             </connections>
-            <point key="canvasLocation" x="356.5" y="262"/>
+            <point key="canvasLocation" x="356.5" y="256"/>
         </tableViewCell>
     </objects>
+    <resources>
+        <image name="video.png" width="31" height="31"/>
+    </resources>
 </document>

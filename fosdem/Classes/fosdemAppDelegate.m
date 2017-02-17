@@ -25,7 +25,7 @@
     NSDate *today = [NSDate date];
     NSCalendar* cal = [NSCalendar currentCalendar]; // get current calender
     NSDateComponents* currentYearMonthDay = [cal components:( NSYearCalendarUnit| NSMonthCalendarUnit| NSDayCalendarUnit  ) fromDate:today];
-    // let's assume the next year is already available
+    // let's assume the next year is already available in september
   if ([currentYearMonthDay month] > 8){
     // let's assume the next year is already available
     currentyear = [NSNumber numberWithInt:((int)[currentYearMonthDay year]+1)];

@@ -30,7 +30,7 @@ fosdemAppDelegate * myapp;
     
     // Register for notficiations of the database getting updated
     
-    // [[NSNotificationCenter defaultCenter] postNotificationName: @"LAEventDatabaseUpdated" object: self];
+     [[NSNotificationCenter defaultCenter] postNotificationName: @"LAEventDatabaseUpdated" object: self];
   }
   
   return mainEventDatabase;
@@ -57,7 +57,7 @@ fosdemAppDelegate * myapp;
     eventsOnDayCache = [[NSMutableDictionary alloc] init];
     
     //[[NSNotificationCenter defaultCenter] addObserver: self
-    //                                         selector: @selector(eventDatabaseUpdated:)
+    //                                         selector: @selector(eventDatabaseUpdated)
     //                                             name: @"LAEventDatabaseUpdated"
     //                                           object: nil];
   }
@@ -79,10 +79,10 @@ fosdemAppDelegate * myapp;
     [xmlParser parse];
     
     // We react to an update after parsing because we don't want to rewrite what has just been read while parsing
-//    [[NSNotificationCenter defaultCenter] addObserver: self
-//                                             selector: @selector(eventUpdated:)
-//                                                 name: @"LAEventUpdated"
-//                                               object: nil];
+    [[NSNotificationCenter defaultCenter] addObserver: self
+                                             selector: @selector(eventUpdated:)
+                                                 name: @"LAEventUpdated"
+                                               object: nil];
   }
   
   return self;
@@ -232,6 +232,26 @@ fosdemAppDelegate * myapp;
   return starredEvents;
   
 }
+
+- (NSMutableArray *) videoEvents {
+  
+  NSEnumerator *eventsEnumerator = [events objectEnumerator];
+  LAEvent *currentEvent;
+  
+  NSMutableArray *videoEvents = [NSMutableArray array];
+  
+  while (currentEvent = [eventsEnumerator nextObject]){
+    
+    if ( [currentEvent contentVideo]!=nil ) {
+      [videoEvents addObject: currentEvent];
+    }
+  }
+  
+  
+  return videoEvents;
+  
+}
+
 
 -(NSArray *) eventsForTrack: (NSString*) trackName {
   
