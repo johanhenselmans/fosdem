@@ -36,6 +36,8 @@
 		04A862CD1A6FF75F0019C7BE /* H.1302 (Depage).png in Resources */ = {isa = PBXBuildFile; fileRef = 04A862CC1A6FF75F0019C7BE /* H.1302 (Depage).png */; };
 		04A862CF1A6FF7AD0019C7BE /* UD2.218A.png in Resources */ = {isa = PBXBuildFile; fileRef = 04A862CE1A6FF7AD0019C7BE /* UD2.218A.png */; };
 		04A862D11A6FF8670019C7BE /* H.3327.png in Resources */ = {isa = PBXBuildFile; fileRef = 04A862D01A6FF8670019C7BE /* H.3327.png */; };
+		04B26A081E56DBEF004B818B /* fosdem_schedule2016.xml in Resources */ = {isa = PBXBuildFile; fileRef = 04B26A071E56DBEE004B818B /* fosdem_schedule2016.xml */; };
+		04B26A0A1E56DCE2004B818B /* fosdem_schedule2017.xml in Resources */ = {isa = PBXBuildFile; fileRef = 04B26A091E56DCE2004B818B /* fosdem_schedule2017.xml */; };
 		04B3FABF1A168F6F002BDBBD /* fosdemAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 04D1DC721A168A65004AC9D8 /* fosdemAppDelegate.m */; };
 		04B3FAC01A168F74002BDBBD /* LADownload.m in Sources */ = {isa = PBXBuildFile; fileRef = 04D1DC741A168A65004AC9D8 /* LADownload.m */; };
 		04B3FAC11A168F79002BDBBD /* LAEvent.m in Sources */ = {isa = PBXBuildFile; fileRef = 04D1DC761A168A65004AC9D8 /* LAEvent.m */; };
@@ -168,6 +170,8 @@
 		04A862CC1A6FF75F0019C7BE /* H.1302 (Depage).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "H.1302 (Depage).png"; path = "fosdem/maps/H.1302 (Depage).png"; sourceTree = SOURCE_ROOT; };
 		04A862CE1A6FF7AD0019C7BE /* UD2.218A.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = UD2.218A.png; path = fosdem/maps/UD2.218A.png; sourceTree = SOURCE_ROOT; };
 		04A862D01A6FF8670019C7BE /* H.3327.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = H.3327.png; path = fosdem/maps/H.3327.png; sourceTree = SOURCE_ROOT; };
+		04B26A071E56DBEE004B818B /* fosdem_schedule2016.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = fosdem_schedule2016.xml; path = fosdem/fosdem_schedule2016.xml; sourceTree = SOURCE_ROOT; };
+		04B26A091E56DCE2004B818B /* fosdem_schedule2017.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = fosdem_schedule2017.xml; path = fosdem/fosdem_schedule2017.xml; sourceTree = "<group>"; };
 		04BD90DB1A1115D8006D0251 /* YearTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = YearTableViewCell.xib; path = fosdem/YearTableViewCell.xib; sourceTree = "<group>"; };
 		04D1DBCD1A1688CE004AC9D8 /* Icon-72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-72.png"; path = "fosdem/Icon-72.png"; sourceTree = "<group>"; };
 		04D1DBCE1A1688CE004AC9D8 /* Icon-72@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-72@2x.png"; path = "fosdem/Icon-72@2x.png"; sourceTree = "<group>"; };
@@ -415,7 +419,7 @@
 			path = maps;
 			sourceTree = "<group>";
 		};
-		29B97314FDCFA39411CA2CEA = {
+		29B97314FDCFA39411CA2CEA /* fosdem */ = {
 			isa = PBXGroup;
 			children = (
 				080E96DDFE201D6D7F000001 /* Classes */,
@@ -453,6 +457,8 @@
 				048CCDDC1A1CF3520088340C /* fosdem_schedule2013.xml */,
 				048CCDDD1A1CF3520088340C /* fosdem_schedule2014.xml */,
 				048CCDDE1A1CF3520088340C /* fosdem_schedule2015.xml */,
+				04B26A071E56DBEE004B818B /* fosdem_schedule2016.xml */,
+				04B26A091E56DCE2004B818B /* fosdem_schedule2017.xml */,
 				8D1107310486CEB800E47090 /* fosdem-Info.plist */,
 				04E4816A1A177AC500735ACF /* LICENSE */,
 				75E54BF41694C73000E9593D /* Images */,
@@ -622,7 +628,7 @@
 				French,
 				German,
 			);
-			mainGroup = 29B97314FDCFA39411CA2CEA;
+			mainGroup = 29B97314FDCFA39411CA2CEA /* fosdem */;
 			productRefGroup = 19C28FACFE9D520D11CA2CBB /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -690,6 +696,7 @@
 				04D1DC391A1689E3004AC9D8 /* clock.png in Resources */,
 				04D1DC101A1689A9004AC9D8 /* Chavanne.png in Resources */,
 				04D1DBDF1A1688CE004AC9D8 /* icon.png in Resources */,
+				04B26A081E56DBEF004B818B /* fosdem_schedule2016.xml in Resources */,
 				04D1DC171A1689A9004AC9D8 /* H.1308.png in Resources */,
 				04A862D11A6FF8670019C7BE /* H.3327.png in Resources */,
 				04D1DC111A1689A9004AC9D8 /* Ferrer.png in Resources */,
@@ -725,6 +732,7 @@
 				04D1DC1D1A1689A9004AC9D8 /* Janson.png in Resources */,
 				04D1DBD71A1688CE004AC9D8 /* Icon-72.png in Resources */,
 				04BD90DD1A1115D8006D0251 /* YearTableViewCell.xib in Resources */,
+				04B26A0A1E56DCE2004B818B /* fosdem_schedule2017.xml in Resources */,
 				04D1DBDC1A1688CE004AC9D8 /* Icon-Small-50@2x.png in Resources */,
 				04D1DC3A1A1689E3004AC9D8 /* clock@2x.png in Resources */,
 				04D1DC0F1A1689A9004AC9D8 /* AW1.126.png in Resources */,
