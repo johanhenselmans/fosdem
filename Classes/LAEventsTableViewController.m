@@ -26,6 +26,9 @@
     
     [super viewDidLoad];
     
+    self.tableView.rowHeight = UITableViewAutomaticDimension;
+    self.tableView.estimatedRowHeight = 140;
+    
     filteredEvents = [[NSMutableArray alloc] init];
     
 	timeDateFormatter = [[NSDateFormatter alloc] init];
@@ -120,9 +123,17 @@
     [[(LAEventTableViewCell*)cell titleLabel] setText: [event title]];
     [[(LAEventTableViewCell*)cell subtitleLabel] setText: [event speaker]];
     [[(LAEventTableViewCell*)cell timeLabel] setText: [timeDateFormatter stringFromDate: [event startDate]]];
-
+     
+    [cell setNeedsLayout];
+    [cell layoutIfNeeded];
+     
     return cell;
     
+}
+
+- (CGFloat)tableView:(UITableView *)tableView heightForRowAtIndexPath:(NSIndexPath *)indexPath
+{
+    return UITableViewAutomaticDimension;
 }
 
 // Method to override if 

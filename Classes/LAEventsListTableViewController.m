@@ -51,6 +51,9 @@
     
     [super viewDidLoad];
     
+    self.tableView.rowHeight = UITableViewAutomaticDimension;
+    self.tableView.estimatedRowHeight = 140.0;
+    
     timeDateFormatter = [[NSDateFormatter alloc] init];
 	[timeDateFormatter setDateFormat: @"HH:mm"];
     [timeDateFormatter setTimeZone: [NSTimeZone timeZoneForSecondsFromGMT: 3600]];
@@ -101,6 +104,9 @@
     [[(LAEventTableViewCell*)cell titleLabel] setText: [event title]];
     [[(LAEventTableViewCell*)cell subtitleLabel] setText: [event speaker]];
     [[(LAEventTableViewCell*)cell timeLabel] setText: [timeDateFormatter stringFromDate: [event startDate]]];
+    
+    [cell setNeedsLayout];
+    [cell layoutIfNeeded];
     
     return cell;
 }
