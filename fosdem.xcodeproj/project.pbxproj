@@ -433,7 +433,8 @@
 				LastUpgradeCheck = 0920;
 				TargetAttributes = {
 					1D6058900D05DD3D006BFB54 = {
-						DevelopmentTeam = LF5UR58RAM;
+						DevelopmentTeam = 2AWB3N3D5T;
+						ProvisioningStyle = Automatic;
 					};
 				};
 			};
@@ -556,19 +557,22 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				CODE_SIGN_IDENTITY = "iPhone Developer: Adam Ziolkowski (XL23A8S4V7)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Adam Ziolkowski (XL23A8S4V7)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
 				COPY_PHASE_STRIP = NO;
+				DEVELOPMENT_TEAM = 2AWB3N3D5T;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_OPTIMIZATION_LEVEL = 0;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = fosdem_Prefix.pch;
 				INFOPLIST_FILE = "fosdem-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.landasoftware.fosdem;
+				PRODUCT_BUNDLE_IDENTIFIER = lt.keyspace.fosdem;
 				PRODUCT_NAME = fosdem;
-				PROVISIONING_PROFILE = "F4FC12E0-5C18-43AA-8FF1-DC62F341CDA5";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "F4FC12E0-5C18-43AA-8FF1-DC62F341CDA5";
+				PROVISIONING_PROFILE = "";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 			};
 			name = Debug;
 		};
@@ -576,17 +580,20 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				CODE_SIGN_IDENTITY = "iPhone Developer: Adam Ziolkowski (XL23A8S4V7)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Adam Ziolkowski (XL23A8S4V7)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
 				COPY_PHASE_STRIP = YES;
+				DEVELOPMENT_TEAM = 2AWB3N3D5T;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = fosdem_Prefix.pch;
 				INFOPLIST_FILE = "fosdem-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.landasoftware.fosdem;
+				PRODUCT_BUNDLE_IDENTIFIER = lt.keyspace.fosdem;
 				PRODUCT_NAME = fosdem;
-				PROVISIONING_PROFILE = "F4FC12E0-5C18-43AA-8FF1-DC62F341CDA5";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "F4FC12E0-5C18-43AA-8FF1-DC62F341CDA5";
+				PROVISIONING_PROFILE = "";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = iphoneos;
 			};
 			name = Release;
@@ -633,17 +640,20 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				CODE_SIGN_IDENTITY = "iPhone Distribution: INSANELY INTERESTING LTD (LF5UR58RAM)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: INSANELY INTERESTING LTD (LF5UR58RAM)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
 				COPY_PHASE_STRIP = YES;
+				DEVELOPMENT_TEAM = 2AWB3N3D5T;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = fosdem_Prefix.pch;
 				INFOPLIST_FILE = "fosdem-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.landasoftware.fosdem;
+				PRODUCT_BUNDLE_IDENTIFIER = lt.keyspace.fosdem;
 				PRODUCT_NAME = fosdem;
-				PROVISIONING_PROFILE = "4EF1A190-9199-4C10-A3E5-7F976768BF9F";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "4EF1A190-9199-4C10-A3E5-7F976768BF9F";
+				PROVISIONING_PROFILE = "";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = iphoneos;
 			};
 			name = Distribution;
