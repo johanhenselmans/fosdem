@@ -19,12 +19,13 @@
 NSMutableArray *yearArray;
 NSDateComponents* currentYearMonthDay ;
 int lastYear;
-fosdemAppDelegate *myapp;
 
 
 @implementation YearTableViewController
+{
+	fosdemAppDelegate *myapp;
 
-
+}
 
 
 - (void)viewDidLoad {

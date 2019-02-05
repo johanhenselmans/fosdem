@@ -11,7 +11,10 @@
 #import "LAEventsTableViewController.h"
 #import "fosdemAppDelegate.h"
 
-@implementation LAEventsTableViewController
+@implementation LAEventsTableViewController{
+	fosdemAppDelegate * myapp;
+	NSDateComponents* currentYearMonthDay ;
+}
 
 @synthesize eventCell;
 @synthesize timeDateFormatter;
@@ -21,11 +24,9 @@
 @synthesize downloadActionSheet, downloadProgressBar;
 
 
-NSDateComponents* currentYearMonthDay ;
-fosdemAppDelegate * myapp;
 
 - (void)viewDidLoad {
-  
+
   [super viewDidLoad];
   myapp = (fosdemAppDelegate *)[[UIApplication sharedApplication] delegate];
   

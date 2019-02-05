@@ -11,13 +11,13 @@
 #import "LAEventDatabase.h"
 #import "fosdemAppDelegate.h"
 
-@implementation LAEventDatabase
-
+@implementation LAEventDatabase{
+	}
 
 @synthesize events, eventsUserData;
-
 static LAEventDatabase *mainEventDatabase = nil;
 fosdemAppDelegate * myapp;
+
 
 + (LAEventDatabase *) sharedEventDatabase
 {
@@ -49,7 +49,7 @@ fosdemAppDelegate * myapp;
 }
 
 - (LAEventDatabase*) init {
-  if (self = [super init]) {
+	if (self = [super init]) {
     events = [[NSMutableArray alloc] init];
     //stared = [[NSMutableArray alloc] init];
     myapp = (fosdemAppDelegate *)[[UIApplication sharedApplication] delegate];
