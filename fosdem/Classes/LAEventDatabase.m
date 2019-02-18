@@ -14,7 +14,7 @@
 @implementation LAEventDatabase{
 	}
 
-@synthesize events, eventsUserData;
+@synthesize events, eventsUserData, roomsData;
 static LAEventDatabase *mainEventDatabase = nil;
 fosdemAppDelegate * myapp;
 
@@ -45,7 +45,7 @@ fosdemAppDelegate * myapp;
 		mainEventDatabase = [[LAEventDatabase alloc] initWithContentsOfFile: [self eventDatabaseLocation]];
   
   [LAEventDatabase sharedEventDatabase];
-  
+  [[LAEventDatabase sharedEventDatabase] updateCurrentEventsWithRoomData];
 }
 
 - (LAEventDatabase*) init {
@@ -56,10 +56,10 @@ fosdemAppDelegate * myapp;
     
     eventsOnDayCache = [[NSMutableDictionary alloc] init];
     
-    //[[NSNotificationCenter defaultCenter] addObserver: self
-    //                                         selector: @selector(eventDatabaseUpdated)
-    //                                             name: @"LAEventDatabaseUpdated"
-    //                                           object: nil];
+    [[NSNotificationCenter defaultCenter] addObserver: self
+                                             selector: @selector(eventDatabaseUpdated)
+                                                 name: @"LAEventDatabaseUpdated"
+                                               object: nil];
   }
   return self;
 }
@@ -67,17 +67,26 @@ fosdemAppDelegate * myapp;
 - (LAEventDatabase *) initWithContentsOfFile: (NSString *) filePath {
   if (self = [self init]) {
     
-    // Before the parsing because the userInfo dict is needed to set the properties
+    // Do before the parsing because the userInfo dict is needed to set the properties
     NSMutableDictionary *userDataDictionary = [[NSMutableDictionary alloc] initWithContentsOfFile: [LAEventDatabase userDataFileLocation]];
     if (!userDataDictionary) {
       userDataDictionary = [[NSMutableDictionary alloc] init];
     }
-    
     [self setEventsUserData: userDataDictionary];
-    
-    LAEventsXMLParser *xmlParser = [[LAEventsXMLParser alloc] initWithContentsOfFile: filePath delegate: self];
-    [xmlParser parse];
-    
+		
+		//parse the data from the occupancy file, also needed before the XML Parsing
+		NSString* jsonString = [[NSString alloc] initWithContentsOfFile:[LAEventDatabase roomsDataFileLocation] encoding:NSUTF8StringEncoding error:nil];
+		NSData* jsonData = [jsonString dataUsingEncoding:NSUTF8StringEncoding];
+		NSError *jsonError;
+		if (jsonData != nil){
+			roomsData = [NSJSONSerialization JSONObjectWithData:jsonData options:kNilOptions error:&jsonError];
+		} else {
+			roomsData = [[NSMutableArray alloc] init];
+		}
+		
+    // initWithContentsOfFile starts the parsing, in the background of the schedule.xml files
+		LAEventsXMLParser *xmlParser = [[LAEventsXMLParser alloc] initWithContentsOfFile: filePath delegate: self];
+		
     // We react to an update after parsing because we don't want to rewrite what has just been read while parsing
     [[NSNotificationCenter defaultCenter] addObserver: self
                                              selector: @selector(eventUpdated:)
@@ -115,7 +124,7 @@ fosdemAppDelegate * myapp;
   
   while (currentEvent = [eventsEnumerator nextObject]) {
     if (currentEvent.startDate ){
-      NSDateComponents *currentEventDateComponents = [calendar components: (NSDayCalendarUnit | NSMonthCalendarUnit | NSYearCalendarUnit) fromDate: [currentEvent startDate]];
+      NSDateComponents *currentEventDateComponents = [calendar components: (NSCalendarUnitDay | NSCalendarUnitMonth | NSCalendarUnitYear) fromDate: [currentEvent startDate]];
       // We have the date of the event. Now we have to loop through the existing unique dates to see if there already is a date like that.
       NSEnumerator *uniqueDaysEnumerator = [uniqueDays objectEnumerator];
       NSDate *currentUniqueDay;
@@ -123,7 +132,7 @@ fosdemAppDelegate * myapp;
       BOOL foundMatchingDay = NO;
       
       while (currentUniqueDay = [uniqueDaysEnumerator nextObject]) {
-        NSDateComponents *uniqueDayDateComponents = [calendar components: (NSDayCalendarUnit | NSMonthCalendarUnit | NSYearCalendarUnit) fromDate: currentUniqueDay];
+        NSDateComponents *uniqueDayDateComponents = [calendar components: (NSCalendarUnitDay | NSCalendarUnitMonth | NSCalendarUnitYear) fromDate: currentUniqueDay];
         // Does the current looped unique day match the one we have from the event?
         if([uniqueDayDateComponents day] == [currentEventDateComponents day] && \
            [uniqueDayDateComponents month] == [currentEventDateComponents month] && \
@@ -167,8 +176,8 @@ fosdemAppDelegate * myapp;
   NSCalendar *calendar = [NSCalendar autoupdatingCurrentCalendar];
   
   while (currentEvent = [eventsEnumerator nextObject]) {
-    NSDateComponents *currentEventDateComponents = [calendar components: (NSDayCalendarUnit | NSMonthCalendarUnit | NSYearCalendarUnit) fromDate: [currentEvent startDate]];
-    NSDateComponents *eventDateComponents = [calendar components: (NSDayCalendarUnit | NSMonthCalendarUnit | NSYearCalendarUnit) fromDate: dayDate];
+    NSDateComponents *currentEventDateComponents = [calendar components: (NSCalendarUnitDay | NSCalendarUnitMonth | NSCalendarUnitYear) fromDate: [currentEvent startDate]];
+    NSDateComponents *eventDateComponents = [calendar components: (NSCalendarUnitDay | NSCalendarUnitMonth | NSCalendarUnitYear) fromDate: dayDate];
     
     if([eventDateComponents day] == [currentEventDateComponents day] && \
        [eventDateComponents month] == [currentEventDateComponents month] && \
@@ -201,8 +210,6 @@ fosdemAppDelegate * myapp;
     }
     
   }
-  //tracksCache = tracks;
-  //return tracks;
   // we sort the tracks, so that we have a nice overview
   tracksCache = [tracks sortedArrayUsingSelector:@selector(localizedCaseInsensitiveCompare:)];
   NSArray *trackssorted = [tracks sortedArrayUsingSelector:@selector(localizedCaseInsensitiveCompare:)];
@@ -211,24 +218,15 @@ fosdemAppDelegate * myapp;
 
 - (NSMutableArray *) starredEvents {
   
-  /*if (starredCache != nil) {
-   return starredCache;
-   }*/
-  
   NSEnumerator *eventsEnumerator = [events objectEnumerator];
   LAEvent *currentEvent;
-  
   NSMutableArray *starredEvents = [NSMutableArray array];
-  
+	
   while (currentEvent = [eventsEnumerator nextObject]){
-    
     if ([currentEvent isStarred]) {
       [starredEvents addObject: currentEvent];
     }
   }
-  
-  //starredCache = starredEvents;
-  
   return starredEvents;
   
 }
@@ -237,19 +235,31 @@ fosdemAppDelegate * myapp;
   
   NSEnumerator *eventsEnumerator = [events objectEnumerator];
   LAEvent *currentEvent;
-  
   NSMutableArray *videoEvents = [NSMutableArray array];
-  
+	
   while (currentEvent = [eventsEnumerator nextObject]){
-    
     if ( [currentEvent contentVideo]!=nil ) {
       [videoEvents addObject: currentEvent];
     }
   }
-  
-  
   return videoEvents;
   
+}
+
+// events in which the room is not completely full
+- (NSMutableArray *) freeEvents {
+	
+  NSEnumerator *eventsEnumerator = [events objectEnumerator];
+  LAEvent *currentEvent;
+  NSMutableArray *freeEvents = [NSMutableArray array];
+	
+  while (currentEvent = [eventsEnumerator nextObject]){
+    if (![currentEvent isOccupied]) {
+      [freeEvents addObject: currentEvent];
+    }
+  }
+  return freeEvents;
+	
 }
 
 
@@ -296,6 +306,56 @@ fosdemAppDelegate * myapp;
   
 }
 
++ (NSString *) roomsDataFileLocation {
+  NSArray *paths = NSSearchPathForDirectoriesInDomains(NSDocumentDirectory, NSUserDomainMask, YES);
+  NSString *documentDirectory = [paths objectAtIndex:0];
+  NSString *roomsDataFileLocation = [documentDirectory stringByAppendingPathComponent:[NSString stringWithFormat:@"roomdata.json"]];
+	
+  return roomsDataFileLocation;
+}
+
+- (void) updateCurrentEventsWithRoomData {
+	NSDate *currentDate = [NSDate date];
+	// for testing only
+	//NSDate * currentDate = [myapp today];
+	NSArray *eventsNow = [[LAEventDatabase sharedEventDatabase] eventsWhile: currentDate];
+	// we calculate 15 minutes ahead: so if a meeting starts in 15 minutes, you should see it as occupied 
+	NSArray *eventsSoon = [[LAEventDatabase sharedEventDatabase] eventsInTimeInterval: 900 afterDate: currentDate];
+
+	for ( LAEvent*event in eventsNow  ){
+	 [self updateEventWithRoomData: event];
+  }
+	for ( LAEvent*event in eventsSoon  ){
+	 [self updateEventWithRoomData: event];
+  }
+  if (eventsNow != nil || eventsSoon !=nil){
+  	[[NSNotificationCenter defaultCenter] postNotificationName: @"LAEventDatabaseUpdated"
+																											object: nil
+																										userInfo: nil];
+		}
+
+}
+
+
+- (void) updateEventWithRoomData: (LAEvent *) event {
+	
+  NSMutableDictionary *userData = [self roomDataForEventWithIdentifier: [event location]];
+  if (userData != nil && [userData objectForKey: @"state"]) {
+    [event setOccupied: [(NSNumber *)[userData objectForKey: @"state"] boolValue]];
+  }
+}
+
+- (NSMutableDictionary *) roomDataForEventWithIdentifier: (NSString *) identifier {
+	NSMutableDictionary *userData;
+	for ( userData in roomsData){
+  	if ( [(NSString*)[userData objectForKey: @"roominfo"]isEqualToString:identifier]) {
+  		return userData;
+    	break;
+  	}
+  }
+  return nil;
+}
+
 
 + (NSString *) userDataFileLocation {
   NSArray *paths = NSSearchPathForDirectoriesInDomains(NSDocumentDirectory, NSUserDomainMask, YES);
@@ -316,15 +376,25 @@ fosdemAppDelegate * myapp;
 - (void) eventUpdated: (NSNotification *) notification {
   NSDictionary *infoDict = [notification userInfo];
   NSMutableDictionary *userData = [self userDataForEventWithIdentifier: [infoDict objectForKey: @"identifier"]];
-  
+	
   if ([infoDict objectForKey: @"starred"]) {
     // Change in the starred property
-    [userData setObject: [infoDict objectForKey: @"starred"] forKey: @"starred"];
+		[userData setObject: [infoDict objectForKey: @"starred"] forKey: @"starred"];
+		[[NSFileManager defaultManager] createDirectoryAtPath: [[LAEventDatabase userDataFileLocation] stringByDeletingLastPathComponent] withIntermediateDirectories: NO attributes: nil error: nil];
+		[[self eventsUserData] writeToFile: [LAEventDatabase userDataFileLocation] atomically: NO];
   }
-  
-  [[NSFileManager defaultManager] createDirectoryAtPath: [[LAEventDatabase userDataFileLocation] stringByDeletingLastPathComponent] withIntermediateDirectories: NO attributes: nil error: nil];
-  
-  [[self eventsUserData] writeToFile: [LAEventDatabase userDataFileLocation] atomically: NO];
+	/*
+  NSMutableDictionary *roomData = [self roomDataForEventWithIdentifier: [infoDict objectForKey: @"roominfo"]];
+	if ([infoDict objectForKey: @"occupied"]) {
+    // Change in the occupied property
+    	[roomsData setObject: [infoDict objectForKey: @"occupied"] forKey: @"occupied"];
+     	[[NSFileManager defaultManager] createDirectoryAtPath: [[LAEventDatabase roomsDataFileLocation] stringByDeletingLastPathComponent] withIntermediateDirectories: NO attributes: nil error: nil];
+		
+  [[self roomsData] writeToFile: [LAEventDatabase roomsDataFileLocation] atomically: NO];
+  }
+ 	*/
+
+	
 }
 
 - (void) updateEventWithUserData: (LAEvent *) event {
@@ -342,7 +412,6 @@ fosdemAppDelegate * myapp;
   LAEvent *currentEvent;
   
   while (currentEvent = [eventsEnumerator nextObject]){
-    
     if ([[currentEvent startDate] isBetweenDate: startDate andDate: [startDate dateByAddingTimeInterval:timeInterval]]) {
       [selectedEvents addObject: currentEvent];
     }
@@ -367,7 +436,18 @@ fosdemAppDelegate * myapp;
 }
 
 
-- (void) eventDatabaseUpdated: (NSNotification *) notification {
+- (NSDate* ) setTheDate:(int)year month:(int)month day:(int)day hour:(int)hour minute:(int)minute {
+	NSDateComponents *comps = [[NSDateComponents alloc] init];
+	[comps setYear:year];
+	[comps setMonth:month];
+	[comps setDay:day];
+	[comps setHour:hour];
+	[comps setMinute:minute];
+	return [[NSCalendar currentCalendar] dateFromComponents:comps];
+}
+
+
+- (void) eventDatabaseUpdated {
   
   // Clear out all the caches
   

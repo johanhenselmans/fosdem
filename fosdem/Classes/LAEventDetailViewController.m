@@ -49,11 +49,6 @@
   // Release any cached data, images, etc that aren't in use.
 }
 
-- (void)viewDidUnload {
-  [super viewDidUnload];
-  // Release any retained subviews of the main view.
-  // e.g. self.myOutlet = nil;
-}
 
 -(IBAction) toggleStarred: (id) sender {
   if ([[self event] isStarred]) {
@@ -70,20 +65,7 @@
 }
 
 - (void) eventUpdated: (NSNotification *) notification {
-  NSDictionary *infoDict = [notification userInfo];
-  //[self fillEvent];
 
-/*  NSMutableDictionary *userData = [self userDataForEventWithIdentifier: [infoDict objectForKey: @"identifier"]];
-  
-  if ([infoDict objectForKey: @"starred"]) {
-    // Change in the starred property
-    [userData setObject: [infoDict objectForKey: @"starred"] forKey: @"starred"];
-  }
-  
-  [[NSFileManager defaultManager] createDirectoryAtPath: [[LAEventDatabase userDataFileLocation] stringByDeletingLastPathComponent] withIntermediateDirectories: NO attributes: nil error: nil];
-  
-  [[self eventsUserData] writeToFile: [LAEventDatabase userDataFileLocation] atomically: NO];
- */
 }
 
 
@@ -94,13 +76,6 @@
   [vdlViewController setContentVideo: [[self event] contentVideo]];
   [[self navigationController] pushViewController: vdlViewController animated: YES];
   
-  //  if ([[self event] isStarred]) {
-  //    [[self event] setStarred: NO];
-  //  }
-  //  else {
-  //    [[self event] setStarred: YES];
-  //  }
-  //  [self updateToolbar];
 }
 
 - (void) fillEvent{

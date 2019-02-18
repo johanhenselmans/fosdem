@@ -31,6 +31,7 @@
     NSDate *endDate;
     
     BOOL starred;
+    BOOL occupied;
 }
 
 //- (NSMutableDictionary *) userData;
@@ -52,6 +53,7 @@
 @property (retain) NSDate *endDate;
 
 @property (assign, getter=isStarred) BOOL starred;
+@property (assign, getter=isOccupied) BOOL occupied;
 - (NSString *) speakerString;
 
 @end

@@ -25,5 +25,10 @@
 @property (nonatomic, retain) NSNumber *currentyear;
 @property (nonatomic, retain) NSNumber *selectedyear;
 @property (nonatomic, retain) NSString *downloadString;
+@property (nonatomic, retain) NSString *occupancyString;
+@property (retain) NSDate *occupancyDownloadDate;
+@property (retain) NSDate *today;
+
+- (void) getOccupancy;
 
 @end

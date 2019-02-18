@@ -20,15 +20,20 @@
   NSMutableArray *events;
   
   NSMutableDictionary *eventsUserData;
-  
+  NSMutableArray *roomsData;
+
   //Caching CPU-intensive operations
   NSArray *cachedUniqueDays;
   NSMutableDictionary *eventsOnDayCache;
   NSArray *tracksCache;
+  NSMutableDictionary *roomsDataCache;
+
 }
 
 + (NSString *) eventDatabaseLocation;
 + (NSString *) userDataFileLocation;
++ (NSString *) roomsDataFileLocation;
+
 + (NSString* ) cachedDatabaseLocation;
 
 + (LAEventDatabase *) sharedEventDatabase;
@@ -46,16 +51,18 @@
 - (NSArray *) eventsForTrack: (NSString*) trackName;
 - (NSMutableArray *) starredEvents;
 - (NSMutableArray *) videoEvents;
+- (NSMutableArray *) freeEvents;
 
 - (NSMutableDictionary *) userDataForEventWithIdentifier: (NSString *) identifier;
 - (void) eventUpdated: (NSNotification *) notification;
 - (void) updateEventWithUserData: (LAEvent *) event;
+- (void) updateCurrentEventsWithRoomData;
 
 - (NSArray *) eventsWhile:(NSDate *)whileDate;
 - (NSArray *)eventsInTimeInterval:(NSTimeInterval) timeInterval afterDate:(NSDate *)startDate;
-
+- (NSDate* ) setTheDate:(int)year month:(int)month day:(int)day hour:(int)hour minute:(int)minute;
 // Clear out the caches
-- (void) eventDatabaseUpdated: (NSNotification *) notification;
+- (void) eventDatabaseUpdated;
 
 + (void) resetMainEventDatabase;
 
@@ -64,5 +71,6 @@
 
 @property (retain) NSMutableArray *events;
 @property (retain) NSMutableDictionary *eventsUserData;
+@property (retain) NSMutableArray *roomsData;
 
 @end
