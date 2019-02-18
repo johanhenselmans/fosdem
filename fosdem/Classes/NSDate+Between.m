@@ -31,7 +31,7 @@
 
 - (NSDate*)getRoundedDate {
 
-    NSDateComponents *dateComponents = [[NSCalendar autoupdatingCurrentCalendar] components: (NSDayCalendarUnit | NSMonthCalendarUnit | NSYearCalendarUnit) fromDate: self];
+    NSDateComponents *dateComponents = [[NSCalendar autoupdatingCurrentCalendar] components: (NSCalendarUnitDay | NSCalendarUnitMonth | NSCalendarUnitYear) fromDate: self];
     
     return [[NSCalendar autoupdatingCurrentCalendar] dateFromComponents:dateComponents];;
 

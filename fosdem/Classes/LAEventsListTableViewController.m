@@ -8,11 +8,7 @@
 
 #import "LAEventsListTableViewController.h"
 
-#import "LAEvent.h"
-#import "LAEventCollection.h"
 
-#import "LAEventTableViewCell.h"
-#import "LAEventDetailViewController.h"
 
 @interface LAEventsListTableViewController ()
 
@@ -24,14 +20,6 @@
 @synthesize sectionDateFormatter;
 @synthesize events;
 
-/*- (id)initWithStyle:(UITableViewStyle)style {
- 
- self = [super initWithStyle:style];
- if (self) {
- // Custom initialization
- }
- return self;
- }*/
 
 -(id) init {
   
@@ -48,7 +36,8 @@
 - (void)viewDidLoad {
   
   [super viewDidLoad];
-  
+	
+	
   timeDateFormatter = [[NSDateFormatter alloc] init];
   [timeDateFormatter setDateFormat: @"HH:mm"];
   [timeDateFormatter setTimeZone: [NSTimeZone timeZoneForSecondsFromGMT: 3600]];
@@ -56,13 +45,32 @@
   sectionDateFormatter = [[NSDateFormatter alloc] init];
   [sectionDateFormatter setDateFormat: @"EEEE, MMMM d yyyy"];
   [sectionDateFormatter setTimeZone: [NSTimeZone timeZoneForSecondsFromGMT: 3600]];
-  
+	
+	self.tableView.rowHeight = UITableViewAutomaticDimension;
+	self.tableView.estimatedRowHeight = 140.0;
+
+	[[NSNotificationCenter defaultCenter] addObserver: self
+																					 selector: @selector(eventUpdated:)
+																							 name: @"LAEventUpdated"
+																						 object: nil];
+
+
 }
 
 - (void)didReceiveMemoryWarning {
   [super didReceiveMemoryWarning];
   // Dispose of any resources that can be recreated.
+	
 }
+
+- (void) eventUpdated: (NSNotification *) notification {
+  dispatch_async(dispatch_get_main_queue(), ^(void){
+        //Run UI Updates
+  		[[self tableView] reloadData];
+    });
+	
+	}
+
 
 #pragma mark - Table view data source
 
@@ -87,7 +95,7 @@
   NSDate *eventDate = [[events uniqueDays] objectAtIndex: [indexPath section]];
   LAEvent *event = [[[events eventsOnDay] objectForKey: eventDate] objectAtIndex: [indexPath row]];
   
-  UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:CellIdentifier];
+  LAEventTableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:CellIdentifier];
   
   if (cell == nil) {
     
@@ -95,16 +103,81 @@
     cell = [nib objectAtIndex: 0];
     
   }
-  
+	
+ 	cell.delegate = self;
+	cell.cellIndex = indexPath.row; // Set indexpath if its a grouped table.
+
   [[(LAEventTableViewCell*)cell titleLabel] setText: [event title]];
   [[(LAEventTableViewCell*)cell subtitleLabel] setText: [event speakerString]];
   [[(LAEventTableViewCell*)cell timeLabel] setText: [timeDateFormatter stringFromDate: [event startDate]]];
+	if (event.occupied == YES){
+		[[(LAEventTableViewCell*)cell timeLabel] setTextColor:[UIColor redColor]];
+	}
+	if (event.contentVideo == nil){
+		[[(LAEventTableViewCell*)cell videoImage] setHidden:YES];
+	}
   if (event.contentVideo == nil){
     [[(LAEventTableViewCell*)cell videoImage] setHidden:YES];
   }
-  
-  return cell;
+		if (event.starred == YES){
+		[[(LAEventTableViewCell*)cell starButton] setHighlighted:YES];
+		[[cell starButton] setImage:[UIImage imageNamed: @"starOn.png"] forState:(UIControlState)UIControlStateHighlighted];
+	} else {
+		[[(LAEventTableViewCell*)cell starButton] setHighlighted:NO];
+		[[cell starButton] setImage:[UIImage imageNamed: @"starOff.png"] forState:(UIControlState)UIControlStateNormal];
+	}
+	[(LAEventTableViewCell*)cell setEvent:event];
+	
+	cell.selectionStyle = UITableViewCellSelectionStyleNone;
+	[cell setNeedsLayout];
+	[cell layoutIfNeeded];
+	// [cell setNeedsDisplay];
+	
+	return cell;
+	
 }
+
+- (void)didClickOnStar:(NSInteger)cellIndex withData:(id)data
+{
+	//NSLog(@"Start at Index: %ld clicked.\n Data received : %@", (long)cellIndex, data);
+	LAEvent *event = data;
+	if ([ event isStarred]) {
+		[ event setStarred: NO];
+	}
+	else {
+		[ event setStarred: YES];
+	}
+	NSDictionary *infoDict = [NSDictionary dictionaryWithObjectsAndKeys: [event identifier], @"identifier", [NSNumber  numberWithBool: [ event isStarred]], @"starred", nil];
+	[[NSNotificationCenter defaultCenter] postNotificationName: @"LAEventUpdated"
+																											object: nil
+																										userInfo: infoDict];
+}
+
+
+- (void)didClickOnEvent:(NSInteger)cellIndex withData:(id)data
+{
+	// Do additional actions as required.
+	//NSLog(@"Cell at Index: %ld clicked.\n Data received : %@", (long)cellIndex, data);
+	LAEvent *event = data;
+		LAEventDetailViewController *eventDetailViewController = [[LAEventDetailViewController alloc] initWithNibName: @"LAEventDetailViewController" bundle: [NSBundle mainBundle]];
+	 [eventDetailViewController setEvent: event];
+	 [[self navigationController] pushViewController: eventDetailViewController animated: YES];
+
+}
+
+- (void)didClickOnVideo:(NSInteger)cellIndex withData:(id)data
+{
+	// Do additional actions as required.
+	//NSLog(@"Video at Index: %ld clicked.\n Data received : %@", (long)cellIndex, data);
+	LAEvent *event = data;
+	
+	VDLViewController *vdlViewController = [[VDLViewController alloc] initWithNibName: @"VDLViewController" bundle: [NSBundle mainBundle]];
+	
+  [vdlViewController setContentVideo: [event contentVideo]];
+  [[self navigationController] pushViewController: vdlViewController animated: YES];
+}
+
+
 
 - (NSString *)tableView: (UITableView *)tableView titleForHeaderInSection:(NSInteger)section {
   
@@ -120,7 +193,7 @@
 }
 
 #pragma mark - Table view delegate
-
+/*
 - (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath
 {
   
@@ -134,5 +207,5 @@
   [[self navigationController] pushViewController: eventDetailViewController animated: YES];
   
 }
-
+*/
 @end

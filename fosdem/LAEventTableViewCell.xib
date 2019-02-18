@@ -1,77 +1,126 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
-    <device id="retina4_7" orientation="portrait">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14490.59" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina3_5" orientation="portrait">
         <adaptation id="fullscreen"/>
     </device>
     <dependencies>
         <deployment version="2064" identifier="iOS"/>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14490.45"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <objects>
         <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
         <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
-        <tableViewCell clearsContextBeforeDrawing="NO" contentMode="scaleToFill" selectionStyle="blue" accessoryType="disclosureIndicator" indentationWidth="10" rowHeight="44" id="3" customClass="LAEventTableViewCell">
+        <tableViewCell clearsContextBeforeDrawing="NO" multipleTouchEnabled="YES" contentMode="scaleToFill" selectionStyle="blue" accessoryType="disclosureIndicator" indentationWidth="10" rowHeight="44" id="3" customClass="LAEventTableViewCell">
             <rect key="frame" x="0.0" y="0.0" width="573" height="44"/>
             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="3" id="jJA-b5-cDs">
-                <rect key="frame" x="0.0" y="0.0" width="535" height="43.5"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" contentMode="center" tableViewCell="3" id="jJA-b5-cDs">
+                <rect key="frame" x="0.0" y="0.0" width="539" height="43.5"/>
                 <autoresizingMask key="autoresizingMask"/>
                 <subviews>
-                    <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" text="Title" lineBreakMode="tailTruncation" minimumFontSize="10" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="4">
-                        <rect key="frame" x="20" y="2" width="452" height="20"/>
+                    <label opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" verticalHuggingPriority="249" text="Title" lineBreakMode="tailTruncation" minimumFontSize="10" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="4">
+                        <rect key="frame" x="16" y="0.0" width="379" height="26"/>
                         <fontDescription key="fontDescription" name="Helvetica-Bold" family="Helvetica" pointSize="16"/>
                         <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
                         <nil key="highlightedColor"/>
                     </label>
-                    <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" text="24:24" textAlignment="right" lineBreakMode="tailTruncation" minimumFontSize="10" translatesAutoresizingMaskIntoConstraints="NO" id="6">
-                        <rect key="frame" x="480" y="18" width="47" height="16"/>
+                    <label opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" horizontalHuggingPriority="249" text="Subtitle" lineBreakMode="tailTruncation" minimumFontSize="10" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="5">
+                        <rect key="frame" x="16" y="26" width="379" height="17.5"/>
+                        <fontDescription key="fontDescription" name="Helvetica" family="Helvetica" pointSize="15"/>
+                        <color key="textColor" red="0.29803922770000002" green="0.29803922770000002" blue="0.29803922770000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" text="24:24" textAlignment="right" lineBreakMode="tailTruncation" minimumFontSize="10" translatesAutoresizingMaskIntoConstraints="NO" id="6">
+                        <rect key="frame" x="484" y="8" width="47" height="18"/>
                         <constraints>
-                            <constraint firstAttribute="width" constant="47" id="ihm-Vg-qiR"/>
+                            <constraint firstAttribute="width" constant="47" id="pM7-JB-lGz"/>
                         </constraints>
                         <fontDescription key="fontDescription" name="Helvetica" family="Helvetica" pointSize="15"/>
                         <color key="textColor" red="0.0" green="0.50196081400000003" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <nil key="highlightedColor"/>
                     </label>
-                    <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" text="Subtitle" lineBreakMode="tailTruncation" minimumFontSize="10" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="5">
-                        <rect key="frame" x="20" y="27" width="418" height="15"/>
-                        <fontDescription key="fontDescription" name="Helvetica" family="Helvetica" pointSize="15"/>
-                        <color key="textColor" red="0.29803922770000002" green="0.29803922770000002" blue="0.29803922770000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                        <nil key="highlightedColor"/>
-                    </label>
-                    <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="video.png" translatesAutoresizingMaskIntoConstraints="NO" id="ELO-d7-VOu">
-                        <rect key="frame" x="439" y="27" width="33" height="11"/>
+                    <imageView contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" horizontalCompressionResistancePriority="749" image="video.png" translatesAutoresizingMaskIntoConstraints="NO" id="ELO-d7-VOu">
+                        <rect key="frame" x="446" y="8" width="30" height="30"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="30" id="OTA-bM-NCb"/>
+                        </constraints>
                     </imageView>
+                    <button contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="KIU-kh-Dqh" userLabel="SelectEventButton">
+                        <rect key="frame" x="16" y="0.0" width="379" height="43.5"/>
+                        <connections>
+                            <action selector="selectEvent:" destination="3" eventType="touchUpInside" id="eVm-xV-bOZ"/>
+                        </connections>
+                    </button>
+                    <button opaque="NO" contentMode="scaleAspectFit" highlighted="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" reversesTitleShadowWhenHighlighted="YES" adjustsImageSizeForAccessibilityContentSizeCategory="YES" adjustsImageWhenDisabled="NO" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="g6b-zy-Cig">
+                        <rect key="frame" x="405" y="8" width="30" height="25"/>
+                        <color key="backgroundColor" red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="30" id="GND-0h-Wpg"/>
+                        </constraints>
+                        <color key="tintColor" red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <state key="normal" image="starOn.png"/>
+                        <state key="highlighted" image="starOn.png"/>
+                        <connections>
+                            <action selector="toggleStarred:" destination="3" eventType="touchUpInside" id="DBk-er-W5g"/>
+                        </connections>
+                    </button>
+                    <button contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="cKO-tB-5JJ" userLabel="VideoButton">
+                        <rect key="frame" x="446" y="8" width="30" height="27.5"/>
+                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="30" id="bMx-I9-jKy"/>
+                        </constraints>
+                        <color key="tintColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <state key="normal">
+                            <color key="titleColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <color key="titleShadowColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        </state>
+                        <connections>
+                            <action selector="selectVideo:" destination="3" eventType="touchUpInside" id="PWH-2f-epV"/>
+                        </connections>
+                    </button>
                 </subviews>
                 <constraints>
-                    <constraint firstItem="6" firstAttribute="leading" secondItem="ELO-d7-VOu" secondAttribute="trailing" constant="8" id="1s3-VB-Zxt"/>
-                    <constraint firstItem="4" firstAttribute="top" secondItem="jJA-b5-cDs" secondAttribute="topMargin" constant="-9" id="6KP-XY-mXi"/>
-                    <constraint firstItem="4" firstAttribute="leading" secondItem="5" secondAttribute="leading" id="N8k-mf-tvE"/>
-                    <constraint firstItem="6" firstAttribute="top" secondItem="jJA-b5-cDs" secondAttribute="topMargin" constant="7" id="Oq7-K6-TEq"/>
-                    <constraint firstItem="5" firstAttribute="top" secondItem="jJA-b5-cDs" secondAttribute="topMargin" constant="16" id="Psf-1L-wA7"/>
-                    <constraint firstAttribute="bottomMargin" secondItem="6" secondAttribute="bottom" constant="-1" id="YuK-Su-9AK"/>
-                    <constraint firstItem="6" firstAttribute="leading" secondItem="4" secondAttribute="trailing" constant="8" symbolic="YES" id="Zvx-NU-F5p"/>
-                    <constraint firstItem="ELO-d7-VOu" firstAttribute="top" secondItem="5" secondAttribute="top" id="a1k-uQ-bBb"/>
-                    <constraint firstItem="ELO-d7-VOu" firstAttribute="leading" secondItem="5" secondAttribute="trailing" constant="1" id="b0z-so-UcK"/>
-                    <constraint firstAttribute="bottomMargin" secondItem="5" secondAttribute="bottom" constant="-9" id="d4R-re-s4L"/>
-                    <constraint firstItem="6" firstAttribute="leading" secondItem="5" secondAttribute="trailing" constant="42" id="g3H-fb-yIK"/>
-                    <constraint firstItem="5" firstAttribute="leading" secondItem="jJA-b5-cDs" secondAttribute="leadingMargin" id="hIC-aP-UE5"/>
-                    <constraint firstAttribute="bottomMargin" secondItem="ELO-d7-VOu" secondAttribute="bottom" constant="-5" id="lVL-EX-5YE"/>
-                    <constraint firstItem="6" firstAttribute="trailing" secondItem="jJA-b5-cDs" secondAttribute="trailingMargin" id="sTe-KJ-1lG"/>
-                    <constraint firstAttribute="bottomMargin" secondItem="4" secondAttribute="bottom" constant="11" id="vVc-4v-bRw"/>
+                    <constraint firstItem="6" firstAttribute="trailing" secondItem="jJA-b5-cDs" secondAttribute="trailingMargin" id="6rG-ur-usG"/>
+                    <constraint firstItem="5" firstAttribute="leading" secondItem="jJA-b5-cDs" secondAttribute="leadingMargin" id="8sy-Je-upJ"/>
+                    <constraint firstItem="g6b-zy-Cig" firstAttribute="leading" secondItem="5" secondAttribute="trailing" constant="10" id="A9o-yH-iAU"/>
+                    <constraint firstItem="6" firstAttribute="top" secondItem="jJA-b5-cDs" secondAttribute="top" constant="8" id="EdD-an-v0K"/>
+                    <constraint firstItem="4" firstAttribute="baseline" secondItem="6" secondAttribute="firstBaseline" id="Egu-8U-6tn"/>
+                    <constraint firstItem="ELO-d7-VOu" firstAttribute="top" secondItem="jJA-b5-cDs" secondAttribute="top" constant="8" id="Eu6-qu-MEy"/>
+                    <constraint firstItem="KIU-kh-Dqh" firstAttribute="top" secondItem="jJA-b5-cDs" secondAttribute="top" id="Fbl-Vd-Qa9"/>
+                    <constraint firstItem="g6b-zy-Cig" firstAttribute="leading" secondItem="KIU-kh-Dqh" secondAttribute="trailing" constant="10" id="GN7-wg-XzN"/>
+                    <constraint firstAttribute="bottomMargin" secondItem="g6b-zy-Cig" secondAttribute="bottom" id="IhQ-dm-wWF"/>
+                    <constraint firstItem="KIU-kh-Dqh" firstAttribute="leading" secondItem="jJA-b5-cDs" secondAttribute="leadingMargin" id="Is5-Zh-l6j"/>
+                    <constraint firstItem="6" firstAttribute="leading" secondItem="ELO-d7-VOu" secondAttribute="trailing" constant="8" symbolic="YES" id="KVr-1u-qn3"/>
+                    <constraint firstItem="ELO-d7-VOu" firstAttribute="leading" secondItem="g6b-zy-Cig" secondAttribute="trailing" constant="11" id="Kti-7R-0Ig"/>
+                    <constraint firstItem="g6b-zy-Cig" firstAttribute="leading" secondItem="4" secondAttribute="trailing" constant="10" id="Zob-NL-riu"/>
+                    <constraint firstItem="g6b-zy-Cig" firstAttribute="top" secondItem="jJA-b5-cDs" secondAttribute="top" constant="8" id="bV5-3q-cZU"/>
+                    <constraint firstItem="KIU-kh-Dqh" firstAttribute="centerY" secondItem="jJA-b5-cDs" secondAttribute="centerY" id="fHg-Og-Wxb"/>
+                    <constraint firstItem="4" firstAttribute="leading" secondItem="5" secondAttribute="leading" id="hwk-qN-5nd"/>
+                    <constraint firstAttribute="bottom" secondItem="5" secondAttribute="bottom" id="k9W-Q3-1D1"/>
+                    <constraint firstItem="5" firstAttribute="top" secondItem="4" secondAttribute="bottom" id="ka9-vX-9hZ"/>
+                    <constraint firstItem="cKO-tB-5JJ" firstAttribute="top" secondItem="ELO-d7-VOu" secondAttribute="top" id="ngs-1k-Fkd"/>
+                    <constraint firstItem="4" firstAttribute="top" secondItem="jJA-b5-cDs" secondAttribute="top" id="nhn-rA-Yat"/>
+                    <constraint firstItem="cKO-tB-5JJ" firstAttribute="centerY" secondItem="KIU-kh-Dqh" secondAttribute="centerY" id="rwu-oc-80K"/>
+                    <constraint firstItem="6" firstAttribute="leading" secondItem="cKO-tB-5JJ" secondAttribute="trailing" constant="8" symbolic="YES" id="waE-Nl-e6u"/>
                 </constraints>
             </tableViewCellContentView>
             <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <accessibility key="accessibilityConfiguration">
+                <bool key="isElement" value="YES"/>
+            </accessibility>
             <connections>
+                <outlet property="starButton" destination="g6b-zy-Cig" id="yFY-FS-xLy"/>
                 <outlet property="subtitleLabel" destination="5" id="12"/>
                 <outlet property="timeLabel" destination="6" id="13"/>
                 <outlet property="titleLabel" destination="4" id="11"/>
                 <outlet property="videoImage" destination="ELO-d7-VOu" id="KTX-2x-AWl"/>
             </connections>
-            <point key="canvasLocation" x="356.5" y="256"/>
+            <point key="canvasLocation" x="352.734375" y="253.12499999999997"/>
         </tableViewCell>
     </objects>
     <resources>
-        <image name="video.png" width="30" height="30"/>
+        <image name="starOn.png" width="20" height="19"/>
+        <image name="video.png" width="30.5" height="30.5"/>
     </resources>
 </document>

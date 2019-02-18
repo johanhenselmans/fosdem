@@ -139,8 +139,8 @@ int lastYear;
   [myapp setSelectedyear:selectedYear];
 
   LAEventsTableViewController *eventsTableViewController = [[LAEventsTableViewController alloc] initWithNibName: @"LAEventsTableViewController" bundle: [NSBundle mainBundle]];
-
-  [eventsTableViewController setYear:selectedYear ];
+	// year is set in ViewDidLoad in eventsTableViewController
+  //[eventsTableViewController setYear:selectedYear ];
   [[self navigationController] pushViewController: eventsTableViewController animated: YES];
   
 }

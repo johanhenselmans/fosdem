@@ -11,13 +11,14 @@
 #import <UIKit/UIKit.h>
 
 #import "LAEventDetailViewController.h"
+#import "VDLViewController.h"
 
 #import "LAEventDatabase.h"
 #import "LAEvent.h"
 #import "LADownload.h"
 #import "LAEventTableViewCell.h"
 
-@interface LAEventsTableViewController : UITableViewController <UIActionSheetDelegate>
+@interface LAEventsTableViewController : UITableViewController <UIActionSheetDelegate, CellDelegate>
 
 - (void) eventDatabaseUpdated;
 
@@ -27,9 +28,8 @@
 
 - (void)actionSheetCancel:(UIActionSheet *)actionSheet;
 - (void)downloadDidFinish: (LADownload *) aDownload;
-
 - (void)download: (LADownload *) aDownload didReceiveDataOfLength: (NSUInteger) dataLength;
-- (void)setYear: (NSNumber*) aYear ;
+- (void)getYear: (NSNumber*) aYear ;
 
 @property (nonatomic, retain) IBOutlet LAEventTableViewCell *eventCell;
 @property (retain) NSDateFormatter *timeDateFormatter;
@@ -38,6 +38,8 @@
 @property (retain) UIProgressView *downloadProgressBar;
 @property (retain) UIActionSheet *downloadActionSheet;
 @property (retain) LADownload *download;
-
+- (void)didClickOnStar:(NSInteger)cellIndex withData:(id)data;
+- (void)didClickOnEvent:(NSInteger)cellIndex withData:(id)data;
+- (void)didClickOnVideo:(NSInteger)cellIndex withData:(id)data;
 
 @end

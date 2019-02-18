@@ -23,8 +23,12 @@
 }
 
 - (void)eventDatabaseUpdated {
-  [[self tableView] reloadData];
-}
+		dispatch_async(dispatch_get_main_queue(), ^(void){
+        //Run UI Updates
+  		[[self tableView] reloadData];
+    });
+  }
+
 
 
 #pragma mark Table view methods

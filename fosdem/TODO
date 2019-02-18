@@ -7,7 +7,6 @@
 
 - Fix tracks (new xcal database broke the old tracks as there is no longer a tracks field, have to ask and see if it can be included as <track>)
 
-- New year reset favorites
 
 - Make a file per year as the database, switch file by selecting year (allows yo to see favorite tracks of previous years)
 
@@ -15,3 +14,4 @@
 
 - Make a link to the website messages board during the conference
 
+- Display Room Full during the conference

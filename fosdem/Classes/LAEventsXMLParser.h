@@ -13,17 +13,17 @@
 #import "LAEvent.h"
 
 @interface LAEventsXMLParser : NSObject <NSXMLParserDelegate> {
-    
-    NSString *currentDayString;
-    NSMutableString *currentStringValue;
-    LAEvent *currentEvent;
+	
+	NSString *currentDayString;
+	NSMutableString *currentStringValue;
+	LAEvent *currentEvent;
 	NSDateFormatter *dateFormatter;
-  NSDateFormatter *dateFormatterYMD;
-  NSDateFormatter *dateFormatterHM;
+	NSDateFormatter *dateFormatterYMD;
+	NSDateFormatter *dateFormatterHM;
 }
 
 - (LAEventsXMLParser *) initWithContentsOfFile: (NSString *) path delegate: (id) newDelegate;
-- (BOOL) parse;
+//- (BOOL) parse;
 
 @property (retain) id delegate;
 @property (retain) NSXMLParser *eventsXMLParser;

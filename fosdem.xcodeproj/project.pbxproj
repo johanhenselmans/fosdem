@@ -30,13 +30,16 @@
 		048CCDE71A1CF3520088340C /* fosdem_schedule2015.xml in Resources */ = {isa = PBXBuildFile; fileRef = 048CCDDE1A1CF3520088340C /* fosdem_schedule2015.xml */; };
 		048CCDEA1A1D4ABB0088340C /* video.png in Resources */ = {isa = PBXBuildFile; fileRef = 048CCDE81A1D4ABB0088340C /* video.png */; };
 		048CCDEB1A1D4ABB0088340C /* video@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 048CCDE91A1D4ABB0088340C /* video@2x.png */; };
-		04A862C91A6FA19E0019C7BE /* ulb_solbosch.png in Resources */ = {isa = PBXBuildFile; fileRef = 04A862C81A6FA19E0019C7BE /* ulb_solbosch.png */; };
+		04A0D5DE220DD3C800CB4901 /* fosdem_schedule2019.xml in Resources */ = {isa = PBXBuildFile; fileRef = 04A0D5DD220DD3C800CB4901 /* fosdem_schedule2019.xml */; };
+		04A862C91A6FA19E0019C7BE /* ulb_solboschold.png in Resources */ = {isa = PBXBuildFile; fileRef = 04A862C81A6FA19E0019C7BE /* ulb_solboschold.png */; };
 		04A862CB1A6FF7550019C7BE /* UB2.147.png in Resources */ = {isa = PBXBuildFile; fileRef = 04A862CA1A6FF7550019C7BE /* UB2.147.png */; };
 		04A862CD1A6FF75F0019C7BE /* H.1302 (Depage).png in Resources */ = {isa = PBXBuildFile; fileRef = 04A862CC1A6FF75F0019C7BE /* H.1302 (Depage).png */; };
 		04A862CF1A6FF7AD0019C7BE /* UD2.218A.png in Resources */ = {isa = PBXBuildFile; fileRef = 04A862CE1A6FF7AD0019C7BE /* UD2.218A.png */; };
 		04A862D11A6FF8670019C7BE /* H.3327.png in Resources */ = {isa = PBXBuildFile; fileRef = 04A862D01A6FF8670019C7BE /* H.3327.png */; };
 		04B26A081E56DBEF004B818B /* fosdem_schedule2016.xml in Resources */ = {isa = PBXBuildFile; fileRef = 04B26A071E56DBEE004B818B /* fosdem_schedule2016.xml */; };
 		04B26A0A1E56DCE2004B818B /* fosdem_schedule2017.xml in Resources */ = {isa = PBXBuildFile; fileRef = 04B26A091E56DCE2004B818B /* fosdem_schedule2017.xml */; };
+		04B2915222199E1C00FD53F0 /* RoomData.m in Sources */ = {isa = PBXBuildFile; fileRef = 04B2915122199E1C00FD53F0 /* RoomData.m */; };
+		04B29155221AA3DF00FD53F0 /* ulb_solbosch.png in Resources */ = {isa = PBXBuildFile; fileRef = 04B29154221AA3DE00FD53F0 /* ulb_solbosch.png */; };
 		04B3FABF1A168F6F002BDBBD /* fosdemAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 04D1DC721A168A65004AC9D8 /* fosdemAppDelegate.m */; };
 		04B3FAC01A168F74002BDBBD /* LADownload.m in Sources */ = {isa = PBXBuildFile; fileRef = 04D1DC741A168A65004AC9D8 /* LADownload.m */; };
 		04B3FAC11A168F79002BDBBD /* LAEvent.m in Sources */ = {isa = PBXBuildFile; fileRef = 04D1DC761A168A65004AC9D8 /* LAEvent.m */; };
@@ -119,6 +122,8 @@
 		04E481681A16A1A800735ACF /* FOSDEM_logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 04E481671A16A1A800735ACF /* FOSDEM_logo.png */; };
 		04E481691A177A9200735ACF /* VDLViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0481C4131A14001600530389 /* VDLViewController.xib */; };
 		04E4816B1A177AC500735ACF /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 04E4816A1A177AC500735ACF /* LICENSE */; };
+		04F16E5822198FE800DE29D0 /* GameKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 04F16E5722198FE700DE29D0 /* GameKit.framework */; };
+		04F16E5A22198FFA00DE29D0 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 04F16E5922198FFA00DE29D0 /* StoreKit.framework */; };
 		1095CF86052F683B763E378E /* libPods-fosdem.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 73963968E205686DBB46E87F /* libPods-fosdem.a */; };
 		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
 		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
@@ -164,13 +169,17 @@
 		048CCDDE1A1CF3520088340C /* fosdem_schedule2015.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = fosdem_schedule2015.xml; path = fosdem/fosdem_schedule2015.xml; sourceTree = "<group>"; };
 		048CCDE81A1D4ABB0088340C /* video.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = video.png; path = fosdem/video.png; sourceTree = "<group>"; };
 		048CCDE91A1D4ABB0088340C /* video@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "video@2x.png"; path = "fosdem/video@2x.png"; sourceTree = "<group>"; };
-		04A862C81A6FA19E0019C7BE /* ulb_solbosch.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ulb_solbosch.png; path = fosdem/maps/ulb_solbosch.png; sourceTree = SOURCE_ROOT; };
+		04A0D5DD220DD3C800CB4901 /* fosdem_schedule2019.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = fosdem_schedule2019.xml; path = fosdem/fosdem_schedule2019.xml; sourceTree = "<group>"; };
+		04A862C81A6FA19E0019C7BE /* ulb_solboschold.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ulb_solboschold.png; path = fosdem/maps/ulb_solboschold.png; sourceTree = SOURCE_ROOT; };
 		04A862CA1A6FF7550019C7BE /* UB2.147.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = UB2.147.png; path = fosdem/maps/UB2.147.png; sourceTree = SOURCE_ROOT; };
 		04A862CC1A6FF75F0019C7BE /* H.1302 (Depage).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "H.1302 (Depage).png"; path = "fosdem/maps/H.1302 (Depage).png"; sourceTree = SOURCE_ROOT; };
 		04A862CE1A6FF7AD0019C7BE /* UD2.218A.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = UD2.218A.png; path = fosdem/maps/UD2.218A.png; sourceTree = SOURCE_ROOT; };
 		04A862D01A6FF8670019C7BE /* H.3327.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = H.3327.png; path = fosdem/maps/H.3327.png; sourceTree = SOURCE_ROOT; };
 		04B26A071E56DBEE004B818B /* fosdem_schedule2016.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = fosdem_schedule2016.xml; path = fosdem/fosdem_schedule2016.xml; sourceTree = SOURCE_ROOT; };
 		04B26A091E56DCE2004B818B /* fosdem_schedule2017.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = fosdem_schedule2017.xml; path = fosdem/fosdem_schedule2017.xml; sourceTree = "<group>"; };
+		04B2915122199E1C00FD53F0 /* RoomData.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = RoomData.m; path = fosdem/Classes/RoomData.m; sourceTree = SOURCE_ROOT; };
+		04B2915322199E4C00FD53F0 /* RoomData.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = RoomData.h; path = fosdem/Classes/RoomData.h; sourceTree = SOURCE_ROOT; };
+		04B29154221AA3DE00FD53F0 /* ulb_solbosch.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ulb_solbosch.png; path = fosdem/maps/ulb_solbosch.png; sourceTree = SOURCE_ROOT; };
 		04BD90DB1A1115D8006D0251 /* YearTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = YearTableViewCell.xib; path = fosdem/YearTableViewCell.xib; sourceTree = "<group>"; };
 		04D1DBCD1A1688CE004AC9D8 /* Icon-72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-72.png"; path = "fosdem/Icon-72.png"; sourceTree = "<group>"; };
 		04D1DBCE1A1688CE004AC9D8 /* Icon-72@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-72@2x.png"; path = "fosdem/Icon-72@2x.png"; sourceTree = "<group>"; };
@@ -269,6 +278,8 @@
 		04E481651A16A0D300735ACF /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = fosdem/Images.xcassets; sourceTree = "<group>"; };
 		04E481671A16A1A800735ACF /* FOSDEM_logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = FOSDEM_logo.png; path = fosdem/FOSDEM_logo.png; sourceTree = "<group>"; };
 		04E4816A1A177AC500735ACF /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = LICENSE; path = fosdem/LICENSE; sourceTree = "<group>"; };
+		04F16E5722198FE700DE29D0 /* GameKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GameKit.framework; path = System/Library/Frameworks/GameKit.framework; sourceTree = SDKROOT; };
+		04F16E5922198FFA00DE29D0 /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
 		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		1D6058910D05DD3D006BFB54 /* fosdem.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = fosdem.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
@@ -309,8 +320,10 @@
 				04897F511A16458C005F4F1B /* CFNetwork.framework in Frameworks */,
 				04897F531A164597005F4F1B /* OpenGLES.framework in Frameworks */,
 				04897F551A1645AA005F4F1B /* AudioToolbox.framework in Frameworks */,
+				04F16E5822198FE800DE29D0 /* GameKit.framework in Frameworks */,
 				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
 				35A443FC10DB5FF600DA30A3 /* CoreFoundation.framework in Frameworks */,
+				04F16E5A22198FFA00DE29D0 /* StoreKit.framework in Frameworks */,
 				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
 				1095CF86052F683B763E378E /* libPods-fosdem.a in Frameworks */,
 			);
@@ -360,6 +373,8 @@
 				04D1DC921A168A65004AC9D8 /* YearTableViewCell.m */,
 				04D1DC931A168A65004AC9D8 /* YearTableViewController.h */,
 				04D1DC941A168A65004AC9D8 /* YearTableViewController.m */,
+				04B2915122199E1C00FD53F0 /* RoomData.m */,
+				04B2915322199E4C00FD53F0 /* RoomData.h */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
@@ -413,7 +428,8 @@
 				04D1DC071A1689A9004AC9D8 /* UB2.252A (Lameere).png */,
 				04D1DC081A1689A9004AC9D8 /* UD2.120 (Chavanne).png */,
 				04A862CE1A6FF7AD0019C7BE /* UD2.218A.png */,
-				04A862C81A6FA19E0019C7BE /* ulb_solbosch.png */,
+				04B29154221AA3DE00FD53F0 /* ulb_solbosch.png */,
+				04A862C81A6FA19E0019C7BE /* ulb_solboschold.png */,
 			);
 			path = maps;
 			sourceTree = "<group>";
@@ -459,6 +475,7 @@
 				04B26A071E56DBEE004B818B /* fosdem_schedule2016.xml */,
 				04B26A091E56DCE2004B818B /* fosdem_schedule2017.xml */,
 				04DB49B42209BE490022DAA9 /* fosdem_schedule2018.xml */,
+				04A0D5DD220DD3C800CB4901 /* fosdem_schedule2019.xml */,
 				8D1107310486CEB800E47090 /* fosdem-Info.plist */,
 				04E4816A1A177AC500735ACF /* LICENSE */,
 				75E54BF41694C73000E9593D /* Images */,
@@ -483,6 +500,8 @@
 		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				04F16E5922198FFA00DE29D0 /* StoreKit.framework */,
+				04F16E5722198FE700DE29D0 /* GameKit.framework */,
 				04897F4C1A16455C005F4F1B /* Security.framework */,
 				7508893D166E431E00810759 /* QuartzCore.framework */,
 				04897F481A1644F8005F4F1B /* libiconv.2.tbd */,
@@ -607,6 +626,12 @@
 				TargetAttributes = {
 					1D6058900D05DD3D006BFB54 = {
 						SystemCapabilities = {
+							com.apple.GameCenter.iOS = {
+								enabled = 1;
+							};
+							com.apple.InAppPurchase = {
+								enabled = 1;
+							};
 							com.apple.Maps.iOS = {
 								enabled = 0;
 							};
@@ -619,10 +644,11 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 1;
 			knownRegions = (
-				English,
-				Japanese,
-				French,
-				German,
+				de,
+				en,
+				ja,
+				fr,
+				Base,
 			);
 			mainGroup = 29B97314FDCFA39411CA2CEA /* fosdem */;
 			productRefGroup = 19C28FACFE9D520D11CA2CBB /* Products */;
@@ -659,6 +685,7 @@
 				04D1DC1C1A1689A9004AC9D8 /* H.2215 (Ferrer).png in Resources */,
 				04A862CF1A6FF7AD0019C7BE /* UD2.218A.png in Resources */,
 				04D1DCAA1A168AB8004AC9D8 /* YearTableViewController.xib in Resources */,
+				04A0D5DE220DD3C800CB4901 /* fosdem_schedule2019.xml in Resources */,
 				04D1DBD81A1688CE004AC9D8 /* Icon-72@2x.png in Resources */,
 				3525421D10BC4D66007D9C6B /* LAEventDetailViewController.xib in Resources */,
 				04D1DC351A1689D5004AC9D8 /* tracks.png in Resources */,
@@ -680,6 +707,7 @@
 				048CCDEB1A1D4ABB0088340C /* video@2x.png in Resources */,
 				04E481661A16A0D300735ACF /* Images.xcassets in Resources */,
 				35A444C110DC2FEC00DA30A3 /* LAUpcomingEventsTableViewController.xib in Resources */,
+				04B29155221AA3DF00FD53F0 /* ulb_solbosch.png in Resources */,
 				04D1DC1E1A1689A9004AC9D8 /* K.1.105 (La Fontaine).png in Resources */,
 				04D1DC181A1689A9004AC9D8 /* H.1309 (Van Rijn).png in Resources */,
 				04D1DBD91A1688CE004AC9D8 /* icon-80.png in Resources */,
@@ -706,7 +734,7 @@
 				048CCDE71A1CF3520088340C /* fosdem_schedule2015.xml in Resources */,
 				23F7D4BD10FF414700CCDAA1 /* LAEventTableViewCell.xib in Resources */,
 				04D1DC311A1689C4004AC9D8 /* StarOn.png in Resources */,
-				04A862C91A6FA19E0019C7BE /* ulb_solbosch.png in Resources */,
+				04A862C91A6FA19E0019C7BE /* ulb_solboschold.png in Resources */,
 				04D1DC361A1689D5004AC9D8 /* tracks@2x.png in Resources */,
 				04D1DC281A1689A9004AC9D8 /* UA2.114.png in Resources */,
 				04D1DBE61A1688E7004AC9D8 /* Default@2x.png in Resources */,
@@ -785,6 +813,7 @@
 				04B3FACD1A168FAD002BDBBD /* NSDate+Between.m in Sources */,
 				04B3FACE1A168FB2002BDBBD /* VDLViewController.m in Sources */,
 				04B3FAD01A168FEC002BDBBD /* YearTableViewCell.m in Sources */,
+				04B2915222199E1C00FD53F0 /* RoomData.m in Sources */,
 				04B3FACF1A168FBC002BDBBD /* YearTableViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

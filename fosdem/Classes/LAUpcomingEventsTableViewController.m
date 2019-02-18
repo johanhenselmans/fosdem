@@ -9,6 +9,7 @@
  */
 
 #import "LAUpcomingEventsTableViewController.h"
+#import "fosdemAppDelegate.h"
 
 
 @implementation LAUpcomingEventsTableViewController
@@ -18,43 +19,39 @@
 @synthesize eventsSoon;
 
 - (void)viewWillAppear:(BOOL)animated {
-    
-    [super viewWillAppear:animated];
+	
+	[super viewWillAppear:animated];
 	
 	// Always use an up-to-date date
 	
-    baseDate = [NSDate date];
-    
+	baseDate = [NSDate date];
+	//for testing only notice tines are in UTC
+	//fosdemAppDelegate * myapp;
+	//myapp = (fosdemAppDelegate *)[[UIApplication sharedApplication] delegate];
+	//baseDate = [myapp today];
+
 	// I know caching it here is evil but I have deadlines :)
-    
 	eventsNow = [[LAEventDatabase sharedEventDatabase] eventsWhile: baseDate];
 	eventsSoon = [[LAEventDatabase sharedEventDatabase] eventsInTimeInterval: 3600 afterDate: baseDate];
 	
-    if ([eventsNow count] == 0 && [eventsSoon count] == 0){
-    
-        // FOSDEM has not started
-        
-    }
-    
+	if ([eventsNow count] == 0 && [eventsSoon count] == 0){
+		
+		// FOSDEM has not started or is over
+		
+	}
+	
 	[[self tableView] reloadData];
-    
+	
 }
 
 - (void)didReceiveMemoryWarning {
-    
+	
 	// Releases the view if it doesn't have a superview.
-    
-    [super didReceiveMemoryWarning];
+	
+	[super didReceiveMemoryWarning];
 	
 	// Release any cached data, images, etc that aren't in use.
-    
-}
-
-- (void)viewDidUnload {
-  
-  [super viewDidUnload];
-	// Release any retained subviews of the main view.
-	// e.g. self.myOutlet = nil;
+	
 }
 
 
@@ -62,7 +59,7 @@
 
 - (NSInteger)numberOfSectionsInTableView:(UITableView *)tableView {
 	// One "Now", one next hour
-    return 2;
+	return 2;
 }
 
 
@@ -87,13 +84,13 @@
 
 
 - (NSString *)tableView: (UITableView *)tableView titleForHeaderInSection:(NSInteger)section {
-    if (section == 0) {
+	if (section == 0) {
 		return @"Now";
 	}
 	else {
 		return @"Next hour";
 	}
-
+	
 }
 
 

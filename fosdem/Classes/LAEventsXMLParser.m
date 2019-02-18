@@ -22,29 +22,36 @@ NSDate *totalStartDate;
 
 - (LAEventsXMLParser *) initWithContentsOfFile: (NSString *) path delegate: (id) newDelegate {
   if (self = [super init]) {
-    [self setDelegate: newDelegate];
-    
-    eventsXMLParser = [[NSXMLParser alloc] initWithContentsOfURL: [NSURL fileURLWithPath: path]];
-    [eventsXMLParser setDelegate: self];
-    
+
     dateFormatter = [[NSDateFormatter alloc] init];
     [dateFormatter setDateFormat: @"yyyy-MM-dd HH:mm:ss vvvv"];
     // added two date formatters for the xml date formatting
-    
+		
     dateFormatterYMD = [[NSDateFormatter alloc] init];
     [dateFormatterYMD setDateFormat: @"yyyy-MM-dd"];
-    
+		
     dateFormatterHM = [[NSDateFormatter alloc] init];
     [dateFormatterHM setDateFormat: @"HH:mm"];
-    
+
+
+    dispatch_queue_t reentrantAvoidanceQueue = dispatch_queue_create("reentrantAvoidanceQueue", DISPATCH_QUEUE_SERIAL);
+    dispatch_async(reentrantAvoidanceQueue, ^{
+    [self setDelegate: newDelegate];
+			self->eventsXMLParser = [[NSXMLParser alloc] initWithContentsOfURL: [NSURL fileURLWithPath: path]];
+			[self->eventsXMLParser setDelegate: self];
+			[self->eventsXMLParser parse];
+    });
+    dispatch_sync(reentrantAvoidanceQueue, ^{ });
+
+		
   }
   
   return self;
 }
 
-- (BOOL) parse {
-  return [eventsXMLParser parse];
-}
+//- (BOOL) parse {
+//  return 	[eventsXMLParser parse];
+//}
 
 
 - (void)parser:(NSXMLParser *)parser foundCharacters:(NSString *)string {
@@ -200,11 +207,11 @@ NSDate *totalStartDate;
       // TODO calculate date from day element + hm time
       if (currentStringValue.length > 0){
       NSCalendar* cal = [NSCalendar currentCalendar]; // get current calender
-      NSDateComponents* totalYMDHM = [cal components:( NSYearCalendarUnit | NSMonthCalendarUnit |  NSDayCalendarUnit ) fromDate:currentDate];
+      NSDateComponents* totalYMDHM = [cal components:( NSCalendarUnitYear | NSCalendarUnitMonth |  NSCalendarUnitDay ) fromDate:currentDate];
 
       NSDate *eventStartDate = [dateFormatterHM dateFromString: currentStringValue];
       if (eventStartDate){
-        NSDateComponents* currentHM = [cal components:( NSHourCalendarUnit | NSMinuteCalendarUnit ) fromDate:eventStartDate];
+        NSDateComponents* currentHM = [cal components:( NSCalendarUnitHour | NSCalendarUnitMinute ) fromDate:eventStartDate];
         [totalYMDHM setHour:[currentHM hour]];
         [totalYMDHM setMinute:[currentHM minute]];
       }
@@ -220,7 +227,7 @@ NSDate *totalStartDate;
       NSDate *tmpDate = [dateFormatterHM dateFromString: currentStringValue];
       NSCalendar* cal = [NSCalendar currentCalendar]; // get current calender
       // make NSDateComponents
-      NSDateComponents* currentHM = [cal components:( NSHourCalendarUnit | NSMinuteCalendarUnit ) fromDate:tmpDate];
+      NSDateComponents* currentHM = [cal components:( NSCalendarUnitHour | NSCalendarUnitMinute ) fromDate:tmpDate];
       NSTimeInterval theTimeInterval = 60*[currentHM minute]+3600*[currentHM hour];
       NSDate *eventEndDate = [totalStartDate dateByAddingTimeInterval:theTimeInterval];
       
