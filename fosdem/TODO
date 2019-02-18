@@ -1,17 +1,26 @@
-- Event still to come view
+* Event still to come view
 	- Allows people to view evens still to come with having to scroll through all of the lectures that have already taken place.
 
-- Get a symbolic link to the database file (allows updating the database without having to resubmit the app to the appstore)
+* Get a symbolic link to the database file (allows updating the database without having to resubmit the app to the appstore)
 
 - Reachability code for downloading database
 
-- Fix tracks (new xcal database broke the old tracks as there is no longer a tracks field, have to ask and see if it can be included as <track>)
+* Fix tracks (new xcal database broke the old tracks as there is no longer a tracks field, have to ask and see if it can be included as <track>)
 
 
-- Make a file per year as the database, switch file by selecting year (allows yo to see favorite tracks of previous years)
+* Make a file per year as the database, switch file by selecting year (allows yo to see favorite tracks of previous years)
 
-- Download databse in the background to refresh
+- Download database in the background to refresh
 
 - Make a link to the website messages board during the conference
 
-- Display Room Full during the conference
+* Display Room Full during the conference, download in the background
+
+- If the room is full, link the meeting to the live video stream
+
+
+- Display Speakers
+https://fosdem.org/2019/schedule/speaker/wayne_stambaugh/
+https://archive.fosdem.org/2018/schedule/speaker/wayne_stambaugh/
+
+

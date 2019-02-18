@@ -81,7 +81,7 @@
 		[[LAEventDatabase sharedEventDatabase] updateCurrentEventsWithRoomData];
 	}
 	occupancyDownloadDate = [NSDate date];
-	    NSLog(@"tried to pickup roomdata at: %@", occupancyDownloadDate );
+	// NSLog(@"tried to pickup roomdata at: %@", occupancyDownloadDate );
 
 }
 
