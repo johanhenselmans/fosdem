@@ -31,7 +31,7 @@
 	NSTimer *_idleTimer;
 	BOOL _setPosition;
 	BOOL _displayRemainingTime;
-	
+	int totalTimeInt;
 	
 }
 
@@ -46,14 +46,21 @@
 {
 	[super viewDidLoad];
 	self.navigationController.navigationBar.translucent = NO;
+  [[self tabBarController] setHidesBottomBarWhenPushed:true];
+
 	/* setup the media player instance, give it a delegate and something to draw into */
 	
 }
 
+- (BOOL)hidesBottomBarWhenPushed {
+  return TRUE;
+}
+
+
 -(void) viewWillAppear:(BOOL)animated
 {
 	[super viewWillAppear:animated];
-	
+
 	_mediaplayer = [[VLCMediaPlayer alloc] init];
 	_mediaplayer.delegate = self;
 	_mediaplayer.drawable = self.movieView;
@@ -61,11 +68,9 @@
 	/* listen for notifications from the player */
 	[_mediaplayer addObserver:self forKeyPath:@"time" options:0 context:nil];
 	[_mediaplayer addObserver:self forKeyPath:@"remainingTime" options:0 context:nil];
-	
 	if (contentVideo.length!=0){
 		/* create a media object and give it to the player and start playing*/
 		_mediaplayer.media = [VLCMedia mediaWithURL:[NSURL URLWithString:contentVideo]];
-		
 	}
 	// _mediaplayer.media = [VLCMedia mediaWithURL:[NSURL URLWithString:@"http://video.fosdem.org/2014/Janson/Saturday/Welcome_to_FOSDEM_2014.webm"]];
 	// _mediaplayer.media = [VLCMedia mediaWithURL:[NSURL URLWithString:@"http://video.fosdem.org/2013/maintracks/Janson/The_Open_Observatory_of_Network_Interference.ogg"]];
@@ -73,11 +78,11 @@
 	// _mediaplayer.media = [VLCMedia mediaWithURL:[NSURL URLWithString:@"https://www.youtube.com/watch?v=vMQmf4hype4"]];
 	
 	[_mediaplayer play];
-	
+
 	[_playButton setTitle:@"Pauze" forState:UIControlStateNormal];
 	
 	[self _resetIdleTimer];
-	
+
 	
 }
 
@@ -146,12 +151,11 @@
 	else
 		[self.timeDisplay setTitle:[[_mediaplayer time] stringValue] forState:UIControlStateNormal];
 	// disaply the position in the file while scrolling..
-	if(_setPosition){
-		[self.timeDisplay setTitle:[NSString stringWithFormat:@"%f",_positionSlider.value] forState:UIControlStateNormal];
-	//[self.timeDisplay setTitle:[@"calculating..."]];
-
-	}
 	
+
+	[self.sliderLabel setHidden:TRUE];
+	
+
 }
 
 
@@ -173,13 +177,22 @@
 
 - (IBAction)positionSliderAction:(UISlider *)sender
 {
+	[self.sliderLabel setEnabled:TRUE];
+	[self.sliderLabel setHidden:FALSE];
+	//[self.timeDisplay setTitle:[NSString stringWithFormat:@"%@",aTime.stringValue] forState:UIControlStateNormal];
 	[self _resetIdleTimer];
-	
 	/* we need to limit the number of events sent by the slider, since otherwise, the user
 	 * wouldn't see the I-frames when seeking on current mobile devices. This isn't a problem
 	 * within the Simulator, but especially on older ARMv7 devices, it's clearly noticeable. */
 	[self performSelector:@selector(_setPositionForReal) withObject:nil afterDelay:0.3];
 	_setPosition = NO;
+	
+		totalTimeInt = [_mediaplayer time].intValue-[_mediaplayer remainingTime].intValue;
+		int timeCount =self.positionSlider.value*totalTimeInt;
+		VLCTime *aTime= [VLCTime timeWithInt:timeCount];
+		[self.sliderLabel setText:[NSString stringWithFormat:@"%@",aTime.stringValue] ];
+	//[self.sliderLabel setText:[NSString stringWithFormat:@"%s","--:--"]];
+
 }
 
 - (void)_setPositionForReal

@@ -33,11 +33,13 @@
 @property (weak, nonatomic) IBOutlet UIButton *playButton;
 @property (nonatomic, strong) IBOutlet UISlider *positionSlider;
 @property (nonatomic, strong) IBOutlet UIButton *timeDisplay;
+@property (weak, nonatomic) IBOutlet UILabel *sliderLabel;
 
 
 - (IBAction)playandPause:(id)sender;
 - (IBAction)positionSliderDrag:(id)sender;
 - (IBAction)positionSliderAction:(id)sender;
 - (IBAction)toggleTimeDisplay:(id)sender;
+- (BOOL)hidesBottomBarWhenPushed;
 
 @end
