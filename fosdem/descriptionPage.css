@@ -24,7 +24,7 @@ body {
 p.map {
 	margin-left: auto;
     margin-right: auto;
-	width: 310px;
+	width: 90%;
 	font-size: 10pt;
 	text-align: justify;
 }
@@ -39,6 +39,6 @@ img {
 	border-style: solid;
 	border-width: 1px;
 	float: right;
-    width: 300px;
+    width: 100%;
 }
 
