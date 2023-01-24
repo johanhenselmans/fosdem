@@ -1,0 +1,19 @@
+  <event id="162">
+      <start>10:30</start>
+      <duration>00:45</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>QA mozilla/xulrunner based applications</title>
+      <subtitle></subtitle>
+      <track>Mozilla</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Challenges encountered doing QA on a xulrunner based application. QAing &lt;a href=&#34;http://www.joost.com/&#34;&gt;Joost (tm)&lt;/a&gt;&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description></description>
+      <persons>
+          <person id="1621">Ludovic Hirlimann</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="122">
+      <start>15:30</start>
+      <duration>00:45</duration>
+      <room>AW1.117</room>
+      <slug></slug>
+      <title>CodeMonkey, an integrated development environment (IDE) for Étoilé</title>
+      <subtitle></subtitle>
+      <track>GNUstep</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Étoilé allows (and encourage) programs to be written in Smalltalk instead of Objective-C, as our Smalltalk implementation,&#xA;Pragmatic Smalltalk, directly integrates with the Objective-C runtime.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;That way, programmers can get the best of both world, mixing Smalltalk and Objective-C freely. But Smalltalk, being a dynamic language by nature, authorize a more powerful development environment, and CodeMonkey wants to implement such an IDE for Étoilé.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;CodeMonkey is heavily based on LanguageKit, and people interested by the low-level implementation of Pragmatic Smalltalk are strongly encourage to assist David Chisnall&amp;#39;s talk!&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1221">Nicolas Roard</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

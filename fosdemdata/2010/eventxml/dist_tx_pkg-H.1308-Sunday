@@ -1,0 +1,19 @@
+  <event id="73">
+      <start>14:45</start>
+      <duration>00:45</duration>
+      <room>H.1308</room>
+      <slug></slug>
+      <title>Transactionally Protected Package Management</title>
+      <subtitle></subtitle>
+      <track>Distributions</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The talk will describe current development efforts @rpm5.org to add ACID properties to RPM package management.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;All operations involved in installing a package, not only the package metadata, but also the system calls, content, and scripts run by RPM will be logged within a transaction using a two-phase apply -&amp;gt; commit/abort so that all RPM operations can become stateless and invertible.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The talk will specifically focus on and overview of the log management tools and the rpmdb schema changes necessary to use Berkeley DB ACID and transactional log extensions to add ACID properties to RPM package management.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Connections with the parallel Mancoosi WP3 efforts to model/simulate package script behavior using a Domain Specific Language will also be described, time permitting.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="731">Jeff Johnson</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

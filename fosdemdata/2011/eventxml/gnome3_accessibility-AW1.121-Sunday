@@ -1,0 +1,19 @@
+  <event id="123">
+      <start>12:00</start>
+      <duration>00:55</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>Towards a GNOME 3.0 accessible: Building accessibility into GNOME Shell and its UI Libraries</title>
+      <subtitle></subtitle>
+      <track>Accessibility devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;In GNOME, accessibility is a core value that touches all aspects of&#xA;the system. From the infrastructure, to the graphical toolkit, to the&#xA;applications, to the assistive technologies, accessibility has been a&#xA;central consideration from the very early days. As a result, GNOME not&#xA;only has compelling accessibility today, but it also provides a rich&#xA;and stable base for future accessibility work.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;In GNOME, accessibility is a core value that touches all aspects of&#xA;the system. [1]&lt;/p&gt;&#xA;&#xA;&lt;p&gt;From the infrastructure, to the graphical toolkit, to the&#xA;applications, to the assistive technologies, accessibility has been a&#xA;central consideration from the very early days. As a result, GNOME not&#xA;only has compelling accessibility today, but it also provides a rich&#xA;and stable base for future accessibility work.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;At some moment of 2010 it is planned a GNOME 3.0 release with the&#xA;intention of be a major change on GNOME.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;One of the major actors in this release will be GNOME Shell [2]. GNOME&#xA;Shell is the defining technology of the GNOME 3 desktop user&#xA;experience. It provides core interface functions like switching to&#xA;windows and launching applications. GNOME Shell takes advantage of the&#xA;capabilities of modern graphics hardware and introduces innovative&#xA;user interface concepts to provide a delightful and easy to use&#xA;experience, using the innovative technology Clutter [3]&lt;/p&gt;&#xA;&#xA;&lt;p&gt;At this moment GNOME Shell doesn&amp;#39;t have a proper accessibility&#xA;support, and the GNOME community has detected it as one of the most&#xA;important points in the GNOME 3.0 accessibility roadmap [4].&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Since 2009, several work was made to improve the accessibility support&#xA;in Clutter itself, in the form of the Cally library.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;The purpose of this presentation is explaining:&#xA; * Introduce accessibility on GNOME.&#xA; * Briefly explain the status towards GNOME 3.0&#xA; * How GNOME Shell affects the interaction with the desktop&#xA; * The status of his accessibility support&#xA; * How Cally would be used there&#xA; * How ATs apps like Orca would interact with GNOME Shell&#xA; * How the community has reacted and tried to solve this&#xA;   accessibility issue&lt;/p&gt;&#xA;&#xA;&lt;p&gt;[1] http://library.gnome.org/devel/accessibility-devel-guide/nightly/gad-how-it-works.html.en&#xA;[2] http://live.gnome.org/GnomeShell/&#xA;[3] http://www.clutter-project.org/&#xA;[4] http://live.gnome.org/Accessibility/GNOME3#GNOME_Shell&lt;/p&gt;      </description>
+      <persons>
+          <person id="1231">Alejandro Piñeiro Iglesias</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,21 @@
+  <event id="182">
+      <start>09:00</start>
+      <duration>01:30</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>Extensions Workshop</title>
+      <subtitle></subtitle>
+      <track>Mozilla</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;A workshop aimed at extension developers who wish to update their extensions for the upcoming Firefox 3 release. It is not exclusive to Firefox extensions, authors of extensions for other Mozilla-based software are welcome.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;See &lt;a href=&#34;http://wiki.mozilla.org/Fosdem:2008:Workshop&#34;&gt;Fosdem:2008:Workshop&lt;/a&gt; for more information.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1821">Philipp Kewisch</person>
+          <person id="1822">Carsten Book</person>
+          <person id="1823">Mark Finkle</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

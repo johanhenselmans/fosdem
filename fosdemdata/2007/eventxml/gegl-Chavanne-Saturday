@@ -1,0 +1,22 @@
+  <event id="53">
+      <start>16:00</start>
+      <duration>00:45</duration>
+      <room>Chavanne</room>
+      <slug></slug>
+      <title>GEGL</title>
+      <subtitle></subtitle>
+      <track>Desktop Applications</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;&lt;a href=&#34;http://pippin.gimp.org/gegl/&#34;&gt;GEGL&lt;/a&gt; is a graph based image processing framework.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;The presentation will introduce the capabilities of the framework and how the public API is used, as well as the current state of the internal architecture and possible directions for future optimizations and enhancements.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;This talk will present core aspects of &lt;a href=&#34;http://pippin.gimp.org/gegl/&#34;&gt;GEGL&lt;/a&gt;, a graph based image processing and compositing framework.&#xA;GEGL allows non-destructive editing, high dynamic range, large images and other features the current GIMP engine does not handle.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;In earlier talks about GEGL Øyvind has been focusing on the past and the future. Now is the time to talk about the current state of GEGL. GEGLs capabilities are currently gaining strength and the public API is reaching stability.&#xA;He will talk about how to embed GEGL in an application or script to do image processing tasks and will also give an explanation of GEGLs inner workings and plug-in system.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="531">Øyvind Kolås</person>
+      </persons>
+      <links>
+          <link href="../../slides/maintracks/gegl.pdf">Slides (PDF)</link>
+          <link href="http://video.fosdem.org/2007/FOSDEM2007-GEGL.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="112">
+      <start>11:00</start>
+      <duration>01:00</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>GNUStep on embedded devices</title>
+      <subtitle></subtitle>
+      <track>Embedded</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;With the introduction of the iPhone that bases parts of its GUI on Apples Objc-C and OpenSTEP implementation, it appears that the time has come to consider to use the open source variant GUNstep in other embedded solutions. The mySTEP project already addresses this goal by optimizing and adapting GNUstep to the needs of embedded processors especially in handheld devices. Using all these tools, it allows to develop cross-platform software for Mac, Linux, Windows - and Linux handhelds.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Topics to be addresses in the talk:&#xA;&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Why should one consider Objective-C and GNUstep for embedded devices?&#xA;&lt;/li&gt;&#xA;&lt;li&gt; What frameworks does mySTEP provide? How do they compare to Cocoa?&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Comparison of mySTEP with the iPhone SDK (if we know anything public by FOSDEM).&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Special considerations for using GNUstep on embedded devices.&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Performance evaluation. Life demo on OpenMoko Neo 1973. Future development.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA; </description>
+      <persons>
+          <person id="1121">Nikolaus Schaller</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

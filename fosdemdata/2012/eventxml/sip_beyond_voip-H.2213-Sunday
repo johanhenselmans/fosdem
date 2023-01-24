@@ -1,0 +1,19 @@
+  <event id="356">
+      <start>15:35</start>
+      <duration>00:40</duration>
+      <room>H.2213</room>
+      <slug></slug>
+      <title>SIP beyond VoIP</title>
+      <subtitle></subtitle>
+      <track>Telephony and Communications Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;SIP can be used for much more than &amp;#39;plain phone calls&amp;#39;, and this talk will demonstrate chat, file transfer, contact lists and more!&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;PSTN emulation and audio calls are by far the most used applications for VoIP and SIP these days. As our communication needs grow we are in need for new means of communication, however. Why use the phone to do VoIP, email to send files and jabber to have a chat channel in the context is a single conversation? We can merge those 3 communication channels within the same call with SIP today.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;In order to find the perfect moment for the conversation presence may be used and policies for presence together with our own contact list may be stored in a remote server and synced with all of our devices.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;All this can be done today, with SIP, in a standard way and with Open Source tools.&lt;/p&gt;      </description>
+      <persons>
+          <person id="3561">Saúl Ibarra Corretgé</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

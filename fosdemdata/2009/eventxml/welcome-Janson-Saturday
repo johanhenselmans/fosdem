@@ -1,0 +1,19 @@
+  <event id="282">
+      <start>10:00</start>
+      <duration>00:30</duration>
+      <room>Janson</room>
+      <slug></slug>
+      <title>Welcome</title>
+      <subtitle></subtitle>
+      <track>Keynotes</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;FOSDEM Opening Talk&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;The FOSDEM Opening Talk, including the infamous FOSDEM dance.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2821">FOSDEM Staff</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="35">
+      <start>16:00</start>
+      <duration>00:45</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>CAcert: Trust - the root of evil?!</title>
+      <subtitle></subtitle>
+      <track>Hardware Cryptography Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;In a highly connected world like ours is trust one of the most important assets. But what if the root to trust is not trustworthy?&lt;/p&gt;&#xA;&#xA;&lt;p&gt; 2011 was the year where one Certificate Authority (CA) after the other&#xA; came to fall. The cases of the Dutch DigiNotar and the Malaysian&#xA; DigiCert are the best know. The system of commercial CAs depends on a&#xA; wrong understanding of liability and trust. CAcert&amp;#39;s web of trust&#xA; tries to overcomes the liability issues by trusting a group of trusted&#xA; people wherein each individual is liable for its own action.&lt;/p&gt;&#xA;&#xA;&lt;p&gt; This talk enlightens why most commercial CAs are not trustworthy by&#xA; default, what we can learn from 2011&amp;#39;s cases, what makes CAcert&#xA; different, why CAcert is not in the browsers by default and what we do&#xA; to make it happen.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="351">Benedikt Heintel</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

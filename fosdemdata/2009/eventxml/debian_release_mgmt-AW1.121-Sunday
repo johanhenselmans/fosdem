@@ -1,0 +1,19 @@
+  <event id="62">
+      <start>13:00</start>
+      <duration>01:00</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>Release management in Debian - can we do better?</title>
+      <subtitle></subtitle>
+      <track>Debian</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Using some practical examples, mostly from personal experience,&#x9;of things that have not been handled optimaly during the lenny release cycle, I will give my view on how they could have been handled better. I will also take a more general look at the current role of release managers and the release team in Debian and look back on the Etch-and-a-half release.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="621">Frans Pop</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

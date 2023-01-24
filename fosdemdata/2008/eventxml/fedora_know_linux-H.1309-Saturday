@@ -1,0 +1,19 @@
+  <event id="125">
+      <start>14:00</start>
+      <duration>01:00</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>Getting one million to know Linux</title>
+      <subtitle></subtitle>
+      <track>CentOS + Fedora</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The &lt;a href=&#34;http://www.gnulinuxmatters.org/&#34;&gt;&amp;#34;GNU/Linux Matters&amp;#34;&lt;/a&gt; community wants an extra million people to know Linux in 2008. Where are these people to be found, and how do we communicate with them?&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;The conference will show the relevance of down-to-earth communication and basic market-thinking for free software and Linux. Olivier will relate experience gained from the trenches of the Linux internet advocacy, developing the &lt;a href=&#34;http://www.gnulinuxmatters.org/&#34;&gt;GNU/Linux Matters non-profit organization&lt;/a&gt;.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1251">Olivier Cleynen</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,21 @@
+  <event id="152">
+      <start>12:00</start>
+      <duration>01:00</duration>
+      <room>Lameere</room>
+      <slug></slug>
+      <title>IIO, a new subsystem for I/O devices</title>
+      <subtitle></subtitle>
+      <track>Embedded Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;IIO (Industrial I/O) is a new kernel subsystem to allow easy userspace&#xA;interaction with data capture devices (ADCs, DACs, accelerometers,&#xA;light sensors, etc), while maintaining a high level of performance.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Based on a recent driver contribution using this subsystem, we will&#xA;detail how to build a simple driver using this subsystem and explore&#xA;how to use advanced features like triggered captures or buffering. We&#xA;will also explore IIO user space API and how to use it.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="1521">Maxime Ripard</person>
+      </persons>
+      <links>
+          <link href="693/127_iio-a-new-subsystem.pdf">iio-a-new-subsystem.pdf (slides)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

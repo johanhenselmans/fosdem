@@ -1,0 +1,19 @@
+  <event id="93">
+      <start>14:00</start>
+      <duration>00:45</duration>
+      <room>AW1.105</room>
+      <slug></slug>
+      <title>Jaiku: Jabber the mobile</title>
+      <subtitle></subtitle>
+      <track>Jabber</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;How to map a desktop IM protocol for mobile use: &lt;a href=&#34;http://www.jaiku.com/&#34;&gt;Jaiku&lt;/a&gt; combines rich presence and group messaging on the web and on the mobile, powered by Jabber.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;After an introduction into Jaiku, this presentation shows how Jaiku uses XMPP protocols and highlights the associated challenges, touching on network coverage, battery usage, sporadic attention, low input-rates.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The presentation closes with a small demo.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="931">Mika Raento</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

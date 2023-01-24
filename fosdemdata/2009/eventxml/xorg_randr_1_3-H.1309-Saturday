@@ -1,0 +1,19 @@
+  <event id="297">
+      <start>14:00</start>
+      <duration>01:00</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>RandR 1.3: New Features in a Nutshell</title>
+      <subtitle></subtitle>
+      <track>X.org</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;RandR 1.3 presents - amongst other things - transformations, panning, and standardized properties. This talk will show how to use these features and how they should influence tools and applications.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="2971">Matthias Hopf</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

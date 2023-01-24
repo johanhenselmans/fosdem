@@ -1,0 +1,19 @@
+  <event id="278">
+      <start>11:00</start>
+      <duration>00:25</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>How to offload MySQL server with Sphinx</title>
+      <subtitle></subtitle>
+      <track>MySQL and Friends Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;We’ll take close look on how to offload MySQL server with queries which might be efficiently handled on the Sphinx side. Real-world examples for handling non-Full-Text queries including geodistance search, time segments implementation, using multi-value attributes and more. We’ll also learn how to keep massive text collections away from MySQL databases and how to utilize power of Sphinx on Full-text queries.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="2781">Vladimir Fedorkov</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

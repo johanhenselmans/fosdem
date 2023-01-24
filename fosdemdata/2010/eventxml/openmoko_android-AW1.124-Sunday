@@ -1,0 +1,19 @@
+  <event id="246">
+      <start>09:30</start>
+      <duration>00:45</duration>
+      <room>AW1.124</room>
+      <slug></slug>
+      <title>Android on Freerunner</title>
+      <subtitle></subtitle>
+      <track>Openmoko</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Android on Freerunner: Past, present and future of porting Android on the Openmoko Freerunner GTA02&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;The Android on Freerunner project aims at porting Android to the Openmoko Freerunner GTA02. The current working release is based on the work done by Koolu for Android Cupcake and includes patches by the community.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;In this talk, the project background is explained. A few words are dedicated to the Openmoko Freerunner and why it&amp;#39;s considered as a true open phone. We will present the overview of the current functionalities of Android on the Freerunner.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Looking at the roadmap, we cast some light on the short term and longer term objectives.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;This will a great opportunity to meet the people behind the project and see Android on the Freerunner in action.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2461">Niels Heyvaert</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

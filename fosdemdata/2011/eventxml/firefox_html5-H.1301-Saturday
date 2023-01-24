@@ -1,0 +1,20 @@
+  <event id="104">
+      <start>15:30</start>
+      <duration>00:45</duration>
+      <room>H.1301</room>
+      <slug></slug>
+      <title>Moving to the client - HTML5 is here</title>
+      <subtitle></subtitle>
+      <track>Mozilla devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Life as a front-end developer is much easier than you think - if you keep up-to-date and embrace the movement that wants to make the web an easier and faster place for all.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;In this talk Chris Heilmann and Robert Nyman will de-mystify some of the rumours around HTML5 and show you just how many tasks of day-to-day app development can be done by the browser for you rather than having to write all the code by yourself. Life as a front-end developer is much easier than you think - if you keep up-to-date and embrace the movement that wants to make the web an easier and faster place for all.&lt;/p&gt;      </description>
+      <persons>
+          <person id="1041">Robert Nyman</person>
+          <person id="1042">Christian Heilmann</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

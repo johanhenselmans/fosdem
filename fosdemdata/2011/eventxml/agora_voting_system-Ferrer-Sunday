@@ -1,0 +1,19 @@
+  <event id="5">
+      <start>14:00</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Agora Voting System: Agora Voting System for a Liquid Democracy</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This will be the first public and international presentation of the project by one of its core developers, explaining the concept behind liquid democracy, the reasons that drive its creation and its history, the security and scalability requirements of Agora, and the current status of the project.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Agora aims to be a secure voting system for massive and liquid elections, and it&amp;#39;s the key software for the Spanish Internet Party. It uses top-notch cryptography and has an innovating vote delegation process, although the project is at an early development stage.&lt;/p&gt;      </description>
+      <persons>
+          <person id="51">Eduardo Robles</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,21 @@
+  <event id="99">
+      <start>10:00</start>
+      <duration>01:00</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>Update on Virtualization in Debian</title>
+      <subtitle></subtitle>
+      <track>Debian</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;As a follow up of &lt;a href=&#34;https://penta.debconf.org/~joerg/events/65.en.html&#34;&gt;the talk at last year&amp;#39;s debconf&lt;/a&gt;, Henning Sprang will give an overview of the things happened in Debian in the meantime in the area of virtualization.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Which tools and technologies are available in Debian, who are the new kids on the block which we can look forward to have available in the next stable release of Debian.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="991">Henning Sprang</person>
+      </persons>
+      <links>
+          <link href="http://meetings-archive.debian.net/pub/debian-meetings/2008/fosdem/ogg_theora/384x288/Update_on_Virtualization_in_Debian___Henning_Sprang.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

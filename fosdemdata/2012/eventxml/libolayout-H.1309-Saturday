@@ -1,0 +1,19 @@
+  <event id="201">
+      <start>12:15</start>
+      <duration>00:15</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>Widget Layout</title>
+      <subtitle>towards a beautiful UI</subtitle>
+      <track>LibreOffice Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Dialogs in LibreOffice are horrifically ugly, mostly because all widgets contained within them and the dialog themselves are typically fixed size and sized to contain the text of the longest translation. The other reason they are ugly is because they are so painful to edit. There&amp;#39;s been plenty of proposals and attempts to fix them. Here&amp;#39;s another one.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="2011">Caolan McNamara</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

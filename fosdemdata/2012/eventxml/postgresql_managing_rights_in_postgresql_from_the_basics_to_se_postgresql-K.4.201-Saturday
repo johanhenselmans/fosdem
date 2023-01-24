@@ -1,0 +1,19 @@
+  <event id="333">
+      <start>16:00</start>
+      <duration>00:50</duration>
+      <room>K.4.201</room>
+      <slug></slug>
+      <title>Managing rights in PostgreSQL: from the basics to SE-PostgreSQL</title>
+      <subtitle></subtitle>
+      <track>PostgreSQL Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;PostgreSQL offers powerful means to enforce access and security policy on databases and their contents. This talk presents how to manage users and theirs rights from the basics to SE-PostgreSQL.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="3331">Nicolas Thauvin</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

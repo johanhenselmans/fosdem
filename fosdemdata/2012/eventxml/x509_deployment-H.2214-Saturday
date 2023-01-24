@@ -1,0 +1,19 @@
+  <event id="424">
+      <start>14:00</start>
+      <duration>01:00</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>Deployment and Use of X.509 in Free Software Components</title>
+      <subtitle></subtitle>
+      <track>Hardware Cryptography Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Walkthrough for a successful X509/PKI deployment with free software.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="4241">Branko Majic</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

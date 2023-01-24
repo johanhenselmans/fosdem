@@ -1,0 +1,22 @@
+  <event id="18">
+      <start>12:00</start>
+      <duration>00:45</duration>
+      <room>Chavanne</room>
+      <slug></slug>
+      <title>openQRM, pluggable virtualization for modern data-centers</title>
+      <subtitle></subtitle>
+      <track>Virtualization</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This presentation deals with the pluggable virtualization architecture of &lt;a href=&#34;http://www.openqrm.org/&#34;&gt;openQRM&lt;/a&gt; and describes how to conform and automate deployment, management, maintenance and migration of physical systems and virtual machines seamlessly. It provides an detailed overview about the openQRM virtualization plugins and their integration within the data-center management platform.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;To ease up the management and maintenance of modern data-centers the current evolution of virtualization technologies directs system administrators more and more to virtual server appliances. One of the goals is a server-Image based deployment including and automated resource management plus the possibility to easy migrate physical systems to virtual machines (P2V). Other targets are the option to move from one virtualization type to a different one (V2V) to avoid vendor-locks by bounding a complete data-center to a single virtualization technology and also the support for migrating virtual appliances back to physical systems (V2P).&#xA;&lt;/p&gt;&#xA;&lt;p&gt;To conform with current mainstream virtualization technologies, e.g. VMware, Xen, Qemu and Linux-VServer, openQRM provides a generic virtualization layer, the “partition-bridge”. Via a well-defined API the openQRM virtualization plugins are interfacing with this “partition-bridge” to unify the resource management by adding additional virtual resources from the type “partition”. As the result in openQRM virtual machines are managed in the same way as physical systems and the system administrator may decide at any time to run a specific server-image on real hardware, move it to a VMware partition, from there to a Xen partition and back to a real, physical existing server without any changes on the server-Image itself nor hassling with the different virtualization configuration files..&#xA;&lt;/p&gt;&#xA;&lt;p&gt;This presentation deals with the pluggable virtualization architecture of openQRM and describes how to conform and automate deployment, management, maintenance and migration of physical systems and virtual machines seamlessly. It provides an detailed overview about the openQRM virtualization plugins and their integration within the data-center management platform.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="181">Matthias Rechenburg</person>
+      </persons>
+      <links>
+          <link href="../../slides/maintracks/openqrm.pdf">Slides (PDF)</link>
+          <link href="http://video.fosdem.org/2008/maintracks/FOSDEM2008-openqrm.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

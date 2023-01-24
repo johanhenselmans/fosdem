@@ -1,0 +1,21 @@
+  <event id="262">
+      <start>14:00</start>
+      <duration>00:45</duration>
+      <room>Chavanne</room>
+      <slug></slug>
+      <title>Postgresql: Lists and Recursion and Trees (oh my)</title>
+      <subtitle></subtitle>
+      <track>Database</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;PostgreSQL 8.4 has radical new capabilities inside the database: Windowing functions and Common Table Expressions.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;PostgreSQL 8.4 has radical new capabilities inside the database: Windowing functions and Common Table Expressions. You&amp;#39;ll learn about each with practical examples to make your querying days more fun. Time permitting, we&amp;#39;ll do some that are less practical.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2621">David Fetter</person>
+      </persons>
+      <links>
+          <link href="http://video.fosdem.org/2010/maintracks/postgresql.xvid.avi">Video (DIVX)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

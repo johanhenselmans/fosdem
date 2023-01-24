@@ -1,0 +1,19 @@
+  <event id="208">
+      <start>11:45</start>
+      <duration>01:00</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>MySQL 5.1 Plugins</title>
+      <subtitle></subtitle>
+      <track>MySQL</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;MySQL 5.1 features the plugin API. In essence, the MySQL plugin API provides a generic extension point to the MySQL server. It allows users to load a shared library into the server to extend its functionality.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;A key feature is that this process is completely dynamic - the server need not be re-compiled and need not be stopped in order to benefit from the functionality of a new plugin. Hence, new functionality can be added without suffering any downtime.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;This session provides an overview of the plugin architecture. The different plugin types will be described. Then, the process of creating your own plugins will be described. This will be illustrated with code examples.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2081">Roland Bouman</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

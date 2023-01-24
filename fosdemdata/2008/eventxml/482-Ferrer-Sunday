@@ -1,0 +1,22 @@
+  <event id="50">
+      <start>16:20</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>BluePad: from cell phone to remote bluetooth controller</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;I will talk about BluePad, explaining how it works (Python, java, BlueZ and Uinput kernel module) and give a short demonstration of the project.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;BluePad turns a cell phone into a remote bluetooth controller with which you can control your computer. It is free software released under GNU GPL license. It is composed by two programs, one for you to install in your computer, and another for you to install in a mobile device.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="501">Valerio Valerio</person>
+      </persons>
+      <links>
+          <link href="http://fosdem.org/2008/slides/lightningtalks/fosdem08_ltalk_bluepad.pdf">Slides (PDF)</link>
+          <link href="http://video.fosdem.org/2008/lightningtalks/FOSDEM2008-bluepad.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

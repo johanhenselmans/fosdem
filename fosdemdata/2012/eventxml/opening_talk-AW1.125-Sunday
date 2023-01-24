@@ -1,0 +1,20 @@
+  <event id="293">
+      <start>09:10</start>
+      <duration>00:15</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>Opening talk</title>
+      <subtitle></subtitle>
+      <track>Graph Processing Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Room opening talk&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="2931">Achim Friedland</person>
+          <person id="2932">Pere  Urbón-Bayes</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

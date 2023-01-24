@@ -1,0 +1,22 @@
+  <event id="29">
+      <start>17:20</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Stylebase for Eclipse: sharing software architectural models</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;First, a very quick look at background information&#xA;(software architecture design,  modeling and patterns) would be taken, explaining the&#xA;benefits of maintaining an architectural knowledge base. Then the vision and current status of our project will be described. We would tell&#xA;about what the software can do at the moment and how we plan to improve&#xA;it in the future. If desired, a nice looking recorded demo can be shown.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Stylebase for Eclipse is tool for sharing and reusing software&#xA;architectural knowledge. Stylebase for Eclipse helps to maintain a&#xA;knowledge base of software architectural  models. The knowledge base can&#xA;store architectural patterns,  design patterns, reference architectures,&#xA;macro and micro architectures et cetera. Each model is associated with&#xA;HTML-formatted textual documentation and a number of searchable&#xA;properties. Users can maintain both local and shared repository and&#xA;download/upload models between the two.  Please visit &#xA;http:&lt;i&gt;stylebase.tigris.org &amp;lt;http:&lt;/i&gt;stylebase.tigris.org/&amp;gt;  for source&#xA;code and more information.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="291">Katja Henttonen</person>
+      </persons>
+      <links>
+          <link href="http://fosdem.org/2008/slides/lightningtalks/fosdem08_ltalk_stylebase.pdf">Slides (PDF)</link>
+          <link href="http://video.fosdem.org/2008/lightningtalks/FOSDEM2008-stylebaseeclipse.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

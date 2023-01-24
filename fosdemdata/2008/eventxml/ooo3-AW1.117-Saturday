@@ -1,0 +1,19 @@
+  <event id="191">
+      <start>14:15</start>
+      <duration>01:00</duration>
+      <room>AW1.117</room>
+      <slug></slug>
+      <title>OOo 3: Shattered and Resurrected</title>
+      <subtitle></subtitle>
+      <track>OpenOffice.org</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;For the higher good of modularity and extensibility the OpenOffice.org suite will change from a big monolith to a nice and clean multi-layer stack in OOo 3. Not only conceptually, but also represented in the installation&amp;#39;s layout on the hard drive. This presentation will examine OpenOffice.org&amp;#39;s modularization effort.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Modularization has a number of consequences for the existing code. Code and data has to be sorted into the various layers.&#xA;Code at one layer needs to find code and data at other layers. And despite all those separate layers, the end user still wants an installation and update experience that just works, in one click. Also, of course, the resulting code base should please, please be way easier to build and maintain...&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Lots of work, lots of opportunities to break things (especially in arcane scenarios) -- lots of opportunities for YOU to help keep OOo up and running on your favorite platform! Stephan will present the technical difficulties he faced, how his team solved them on the various platforms supported by OOo, and how other products could benefit from what they have learned along the way. This will hopefully spark some lively discussions, so come and participate!&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1911">Stephan Bergmann</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

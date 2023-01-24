@@ -1,0 +1,19 @@
+  <event id="43">
+      <start>17:00</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>csync: Roaming Home Directories</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk will be about a file synchronizer designed for the normal user. I will tell you how it and works and how you can use it to synchronize your music collection or set it up for Roaming Home Directories.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;csync is a lightweight utility to synchronize files between two directories on a system or between multiple systems.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;It synchronizes bidirectionally and allows the user to keep two copies of files and directories in sync. csync uses widely adopted protocols, such as smb or sftp, so that there is no need for a server component. It is a user-level program which means you don&amp;#39;t need to be a superuser or administrator.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Together with a Pluggable Authentication Module (PAM), the intent is to provide Roaming Home Directories for Linux.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="431">Andreas Schneider</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

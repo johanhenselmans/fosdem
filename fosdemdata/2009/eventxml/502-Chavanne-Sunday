@@ -1,0 +1,19 @@
+  <event id="11">
+      <start>14:00</start>
+      <duration>01:00</duration>
+      <room>Chavanne</room>
+      <slug></slug>
+      <title>MediaWiki</title>
+      <subtitle></subtitle>
+      <track>Collaboration</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;I&amp;#39;ll be going over some of the particular UI and workflow issues in &#xA;editing, media uploading, and other areas that we intend to tackle, &#xA;summarize some of the existing work toward those ends, and give a &#xA;preview our upcoming Wikipedia Usability Initiative.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;MediaWiki was born in 2002, when Wikipedia&amp;#39;s editing activity outgrew &#xA;the concurrency limits of its original wiki engine. The first 6 years of &#xA;this open-source wiki platform&amp;#39;s development were largely devoted to &#xA;scaling and performance, ensuring that the world&amp;#39;s most editable online &#xA;encyclopedia could keep up with the number of articles, visitors, and &#xA;changes that come with being an insanely popular user-written site. But &#xA;the user interface hasn&amp;#39;t changed much since 2003; if anything, packing &#xA;in more features has made many aspects of the wiki harder to use over time.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;In 2009, MediaWiki developers are turning their eye towards usability &#xA;and design issues. As with the scaling problems we&amp;#39;ve tackled before, we &#xA;have to be able to target anything from a tiny personal or intranet wiki &#xA;to the massive Wikipedia sites, making a range of different use cases &#xA;with different needs... It&amp;#39;ll be fun!&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="111">Brion Vibber</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

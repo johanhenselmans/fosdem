@@ -1,0 +1,19 @@
+  <event id="159">
+      <start>15:00</start>
+      <duration>01:00</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>Workflow In Java</title>
+      <subtitle></subtitle>
+      <track>JBoss</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;&lt;a href=&#34;http://labs.jboss.com/jbossjbpm/&#34;&gt;JBoss jBPM&lt;/a&gt; is an open source platform that supports workflow, business process management, and service orchestration.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Though BPEL has a big brand name associated to BPM, people start to realize that it is not a silver bullet. Recently two process component models have taken a different point of view. Multiple process languages are taken as the goal and process component models are frameworks on which multiple languages can be build.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;We&amp;#39;ll look at some examples of the Process Virtual Machine and explain how this technology can be used as the basis for workflow, BPM and orchestration.  Attending this talk will give a good overview of the complete &lt;a href=&#34;http://labs.jboss.com/jbossjbpm/&#34;&gt;JBoss jBPM project&lt;/a&gt;.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1591">Tom Baeyens</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

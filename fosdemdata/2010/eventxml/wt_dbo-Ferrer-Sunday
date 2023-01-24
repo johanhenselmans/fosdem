@@ -1,0 +1,19 @@
+  <event id="285">
+      <start>11:00</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Wt::Dbo: a C++ ORM (Object Relational Mapping) library</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The talk introduces Wt::Dbo. It will be compared to existing ORM and database solutions for C++ and other programming languages. Based on simple examples, you will learn how you can use Wt::Dbo to manipulate objects that are stored in a database from within C++.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Wt::Dbo is a brand new C++ ORM layer. Similar to Hibernate for Java and ActiveRecords for Ruby, Wt::Dbo offers a convenient way to interact with objects which are serialized in a database.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Although the lack of introspection in C++ seems to be problematic to write a decent ORM in C++, Wt::Dbo demonstrates that appropriate use of the C++ template system offers a perfect alternative.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Currently, Wt:dbo contains the following functionality:&#xA;&amp;lt;ul&amp;gt;&#xA;&amp;lt;li&amp;gt;Automatic schema creation&amp;lt;/li&amp;gt;&#xA;&amp;lt;li&amp;gt;Mapping of 1-N and M-N relations&amp;lt;/li&amp;gt;&#xA;&amp;lt;li&amp;gt;Lazy loading of objects and collections&amp;lt;/li&amp;gt;&#xA;&amp;lt;li&amp;gt;Uses prepared statements throughout&amp;lt;/li&amp;gt;&#xA;&amp;lt;li&amp;gt;Basic query support&amp;lt;/li&amp;gt;&#xA;&amp;lt;li&amp;gt;Automatic dirty checking and database synchronization&amp;lt;/li&amp;gt;&#xA;&amp;lt;li&amp;gt;Built-in optimistic locking (using a version field)&amp;lt;/li&amp;gt;&#xA;&amp;lt;li&amp;gt;Transactional integrity, even when a transaction fails: dirty objects remain dirty and may later be saved in a new transaction, or may be reverted to their persisted state (unlike Hibernate where you are forced to discard the whole session)&amp;lt;/li&amp;gt;&#xA;&amp;lt;li&amp;gt;Transaction write-behind for changes, with support for manual flushing&amp;lt;/li&amp;gt;&#xA;&amp;lt;li&amp;gt;Forces use of surrogate keys&amp;lt;/li&amp;gt;&#xA;&amp;lt;li&amp;gt;Does not depend on Wt (can be used independently)&amp;lt;/li&amp;gt;&#xA;&amp;lt;li&amp;gt;Simple backend system: at the moment only SQLite3. We are looking at how we can perhaps can leverage SOCI if it makes its way into Boost.&amp;lt;/li&amp;gt;&#xA;&amp;lt;/ul&amp;gt;&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2851">Koen Deforche</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

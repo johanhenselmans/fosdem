@@ -1,0 +1,19 @@
+  <event id="158">
+      <start>11:20</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>KDevelop: Rapid C++ Programming</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The KDevelop 4 IDE comes with various features helping you to write C++ code rapidly. This will be demonstrated during the talk in a live presentation.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;KDevelop&lt;/p&gt;&#xA;&#xA;&lt;pre&gt;&lt;code&gt;is a free, open source IDE (Integrated Development Environment) for MS Windows, Mac OS X, Linux, Solaris and FreeBSD. It is a feature-full, plugin extensible IDE for C/C++ and other programming languages. It is based on KDevPlatform, and the KDE and Qt libraries and is under development since 1998.&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&#xA;&lt;p&gt;KDevPlatform&lt;/p&gt;&#xA;&#xA;&lt;pre&gt;&lt;code&gt;is a free, open source set of libraries that can be used as a foundation for IDE-like programs. It is programing-language independent, and is planned to be used by programs like: KDevelop, Quanta, Kile, KTechLab ... etc.&#xA;&lt;/code&gt;&lt;/pre&gt;      </description>
+      <persons>
+          <person id="1581">Milian Wolff</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

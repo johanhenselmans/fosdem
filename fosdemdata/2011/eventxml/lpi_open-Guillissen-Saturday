@@ -1,0 +1,19 @@
+  <event id="183">
+      <start>12:45</start>
+      <duration>00:30</duration>
+      <room>Guillissen</room>
+      <slug></slug>
+      <title>LPI Why?</title>
+      <subtitle>The Open Generation Gap</subtitle>
+      <track>Certification</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;What is the Open Generation Gap? This is the difference between demand for open source professionals and what schools have to offer.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;What is the Open Generation Gap? This is the difference between demand for open source professionals and what schools have to offer.&lt;/p&gt;      </description>
+      <persons>
+          <person id="1831">Emiel Brok</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

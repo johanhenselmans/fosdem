@@ -1,0 +1,17 @@
+  <event id="199">
+      <start>16:00</start>
+      <duration>00:20</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>Coffee Break!</title>
+      <subtitle></subtitle>
+      <track>Mono devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Coffee Break!&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Sit back, relax, get some coffee and have a chat.&lt;/p&gt;      </description>
+      <persons></persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

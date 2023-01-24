@@ -1,0 +1,19 @@
+  <event id="83">
+      <start>14:15</start>
+      <duration>00:45</duration>
+      <room>AW1.115</room>
+      <slug></slug>
+      <title>GNUstep-make</title>
+      <subtitle></subtitle>
+      <track>OpenGroupware + GNUstep</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;GNUstep development tools: GNUstep-make&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description></description>
+      <persons>
+          <person id="831">Nicola Pero</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

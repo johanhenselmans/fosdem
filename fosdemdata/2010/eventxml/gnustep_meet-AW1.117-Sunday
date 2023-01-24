@@ -1,0 +1,19 @@
+  <event id="126">
+      <start>09:00</start>
+      <duration>01:15</duration>
+      <room>AW1.117</room>
+      <slug></slug>
+      <title>GNUstep Developer&#39;s Meeting</title>
+      <subtitle></subtitle>
+      <track>GNUstep</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Meet the GNUstep developers face to face, discuss current afairs of GNUstep, share news about the latest development and plans on GNUstep, improve collaboration between the several GNUstep related projects.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="1261">Lars Sonchocky-Helldorf</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

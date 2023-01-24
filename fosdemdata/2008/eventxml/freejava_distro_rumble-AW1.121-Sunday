@@ -1,0 +1,23 @@
+  <event id="135">
+      <start>09:00</start>
+      <duration>01:00</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>Distro Rumble</title>
+      <subtitle></subtitle>
+      <track>Free Java</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;So which GNU/Linux distribution integrates java packages best? Find out during this distro shootout!&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;How do the various GNU/Linux distributions integrate java based libraries and applications into their packaging systems. How can we improve cross-distro packaging guidelines (filesystem layout, packaging inter-dependencies, browser integration, developer guidelines, etc.) used across GNU/Linux distributions for java libraries and programs?&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1351">Arnaud Vandyck</person>
+          <person id="1352">Matthias Klose</person>
+          <person id="1353">Michael Koch</person>
+          <person id="1354">Thomas Fitzsimmons</person>
+          <person id="1355">Petteri Räty</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

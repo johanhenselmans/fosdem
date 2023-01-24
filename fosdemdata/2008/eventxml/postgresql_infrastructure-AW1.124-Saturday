@@ -1,0 +1,19 @@
+  <event id="230">
+      <start>15:30</start>
+      <duration>00:30</duration>
+      <room>AW1.124</room>
+      <slug></slug>
+      <title>PostgreSQL Infrastructure</title>
+      <subtitle></subtitle>
+      <track>BSD + PostgreSQL</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;n/a&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description></description>
+      <persons>
+          <person id="2301">Stefan Kaltenbrunner</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

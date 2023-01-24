@@ -1,0 +1,28 @@
+  <event id="201">
+      <start>14:30</start>
+      <duration>01:30</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>Research about libre software in Europe</title>
+      <subtitle></subtitle>
+      <track>Research Room</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Presentation of research projects -- comments, questions and discussion session.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;ul&gt;&lt;li&gt; &lt;a href=&#34;http://www.flossworld.org/&#34;&gt;FLOSSWORLD&lt;/a&gt;: Rishab Ghosh&#xA;&lt;/li&gt;&#xA;&lt;li&gt; &lt;a href=&#34;http://www.sqo-oss.eu/&#34;&gt;SQO-OSS&lt;/a&gt;: Georgios Gousios&#xA;&lt;/li&gt;&#xA;&lt;li&gt; &lt;a href=&#34;http://www.flossmetrics.org/&#34;&gt;FLOSSMETRICS&lt;/a&gt;: Jesus M. Gonzalez-Barahona&#xA;&lt;/li&gt;&#xA;&lt;li&gt; &lt;a href=&#34;http://www.qualoss.org/&#34;&gt;QUALOSS&lt;/a&gt;: Jean-Christophe Deprez&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA; </description>
+      <persons>
+          <person id="2011">Jean-Christophe Deprez</person>
+          <person id="2012">Jesus M. Gonzalez Barahona</person>
+          <person id="2013">Georgios Gousios</person>
+          <person id="2014">Rishab Ghosh</person>
+      </persons>
+      <links>
+          <link href="http://gsyc.escet.urjc.es/~herraiz/fosdem2007/slides/flossworld-intro4.pdf">Slides (PDF)</link>
+          <link href="http://gsyc.escet.urjc.es/~herraiz/fosdem2007/slides/SQO-OSS_P_FOSDEM_.pdf">Slides (PDF)</link>
+          <link href="http://gsyc.escet.urjc.es/~herraiz/fosdem2007/slides/flossmetrics.pdf">Slides (PDF)</link>
+          <link href="http://gsyc.escet.urjc.es/~herraiz/fosdem2007/slides/QUALOSS_FOSDEM_20070224.pdf">Slides (PDF)</link>
+          <link href="http://gsyc.escet.urjc.es/~herraiz/fosdem2007/slides/Qualipso-presentation.pdf">Slides (PDF)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

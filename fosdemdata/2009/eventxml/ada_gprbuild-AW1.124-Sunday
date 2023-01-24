@@ -1,0 +1,19 @@
+  <event id="23">
+      <start>10:00</start>
+      <duration>01:00</duration>
+      <room>AW1.124</room>
+      <slug></slug>
+      <title>GPRBuild - A New Build Tool for Large-Scale Software Development</title>
+      <subtitle></subtitle>
+      <track>Ada</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;GPRBuild is a Free (GPL) modern multi-language builder from AdaCore.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;It is a configurable tool that is able to drive a large number of tool chains, both native and cross, of many languages, such as Ada, C, C++, Fortran, Assembler, etc.  With GPRBuild, you are able to build systems written in one or several languages, with the main program in any language.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;GPRBuild (re)compiles sources, (re)builds libraries and (re)links executables.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="231">Vincent Celier</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

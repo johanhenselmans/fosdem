@@ -1,0 +1,19 @@
+  <event id="340">
+      <start>18:15</start>
+      <duration>00:45</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>QuantumSTEP</title>
+      <subtitle>new frameworks and future directions</subtitle>
+      <track>GNUstep Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;QuantumSTEP is a technology study framework and application&#xA;suite that is partially based on GNUstep. It aims at consequently&#xA;using Objective-C on embedded and portable devices. This talk&#xA;describes the latest additions to the frameworks: CoreLocation,&#xA;MKMapKit, CoreWLAN, CoreTelephony and demonstrates how&#xA;they work on the new GTA04 hardware.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="3401">Nikolaus Schaller</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

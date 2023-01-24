@@ -1,0 +1,19 @@
+  <event id="285">
+      <start>10:15</start>
+      <duration>00:45</duration>
+      <room>H.1301</room>
+      <slug></slug>
+      <title>A talk on FLOSSMetrics</title>
+      <subtitle></subtitle>
+      <track>CrossDesktop</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk would introduce the &lt;a href=&#34;http://www.flossmetrics.org/&#34;&gt;FLOSSMetrics project&lt;/a&gt;, its aims and initial findings.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;The main objective of FLOSSMETRICS is to construct, publish and analyse a large scale database with information and metrics about libre software development coming from several thousands of software projects, using existing methodologies, and tools already developed.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2851">Jesus M. Gonzalez Barahona</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

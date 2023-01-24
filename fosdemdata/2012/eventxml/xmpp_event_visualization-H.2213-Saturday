@@ -1,0 +1,20 @@
+  <event id="427">
+      <start>17:00</start>
+      <duration>00:30</duration>
+      <room>H.2213</room>
+      <slug></slug>
+      <title>Applications: Event Visualization in Emergency Call Systems </title>
+      <subtitle></subtitle>
+      <track>Jabber and XMPP Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Our &amp;#34;Soft Emergency Call System&amp;#34; solves two problems: event aggregation and event visualization.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;We designed a &amp;#34;Soft Emergency Call System&amp;#34; to deploy in local government to provide care in an aging society.  In the design process we had 2 issues (&amp;#34;Event Aggregation&amp;#34; and &amp;#34;Event Visualization&amp;#34;). We describe two ideas to solve those issues, and introduce the system&amp;#39;s implementation and development environment.&lt;/p&gt;      </description>
+      <persons>
+          <person id="4271">Yoshihiro Suzuki</person>
+          <person id="4272">Nobuo Ogashiwa</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

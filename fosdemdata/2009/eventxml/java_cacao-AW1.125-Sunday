@@ -1,0 +1,19 @@
+  <event id="142">
+      <start>10:00</start>
+      <duration>00:15</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>Cacao</title>
+      <subtitle></subtitle>
+      <track>Free Java</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk will give a short summary of what happened to &lt;a href=&#34;http://www.cacaovm.org/&#34;&gt;Cacao&lt;/a&gt; over the past year.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Michael will cover a selective overview of the most interesting topics and also present a short roadmap of things to &#xA;come.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1421">Michael Starzinger</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

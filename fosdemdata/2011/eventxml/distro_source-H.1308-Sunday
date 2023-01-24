@@ -1,0 +1,19 @@
+  <event id="81">
+      <start>16:00</start>
+      <duration>00:30</duration>
+      <room>H.1308</room>
+      <slug></slug>
+      <title>One source to rule all binaries</title>
+      <subtitle></subtitle>
+      <track>CrossDistro devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Now that it is possible for Linux end users to escape package dependency hell&#xA;with smart and user-friendly package managers, this talk will show how free&#xA;and Open Source software developers can escape the next circle - The Free&#xA;Software Distribution Hell.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Today&amp;#39;s Linux market has dozens of successful distributions, each with their&#xA;own ideas of software packaging. Standardization is still in its early stages&#xA;and only possible for a very limited subset of what distributions offer.&#xA;Naturally, they all strive for differentiators to remain ahead of the&#xA;compititon in specific fields.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;However, if you want to distribute your software to your users today, you need&#xA;to provide it for Fedora, Ubuntu, Debian, Mandriva, openSUSE and&#xA;possibly others. Of course, there are three different versions for each&#xA;distribution out there building for at least two different architectures. So,&#xA;in order to ship your software, you need to create all these packages -&#xA;Welcome to the Free Software Distribution Hell. But don&amp;#39;t worry, we will show&#xA;you how to escape it with the openSUSE Build Service, an open and complete&#xA;packaging platform.&lt;/p&gt;      </description>
+      <persons>
+          <person id="811">Sascha Peilicke</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

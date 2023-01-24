@@ -1,0 +1,19 @@
+  <event id="177">
+      <start>12:00</start>
+      <duration>00:30</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>An introduction to jQuery Mobile</title>
+      <subtitle></subtitle>
+      <track>Smalltalk Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;An overview of jQueryMobile, how it allows rapid development of mobile sites and some of the key pitfalls to be avoided. Examples showing how Seaside&amp;#39;s component model and #show/#answer facilities map well onto a mobile site. What it takes to turn a mobile web application into a mobile application suitable for a mobile app store.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="1771">Nick Ager</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

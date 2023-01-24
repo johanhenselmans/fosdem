@@ -1,0 +1,19 @@
+  <event id="75">
+      <start>16:00</start>
+      <duration>00:45</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>tinymail</title>
+      <subtitle></subtitle>
+      <track>GNOME</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Tinymail is a library (or framework, if you like the buzzwords) for developing mobile applications with E-mail functionality.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Usually but not limited to Mail User Agents (MUA). The framework provides components that aid the developer with the user interface but of course also with the connectivity and the caching of messages.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;For more information about tinymail consult its website at &lt;a href=&#34;http://tinymail.org/&#34;&gt;tinymail.org&lt;/a&gt;.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="751">Philip Van Hoof</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

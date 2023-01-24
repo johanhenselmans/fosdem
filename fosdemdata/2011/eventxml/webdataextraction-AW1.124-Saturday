@@ -1,0 +1,19 @@
+  <event id="314">
+      <start>14:45</start>
+      <duration>00:15</duration>
+      <room>AW1.124</room>
+      <slug></slug>
+      <title>Tools and Methods for Web Data Extraction</title>
+      <subtitle></subtitle>
+      <track>Data Analytics devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Panoramic view of the field of web data extraction with methods and libraries in various languages for efficient data extraction from HTML pages.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Websites are one of the main source of data on the web. These websites can be classified in diverse categories (blogs, forums, news, etc.) This data is usually available only as part of html pages, which makes it hard to extract rich information from it. It is however often very desirable to differentiate navigation menu from content, or to extract metadata like date, title, author of the page content.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;This talk proposes to give a panoramic view of the field of web data extraction. It will show what are the problems encountered and the benefits that can be expected from better analysis of web pages for a variety of applications. It will present the different methods and libraries in various languages that allow to design efficient data extraction systems, from simple text heuristics to more sophisticated visual and classifiers-based approaches.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Audience: Beginner to Intermediate.&lt;/p&gt;      </description>
+      <persons>
+          <person id="3141">Nils Grünwald</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

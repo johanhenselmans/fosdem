@@ -1,0 +1,22 @@
+  <event id="83">
+      <start>16:30</start>
+      <duration>01:00</duration>
+      <room>H.1301</room>
+      <slug></slug>
+      <title>QA tools for FOSS distributions</title>
+      <subtitle></subtitle>
+      <track>CrossDistribution Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;FOSS distributions are increasingly over pressure to deliver stable releases including the most up to date upstream software. Time-based release strategies has exacerbated this problem putting even more pressure on QA teams.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;The recently concluded Mancoosi project has developed a number of tools to automatically analyse large packages collections for a range of problems, from&#xA;installability checks to speculative analysis of software repositories.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;In this talk I&amp;#39;ll present four command line tools to identify and correct potential problems as soon as possible during the release cycle.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;In particular :&#xA;* Debcheck: This tools helps to identify all broken packages within a repository and provides a detailed explanation of the problem. This can be used to prevent shipping releases that contain packages that cannot be installed because of missing or malformed dependencies.&#xA;* Buildcheck: Given a Sources file and a set of binary repositories, this tool identifies those source packages that cannot be compiled because their build dependencies cannot be satisfied.&#xA;* Outdated: This tool identifies those broken packages that need special attention because of outdated meta-data.&#xA;* Challenged: This tool performs a speculative analysis of the repository to identify those packages that, if upgraded to a specific version, would break a large number of other packages in the repository. This tool would be particularly useful during the upgrade of a specific component to evaluate its impact on the software archive.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Most of our tools support both rpm (version 4 and 5) and deb based distributions.&lt;/p&gt;      </description>
+      <persons>
+          <person id="831">Pietro Abate</person>
+      </persons>
+      <links>
+          <link href="http://mancoosi.org/">Mancoosi project</link>
+          <link href="http://video.fosdem.org/2012/crossdistro/QA_tools_for_FOSS_distributions.webm">Video recording</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

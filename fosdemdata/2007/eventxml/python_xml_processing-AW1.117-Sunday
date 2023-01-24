@@ -1,0 +1,19 @@
+  <event id="196">
+      <start>16:00</start>
+      <duration>01:00</duration>
+      <room>AW1.117</room>
+      <slug></slug>
+      <title>XML processing with ElementTree and lxml</title>
+      <subtitle></subtitle>
+      <track>Python</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Python 2.5 now includes the &lt;a href=&#34;http://effbot.org/zone/element-index.htm&#34;&gt;ElementTree XML processing module&lt;/a&gt; to process XML documents and streams in an efficient, straightforward, pythonic way. This talk introduces the API on common use cases.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;We also introduce a second implementation of the same API: &lt;a href=&#34;http://codespeak.net/lxml/&#34;&gt;lxml&lt;/a&gt;. This library based on libxml2/libxslt add further implement standard XPATH queries, XSTL processing and validation against schemas (XML Schema and RelaxNG).&#xA;&lt;/p&gt;&#xA;&lt;p&gt;We will finally demonstrate sample usage of those libraries to process ODF and SVG documents.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1961">Olivier Grisel</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

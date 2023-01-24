@@ -1,0 +1,23 @@
+  <event id="19">
+      <start>16:00</start>
+      <duration>00:45</duration>
+      <room>Janson</room>
+      <slug></slug>
+      <title>Application virtualization with next-generation Klik</title>
+      <subtitle></subtitle>
+      <track>Packaging</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The talk will start with a short live demonstration of &lt;a href=&#34;http://klik.atekon.de/wiki/index.php/Klik2&#34;&gt;klik2&lt;/a&gt; and then proceed into the technical aspects of creating a format and implementation for providing cross-distro application images.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;&lt;a href=&#34;http://klik.atekon.de/wiki/index.php/Main_Page&#34;&gt;Klik&lt;/a&gt; is all about virtualization on the application level.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;We are all familiar with virtualization at the operating system or PC hardware level. klik applies the same idea to a different level: namely the level of individual applications.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Klik creates applications that are encapsulated into a single file. This file in fact is a compressed file system image similar to the ISO image format that we know from burning data CDs. Hence, klik is the implementation of the &amp;#39;&amp;#39;&amp;#34;1 application == 1 file&amp;#34;&amp;#39;&amp;#39; principle.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;While this might sound complicated, the idea is really very easy: Take an application and put it together with everything (libraries, icons, data files, configuration files, man pages, manuals and other resources) it needs for successful execution into an ISO image, from which you can run it. You can then easily move the file, take it with you on a USB stick, send it to a friend.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Your application will run on any major distribution, without the need for an installation as we know it. That&amp;#39;s the basic idea, but implementation isn&amp;#39;t trivial, as will be discussed in the talk. After a brief live demonstration, Pfeiffle and Peter will dive into the technical details of the upcoming implementation code-named &amp;#34;klik2&amp;#34;.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="191">Simon Peter</person>
+          <person id="192">Kurt Pfeifle</person>
+      </persons>
+      <links>
+          <link href="../../slides/maintracks/klik2.pdf">Slides (PDF)</link>
+          <link href="http://video.fosdem.org/2008/maintracks/FOSDEM2008-klik.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

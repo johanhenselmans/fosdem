@@ -1,0 +1,19 @@
+  <event id="89">
+      <start>15:20</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Putting Apache Solr to work: eZ Find, a powerful eZ Publish search plugin</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;After a brief overview of the main features and benefits of Apache Solr (an open source embeddable search server), the architecture of eZ Find (the search plugin for eZ Publish, a PHP CMS), will be presented. The main lessons learned around dealing with a mix of structured and non-structured content, multilingual aspects, tuning and the various state-of-the-art features of Solr will be shared with the audience.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;eZ Find is the enterprise grade search engine used for eZ Publish (a CMS written in PHP, with flexible content modeling). The back-end engine used is Apache Solr. The document/field model of Solr together with its powerful features around faceting, filtering, automatic related content and language features are a 1-to-1 match with the CMS used. But is also capable of integrating various data-sources, such as ERP systems or document collections with the use of plugins.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="891">Paul Borgermans</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

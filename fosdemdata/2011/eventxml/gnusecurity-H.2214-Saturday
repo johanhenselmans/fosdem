@@ -1,0 +1,19 @@
+  <event id="124">
+      <start>16:20</start>
+      <duration>00:30</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>GNU Network Security Labyrinth</title>
+      <subtitle></subtitle>
+      <track>GNU devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;GNU implementations of security protocols.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;I will talk about the network application security technologies SASL, Kerberos, GSS-API and TLS on a general level.  I&amp;#39;ll give an overview of the GNU implementations of these protocols.  Focus will be on how the protocols and implementations interact with each other, and how you as application writer can use them.&lt;/p&gt;      </description>
+      <persons>
+          <person id="1241">Simon Josefsson</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="101">
+      <start>12:30</start>
+      <duration>00:30</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>Combining Amazon Web Services with Drupal</title>
+      <subtitle></subtitle>
+      <track>Drupal</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;An introduction to Amazon Web Services (S3, EC2, SQS) and their integration in Drupal, illustrated with a showcase.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Very recently, a module to integrate &lt;a href=&#34;http://drupal.org/projects/aws/&#34;&gt;Drupal with Amazon Web Services&lt;/a&gt; was released. Even though it is still in early development, it can be very useful to find out what can be done with it by demonstrating examples of Drupal websites which integrate AWS.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Taking &lt;a href=&#34;http://www.wikifonia.org/&#34;&gt;wikifonia.org&lt;/a&gt;, a community website for sheet music, as an example, we&amp;#39;ll see how S3, SQS and EC2 can be used with Drupal. I will focus on the software architecture, data flow and some challenges which we faced.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1011">Thomas Bonte</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

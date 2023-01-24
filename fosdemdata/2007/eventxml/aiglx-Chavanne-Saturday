@@ -1,0 +1,21 @@
+  <event id="0">
+      <start>15:00</start>
+      <duration>00:45</duration>
+      <room>Chavanne</room>
+      <slug></slug>
+      <title>AIGLX</title>
+      <subtitle></subtitle>
+      <track>Desktop Applications</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;In this talk, Kristian will take a look at technologies behind the new 3D accelerated composited desktops and see how &lt;a href=&#34;http://fedoraproject.org/wiki/RenderingProject/aiglx&#34;&gt;AIGLX&lt;/a&gt; fits in the larger picture.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;&lt;a href=&#34;http://fedoraproject.org/wiki/RenderingProject/aiglx&#34;&gt;AIGLX&lt;/a&gt; is a new feature in the X.org X server, which lets the server use hardware 3D drivers to accelerate indirect GLX rendering.&#xA;This enables Open GL based compositing managers such as &lt;a href=&#34;http://go-compiz.org/&#34;&gt;compiz&lt;/a&gt; and &lt;a href=&#34;http://beryl-project.org/&#34;&gt;beryl&lt;/a&gt; to efficiently use the pixel contents of a window as an Open GL texture.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Finally, Kristian will show us some of the bottlenecks and feature regressions of the AIGLX approach and how new developments in the open source 3D&#xA;stack can help address these problems.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1">Kristian Høgsberg</person>
+      </persons>
+      <links>
+          <link href="http://video.fosdem.org/2007/FOSDEM2007-AIGLX.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

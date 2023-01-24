@@ -1,0 +1,19 @@
+  <event id="76">
+      <start>14:30</start>
+      <duration>00:45</duration>
+      <room>H.1301</room>
+      <slug></slug>
+      <title>CMake: News and Secrets</title>
+      <subtitle></subtitle>
+      <track>CrossDesktop</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;&lt;a href=&#34;http://www.cmake.org/&#34;&gt;CMake&lt;/a&gt; is a powerful cross platform buildsystem. &#xA;In 2006 the KDE project switched its buildsystem to CMake and today KDE 4.0.0 is shipping and building on Linux, FreeBSD, Solaris, Mac OSX and Windows.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;The talk will present some of the less well known features of CMake, like packaging using CPack and unit testing using CTest, and it will also introduce some of the exciting new features CMake 2.6.0 will bring, e.g cross compiling, new project generators, deb and rpm support, language improvements and more.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="761">Alexander Neundorf</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

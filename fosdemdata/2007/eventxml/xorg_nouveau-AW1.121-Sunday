@@ -1,0 +1,19 @@
+  <event id="214">
+      <start>11:00</start>
+      <duration>01:00</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>Nouveau: What&#39;s new ?</title>
+      <subtitle></subtitle>
+      <track>X.org</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Introduction of Nouveau, a new 3D-capable opensource display driver for nVidia GPUs.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;In this talk, I will first introduce the nouveau project quickly.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;This project aims at improving the quality of open source drivers for nvidia cards. Targetted features include 3D, dual head support, better 2D/Xv support, deobfuscating the code, and much more.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;I will introduce the project, talk about past and current developments, and try to peek at my crystal ball for future works.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="2141">Stéphane Marchesin</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,21 @@
+  <event id="95">
+      <start>18:00</start>
+      <duration>01:00</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>Packaging with git (or $DSCM)</title>
+      <subtitle></subtitle>
+      <track>Debian</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Pierre will talk about many new tools that happened in the last 2 years, around the debian packaging, applied to git because it&amp;#39;s what I use, but probably many of the ideas can be used for any distributed SCM out there.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;One part of the talk should be about how this techniques make the contribution back to upstream easier. Some of the bits will probably be quite git specifics though. Though the whole thing may move a bit when I&amp;#39;ve prepared some material for the talk.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="951">Pierre Habouzit</person>
+      </persons>
+      <links>
+          <link href="http://meetings-archive.debian.net/pub/debian-meetings/2008/fosdem/ogg_theora/384x288/git___Pierre_Habouzit.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

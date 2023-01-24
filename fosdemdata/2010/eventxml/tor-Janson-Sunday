@@ -1,0 +1,21 @@
+  <event id="280">
+      <start>11:00</start>
+      <duration>00:45</duration>
+      <room>Janson</room>
+      <slug></slug>
+      <title>Tor: Building, Growing, and Extending Online Anonymity</title>
+      <subtitle></subtitle>
+      <track>Various</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;A review and update on Tor, how open source solutions work well worldwide,  where we&amp;#39;re headed, and where we need help from developers like you.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Tor is a tool to protect your online privacy and anonymity.  We rely on thousands of volunteers to run our network, review our code, and help enhance the experience for all.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2801">Andrew Lewman</person>
+      </persons>
+      <links>
+          <link href="http://video.fosdem.org/2010/maintracks/tor.xvid.avi">Video (DIVX)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="84">
+      <start>15:00</start>
+      <duration>01:00</duration>
+      <room>AW1.115</room>
+      <slug></slug>
+      <title>Project Manager IDE</title>
+      <subtitle></subtitle>
+      <track>OpenGroupware + GNUstep</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;GNUstep development tools: &lt;a href=&#34;http://home.gna.org/pmanager/&#34;&gt;Project Manager IDE&lt;/a&gt;&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description></description>
+      <persons>
+          <person id="841">Sašo Kiselkov</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

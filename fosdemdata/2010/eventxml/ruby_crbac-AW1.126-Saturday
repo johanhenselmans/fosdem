@@ -1,0 +1,19 @@
+  <event id="267">
+      <start>17:15</start>
+      <duration>00:45</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>Context Based Access Control gem for Rails</title>
+      <subtitle></subtitle>
+      <track>Ruby + Rails</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The CBAC system contains the following features:&#xA;&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Separate authorization logic from your code&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Supports Role Based Access Control. Authorization based on group membership.&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Supports Context Based Access Control. Group membership is determined on user and context of requested resource.&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Easy to use.&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Authorization on the level of controller methods. Specify authorization per controller method.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="2671">Bert Meerman</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

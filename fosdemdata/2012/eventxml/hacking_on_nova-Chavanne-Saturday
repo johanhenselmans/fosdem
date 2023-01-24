@@ -1,0 +1,19 @@
+  <event id="145">
+      <start>11:30</start>
+      <duration>00:25</duration>
+      <room>Chavanne</room>
+      <slug></slug>
+      <title>Hacking on OpenStack Compute (Nova) - A beginner&#39;s guide</title>
+      <subtitle></subtitle>
+      <track>Virtualization and Cloud Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk will include an introduction to OpenStack Nova&amp;#39;s overall network architecture, as well as an introduction to the anatomy of one of the services that make up Nova. Finally, I&amp;#39;ll give a give an introduction to Eventlet, the event library we use in all of OpenStack. In short, this talk should help you dive into most parts of Nova and not feel like too much of a stranger.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="1451">Soren Hansen</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

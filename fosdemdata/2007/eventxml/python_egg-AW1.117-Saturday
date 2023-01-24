@@ -1,0 +1,19 @@
+  <event id="188">
+      <start>16:30</start>
+      <duration>01:00</duration>
+      <room>AW1.117</room>
+      <slug></slug>
+      <title>How to lay an egg</title>
+      <subtitle></subtitle>
+      <track>Python</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This presentation introduces how to package and advertise an open source python projects with distutils and the &lt;a href=&#34;http://peak.telecommunity.com/DevCenter/setuptools&#34;&gt;setuptools extension&lt;/a&gt;.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;ul&gt;&lt;li&gt; what is a python egg (basically the python equivalent of a java .jar file)&#xA;&lt;/li&gt;&#xA;&lt;li&gt; how to install existing eggs with easy_install&#xA;&lt;/li&gt;&#xA;&lt;li&gt; how to build a standard distutils python package&#xA;&lt;/li&gt;&#xA;&lt;li&gt; how to build python eggs and publish them on the cheeseshop&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA; </description>
+      <persons>
+          <person id="1881">Olivier Grisel</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

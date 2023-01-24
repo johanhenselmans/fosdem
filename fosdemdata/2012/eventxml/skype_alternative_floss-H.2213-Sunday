@@ -1,0 +1,19 @@
+  <event id="357">
+      <start>14:05</start>
+      <duration>00:40</duration>
+      <room>H.2213</room>
+      <slug></slug>
+      <title>A real Skype alternative using standards compliant FLOSS</title>
+      <subtitle></subtitle>
+      <track>Telephony and Communications Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The University of Strasbourg has built a &amp;#39;Skype replacement&amp;#39; for ~60,000 users using open source standards and software.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;A few years ago the French Ministry of Education and Research, issued a memo that strongly advised against use of Skype in universities and research centers. Security and excessive bandwidth consumption were among the main concerns.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;In practice however, the directive has been rarely applied for one major reason: (perceived) lack of alternatives.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Therefore, in the beginning of 2011, the University of Strasbourg has started an effort that aims to propose an actual Skype alternative to both its faculty and students (~60 000 users). The project started with a number of extensions added to the Jitsi project in order to add support for features such as GTalk interoperability for example.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;It then continued with a deployment of the actual network using exclusively FLOSS projects such as Openfire, Jinglenodes, FreeSWITCH/Asterisk, TurnServer and others.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;The talk will also cover aspects such as NAT traversal with ICE and JingleNodes, redundancy, security and confidentiality.&lt;/p&gt;      </description>
+      <persons>
+          <person id="3571">Emil Ivov</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

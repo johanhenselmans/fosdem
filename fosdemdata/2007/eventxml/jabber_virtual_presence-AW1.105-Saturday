@@ -1,0 +1,19 @@
+  <event id="99">
+      <start>15:15</start>
+      <duration>00:45</duration>
+      <room>AW1.105</room>
+      <slug></slug>
+      <title>Virtual Presence with Jabber</title>
+      <subtitle></subtitle>
+      <track>Jabber</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;&lt;a href=&#34;http://www.virtual-presence.org/&#34;&gt;Virtual Presence&lt;/a&gt; makes people aware of each other on Web pages. They meet, chat, and voip wherever they go on the Web. Jabber proved to be the perfect foundation for such a large scale virtual presence network.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;The presentation explains what a VP client is and how it uses Jabber. It explains the VP protocol extensions (JEP-0151) and other important details of the Jabber based VP network.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="991">Heiner Wolf</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

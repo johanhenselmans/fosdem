@@ -1,0 +1,19 @@
+  <event id="164">
+      <start>16:00</start>
+      <duration>00:30</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>Introduction to the QtOnPi project</title>
+      <subtitle></subtitle>
+      <track>Open Mobile Linux Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Introduction to QtonPi project, Goals, where we&amp;#39;re, Where we would like to go &amp;amp; how to create, contribute, collaborate in the QtonPi project + demo&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="1641">Rajiv Ranganath</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

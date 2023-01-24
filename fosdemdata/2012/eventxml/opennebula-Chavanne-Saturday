@@ -1,0 +1,20 @@
+  <event id="297">
+      <start>13:30</start>
+      <duration>00:25</duration>
+      <room>Chavanne</room>
+      <slug></slug>
+      <title>OpenNebula Project</title>
+      <subtitle></subtitle>
+      <track>Virtualization and Cloud Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The presentation will describe the state of the OpenNebula project for  data center virtualization, with a focus on the different innovative projects and infrastructures using OpenNebula as a platform for innovation and interoperability. We will show how OpenNebula integrates with other projects in the cloud and virtualization ecosystem and the potential areas for collaboration.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="2971">Daniel Molina Aranda</person>
+          <person id="2972">Carlos Martín Sánchez</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

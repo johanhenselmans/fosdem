@@ -1,0 +1,20 @@
+  <event id="119">
+      <start>18:00</start>
+      <duration>00:45</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>Getting Things GNOME!</title>
+      <subtitle></subtitle>
+      <track>GNOME</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Getting Things GNOME! is a Python todo-list manager inspired by the Getting Things Done method.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;GTG was first introduced during FOSDEM 2009. This talk will be a brief retrospective of one year of development and what we have learned from them. We will also cover the basis of GTG structure, have a brief look at the future and, if everybody is still not asleep, explain the first steps to contribute to GTG because, in GTG, fixing a bug is often easier than writing the bug report.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1191">Bertrand Rousseau</person>
+          <person id="1192">Lionel Dricot</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

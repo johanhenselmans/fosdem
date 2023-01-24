@@ -1,0 +1,23 @@
+  <event id="207">
+      <start>11:20</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>LibrePlan: Open Web Planning</title>
+      <subtitle>Gant Chart Planning meets the Web</subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;LibrePlan is a collaborative tool for planning, monitoring and control of different types of projects. LibrePlan is a project management tool based on Gantt diagrams. It is also a web-application. Thanks to its rich web interface, LibrePlan provides an user experience similar to desktop applications like MS Project.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;When planning a project, it&amp;#39;s very common to find yourself managing different resources working in different projects at the same time. LibrePlan was designed from the very beginning to deal with scenarios like this, where resources and projects have a high degree of connection. This requirement makes LibrePlan a little bit different to other existing tools.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;LibrePlan is not an isolated island. It&amp;#39;s usual that input data needed by LibrePlan may be stored in other systems. In that case, LibrePlan can be fed with these data, thanks to its web services import capabilities. On the other hand, LibrePlan can feed other applications if necessary or even communicate with other LibrePlan instances.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;LibrePlan is a free software application licensed under the AGPL. One of the great assets of LibrePlan is its open development process, always driven by the LibrePlan community. The LibrePlan community engages companies and individuals working together hand by hand to build the best free software project management tool.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;If are keen to know more about LibrePlan, if you are a developer and would like to collaborate with the LibrePlan community or if you are a company and would like to start using LibrePlan for planning your project, please come to see us and learn more why LibrePlan is important for you.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2071">Diego Pino</person>
+      </persons>
+      <links>
+          <link href="491/59_libreplan-presentation.pdf">LibrePlan presentation (slides)</link>
+          <link href="491/60_live-demohtml.html">Live demo (video)</link>
+          <link href="http://www.libreplan.org/">Web site</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

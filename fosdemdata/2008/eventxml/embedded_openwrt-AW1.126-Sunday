@@ -1,0 +1,19 @@
+  <event id="116">
+      <start>16:00</start>
+      <duration>01:00</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>OpenWrt</title>
+      <subtitle></subtitle>
+      <track>Embedded</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;&lt;a href=&#34;http://openwrt.org/&#34;&gt;OpenWrt&lt;/a&gt; is described as a Linux distribution for embedded devices.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Instead of trying to create a single, static firmware, OpenWrt provides a fully writable filesystem with package management. This frees you from the application selection and configuration provided by the vendor and allows you to customize the device through the use of packages to suit any application.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;For developers, OpenWrt is the framework to build an application without having to build a complete firmware around it; for users this means the ability for full customization, to use the device in ways never envisioned.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1161">Florian Fainelli</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

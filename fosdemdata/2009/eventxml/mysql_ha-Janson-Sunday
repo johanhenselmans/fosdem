@@ -1,0 +1,19 @@
+  <event id="204">
+      <start>11:00</start>
+      <duration>01:00</duration>
+      <room>Janson</room>
+      <slug></slug>
+      <title>MySQL High Availability Solutions</title>
+      <subtitle></subtitle>
+      <track>Systems</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;There are many ways of how to ensure the availability of a MySQL Server and how to provide additional redundancy and fault-tolerance.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;In this talk, Lenz will give an overview over some best practices and commonly used HA setups for MySQL.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;The talk will cover the Open Source components and tools that are frequently utilized, with a focus on Linux and OpenSolaris. The session will also cover MySQL Cluster, the architecture and relationship to the MySQL Server.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2041">Lenz Grimmer</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

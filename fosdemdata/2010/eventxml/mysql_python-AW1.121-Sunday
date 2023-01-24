@@ -1,0 +1,19 @@
+  <event id="221">
+      <start>14:45</start>
+      <duration>00:30</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>MySQL and Python: an overview</title>
+      <subtitle></subtitle>
+      <track>MySQL</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;There has been lots of chatter about other languages, but not much about Python. This talk will give an overview of what is available to connect to MySQL, and also introduce MySQL Connector/Python.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="2211">Geert Vanderkelen</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

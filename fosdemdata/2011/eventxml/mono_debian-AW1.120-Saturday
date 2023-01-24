@@ -1,0 +1,19 @@
+  <event id="201">
+      <start>15:30</start>
+      <duration>00:30</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>Mono packaging in Debian and Ubuntu - why we&#39;re always right</title>
+      <subtitle></subtitle>
+      <track>Mono devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Mono packaging in Debian and Ubuntu - why we&amp;#39;re always right&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Debian and Ubuntu are pretty major distributions, meaning an awful lot of people are making use of Mono on there - especially when Mono is part of a default Ubuntu install. About 17% of opt-in Debian users and 89% of opt-in Ubuntu users have Mono installed, adding up to millions of users. In this talk I explain just why we do so many things differently from other distributions, how we take advantage of the benefits limitations of DPKG to make our lives easier, and explain just why the upstream Mono tarball ends up as 103 distinct binary packages.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2011">Jo Shields</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

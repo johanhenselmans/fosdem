@@ -1,0 +1,19 @@
+  <event id="85">
+      <start>15:00</start>
+      <duration>01:00</duration>
+      <room>Lameere</room>
+      <slug></slug>
+      <title>Dynamic voltage and current regulator interface for the Linux kernel</title>
+      <subtitle></subtitle>
+      <track>Embedded</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Every uA is sacred: A dynamic voltage and current regulator interface for the Linux kernel&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;The Linux kernel voltage and current regulator subsystem is designed to provide a standard kernel interface to device drivers and board level code in order to control system voltage and current regulators. The subsystem is designed to allow systems to dynamically control their regulator power output in order to save system power and prolong battery life. &#xA;&lt;/p&gt;&#xA;&lt;p&gt;This talk will describe the regulator subsystem and discuss how the subsystem can be used to reduce dynamic and static system power consumption.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="851">Liam Girdwood</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

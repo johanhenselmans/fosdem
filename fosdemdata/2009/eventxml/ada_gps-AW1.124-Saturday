@@ -1,0 +1,19 @@
+  <event id="24">
+      <start>15:00</start>
+      <duration>01:00</duration>
+      <room>AW1.124</room>
+      <slug></slug>
+      <title>GNAT Programming Studio</title>
+      <subtitle></subtitle>
+      <track>Ada</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;&lt;a href=&#34;https://libre.adacore.com/gps&#34;&gt;GPS, the GNAT Programming Studio&lt;/a&gt;, is a powerful and simple-to-use Integrated Development Environment that serves as portal to the GNAT toolchain.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;It provides customizable settings, browsing, syntax-directed editing, easy integration with third party tools such as Version Control Systems, source navigation, dependency graphs, and more.  Built entirely in Ada, GPS is designed to allow programmers to get the most out of GNAT technology.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="241">Vincent Celier</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="228">
+      <start>15:00</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Neo4j: Graph DB and Neo4j introduction</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The talk will be a brief introduction about graphDB and the JAVA NOSQL graph DB Neo4J.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Neo4j is a graph database. It is an embedded, disk-based, fully transactional Java persistence engine that stores data structured in graphs rather than in tables. A graph (mathematical lingo for a network) is a flexible data structure that allows a more agile and rapid style of development.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;A graph database is a database that uses graph structures with nodes, edges, and properties to represent and store information. General graph databases that can store any graph are distinct from specialized graph databases such as triplestores and network databases.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2281">Jordi Valverde</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="42">
+      <start>17:20</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Camelot : building desktop apps at warp speed</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Learn how to create a desktop application from scratch in 15 minutes, the same way you are used to create Django applications.  We will design a database model, and create the database and the graphical interface from it.  Then we will demonstrate how to adapt this application to suit your particular needs.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;A python QT GUI framework on top of Elixir / Sqlalchemy inspired by the Django admin interface. Start building desktop applications at warp speed, simply by adding some additional information to you Elixir model.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="421">Erik Janssens</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

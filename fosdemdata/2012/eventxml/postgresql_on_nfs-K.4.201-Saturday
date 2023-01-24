@@ -1,0 +1,19 @@
+  <event id="335">
+      <start>17:00</start>
+      <duration>00:50</duration>
+      <room>K.4.201</room>
+      <slug></slug>
+      <title>PostgreSQL on NFS</title>
+      <subtitle></subtitle>
+      <track>PostgreSQL Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;When asked by a client to help them setting up a PostgreSQL cluster with NFS-based storage, my first gut reaction was: don&amp;#39;t. But as it turns out, this is not such an unholy combination; as long as you keep in mind the effects different settings have on both the NFS client and NFS server and the expections PostgreSQL has regarding file operations, one can get away with it.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="3351">Koen Martens</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

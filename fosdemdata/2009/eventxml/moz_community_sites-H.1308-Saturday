@@ -1,0 +1,19 @@
+  <event id="187">
+      <start>16:00</start>
+      <duration>00:45</duration>
+      <room>H.1308</room>
+      <slug></slug>
+      <title>Mozilla Community Sites Project</title>
+      <subtitle></subtitle>
+      <track>Mozilla</track>
+      <type></type>
+      <language></language>
+      <abstract></abstract>
+      <description></description>
+      <persons>
+          <person id="1871">Zbigniew Braniecki</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

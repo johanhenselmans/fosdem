@@ -1,0 +1,19 @@
+  <event id="72">
+      <start>18:30</start>
+      <duration>00:30</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>Creative Commons 4.0 licenses and other opportunities for FLOSS/free culture legal/policy intersections</title>
+      <subtitle></subtitle>
+      <track>Legal Issues Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Creative Commons has since its launch in 2002 acknowledged free&#xA;software as an inspiration, but in-depth communication and understanding&#xA;across the &amp;#34;free culture&amp;#34; (and education, science, government...) and&#xA;free software movements has been thin, resulting in missed opportunities&#xA;(at least on the free culture side).  Two developments make early 2012 an&#xA;opportune and necessary time to address this. First, Creative Commons has&#xA;kicked off a process which will eventually lead to the release of version&#xA;4.0 of various CC licenses, which ought incorporate the best wisdom about&#xA;public licenses (most of which resides in the free software community)&#xA;and not need to be versioned again for a decade. Additionally, among the&#xA;issues under discussion for CC 4.0 licenses are ones of direct import to&#xA;the free software community, including how DRM and license compatibility&#xA;are addressed. Second, CC licenses have become fairly widely adopted as&#xA;policy for public sector and publicly interested materials and funding,&#xA;especially in education. Free software and even open standards are&#xA;inadequately accounted for these developments, presenting a significant and&#xA;unappreciated threat to the realization of public benefit from such --&#xA;a continuation of the tendency of free culture (with the exception of&#xA;Wikimedia) being dependent on proprietary web silos. This talk will very&#xA;briefly summarize the relevant history, describe the pertinent CC 4.0&#xA;licenses and policy issues, and hopefully provoke solutions and actions&#xA;benefiting free software and free culture.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="721">Mike Linksvayer</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

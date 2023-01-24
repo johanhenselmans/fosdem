@@ -1,0 +1,19 @@
+  <event id="152">
+      <start>14:45</start>
+      <duration>00:30</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>JNode</title>
+      <subtitle></subtitle>
+      <track>Free Java</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk will give an overview of &lt;a href=&#34;http://www.jnode.org/&#34;&gt;JNode&lt;/a&gt; and its current state.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;JNode is an operating system based on Java technology. The overview of architecture, OpenJDK integration, progress during last year, current state and future directions will be covered, including a demo of the system.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1521">Levente Sántha</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

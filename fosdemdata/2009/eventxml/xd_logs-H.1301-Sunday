@@ -1,0 +1,19 @@
+  <event id="286">
+      <start>15:15</start>
+      <duration>00:45</duration>
+      <room>H.1301</room>
+      <slug></slug>
+      <title>Why logs are important</title>
+      <subtitle></subtitle>
+      <track>CrossDesktop</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;How To Be A Lumberjack (or &amp;#34;Why Logs Are Important&amp;#34;)&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;This talk will show how we can use SVN log analysis to monitor a migration away from SVN to git.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2861">Paul Adams</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

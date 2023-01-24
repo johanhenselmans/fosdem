@@ -1,0 +1,19 @@
+  <event id="61">
+      <start>15:00</start>
+      <duration>01:00</duration>
+      <room>AW1.124</room>
+      <slug></slug>
+      <title>Portage - A look under the surface</title>
+      <subtitle></subtitle>
+      <track>Gentoo</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk will take a closer look at some of the new Portage features added in the Portage-2.1 series and how they can be used.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;It will also discuss some commonly requested features and try to explain why they haven&amp;#39;t been implemented yet.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="611">Marius Mauch</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

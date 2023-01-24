@@ -1,0 +1,19 @@
+  <event id="216">
+      <start>11:45</start>
+      <duration>00:30</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>Daily maintenance of big databases/tables</title>
+      <subtitle></subtitle>
+      <track>MySQL</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk is about maintaining (or trying to maintain) big databases with large tables with a minimum of downtime and the tools helping for those tasks.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;ul&gt;&lt;li&gt; Configure ibdata&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Backup ?&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Clean the data (optimize and archiving)&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Status of long queries in realtime&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;A short overview of innotop, maatkit, ptxarchiver, ...&#xA;&#xA;  </description>
+      <persons>
+          <person id="2161">Frédéric Descamps</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

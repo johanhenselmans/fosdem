@@ -1,0 +1,19 @@
+  <event id="105">
+      <start>17:00</start>
+      <duration>00:45</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>Drupal and MySQL High Availability</title>
+      <subtitle></subtitle>
+      <track>Drupal</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;If you are lucky, one day your Drupal installment will need more than one database to handle the load your users generate. Or your installment will become so critical you can&amp;#39;t afford your database to be down.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Lots of people use MySQL as the backend for their Drupal setup. This session will introduce you to the different methods of making MySQL High Available as well as the pitfalls in those  methods. Amongst the alternatives we&amp;#39;ll discuss MySQL Cluster, and how to integrate it with your environment so that not only the data stays available but also your MySQL Daemon.   &#xA;&lt;/p&gt;&#xA;&lt;p&gt;As of 5.1 MySQL got a new feature called disk based cluster, however not all tables can benefit from it. We&amp;#39;ll have a closer look where it can help  Drupal.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1051">Kris Buytaert</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

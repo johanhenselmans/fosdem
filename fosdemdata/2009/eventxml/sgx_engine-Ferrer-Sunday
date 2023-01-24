@@ -1,0 +1,19 @@
+  <event id="274">
+      <start>14:20</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Games Engines Done Good</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Too many game engines expect you to use their code exclusively. But no games company will replace their entire technology with an open source engine, just to utilise one component. Consequently, the only open source technology generally used in professional games are those that come as individual libraries - like Lua, or ODE.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;In his talk, Steven covers the reason for why monolithic architectures are no good for games development, how to avoid them, and the alternatives - at both a technical and man management level.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;He covers the principles behind creating interfaces and loosely-couple modules to ensure flexibility, and how to introduce new modules and platforms into the mix. Distinctions are also made between commonly-confused terms such as &amp;#34;engine&amp;#34;, &amp;#34;drivers&amp;#34;, &amp;#34;domains&amp;#34;, &amp;#34;platforms&amp;#34; and &amp;#34;libraries.&amp;#34;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Finally, an overview of the practical solutions are given, using the SGX Engine as a example covering audio, graphics, input, and scripting.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;SGX is a 3D graphics engine, based around of series of null drivers and loosely-coupled modules to facilitate an infinitely upgradable engine. It is primarily suited to games and digital TV backdrops, and runs under Windows and Linux, using OpenGL. It is also one of the few Open Source engines to be used in commercial products.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2741">Steven Goodwin</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

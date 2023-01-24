@@ -1,0 +1,19 @@
+  <event id="294">
+      <start>16:00</start>
+      <duration>01:00</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>Nouveau Status Update</title>
+      <subtitle></subtitle>
+      <track>X.org</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Since last FOSDEM, Nouveau has been making steady progress. This talk will detail some of the changes made since last year and present the newest features. Throughout this talk, I will also introduce a number of &amp;#34;did you know ?&amp;#34; slides about the project and Nvidia hardware&amp;#39;s inner workings.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="2941">Stéphane Marchesin</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

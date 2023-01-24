@@ -1,0 +1,19 @@
+  <event id="334">
+      <start>16:00</start>
+      <duration>00:40</duration>
+      <room>AW1.124</room>
+      <slug></slug>
+      <title>Unified Communications - Future (Yate and YateClient)</title>
+      <subtitle></subtitle>
+      <track>Open Source Telephony devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Yate and YateClient&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;This presentation&amp;#39;s main focus will be how to combine Yate and YateClient in order to allow an extended and unified communication center - we are talking here about Instant Messaging, telephone calls, conferences, besides your own telephony engine to use and configure to your liking.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;The intertwined multiple communication threads are all put together and mastered as easy as 123.&lt;/p&gt;      </description>
+      <persons>
+          <person id="3341">Diana Cionoiu</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

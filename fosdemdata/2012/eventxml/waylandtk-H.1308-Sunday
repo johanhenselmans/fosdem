@@ -1,0 +1,19 @@
+  <event id="404">
+      <start>10:00</start>
+      <duration>00:40</duration>
+      <room>H.1308</room>
+      <slug></slug>
+      <title>Toolkits on Wayland - how we&#39;re doing!</title>
+      <subtitle></subtitle>
+      <track>CrossDesktop Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Wayland is a next generation display manager that is hopefully the&#xA;future for graphics in the Free Desktop. It provides an opportunity to&#xA;avoid some of the historical baggage associated with X - and enable&#xA;smoother and more flexible user experiences.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;In this talk i&amp;#39;ll show of the status quo of various toolkits running&#xA;on Wayland - including GTK+, Clutter, Mx and with a special guest&#xA;appearance from Tiago Vignatti to show off the state of the QT port.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;We&amp;#39;ll talk about what works and what doesn&amp;#39;t and what application&#xA;level programmers need to think about when porting their application&#xA;to run under Wayland. In particular input is a field where X has&#xA;lagged behind current technology - Tiago will show how the exemplary&#xA;input architecture in Wayland can be exploited to create compelling&#xA;modern user experiences.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="4041">Rob Bradford</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

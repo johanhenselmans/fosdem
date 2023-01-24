@@ -1,0 +1,21 @@
+  <event id="160">
+      <start>16:00</start>
+      <duration>00:45</duration>
+      <room>Janson</room>
+      <slug></slug>
+      <title>JRuby</title>
+      <subtitle></subtitle>
+      <track>Languages</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This session will talk about the challenges during the &lt;a href=&#34;http://jruby.codehaus.org/&#34;&gt;JRuby&lt;/a&gt; development process, including the lack of a &lt;a href=&#34;http://www.ruby-lang.org/&#34;&gt;Ruby&lt;/a&gt; language spec, the numerous C-based extensions to the Ruby interpreter, and the difficulty of refactoring and evolving a working language implementation in-place.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;In two years, the &lt;a href=&#34;http://jruby.codehaus.org/&#34;&gt;JRuby community&lt;/a&gt; has brought JRuby from a slow, broken state to being the fastest complete Ruby 1.8 implementation in the world. Improvements to the runtime and interpreter combined with a &lt;a href=&#34;http://en.wikipedia.org/wiki/Java_Virtual_Machine&#34;&gt;JVM&lt;/a&gt; &lt;a href=&#34;http://en.wikipedia.org/wiki/Java_bytecode&#34;&gt;bytecode&lt;/a&gt; compiler have shown that even heavily dynamic languages can be made fast on the JVM. And the JRuby community has gone the extra mile to port native libraries necessary to run real-world Ruby apps like &lt;a href=&#34;http://www.rubyonrails.org/&#34;&gt;Rails&lt;/a&gt;. &#xA;&lt;/p&gt;&#xA;&lt;p&gt;JRuby is an OSS success story.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;This session will talk about the challenges during the JRuby development process, including the lack of a Ruby language spec, the numerous C-based extensions to the Ruby interpreter, and the difficulty of refactoring and evolving a working language implementation in-place.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;We&amp;#39;ll enumerate the many ways community contributions have made JRuby a success, and talk about how the JRuby story could apply to OSS projects &#xA;in general. And we&amp;#39;ll walk through a timeline of the past two years, showing JRuby&amp;#39;s open-source evolution step by step.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1601">Charles Oliver Nutter</person>
+      </persons>
+      <links>
+          <link href="http://video.fosdem.org/2008/maintracks/FOSDEM2008-jruby.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

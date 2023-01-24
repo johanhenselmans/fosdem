@@ -1,0 +1,19 @@
+  <event id="225">
+      <start>11:45</start>
+      <duration>00:45</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>The Cassandra distributed database</title>
+      <subtitle></subtitle>
+      <track>NoSQL</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;&lt;a href=&#34;http://incubator.apache.org/cassandra/&#34;&gt;Apache Cassandra&lt;/a&gt; is a highly scalable second-generation distributed database, bringing together &lt;a href=&#34;http://www.allthingsdistributed.com/2007/10/amazons_dynamo.html&#34;&gt;Dynamo&lt;/a&gt;&amp;#39;s fully distributed design and &lt;a href=&#34;http://labs.google.com/papers/bigtable.html&#34;&gt;Bigtable&lt;/a&gt;&amp;#39;s ColumnFamily-based data model.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Cassandra is used at Facebook, Digg, Twitter, Mahalo, Ooyala, SimpleGEO, Rackspace, and other companies that need high scalability, availability, and fault tolerance.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;This talk will cover&#xA;&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Cassandra architecture and data model&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Case studies: what people are using Cassandra for in production&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Road map: where Cassandra development is headed&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;  </description>
+      <persons>
+          <person id="2251">Eric Evans</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="193">
+      <start>17:00</start>
+      <duration>01:00</duration>
+      <room>Lameere</room>
+      <slug></slug>
+      <title>Milkymist : Pushing further the limits of electronics openness</title>
+      <subtitle>eyecandy on a chip</subtitle>
+      <track>Embedded devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;With the simultaneous reduction of the cost and increased availability of dense and powerful FPGAs, it now becomes possible for individuals to design digital chips, and therefore push the limits of free software down to the digital design. Milkymist is one of the current biggest open hardware projects, and designs a system-on-chip with performance and resource utilization in mind, which is targeted for the demanding field of live video and image rendering.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;The talk will present the origins of the project, the various hardware opening levels, and outline the Milkymist features.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="1931">Sebastien Bourdeauducq</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

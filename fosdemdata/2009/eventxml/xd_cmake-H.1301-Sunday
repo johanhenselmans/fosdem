@@ -1,0 +1,19 @@
+  <event id="284">
+      <start>13:00</start>
+      <duration>00:45</duration>
+      <room>H.1301</room>
+      <slug></slug>
+      <title>CMake - what can it do for your project</title>
+      <subtitle></subtitle>
+      <track>CrossDesktop</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk will be an introduction to &lt;a href=&#34;http://www.cmake.org/&#34;&gt;CMake&lt;/a&gt;.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;It will talk about some of its advantages, some experiences we have with it in KDE, etc. The target audience is mainly projects that do not yet use CMake.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2841">Alexander Neundorf</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

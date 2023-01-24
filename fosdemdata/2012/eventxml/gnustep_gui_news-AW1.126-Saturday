@@ -1,0 +1,19 @@
+  <event id="131">
+      <start>13:45</start>
+      <duration>00:30</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>GNUstep GUI</title>
+      <subtitle>Recent Developments - Graphics and Text</subtitle>
+      <track>GNUstep Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;ul&gt;&#xA;&lt;li&gt;New features in the text system this year&lt;/li&gt;&#xA;&lt;li&gt;Resolution Independence/scale factor support&lt;/li&gt;&#xA;&lt;li&gt;Other graphics improvements&lt;/li&gt;&#xA;&lt;li&gt;Demo&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;      </abstract>
+      <description></description>
+      <persons>
+          <person id="1311">Fred Kiefer</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

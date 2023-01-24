@@ -1,0 +1,19 @@
+  <event id="363">
+      <start>13:30</start>
+      <duration>00:30</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>Spoon, a minimal object programming system</title>
+      <subtitle></subtitle>
+      <track>Smalltalk Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;pre&gt;&lt;code&gt;  Spoon? &#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&#xA;&lt;p&gt;Spoon! It&amp;#39;s a minimal object programming system derived from Squeak, with new approaches to organization, collaboration, and deployment.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Spoon is the system I want for writing and distributing software. Initially, it has only that needed for a new programmer to start and extend it easily. This includes a module system, with which any Spoon system may provide code and data to others. Each module is a live object, and coordinates the direct synchronization of providing and consuming systems.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;The very smallest object memory snapshot I&amp;#39;ve made is 1,337 bytes long. An interesting intermediate result of this work has been &amp;#34;session imprinting&amp;#34;, the transfer of compiled methods directly from one system to another as a side-effect of running them, without needing to compile source code.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="3631">Craig Latta</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

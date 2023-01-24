@@ -1,0 +1,19 @@
+  <event id="298">
+      <start>18:30</start>
+      <duration>00:30</duration>
+      <room>H.2213</room>
+      <slug></slug>
+      <title>More XMPP Lightning Talks</title>
+      <subtitle></subtitle>
+      <track>Jabber + XMPP</track>
+      <type></type>
+      <language></language>
+      <abstract></abstract>
+      <description></description>
+      <persons>
+          <person id="2981">Peter Saint-Andre</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

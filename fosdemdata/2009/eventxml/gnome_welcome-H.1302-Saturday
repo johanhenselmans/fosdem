@@ -1,0 +1,19 @@
+  <event id="119">
+      <start>13:15</start>
+      <duration>00:15</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>Welcome to the GNOME devroom</title>
+      <subtitle></subtitle>
+      <track>GNOME</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Welcome to the GNOME developer room at FOSDEM 2009.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="1191">Christophe Fergeau</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

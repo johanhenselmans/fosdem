@@ -1,0 +1,19 @@
+  <event id="57">
+      <start>11:00</start>
+      <duration>01:00</duration>
+      <room>AW1.124</room>
+      <slug></slug>
+      <title>Gentoo&#39;s inner working: The Council</title>
+      <subtitle></subtitle>
+      <track>Gentoo</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;more details soon&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description></description>
+      <persons>
+          <person id="571">Mike Frysinger</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="113">
+      <start>15:40</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>FreeMedForms: Managing Drug-Drug interactions: an open source model.</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The FreeMedForms project includes the FreeDiams application. FreeDiams is a free and open source pharmaceutical drug prescribing assistant that manages patient drug allergies, drug intolerances and drug-drug interactions in both the drug selection and prescribing steps. FreeDiams manages multiple drug databases (FDA, French, Canadian, South African). FreeDiams is world-unique free and open source software that manages drug-drug interactions informed by referenced scientific sources.&#xA;Technically, FreeDiams is FreeMedForms&amp;#39; EMR drug assistant plugin, built as a standalone application. Its computations are fully integrated with FreeMedForms but can, at the same time, be linked to any application thanks to its command line parameters. GNUmed has adopted FreeDiams as a &amp;#34;drug expert system&amp;#34;. Recently, the FreeMed and SynapseEHR teams began work to port FreeMedForms&amp;#39; drug interaction engine/data to an open source webportal for drug-drug interactions-checking.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;The main author will briefly present the application, give explanations about drug-drug interaction computations, and explain how external EMRs can use FreeDiams as a drug expert system.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;In concluding, the author will invite interested developers to join the FreeMedForms project team.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;The FreeMedForms project is a suite of medical applications (EMR, prescriber, drugs interaction checker?). The project is administered and developed by a community of medical doctors and computer scientists. The applications are freely available without charge and are released with full source code. The FreeMedForms project has the support of the OpenSuse Medical team and the Debian-Med Team.&lt;/p&gt;      </description>
+      <persons>
+          <person id="1131">Eric MAEKER</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="131">
+      <start>11:00</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Renew Berkeley Sockets API: IPN &amp; msockets</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;We have found two main limitations in Berkeley Sockets API:&#xA;(1) it has been designed to manage one stack per protocol family&#xA;(2) there is not a protocol family supporting (fast) multicast for Inter Process Communication (among processes running on the same computer).&#xA;The virtualsquare team proposes solutions for both problems:&#xA;(1) the msocket call to support several stacks (implemented in lwipv6 and ipnet)&#xA;(2) the IPN (inter process networking) protocol family.&#xA;IPN can be used for many applications: midi, mpeg-ts dispatching, kernel based&#xA;vde switches.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;We have found two main limitations in Berkeley Sockets API:&#xA;(1) it has been designed to manage one stack per protocol family&#xA;(2) there is not a protocol family supporting (fast) multicast for Inter Process Communication (among processes running on the same computer).&#xA;The virtualsquare team proposes solutions for both problems:&#xA;(1) the msocket call to support several stacks (implemented in lwipv6 and ipnet)&#xA;(2) the IPN (inter process networking) protocol family.&#xA;IPN can be used for many applications: midi, mpeg-ts dispatching, kernel based&#xA;vde switches.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1311">Renzo Davoli</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="174">
+      <start>11:45</start>
+      <duration>00:45</duration>
+      <room>Janson</room>
+      <slug></slug>
+      <title>LLVM and Clang</title>
+      <subtitle></subtitle>
+      <track>Keynotes</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk gives an introduction to the LLVM Project (http://llvm.org/), which is an umbrella project that encompasses a broad range of low level toolchain components.  This includes both JIT and static compilers, debuggers, assemblers, disassemblers, runtime libraries, and a variety of tools built on top of them.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;LLVM is interesting to two very different communities: First are people who want to build new tools, reusing components that LLVM provides.  Second, people who want to take off-the-shelf tools (like a C compiler) and use them.  This talk describes some of the architectural features that enables the first class of people to be successful and talks about how LLVM is being used today.  Then it talks about some of the really great end-user tools the LLVM provides, such as the Clang C/C++/Objective-C compiler (http://clang.llvm.org/).&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="1741">Chris Lattner</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="75">
+      <start>09:15</start>
+      <duration>00:15</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>Welcome to the Drupal devroom</title>
+      <subtitle></subtitle>
+      <track>Drupal</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Welcome to the Drupal developer room at FOSDEM 2009.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="751">Dries Buytaert</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

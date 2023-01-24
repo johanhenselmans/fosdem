@@ -1,0 +1,19 @@
+  <event id="66">
+      <start>14:40</start>
+      <duration>00:35</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>Ontological Conjunctive Query Answering over large, semi-structured knowledge bases </title>
+      <subtitle></subtitle>
+      <track>Graph Processing Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Ontological Conjunctive Query Answering knows today a renewed interest in knowledge systems that allow for expressive inferences. Most notably in the Semantic Web domain, this problem is known as Ontology-Based Data Access. The problem consists in, given a knowledge base with some factual knowledge (very often a relational database) and universal knowledge (ontology), to check if there is an answer to a conjunctive query in the knowledge base. This problem has been successfully studied in the past, however the emergence of large and semi-structured knowledge bases and the increasing interest on non-relational databases have slightly changed its nature.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;This presentation will highlight the following aspects. First, we introduce the problem and the manner we have chosen to address it. We then discuss how the size of the knowledge base impacts our approach. In a second time, we introduce the ALASKA platform, a framework for performing knowledge representation &amp;amp; reasoning operations over heterogeneously stored data. Finally we present preliminary results obtained by comparing efficiency of existing storage systems when storing knowledge bases of different sizes on disk and future implications.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="661">Bruno Paiva Lima da Silva</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

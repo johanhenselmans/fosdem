@@ -1,0 +1,19 @@
+  <event id="147">
+      <start>15:30</start>
+      <duration>00:30</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>The IcedTea Plugin</title>
+      <subtitle></subtitle>
+      <track>Free Java</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk is about the IcedTea Java Web Browser Plugin.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;It will be mostly technical -- starting off with the need for the plugin and it&amp;#39;s history.  It will then delve into the elements of plugin design, and implementation details affecting speed, security and reliability.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Finally, it will also cover known limitations, and future plans to fix those limitations.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1471">Deepak Bhole</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

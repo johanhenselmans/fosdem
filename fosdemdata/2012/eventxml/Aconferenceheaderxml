@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schedule>
+  <conference>
+    <title>FOSDEM 2012</title>
+    <subtitle>Free and Open Source Software Developers' European Meeting</subtitle>
+    <venue>ULB (Universit&#233; Libre de Bruxelles)</venue>
+    <city>Brussels</city>
+    <start>2012-02-04</start>
+    <end>2012-02-05</end>
+    <days>2</days>
+    <release>PREVIEW</release>
+    <day_change>00:00</day_change>
+    <timeslot_duration>00:05</timeslot_duration>
+  </conference>
+  <day date="2012-02-04" index="1">
+

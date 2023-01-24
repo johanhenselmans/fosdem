@@ -1,0 +1,20 @@
+  <event id="85">
+      <start>15:00</start>
+      <duration>00:30</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>ZYpp your distro</title>
+      <subtitle></subtitle>
+      <track>CrossDistro devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;ZYpp is an opensource project originated in the openSUSE distribution which groups the most advanced and fast dependency solver (satsolver), a package management library and a command line package management tool (zypper). Over the years ZYpp has matured to become one of openSUSE most appreciated features.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;This talk will show ZYpp&amp;#39;s main features and work being done to have it running on other rpm-based distributions.&lt;/p&gt;      </description>
+      <persons>
+          <person id="851">Dominik Heidler</person>
+          <person id="852">Duncan Mac-Vicar P.</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="146">
+      <start>15:15</start>
+      <duration>00:45</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>More Clutter: Animating the Platform</title>
+      <subtitle></subtitle>
+      <track>GNOME</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk is about the &lt;a href=&#34;http://www.clutter-project.org/&#34;&gt;Clutter project&lt;/a&gt;, its current state, the impending release of the new stable version, and its possibilities as a default animations library for the GNOME platform.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;In this talk Emmanuele will expose what Clutter is (in case people haven&amp;#39;t been following Planet GNOME or haven&amp;#39;t been able to attend the Clutter talk at GUADEC&amp;#39;07), its usage and the suitability for having applications include more organic and useful animations for their user interface, similarly to what Apple provides with its Core Animations API.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1461">Emmanuele Bassi</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="178">
+      <start>16:15</start>
+      <duration>00:30</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>Mozilla Calendar Workshop</title>
+      <subtitle></subtitle>
+      <track>Mozilla</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Philipp will be holding a hands-on workshop aims at encouraging developers to participate in the Mozilla Calendar Project either as an extension developer or even more. This could be of interest for you if you&amp;#39;ve always wanted to make an extension for Mozilla Sunbird or Lightning but have never had the time to dive in.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description></description>
+      <persons>
+          <person id="1781">Philipp Kewisch</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

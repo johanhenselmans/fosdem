@@ -1,0 +1,19 @@
+  <event id="220">
+      <start>09:15</start>
+      <duration>00:30</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>State of phpMyAdmin</title>
+      <subtitle></subtitle>
+      <track>MySQL</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;phpMyAdmin is still evolving. New features in version 3.3 include changes tracking, replication support and database synchronization.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Other lesser known features like data transformation and graphical relational manager will be covered as well.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2201">Marc Delisle</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

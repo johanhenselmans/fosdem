@@ -1,0 +1,20 @@
+  <event id="67">
+      <start>14:30</start>
+      <duration>00:45</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>Gnome BuildBrigade</title>
+      <subtitle></subtitle>
+      <track>GNOME</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The Build Brigade is an effort to automate discovery and reporting of Gnome build errors and to make testing of the development version easy for everyone&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description></description>
+      <persons>
+          <person id="671">Juan José Sánchez Penas</person>
+          <person id="672">Iago Toral Quiroga</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

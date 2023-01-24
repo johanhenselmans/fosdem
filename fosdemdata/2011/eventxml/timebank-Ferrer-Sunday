@@ -1,0 +1,19 @@
+  <event id="301">
+      <start>11:40</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Timebank: The Timebank free software project</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Will the time bank project and the online service: motivation, history, development, current status, and future.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Timebank is a web service for managing a time bank, in which users offer their time doing service in exchange for services provided by others users for the same amount of time.&lt;/p&gt;      </description>
+      <persons>
+          <person id="3011">Eduardo Robles</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

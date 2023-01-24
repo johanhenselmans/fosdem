@@ -1,0 +1,19 @@
+  <event id="160">
+      <start>15:00</start>
+      <duration>00:30</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>The state of IcedTea</title>
+      <subtitle></subtitle>
+      <track>Free Java</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Objective: To introduce IcedTea and lead into the talks given by the other IcedTea developers present.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Where is IcedTea now? What has happened since FOSDEM 2008? &#xA;&lt;/p&gt;&lt;ul&gt;&lt;li&gt; History of IcedTea &#xA;&lt;/li&gt;&#xA;&lt;li&gt; Progress &#xA;&lt;/li&gt;&#xA;&lt;li&gt; Releases &#xA;&lt;/li&gt;&#xA;&lt;li&gt; Improved community relationships &#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;What is the difference between (proper) OpenJDK and IcedTea? &#xA;&lt;ul&gt;&lt;li&gt; Javaws (demo), visualvm (demo) &#xA;&lt;/li&gt;&#xA;&lt;li&gt; PulseAudio/Gervill integration&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;Mauve and JTreg comparisons with OpenJDK. &#xA;&#xA;Packaging for Fedora &#xA;&lt;ul&gt;&lt;li&gt; process &#xA;&lt;/li&gt;&#xA;&lt;li&gt; patches that need to be applied &#xA;&lt;/li&gt;&#xA;&lt;li&gt; specifics on building &#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;Looking forward&#xA;&lt;ul&gt;&lt;li&gt; What are we doing now? where are we going? &#xA;&lt;/li&gt;&#xA;&lt;li&gt; How what we complained about last year at FOSDEM has been acknowledged and fixed (patches, repositories)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;  </description>
+      <persons>
+          <person id="1601">Lillian Angel</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

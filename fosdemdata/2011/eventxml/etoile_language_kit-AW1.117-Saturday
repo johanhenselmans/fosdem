@@ -1,0 +1,19 @@
+  <event id="96">
+      <start>14:15</start>
+      <duration>00:30</duration>
+      <room>AW1.117</room>
+      <slug></slug>
+      <title>LanguageKit - supporting Smalltalk and JavaScript dialects on the Objective-C runtime - what&#39;s hard, what&#39;s easy, and why developers and users should care.</title>
+      <subtitle></subtitle>
+      <track>World of GNUstep devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The GNUstep Objective-C runtime was designed to make it relatively easy to support other dynamic languages, sharing an object model with Objective-C. This talk will discuss some of the features and how they are used by LanguageKit, a framework designed to make it easy to implement domain-specific languages with static compilation, JIT and interpreter modes.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;The GNUstep Objective-C runtime was designed to make it relatively easy to support other dynamic languages, sharing an object model with Objective-C. This talk will discuss some of the features and how they are used by LanguageKit, a framework designed to make it easy to implement domain-specific languages with static compilation, JIT and interpreter modes.&lt;/p&gt;      </description>
+      <persons>
+          <person id="961">David Chisnall</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

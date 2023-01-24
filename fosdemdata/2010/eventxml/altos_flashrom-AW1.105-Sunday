@@ -1,0 +1,19 @@
+  <event id="5">
+      <start>12:45</start>
+      <duration>00:15</duration>
+      <room>AW1.105</room>
+      <slug></slug>
+      <title>Porting challenge: Flashrom, the universal flash tool</title>
+      <subtitle></subtitle>
+      <track>Alt-OS</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Flashrom is the open source utility of choice to read and write flash chips and a real porting challenge because it needs full hardware access from userspace.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Some say that only X.org needs a similar level of hardware access. Flashrom is working under Linux, *BSD, OpenSolaris, Mac&#xA;OS X and Windows (somewhat) and people use it to reflash BIOSes, graphics/network/SATA cards, a game console and to control a boatload of external flash programmers.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;This talk gives a short overview of flashrom and its architecture, and then goes into detail about the work needed to port it to your favourite OS.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="51">Carl-Daniel Hailfinger</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

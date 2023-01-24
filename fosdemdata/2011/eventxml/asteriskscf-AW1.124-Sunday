@@ -1,0 +1,19 @@
+  <event id="14">
+      <start>14:30</start>
+      <duration>00:40</duration>
+      <room>AW1.124</room>
+      <slug></slug>
+      <title>Asterisk SCF Development Interfaces</title>
+      <subtitle></subtitle>
+      <track>Open Source Telephony devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Asterisk SCF&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Asterisk SCF&lt;/p&gt;      </description>
+      <persons>
+          <person id="141">Kevin P. Fleming</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

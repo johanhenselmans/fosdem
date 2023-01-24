@@ -1,0 +1,24 @@
+  <event id="180">
+      <start>14:15</start>
+      <duration>00:30</duration>
+      <room>H.1308</room>
+      <slug></slug>
+      <title>The openSUSE project</title>
+      <subtitle></subtitle>
+      <track>openSUSE</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The talk gives an overview about the &lt;a href=&#34;http://en.opensuse.org/&#34;&gt;openSUSE project&lt;/a&gt; and looking back to what was accomplished the last months.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Why did Novell start the &lt;a href=&#34;http://en.opensuse.org/&#34;&gt;openSUSE project&lt;/a&gt; ?&#xA;What is different from other projects?&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Get a short overview of our motivations and plans for the future of the openSUSE project as well as tell us your opinions and discuss with us where openSUSE can go in the future. After last year talk on the FOSDEM we will take the opportunity to look back what was accomplished.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1801">Martin Lasarsch</person>
+          <person id="1802">Michael Löffler</person>
+      </persons>
+      <links>
+          <link href="http://files.opensuse.org/opensuse/en/3/39/OpenSUSE-Project_FOSDEM2007.pdf">Slides (PDF)</link>
+          <link href="http://ftp5.gwdg.de/pub/opensuse/FOSDEM/2007/fosdem2007-01_The_openSUSE_project-1200.ogg">Video (Ogg/Theora)</link>
+          <link href="http://ftp5.gwdg.de/pub/opensuse/FOSDEM/2007/fosdem2007-01_The_openSUSE_project-320.ogg">Video (Ogg/Theora/Low quality)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

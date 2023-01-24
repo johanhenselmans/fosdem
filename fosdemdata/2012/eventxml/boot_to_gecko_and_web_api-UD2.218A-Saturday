@@ -1,0 +1,20 @@
+  <event id="22">
+      <start>18:00</start>
+      <duration>00:40</duration>
+      <room>UD2.218A</room>
+      <slug></slug>
+      <title>Boot to Gecko and Web API</title>
+      <subtitle></subtitle>
+      <track>Mozilla Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Boot2Gecko (B2G) is a complete OS built on the open web platform.  Every &amp;#34;app&amp;#34; from the lock screen to the phone dialer is a &amp;#34;web app&amp;#34;, built with HTML/JS/CSS.  Where we encounter gaps in the open web platform as compared to other phone OSes, we plug the gaps with new Web APIs, to be standardized by web standards bodies.  If you know how to write a web page, you will be able to write phone apps.  B2G is developed according to Mozilla&amp;#39;s values: in the open, with source code always available, and on open standards.  In this talk, we&amp;#39;ll discuss the motivation for B2G and some of its implementation.  And of course, there will be a demo!&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="221">Chris Jones</person>
+          <person id="222">Andreas Gal</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

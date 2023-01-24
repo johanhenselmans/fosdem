@@ -1,0 +1,21 @@
+  <event id="105">
+      <start>11:45</start>
+      <duration>00:45</duration>
+      <room>Janson</room>
+      <slug></slug>
+      <title>Evil on the Internet</title>
+      <subtitle></subtitle>
+      <track>Keynotes</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk will show&#xA;you live examples of these sites, explain how they work, and tell you&#xA;what we currently know about the criminals who operate them.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;There&amp;#39;s a lot of evil things on the Internet if you know where to look&#xA;for them. Phishing websites collect banking credentials; mule&#xA;recruitment websites entice people into money laundering; fake escrow&#xA;sites defraud the winners of online auctions; fake banks hold the cash&#xA;for fake African dictators; and there are even Ponzi scheme websites&#xA;where (almost) everyone knows that they&amp;#39;re a scam.  This talk will show&#xA;you live examples of these sites, explain how they work, and tell you&#xA;what we currently know about the criminals who operate them.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1051">Richard Clayton</person>
+      </persons>
+      <links>
+          <link href="http://video.fosdem.org/2010/maintracks/eviloninternet.xvid.avi">Video (DIVX)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

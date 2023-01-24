@@ -1,0 +1,21 @@
+  <event id="249">
+      <start>11:00</start>
+      <duration>00:45</duration>
+      <room>Janson</room>
+      <slug></slug>
+      <title>SCons</title>
+      <subtitle></subtitle>
+      <track>Build Systems</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk discusses use of the &lt;a href=&#34;http://www.scons.org/&#34;&gt;SCons build system&lt;/a&gt; for Open Source projects.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;&lt;a href=&#34;http://www.scons.org/&#34;&gt;SCons&lt;/a&gt; is a cross-platform software build system with a &lt;a href=&#34;http://en.wikipedia.org/wiki/Domain-specific_programming_language&#34;&gt;domain-specific configuration language&lt;/a&gt; implemented in &lt;a href=&#34;http://www.python.org/&#34;&gt;Python&lt;/a&gt;, which provides the ability to configure builds with an expressive scripting language instead of static dependency definitions.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;SCons emphasizes a whole-tree approach to managing the software dependency graph, including the ability to handle difficult configurations like automatically discovering dependencies in generated header files.&#xA;SCons also contains integrated support for software packaging and &lt;a href=&#34;http://sourceware.org/autobook/&#34;&gt;Autoconf&lt;/a&gt;-like system configuration.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;SCons is backed by a strong test-driven development methodology (lines of test code outnumber source code by about 2.4 to 1) to ensure the quality of contributions from more than 150 developers since the project&amp;#39;s inception.&#xA;The result is a software build tool with enough reliability and consistency for large-scale enterprise software builds.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;This talk will walk through various best practices for configuring Open Source projects using SCons, including limitations and pitfalls to avoid.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="2491">Steven Knight</person>
+      </persons>
+      <links>
+          <link href="http://video.fosdem.org/2008/maintracks/FOSDEM2008-scons.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

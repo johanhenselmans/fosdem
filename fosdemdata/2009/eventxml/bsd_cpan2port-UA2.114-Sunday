@@ -1,0 +1,19 @@
+  <event id="33">
+      <start>16:00</start>
+      <duration>00:30</duration>
+      <room>UA2.114</room>
+      <slug></slug>
+      <title>Painless Perl Ports with cpan2port</title>
+      <subtitle></subtitle>
+      <track>BSD + PostgreSQL</track>
+      <type></type>
+      <language></language>
+      <abstract></abstract>
+      <description></description>
+      <persons>
+          <person id="331">Benny Siegert</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

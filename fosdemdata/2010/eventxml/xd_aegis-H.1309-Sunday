@@ -1,0 +1,19 @@
+  <event id="286">
+      <start>16:00</start>
+      <duration>00:45</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>Open Accessibility Everywhere: software from AEGIS</title>
+      <subtitle></subtitle>
+      <track>CrossDesktop</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;&lt;a href=&#34;http://www.aegis-project.eu/&#34;&gt;AEGIS&lt;/a&gt; is a European Commission funded project to embed accessibility into mainstream software.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Open source desktops have a head start with regard to accessibility, and we demonstrate some of the projects we are working on:&#xA;&lt;/p&gt;&lt;ul&gt;&lt;li&gt; A web-cam based gesture switch - smile to click a button :-)&#xA;&lt;/li&gt;&#xA;&lt;li&gt; A &amp;#34;concept coding&amp;#34; plugin for openoffice for symbol based communication&#xA;&lt;/li&gt;&#xA;&lt;li&gt; &lt;a href=&#34;http://www.inference.phy.cam.ac.uk/dasher/&#34;&gt;Dasher&lt;/a&gt; - that familiar from the GNOME desktop&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;  </description>
+      <persons>
+          <person id="2861">Patrick Welche</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

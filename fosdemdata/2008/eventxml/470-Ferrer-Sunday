@@ -1,0 +1,19 @@
+  <event id="38">
+      <start>10:00</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Ganeti: virtual cluster management tool</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;I&amp;#39;ll give a quick introduction about what Ganeti is and who&#xA;can benefit by using it, and then proceed with a fast update on the&#xA;development of version 1.3.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Ganeti is a virtual cluster&#xA;management tool&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="381">Guido Trotter</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

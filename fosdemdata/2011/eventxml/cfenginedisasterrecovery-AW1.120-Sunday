@@ -1,0 +1,20 @@
+  <event id="25">
+      <start>09:00</start>
+      <duration>00:45</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>A tale of disaster recovery</title>
+      <subtitle> Cfengine everyday, practices and tools</subtitle>
+      <track>Configuration &amp; Systems Management devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;After a brief presentation of configuration management (CM) basics, we&amp;#39;ll start with an ill-fated tale from the recent past about disaster recovery (also known as a case study, if you must): how our CM saved us, how it didn&amp;#39;t, and what could have been done better. This could lead to a discussion about best practices around beers after the session.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;We use Cfengine 3, and will introduce the software, overview the main differences with other open source CM tools before explaining why we like this choice. But Cfengine is not all: what enables us to manage our configuration completely are the practices and tools we&amp;#39;ve built around it. We will describe these in detail, probably offering a live demo (if Murphy permits).&lt;/p&gt;      </description>
+      <persons>
+          <person id="251">Nicolas Charles</person>
+          <person id="252">Jonathan Clarke</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

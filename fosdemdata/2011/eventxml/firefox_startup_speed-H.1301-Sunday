@@ -1,0 +1,19 @@
+  <event id="105">
+      <start>13:00</start>
+      <duration>00:30</duration>
+      <room>H.1301</room>
+      <slug></slug>
+      <title>Fighting I/O: a story of Firefox startup speed improvements </title>
+      <subtitle></subtitle>
+      <track>Mozilla devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Cold startup is the first experience a user has from an application, so you&amp;#39;d rather make it fast. Unfortunately, a lot of different things get in the way, from filesystems to toolchains, even including binary formats.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;This talk will explore various sides of the problem, and introduce some of the techniques implemented in Firefox 4.0 and in the works for subsequent major releases. This talk will cover some of the tools developed or used by Mozilla to improve Firefox cold startup, and some upcoming toolchain improvements.&lt;/p&gt;      </description>
+      <persons>
+          <person id="1051">Mike Hommey</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

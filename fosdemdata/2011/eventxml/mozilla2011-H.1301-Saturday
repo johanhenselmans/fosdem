@@ -1,0 +1,19 @@
+  <event id="212">
+      <start>13:00</start>
+      <duration>00:15</duration>
+      <room>H.1301</room>
+      <slug></slug>
+      <title>Mozilla in 2011</title>
+      <subtitle></subtitle>
+      <track>Mozilla devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Welcome address.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Tristan is going to show a brief presentation of why the web is going to rock in 2011&lt;/p&gt;      </description>
+      <persons>
+          <person id="2121">Tristan Nitot</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,25 @@
+  <event id="105">
+      <start>10:00</start>
+      <duration>03:00</duration>
+      <room>H.2213</room>
+      <slug></slug>
+      <title>OpenJDK</title>
+      <subtitle></subtitle>
+      <track>GNU Classpath + OpenJDK DevJam</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Sun will discuss the roadmap for the OpenJDK project including goals and code release plans.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Sun will ask the community to participate in a discussion of governance models and contribution policies as to facilitate platform innovation while respecting the Java Community Process (JCP). &#xA;&lt;/p&gt;&#xA;&lt;p&gt;Current operations plans for version control, bug tracking, patch submission and testing will also be covered.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Engineers from the compiler team, the HotSpot team, the Java2D team and the Quality team will also give technical lightning talks.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;This will be an interactive session with plenty of opportunities to ask Sun questions about OpenJDK.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1051">Mark Reinhold</person>
+      </persons>
+      <links>
+          <link href="http://blogs.sun.com/mr/resource/openjdk-fosdem-2007.pdf">[PDF] Mark Reinhold: OpenJDK Overview</link>
+          <link href="http://blogs.sun.com/tmarble/resource/FOSDEM-2007/FOSDEM-2007-Java2D.pdf">[PDF] Igor Nekrestyanov: Java2D</link>
+          <link href="http://blogs.sun.com/tmarble/resource/FOSDEM-2007/FOSDEM-2007-HotSpot.pdf">[PDF] Peter Kessler: HotSpot</link>
+          <link href="http://blogs.sun.com/tmarble/resource/FOSDEM-2007/FOSDEM-2007-compiler.pdf">[PDF] Peter von der Ahé: Java compiler</link>
+          <link href="http://blogs.sun.com/tmarble/resource/FOSDEM-2007/FOSDEM-2007-Quality.pdf">[PDF] David Herron: Quality</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

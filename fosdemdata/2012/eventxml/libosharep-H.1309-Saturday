@@ -1,0 +1,20 @@
+  <event id="203">
+      <start>18:00</start>
+      <duration>00:15</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>LibreOffice extension for Sharepoint</title>
+      <subtitle>connect to that pure evilness, easily</subtitle>
+      <track>LibreOffice Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;LPSP stands for LibreOffice extension providing connection to SharePoint. This Java extension is a great solution for users needing SharePoint support right now and/or don&amp;#39;t consider upgrading (yet) to newer SharePoint versions supporting CMIS.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;We&amp;#39;ll also take a short time to explain about the CMIS connection and why it is a cool thing to hack on.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="2031">Cedric Bosdonnat</person>
+          <person id="2032">Miklos Vajna</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

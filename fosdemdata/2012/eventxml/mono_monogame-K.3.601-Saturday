@@ -1,0 +1,21 @@
+  <event id="249">
+      <start>16:40</start>
+      <duration>00:50</duration>
+      <room>K.3.601</room>
+      <slug></slug>
+      <title>MonoGame</title>
+      <subtitle></subtitle>
+      <track>Mono Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;p&gt;Talk covering a the history of MonoGame, where we are at and where we want to go. We will show some demos of things running on Mac, PC and iOS/Android devices. This will be presented by Dean Ellis, Kenneth Pouncey  and Me.&lt;/p&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;p&gt;Using advertising within iOS/Android. This will be presented by Dean Ellis &amp;amp; Me.&lt;/p&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;p&gt;Networking within MonoGame. This will be presented by Dean Ellis, and Kenneth Pouncey.&lt;/p&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;      </abstract>
+      <description></description>
+      <persons>
+          <person id="2491">Dominique Louis</person>
+          <person id="2492">Kenneth Pouncey</person>
+          <person id="2493">Dean Ellis</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

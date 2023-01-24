@@ -1,0 +1,22 @@
+  <event id="258">
+      <start>13:00</start>
+      <duration>01:00</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>Multiarch - why it&#39;s important</title>
+      <subtitle></subtitle>
+      <track>CrossDistribution Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Multiarch is a properly generic solution to the installation and use of library packages from one than one architecture at a time, which changes the way running non-native binaries and crossbuilding are dealt with in a fundamental way. It is both powerful and intrusive and has taken a long time to make happen.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;This talk explains what it is, how it works, and what you can do with it. We will also discuss future adoption by other distros.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="2581">Wookey</person>
+      </persons>
+      <links>
+          <link href="http://wiki.debian.org/Multiarch">Multiarch project at Debian</link>
+          <link href="http://video.fosdem.org/2012/crossdistro/Multiarch___why_it_s_important.webm">Video recording</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

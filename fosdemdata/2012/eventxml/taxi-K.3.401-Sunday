@@ -1,0 +1,21 @@
+  <event id="370">
+      <start>15:00</start>
+      <duration>00:30</duration>
+      <room>K.3.401</room>
+      <slug></slug>
+      <title>Call a Cab to bring the Colors - Taxi DB</title>
+      <subtitle></subtitle>
+      <track>X.org+OpenICC Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Taxi DB is designed to store ICC device profiles and meta data online. What technology is used and how it works will be in the talk.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="3701">Sirko Kemter</person>
+      </persons>
+      <links>
+          <link href="http://icc.opensuse.org/">Taxi ICC DB</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

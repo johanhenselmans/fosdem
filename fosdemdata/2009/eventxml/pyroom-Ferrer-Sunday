@@ -1,0 +1,19 @@
+  <event id="259">
+      <start>15:00</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>PyRoom - distraction free writing</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The talk will try to answer many questions:&#xA;&lt;/p&gt;&#xA;&lt;ul&gt;&lt;li&gt; why did this project happen?&#xA;&lt;/li&gt;&#xA;&lt;li&gt; how is it organised?&#xA;&lt;/li&gt;&#xA;&lt;li&gt; who is this software for?&#xA;&lt;/li&gt;&#xA;&lt;li&gt; ...&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;PyRoom is a Free, monochrome, full-screen text editor without buttons, widgets, etc. that helps you focus on one thing and only one: writing. It&amp;#39;s written in Python, using Python-GTK bindings.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2591">Bruno Bord</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,21 @@
+  <event id="50">
+      <start>11:00</start>
+      <duration>00:45</duration>
+      <room>K.3.601</room>
+      <slug></slug>
+      <title>Practical implementation of promise theory in CFEngine</title>
+      <subtitle></subtitle>
+      <track>Configuration and Systems Management Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Do you feel lost after reading CFEngine tutorials? Does promise theory&#xA;seem to be distant from the particular CFEngine constructs?&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;In this talk CFEngine 3 operators will be dissected, analyzed and mapped to the ideas&#xA;in the promise theory.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Promise theory is a model of voluntary cooperation between individual,&#xA;autonomous actors or agents who publish their intentions to one another&#xA;in the form of promises, which is particularly suited for configuration&#xA;management in distributed systems. Promise Theory was proposed by Mark&#xA;Burgess in 2004, further developed in the following years and&#xA;implemented in CFEngine 3.&lt;/p&gt;      </description>
+      <persons>
+          <person id="501">Mikhail Gusarov</person>
+      </persons>
+      <links>
+          <link href="648/118_fosdem2012_promise_theory.pdf">fosdem2012_promise_theory.pdf (slides)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

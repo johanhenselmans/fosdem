@@ -1,0 +1,19 @@
+  <event id="331">
+      <start>11:00</start>
+      <duration>00:50</duration>
+      <room>K.4.201</room>
+      <slug></slug>
+      <title>Ensuring uptime in a small startup</title>
+      <subtitle></subtitle>
+      <track>PostgreSQL Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Running a web application that is used by people from all over the world means that you cannot afford any downtime.&#xA;However, the codebase and the database schema constantly evolves, while at the same time hardware failures may happen.&#xA;The talk will try to present ways that we, at transifex.net, use to deal with the following two issues:&#xA;- schema changes&#xA;- hardware failures&#xA;in order to achieve 100% uptime.&#xA;The talk will discuss tools that PostgreSQL provides, like functions and triggers, and how they can be used to deal with schema changes and how to setup streaming replication for fail-over.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="3311">Apostolos Bessas</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

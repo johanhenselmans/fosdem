@@ -1,0 +1,22 @@
+  <event id="13">
+      <start>10:00</start>
+      <duration>00:45</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>Strigi internals</title>
+      <subtitle></subtitle>
+      <track>CrossDesktop</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Strigi, the fastest and smallest desktop search engine, combines stream-based content analysis with an abstract index interface. Revolutionary tools like deepfind, deepgrep, the Strigi daemon and a universal metadata extractor for the free desktop are the result.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Strigi introduces a new way of looking at metadata and file formats that enables the creation of very efficient tools for improving the way users handle their data. It does so by using simple C++ code with very few dependencies.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Two concepts are central: stream-based data analysis and an abstract index interface. The former provides a standardized way of looking at metadata and embedded files. It allows reading arbitrarily deeply nested files with very low cpu and memory consumption. Embedded files of all types are handled in the same way, no matter if they are email attachments, zip file entries, files in an rpm or deb file or pictures embedded in a pdf file. This interface allows for applications like deepfind and deepgrep, versions of &amp;#39;find&amp;#39; and &amp;#39;grep&amp;#39; that also list arbitrary deeply nested files.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The latter, the common interface for indexes, is also essential for deepfind and deepgrep, but in addition, it enables a universal metadata extractor which can hugely speed up the indexing phase of any desktop search engine. On top of that, it lets the Strigi desktop search daemon be ignorant about its storage backend.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;This presentation explains the technology that allows Strigi to be as fast as it is and will show how other projects can benefit too by using the programs and libraries provided by Strigi.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="131">Jos van den Oever</person>
+      </persons>
+      <links>
+          <link href="http://www.kde.org/kdeslides/fosdem2007/2007-02-vandenoever-strigi_internals.pdf">Slides (PDF)</link>
+          <link href="http://www.kde.org/kdeslides/fosdem2007/2007-02-vandenoever-strigi_internals.odp">Slides (OOo)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

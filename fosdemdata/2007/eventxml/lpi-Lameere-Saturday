@@ -1,0 +1,19 @@
+  <event id="117">
+      <start>13:00</start>
+      <duration>00:45</duration>
+      <room>Lameere</room>
+      <slug></slug>
+      <title>LPI Certifications</title>
+      <subtitle></subtitle>
+      <track>LPI Certification</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The culmination of LPI&amp;#39;s certification program with the launch of the enterprise Level 3 and a summary of the existing LPIC program.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Topics of the presentation:&#xA;&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Linux Professional Institute (LPI) - aims and functions&#xA;&lt;/li&gt;&#xA;&lt;li&gt; The concepts and details of the certifications of LPI&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Objectives LPIC-1 and 2&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Sample questions and simulations&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Dealing with sample questions, technique of questions&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Concrete samples live at a Linux system&#xA;&lt;/li&gt;&#xA;&lt;li&gt; How to prepare for an LPI exam&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Scheme of the new Level 3 exams 301 and 302&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Topics, detailed objectives and sample questions of the exams 301 und 302&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA; </description>
+      <persons>
+          <person id="1171">Klaus Behrla</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

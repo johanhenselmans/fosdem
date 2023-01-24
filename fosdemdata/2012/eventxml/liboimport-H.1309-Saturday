@@ -1,0 +1,19 @@
+  <event id="198">
+      <start>11:45</start>
+      <duration>00:30</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>Import filters for LibreOffice</title>
+      <subtitle>Join the journey</subtitle>
+      <track>LibreOffice Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;A 45 (or less) minutes session dedicated on explaining how we proceeded in writing our Visio import filter and showing a methodology how to write an import filter for LibreOffice efficiently. Part of the session will be dedicated to get interested developers started. If you want to join our exciting journey, this is the door wide open for you into our community.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="1981">Fridrich Strba</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="83">
+      <start>16:30</start>
+      <duration>00:45</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>Drupal and the semantic web</title>
+      <subtitle></subtitle>
+      <track>Drupal</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;As of Drupal 7 will use RDFa markup in core, in this session I will:&#xA;&lt;/p&gt;&lt;ul&gt;&lt;li&gt; explain what the implications are of this and why this matters&#xA;&lt;/li&gt;&#xA;&lt;li&gt; give a short introduction to the Semantic web, RDF, RDFa and SPARQL in human language&#xA;&lt;/li&gt;&#xA;&lt;li&gt; give a short overview of the RDF modules that are available in contrib&#xA;&lt;/li&gt;&#xA;&lt;li&gt; talk about some of the potential use cases of all these magical technologies&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="831">Kristof van Tomme</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

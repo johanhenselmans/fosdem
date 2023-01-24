@@ -1,0 +1,19 @@
+  <event id="232">
+      <start>12:45</start>
+      <duration>00:45</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>openSUSE on Netbooks</title>
+      <subtitle></subtitle>
+      <track>openSUSE</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Everybody loves Netbooks, so why don&amp;#39;t use your favorite Linux distribution on it.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;The talks shows what the pitfalls and limitations are and how to get openSUSE working on Netbooks.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2321">Stefan Seyfried</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

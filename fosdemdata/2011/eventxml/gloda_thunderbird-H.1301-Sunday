@@ -1,0 +1,19 @@
+  <event id="121">
+      <start>11:30</start>
+      <duration>00:30</duration>
+      <room>H.1301</room>
+      <slug></slug>
+      <title>Using Gloda to extend Thunderbird</title>
+      <subtitle></subtitle>
+      <track>Mozilla devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;In this talk, I&amp;#39;ll show how to build innovative and powerful extensions with recent versions of Thunderbird.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;In this talk, I&amp;#39;ll show how to build innovative and powerful extensions with recent versions of Thunderbird. The Gloda infrastructure that was introduced in the 3.0 series has matured, and is now a choice API for extension authors. It allows for powerful, Thunderbird-wide queries, and abstracts away the internals of the message representation. Other efforts aim to provide a standard library to perform common tasks: sending a message, performing various operations on messages... I&amp;#39;ll demo a few extensions as well.&lt;/p&gt;      </description>
+      <persons>
+          <person id="1211">Jonathan  Protzenko</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

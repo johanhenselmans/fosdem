@@ -1,0 +1,21 @@
+  <event id="288">
+      <start>10:00</start>
+      <duration>00:15</duration>
+      <room>H.1301</room>
+      <slug></slug>
+      <title>Welcome to the Crossdesktop room</title>
+      <subtitle></subtitle>
+      <track>CrossDesktop</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Welcome to the Crossdesktop developer room at FOSDEM 2009.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="2881">Christophe Fergeau</person>
+          <person id="2882">Bart Coppens</person>
+          <person id="2883">Jannis Pohlmann</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

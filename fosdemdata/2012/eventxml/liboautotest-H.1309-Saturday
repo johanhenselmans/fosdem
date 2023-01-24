@@ -1,0 +1,19 @@
+  <event id="190">
+      <start>15:00</start>
+      <duration>00:30</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>Test concepts for automated Libreoffice testing</title>
+      <subtitle>how we&#39;re making your suite more reliable</subtitle>
+      <track>LibreOffice Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Showing new concepts for in-build tests and subsequenttests and how these concepts make automated testing easier and more reliable.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="1901">Markus Mohrhard</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="96">
+      <start>15:00</start>
+      <duration>01:00</duration>
+      <room>Lameere</room>
+      <slug></slug>
+      <title>LiMo Platform and Mobile Linux</title>
+      <subtitle></subtitle>
+      <track>Embedded</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;LiMo are building an open mobile middleware platform upon the Linux kernel, drawing from the best of open source and using many common components found in GNOME Mobile.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;The big challenge for mobile companies working with open source is how to be graceful in our interaction with upstream projects and how to ensure a reciprocal flow of innovation that benefits everyone.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;This session will introduce the LiMo platform, talk about the challenges of building for mobile devices, and how we want to work with open source projects to make them more mobile in the future.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="961">Andrew Savory</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

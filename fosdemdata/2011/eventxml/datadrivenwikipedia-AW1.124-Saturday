@@ -1,0 +1,20 @@
+  <event id="46">
+      <start>17:00</start>
+      <duration>00:30</duration>
+      <room>AW1.124</room>
+      <slug></slug>
+      <title>Free Culture, Free Data - How we use Data to Drive at Wikipedia</title>
+      <subtitle></subtitle>
+      <track>Data Analytics devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;How the wikimedia fundation uses open source tools to analyze the Wikipedia usage and make informed decisions.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Wikipedia is now the fifth most popular website worldwide, and the only website in the Top-20 that runs exclusively on Free Software. As famous proponents of Free Culture, we are also one of the most popular sources of publicly available, well documented datasets for research and analytics. We&amp;#39;re famous for not survelling our readers, but we do engage in significant analytics activities from internal and external data sources to help us make decisions and optimize the workings of Wikimedia projects. This talk will explore the Free and Open Source Tools we use, ranging from Perl scripts to custom integration of Open Web Analytics, as well as giving users a taste of what its like to live completely in the clear with all your data published for public access. Level: General interest in Data.&lt;/p&gt;      </description>
+      <persons>
+          <person id="461">Tomasz Finc</person>
+          <person id="462">Arthur Richards</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

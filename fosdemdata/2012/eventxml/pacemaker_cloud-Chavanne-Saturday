@@ -1,0 +1,19 @@
+  <event id="317">
+      <start>13:00</start>
+      <duration>00:25</duration>
+      <room>Chavanne</room>
+      <slug></slug>
+      <title>Cloud high availability with pacemaker-cloud</title>
+      <subtitle></subtitle>
+      <track>Virtualization and Cloud Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;&amp;#34;Pacemaker Cloud&amp;#34; is a High availability manager for cloud providers, which detects and isolates failures, restarting components when required.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="3171">Pádraig Brady</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

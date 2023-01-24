@@ -1,0 +1,19 @@
+  <event id="348">
+      <start>12:30</start>
+      <duration>00:30</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>RoarVM, Sly</title>
+      <subtitle></subtitle>
+      <track>Smalltalk Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Recent developments in using many cores and parallel programming that embraces non-determinism for performance&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="3481">Stefan Marr</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

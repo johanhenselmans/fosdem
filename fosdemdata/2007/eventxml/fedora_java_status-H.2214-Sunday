@@ -1,0 +1,19 @@
+  <event id="48">
+      <start>09:00</start>
+      <duration>01:00</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>Java Status on Fedora</title>
+      <subtitle></subtitle>
+      <track>CentOS + Fedora</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Java Status on Fedora&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description></description>
+      <persons>
+          <person id="481">Tom Tromey</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

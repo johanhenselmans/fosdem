@@ -1,0 +1,19 @@
+  <event id="101">
+      <start>13:30</start>
+      <duration>00:30</duration>
+      <room>Lameere</room>
+      <slug></slug>
+      <title>Openintents: Android intents mechanism</title>
+      <subtitle></subtitle>
+      <track>Embedded</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The talk introduces the Android intents mechanism. It is an essential part of the design of the Android mobile operating&#xA;system that allows reuse and stimulates interoperability of apps.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;From an open source perspective it also liberates the core functionality of the system, by making it possible to replace the native system applications. Extremely powerful if harnessed correctly, new Android developers ought to discover it early on, and hopefully embrace this unique feature en masse. For advanced aficionados, this talk will also briefly touch the related subjects of security and dependency management, an idea currently being discussed within OpenIntents.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1011">Friedger Müffke</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,21 @@
+  <event id="73">
+      <start>14:00</start>
+      <duration>00:45</duration>
+      <room>Janson</room>
+      <slug></slug>
+      <title>Conary Packaging: Simply Powerful</title>
+      <subtitle></subtitle>
+      <track>Packaging</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;&lt;a href=&#34;http://wiki.rpath.com/wiki/Conary&#34;&gt;Conary&lt;/a&gt; has a powerful set of tools for package building that make packaging easy -- not just compiling, but maintaining, updating, and testing.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Michael will present http://wiki.rpath.com/wiki/Conary Conary] packaging, first demonstrating how simple the process is, then providing technical details of features that make packaging a simple, easy, repeatable process.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;He will show how Conary handles common cases automatically, while making it easy to override its defaults for unusual cases.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Michael will also demonstrate how Conary improves packaging quality, by making packaging consistent and by providing tools to analyze packages and collections of packages.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Last but not least, he will explain how Conary&amp;#39;s dependency management is different from legacy package management, encoding more thorough dependency&#xA;information without requiring cascading piles of irrelevant packages.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="731">Michael K. Johnson</person>
+      </persons>
+      <links>
+          <link href="http://video.fosdem.org/2008/maintracks/FOSDEM2008-conary.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

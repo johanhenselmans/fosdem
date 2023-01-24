@@ -1,0 +1,19 @@
+  <event id="272">
+      <start>14:00</start>
+      <duration>00:30</duration>
+      <room>Lameere</room>
+      <slug></slug>
+      <title>Cold boot attacks on RAM readout</title>
+      <subtitle>Ways to circumvent most known protection methods, and ways to protect the RAM contents even for unmodified operating systems</subtitle>
+      <track>Embedded devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;RAM readout attacks are a nice way to recover encryption keys etc... from computers which are still running, but where you lack proper access rights. The same applies to recently powered off computers. This works by cutting power to the computer and moving the RAM to another special machine which is able to read out RAM modules without overwriting anything. Both new attack vectors and defense mechanisms will be discussed.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;New attack: Various hardware-based mitigation schemes have been discussed in literature, but most of them can be circumvented easily with a new method presented in this talk.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Better Defense: Unmodified operating systems offer no way to safeguard RAM contents on regular shutdown, and even modified OS often have to keep some parts of RAM unaltered to allow regular poweroff. A way to ensure RAM clearing on poweroff for unmodified x86 OS will be demonstrated, and its safety and impact will be discussed.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2721">Carl-Daniel Hailfinger</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

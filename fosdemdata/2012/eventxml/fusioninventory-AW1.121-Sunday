@@ -1,0 +1,19 @@
+  <event id="108">
+      <start>15:50</start>
+      <duration>00:20</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>The FusionInventory Project</title>
+      <subtitle></subtitle>
+      <track>Perl Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;FusionInventory is an IT asset inventory solution. The project has two components: the server, a PHP plugin for GLPI and the agent, a Perl program.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;The agent is responsible for executing various tasks implemented as plugins, such as local inventory, network discovery, software execution, etc. Its design, resulting from the aggregation of multiple unrelated pieces of software, was quite... baroque. This talk will present the challenge of joining an already existing project, with a legacy code base, and turning it to modern Perl best practices.&lt;/p&gt;      </description>
+      <persons>
+          <person id="1081">Guillaume Rousse</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

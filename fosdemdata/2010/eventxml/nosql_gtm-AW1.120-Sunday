@@ -1,0 +1,19 @@
+  <event id="229">
+      <start>15:00</start>
+      <duration>00:30</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>GT.M and OpenStreetMap</title>
+      <subtitle></subtitle>
+      <track>NoSQL</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;OpenStreetMap is a collaborative mapping project inspired by Wikipedia.  The heart of OpenStreetMap is its geo-data.  All geographic elements are described using a simple database structure and free-form tagging.  A road may be described by tagging it as highway=motorway, a hospital by amenity=hospital, a lake by landuse=water, etc.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;The main database uses PostgreSQL and is accessed exclusively through a REST based API. It receives continuous updates from a 30,000 strong community of users. Consequently, in order to maintain acceptable performance, queries on the database are restricted to simple rectangular areas of no more than 0.25 square degrees.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The challenge was to mirror this database and provide an API that permitted queries on larger areas and provided extended query capabilities, such as the ability to find hospitals or fire stations or bars.  We chose GT.M because of it&amp;#39;s a high performance schema-free database that would handle key/value pairs economically and scale well to accommodate the continuous growth of the data.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2291">George James</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

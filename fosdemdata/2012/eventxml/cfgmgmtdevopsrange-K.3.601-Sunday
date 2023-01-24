@@ -1,0 +1,19 @@
+  <event id="48">
+      <start>14:00</start>
+      <duration>00:45</duration>
+      <room>K.3.601</room>
+      <slug></slug>
+      <title>DevOps is not an absolute. It&#39;s a range.</title>
+      <subtitle></subtitle>
+      <track>Configuration and Systems Management Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;In this talk, I&amp;#39;ll use my unique experience from both the standpoint of a system administrator in a small company as well as a reasonably successful DevOps tool writer to explain how modern tools can be used gradually to transition a business to welcome more DevOps practices without sacrificing stability or productivity and in fact increasing both!&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Many still consider and talk about DevOps as an absolute thing: developers and operations are the same thing. Of course, this is not the case. DevOps is a range, where on the far left we have old-style ops (very exclusive) and on the far right we have developers doing all the ops (very inclusive).&lt;/p&gt;&#xA;&#xA;&lt;p&gt;The idea of DevOps itself is only possible due to wide variety of tools which have become available: Chef, Puppet, MCollective, Vagrant, Cucumber-Chef etc. Prior to these tools, developers simply couldn&amp;#39;t be expected or trusted to hook up a terminal to a production machine and run scripts. But with these tools in hand, the ops team can now setup an environment where we slowly push the bar from extreme exclusivity towards more inclusivity.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;In this talk, I&amp;#39;ll use my unique experience from both the standpoint of a system administrator in a small company as well as a reasonably successful DevOps tool writer to explain how modern tools can be used gradually to transition a business to welcome more DevOps practices without sacrificing stability or productivity and in fact increasing both!&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Specifically I&amp;#39;ll talk about:&lt;/p&gt;&#xA;&#xA;&lt;p&gt;How metrics and monitoring can make the Ops world more transparent, starting the process of bringing in developers.&#xA;How development environments provisioned with production scripts and the ability to test new scripts can allow developers to experiment with Ops.&#xA;How building a test infrastructure for testing automation scripts can maintain stability in your organization while allowing people unfamiliar with the ops world to get involved.&#xA;The importance of dedicating &amp;#34;office hours&amp;#34; as an ops engineer to teaching developers.&#xA;&amp;#34;Who wears the pager?&amp;#34; or transitioning pager duty to other engineers safely by leveraging the above tools.&#xA;This talk is based on my experience as:&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Engineer on Vagrant which powers many large companies and has helped many companies move towards a more DevOps-friendly attitide. I&amp;#39;ve seen first-hand how tools can assist this transition.&#xA;System administrator and software engineer at Kiip, a small company with around 20 employees. I&amp;#39;m the only engineer with any Ops experience, and I&amp;#39;ve had to very slowly transition our company towards being more Ops friendly.&lt;/p&gt;      </description>
+      <persons>
+          <person id="481">Mitchell Hashimoto</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

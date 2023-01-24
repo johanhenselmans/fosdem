@@ -1,0 +1,20 @@
+  <event id="430">
+      <start>18:15</start>
+      <duration>00:15</duration>
+      <room>H.2213</room>
+      <slug></slug>
+      <title>Coding: ObjXMPP - An XMPP framework for Objective C with ObjFW</title>
+      <subtitle></subtitle>
+      <track>Jabber and XMPP Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk will introduce ObjXMPP, a portable XMPP library written in Objective-C. Achievements made since this project was started at FOSDEM 2011, as well as some code examples will be presented.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="4301">Florian Zeitz</person>
+          <person id="4302">Jonathan Schleifer</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

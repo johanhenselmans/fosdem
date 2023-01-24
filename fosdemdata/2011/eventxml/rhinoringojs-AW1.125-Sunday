@@ -1,0 +1,19 @@
+  <event id="276">
+      <start>15:30</start>
+      <duration>00:30</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>Rhino and RingoJS</title>
+      <subtitle>Server-side JavaScript on the JVM</subtitle>
+      <track>Free Java devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;JavaScript used to be a despised programming language for animating web pages. But as browsers have grown up, so has the little language that came with them. And as people discover JavaScript as a simple, dynamic, functional language, the tendency to use the language outside the browser is on the rise.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Java has had a solid, open source JavaScript implementation with Mozilla Rhino for many years. However, JavaScript lacks basic concepts like code modules or a standard library. This is where RingoJS comes in. RingoJS adds a number of features to Rhino that make it suitable for real-world, large-scale application development:&lt;/p&gt;&#xA;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;A fast, auto-reloading, and CommonJS-compliant module loader.&lt;/li&gt;&#xA;&lt;li&gt;A rich set of modules covering I/O, logging, persistence, development tools and much more.&lt;/li&gt;&#xA;&lt;li&gt;Scalable HTTP server and client based on the Jetty project.&lt;/li&gt;&#xA;&lt;li&gt;Support for CommonJS packages to install or write additional software components.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&#xA;&lt;p&gt;One part of my talk will be about how Ringo works by tapping into the great wealth of the open source Java ecosystem. Java integration in Rhino/Ringo is dead simple most of the time, and many of our modules are just thin JavaScript wrappers around Java libraries. Examples range from JavaScript Object-Relational mappers based on JDBC to the JSGI web server interface implemented on top of servlets to the POSIX implementation we were able to borrow from the JRuby project.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Another thing I&amp;#39;d like to talk about is how Rhino interacts with the JVM itself. Generating optimized Java bytecode for a language as dynamic as JavaScript is a big challenge. Optimization and performance tuning is an area where we (naturally) lag behind the big browser JS engines, and one that could potentially benefit a lot from being exposed to the many smart Java hackers at FOSDEM. Another JVM-related topic that is very exciting but also very complex is how Rhino and Ringo interact with the Java security model to (eventually) provide hosting of untrusted code.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2761">Hannes Wallnöfer</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

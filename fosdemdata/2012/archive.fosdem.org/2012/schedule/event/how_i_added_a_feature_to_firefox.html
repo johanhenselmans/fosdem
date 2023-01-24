@@ -1,0 +1,972 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<!-- Mirrored from fosdem.org/2012/schedule/event/how_i_added_a_feature_to_firefox by HTTrack Website Copier/3.x [XR&CO'2010], Fri, 13 Apr 2012 15:31:01 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8"><!-- /Added by HTTrack -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>fosdem.org</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="../../sites/fosdem.org/themes/fosdem/favicon.ico" type="image/x-icon" />
+	<link type="text/css" rel="stylesheet" media="all" href="../../modules/node/node5dbc.css?S" />
+<link type="text/css" rel="stylesheet" media="all" href="../../modules/system/defaults5dbc.css?S" />
+<link type="text/css" rel="stylesheet" media="all" href="../../modules/system/system5dbc.css?S" />
+<link type="text/css" rel="stylesheet" media="all" href="../../modules/system/system-menus5dbc.css?S" />
+<link type="text/css" rel="stylesheet" media="all" href="../../modules/user/user5dbc.css?S" />
+<link type="text/css" rel="stylesheet" media="all" href="../../sites/all/modules/mollom/mollom5dbc.css?S" />
+<link type="text/css" rel="stylesheet" media="all" href="../../sites/all/modules/schedulep/schedulep5dbc.css?S" />
+<link type="text/css" rel="stylesheet" media="all" href="../../sites/fosdem.org/themes/fosdem/style5dbc.css?S" />
+		<link rel="stylesheet" href="../../sites/fosdem.org/themes/fosdem/print.css" type="text/css" media="print" />
+	<!--[if IE]><link rel="stylesheet" type="text/css" media="screen" href="/2012/sites/fosdem.org/themes/fosdem/ie.css" /><![endif]-->
+</head>
+<body  class="sidebar-left">
+	<div id="container">
+
+		<div id="header">
+			<div class="leftpart">
+				<div class="inner-leftpart">
+					<h1><a href="../../index.html" title="">fosdem.org</a></h1>
+				</div>
+			</div>
+			<div class="middlepart">
+				<div class="inner-middlepart"></div>
+			</div>
+			<div class="rightpart">
+				<div class="inner-rightpart">
+				<p></p>
+				</div>
+			</div>
+		</div><!-- #header -->
+
+		<div id="description">
+			<div class="leftpart"></div>
+			<div class="middlepart">
+				<div class="inner-middlepart">
+					<p>FOSDEM is the biggest free and non-commercial event organized by and for the community. Its goal is to provide Free and Open Source developers a place to meet. <u>No registration necessary.</u></p>
+				</div>
+			</div>
+			<div class="rightpart"></div>
+		</div><!-- #description -->
+
+
+
+
+		<div id="main" class="clearfix">
+
+			<div id="sidebar-left" class="sidebar">
+				<div id="sidebar-left-content">
+					<div class="block block-theme"><form action="http://fosdem.org/2012/schedule/event/how_i_added_a_feature_to_firefox"  accept-charset="UTF-8" method="post" id="search-theme-form">
+<div><div id="search" class="container-inline">
+  <div class="form-item" id="edit-search-theme-form-1-wrapper">
+ <label for="edit-search-theme-form-1">Search this site: </label>
+ <input type="text" maxlength="128" name="search_theme_form" id="edit-search-theme-form-1" size="15" value="" title="Enter the terms you wish to search for." class="form-text" />
+</div>
+<input type="submit" name="op" id="edit-submit-1" value="Search"  class="form-submit" />
+<input type="hidden" name="form_build_id" id="form-cc7dfbaa2e34746555a5e06f755225a1" value="form-cc7dfbaa2e34746555a5e06f755225a1"  />
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"  />
+</div>
+
+</div></form>
+</div>					<div id="block-menu-menu-links" class="clearfix block block-menu">
+
+
+  <div class="content"><ul class="menu"><li class="leaf first"><a href="../../index.html" title="go to the front page of the FOSDEM website">Front page</a></li>
+<li class="expanded"><a href="../../about/fosdem.html" title="">About</a><ul class="menu"><li class="leaf first"><a href="../../about/fosdem.html" title="">FOSDEM</a></li>
+<li class="leaf"><a href="../../sponsors.html" title="">Sponsors</a></li>
+<li class="leaf last"><a href="../../faq.html" title="Frequently Asked questions">FAQ</a></li>
+</ul></li>
+<li class="expanded"><a href="../../schedule.html" title="">Schedule</a><ul class="menu"><li class="leaf first"><a href="../schedule.pdf" title="">Printable schedule</a></li>
+<li class="leaf"><a href="../days/sat.html" title="">Grid Saturday</a></li>
+<li class="leaf"><a href="../days/sun.html" title="">Grid Sunday</a></li>
+<li class="expanded"><a href="../tracks.html" title="">Tracks</a><ul class="menu"><li class="leaf first"><a href="../track/keynotes.html" title="Schedule: keynotes">Keynotes</a></li>
+<li class="leaf"><a href="../main-tracks.html" title="">Main Tracks</a></li>
+<li class="leaf"><a href="../devrooms.html" title="">DevRooms</a></li>
+<li class="leaf last"><a href="../tracks/lightningtalks.html" title="">Lightning Talks</a></li>
+</ul></li>
+<li class="leaf"><a href="../../stands.html" title="Stands">Stands</a></li>
+<li class="leaf"><a href="../all-speakers.html" title="">All Speakers</a></li>
+<li class="leaf"><a href="../../booklet.html" title="Booklet">Printable Schedule</a></li>
+<li class="leaf last"><a href="../../mobile-schedule-apps.html" title="FOSDEM Schedule for Mobile devices">Mobile</a></li>
+</ul></li>
+<li class="leaf"><a href="../../contact.html" title="">Contact</a></li>
+<li class="expanded"><a href="../../transportation.html" title="">Practical information</a><ul class="menu"><li class="leaf first"><a href="../../transportation.html" title="Transportation">Venue &amp; travel</a></li>
+<li class="leaf"><a href="../../fosdem-venue-grows.html" title="The FOSDEM venue grows">The New Building</a></li>
+<li class="leaf"><a href="../../practical/catering.html" title="Catering">Catering</a></li>
+<li class="leaf"><a href="../../services-provided-during-event.html" title="Services provided during the event">During the event</a></li>
+<li class="leaf"><a href="../../news/video-streaming-urls.html" title="Video streaming URLs">Streaming Video</a></li>
+<li class="leaf"><a href="../../certification.html" title="Certification Exams">Certification Exams</a></li>
+<li class="leaf"><a href="../../job-corner.html" title="Job Corner">Job Corner</a></li>
+<li class="leaf"><a href="../../keysigning.html" title="Keysigning">Keysigning</a></li>
+<li class="leaf"><a href="../../practical/accommodation.html" title="Accomodation">Accommodation</a></li>
+<li class="leaf"><a href="../../beerevent.html" title="FOSDEM Beer Event">Friday Beer Event</a></li>
+<li class="leaf last"><a href="../../fosdem-spousespartners-tour-0.html" title="FOSDEM spouses/partner&#039;s tour">Spouses  / partners tour</a></li>
+</ul></li>
+<li class="leaf"><a href="../../support/promote.html" title="Press &amp; Promotion">Press &amp; Promotion</a></li>
+<li class="expanded last"><a href="../../media/video.html" title="">Media</a><ul class="menu"><li class="leaf first"><a href="../../interviews.html" title="Main Track Speaker Interviews">Speaker Interviews</a></li>
+<li class="leaf"><a href="../../media/video.html" title="FOSDEM Video Recordings">Videos</a></li>
+<li class="leaf last"><a href="../../archives.html" title="">Archives</a></li>
+</ul></li>
+</ul></div>
+</div>
+<div id="block-block-4" class="clearfix block block-block">
+
+
+  <div class="content"><ul class="menu">
+<li id="ical"><a href="http://fosdem.org/schedule/ical" title="the schedule as iCalendar">ical</a></li>
+<li id="xcal"><a href="http://fosdem.org/schedule/xcal" title="the schedule as xCalendar">xcal</a></li>
+<li id="xcal"><a href="http://fosdem.org/schedule/xml" title="the schedule as custom XML">xml</a></li>
+<li id="rss_feed"><a href="http://fosdem.org/rss.xml">RSS</a></li>
+<li id="identica"><a href="http://identi.ca/fosdem/all">Identi.ca</a></li>
+<li id="twitter"><a href="http://twitter.com/fosdem">Twitter</a></li>
+<li id="linkedin"><a href="http://linkedin.com/groupRegistration?gid=27213">LinkedIn</a></li>
+<li id="facebook"><a href="http://facebook.com/fosdem">Facebook</a></li>
+<li id="mailing_list_subscription"><a href="http://lists.fosdem.org/" title="FOSDEM Mailing Lists">Mailing list</a></li>
+</ul></div>
+</div>
+<div id="block-user-0" class="clearfix block block-user">
+
+  <h3>User login</h3>
+
+  <div class="content"><form action="http://fosdem.org/2012/schedule/event/how_i_added_a_feature_to_firefox?destination=schedule%2Fevent%2Fhow_i_added_a_feature_to_firefox"  accept-charset="UTF-8" method="post" id="user-login-form">
+<div><div class="form-item" id="edit-name-wrapper">
+ <label for="edit-name">Username: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="60" name="name" id="edit-name" size="15" value="" class="form-text required" />
+</div>
+<div class="form-item" id="edit-pass-wrapper">
+ <label for="edit-pass">Password: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" name="pass" id="edit-pass"  maxlength="60"  size="15"  class="form-text required" />
+</div>
+<input type="submit" name="op" id="edit-submit" value="Log in"  class="form-submit" />
+<div class="item-list"><ul><li class="first"><a href="../../user/register.html" title="Create a new user account.">Create new account</a></li>
+<li class="last"><a href="../../user/password.html" title="Request new password via e-mail.">Request new password</a></li>
+</ul></div><input type="hidden" name="form_build_id" id="form-359593b19cb882dadf64efdbd0c0857f" value="form-359593b19cb882dadf64efdbd0c0857f"  />
+<input type="hidden" name="form_id" id="edit-user-login-block" value="user_login_block"  />
+
+</div></form>
+</div>
+</div>
+				</div>
+			</div>
+
+			<div id="content" class="clearfix">
+			<div id="content2" class="clearfix">
+				<div class="rctop">
+					<span class="rc-topleft">&nbsp;</span>
+					<span class="rc-topright">&nbsp;</span>
+				</div>
+				<div class="rccontent clearfix">
+					<div id="breadcrumb"><a href="../../index.html">Home</a> › <a href="../../schedule.html">Schedule</a> › <a href="../events.html">Events</a> › <a href="how_i_added_a_feature_to_firefox.html" class="active">How I added a feature to Firefox</a></div>																														
+
+<!-- begin pentabarf schedule -->
+
+<div id="schedule">
+  <div class="section eventpage" id="event">
+<!-- event_id: 769 -->    <div id="event-meta">
+      <div id="infobox">
+        <table>
+          <tr>
+            <th colspan="2">Speakers</th>
+          </tr>
+          <tr>
+            <td>
+              <a href="../speaker/paolo_amadini.html">
+                <img src="../images/speaker/paolo_amadini-48x48.jpg"/>
+              </a>
+            </td>
+            <td>
+              <a href="../speaker/paolo_amadini.html">Paolo Amadini</a>
+            </td>
+          </tr>
+          <tr>
+            <th colspan="2">Schedule</th>
+          </tr>
+          <tr>
+            <td class="keyword">Day</td>
+            <td class="value">
+              <a href="../day/sat.html">Saturday</a>
+            </td>
+          </tr>
+          <tr>
+            <td class="keyword">Room</td>
+            <td class="value">
+              <a href="../room/ud2218a.html">UD2.218A</a>
+            </td>
+          </tr>
+          <tr>
+            <td class="keyword">Capacity</td>
+            <td class="value">
+363            </td>
+          </tr>
+          <tr>
+            <td class="keyword">Start time</td>
+            <td class="value">16:30</td>
+          </tr>
+          <tr>
+            <td class="keyword">End time</td>
+            <td class="value">17:00</td>
+          </tr>
+          <tr>
+            <td class="keyword">Duration</td>
+            <td class="value">00:30</td>
+          </tr>
+          <tr>
+            <th colspan="2">Info</th>
+          </tr>
+          <tr>
+            <td class="keyword">Track</td>
+            <td class="value track-mozilla_devroom">
+              <a href="../track/mozilla_devroom.html">Mozilla Devroom</a>
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div class="title">
+        <h1 class="title">How I added a feature to Firefox</h1>
+      </div>
+      <div class="abstract">
+<p>A lot has been said about writing your first patch, but how about adding a new feature?</p>
+
+<ul>
+<li>What's the impact that volunteer contributors can have in innovating the browser?</li>
+<li>Who is going to work with you and what's your role as a developer?</li>
+<li>What can you do to ensure the work you start will be completed?</li>
+</ul>
+
+
+<p>We'll talk about these topics using the Firefox Downloads Panel as a real-world example.</p>      </div>
+    </div>
+    <div class="sametime" id="event-sametime">
+      <h2>Concurrent events:</h2>
+      <table>
+        <thead>
+          <tr>
+            <th class="start-time">When</th>
+            <th class="event">Event</th>
+            <th class="event">Track</th>
+            <th class="event">Where</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr class="even">
+            <td>
+16:00-16:45            </td>
+            <td>
+              <a href="cacert_trust.html">CAcert: Trust - the root of evil?!</a>
+            </td>
+            <td class="track-hardware_cryptography_devroom">
+              <a href="../track/hardware_cryptography_devroom.html">Hardware Cryptography</a>
+            </td>
+            <td>
+              <a href="../room/h2214.html">H.2214</a>
+            </td>
+          </tr>
+          <tr class="odd">
+            <td>
+16:00-16:50            </td>
+            <td>
+              <a href="postgresql_managing_rights_in_postgresql_from_the_basics_to_se_postgresql.html">Managing rights in PostgreSQL: from the basics to SE-PostgreSQL</a>
+            </td>
+            <td class="track-postgresql_devroom">
+              <a href="../track/postgresql_devroom.html">PostgreSQL</a>
+            </td>
+            <td>
+              <a href="../room/k4201.html">K.4.201</a>
+            </td>
+          </tr>
+          <tr class="even">
+            <td>
+16:00-16:50            </td>
+            <td>
+              <a href="hypervisors_openvz.html">Linux Containers and OpenVZ</a>
+            </td>
+            <td class="track-hypervisors_track">
+              <a href="../track/hypervisors_track.html">Hypervisors</a>
+            </td>
+            <td>
+              <a href="../room/janson.html">Janson</a>
+            </td>
+          </tr>
+          <tr class="odd">
+            <td>
+16:00-16:50            </td>
+            <td>
+              <a href="lego_mindstorms_in_ada.html">Programming LEGO MINDSTORMS robots in Ada </a>
+            </td>
+            <td class="track-ada_devroom">
+              <a href="../track/ada_devroom.html">Ada</a>
+            </td>
+            <td>
+              <a href="../room/aw1121.html">AW1.121</a>
+            </td>
+          </tr>
+          <tr class="even">
+            <td>
+16:00-16:50            </td>
+            <td>
+              <a href="lo_online.html">LibreOffice: on-line and in your pocket</a>
+            </td>
+            <td class="track-future_of_ui_track">
+              <a href="../track/future_of_ui_track.html">Future of UI</a>
+            </td>
+            <td>
+              <a href="../room/k1105.html">K.1.105</a>
+            </td>
+          </tr>
+          <tr class="odd">
+            <td>
+16:00-16:55            </td>
+            <td>
+              <a href="infinispan_where_open_source_java_and_in_memory_data_grids_converge.html">Infinispan: where open source, Java and in-memory data grids converge</a>
+            </td>
+            <td class="track-jbossorg_devroom">
+              <a href="../track/jbossorg_devroom.html">JBoss.org</a>
+            </td>
+            <td>
+              <a href="../room/k3201.html">K.3.201</a>
+            </td>
+          </tr>
+          <tr class="even">
+            <td>
+16:00-16:55            </td>
+            <td>
+              <a href="wikimedia_infra.html">Infrastructure as an open-source project</a>
+            </td>
+            <td class="track-virtualization_and_cloud_devroom">
+              <a href="../track/virtualization_and_cloud_devroom.html">Virtualization and Cloud</a>
+            </td>
+            <td>
+              <a href="../room/chavanne.html">Chavanne</a>
+            </td>
+          </tr>
+          <tr class="odd">
+            <td>
+16:00-17:00            </td>
+            <td>
+              <a href="why_mobile_text_input_is_hard.html">Why mobile text input is hard</a>
+            </td>
+            <td class="track-embedded_devroom">
+              <a href="../track/embedded_devroom.html">Embedded</a>
+            </td>
+            <td>
+              <a href="../room/lameere.html">Lameere</a>
+            </td>
+          </tr>
+          <tr class="even">
+            <td>
+16:00-17:00            </td>
+            <td>
+              <a href="mali.html">Liberating ARM's Mali GPU.</a>
+            </td>
+            <td class="track-xorgopenicc_devroom">
+              <a href="../track/xorgopenicc_devroom.html">X.org+OpenICC</a>
+            </td>
+            <td>
+              <a href="../room/k3401.html">K.3.401</a>
+            </td>
+          </tr>
+          <tr class="odd">
+            <td>
+16:00-17:45            </td>
+            <td>
+              <a href="lpi_2.html">LPI Exam Session 2</a>
+            </td>
+            <td class="track-certification">
+              <a href="../track/certification.html">Certification</a>
+            </td>
+            <td>
+              <a href="../room/guillissen.html">Guillissen</a>
+            </td>
+          </tr>
+          <tr class="even">
+            <td>
+16:15-16:45            </td>
+            <td>
+              <a href="liboinfra.html">The Infrastructure behind TDF</a>
+            </td>
+            <td class="track-libreoffice_devroom">
+              <a href="../track/libreoffice_devroom.html">LibreOffice</a>
+            </td>
+            <td>
+              <a href="../room/h1309.html">H.1309</a>
+            </td>
+          </tr>
+          <tr class="odd">
+            <td>
+16:15-17:00            </td>
+            <td>
+              <a href="group_picture.html">Crossdesktop group picture</a>
+            </td>
+            <td class="track-crossdesktop_devroom">
+              <a href="../track/crossdesktop_devroom.html">CrossDesktop</a>
+            </td>
+            <td>
+              <a href="../room/h1308.html">H.1308</a>
+            </td>
+          </tr>
+          <tr class="even">
+            <td>
+16:15-17:00            </td>
+            <td>
+              <a href="coreobject.html">CoreObject </a>
+            </td>
+            <td class="track-gnustep_devroom">
+              <a href="../track/gnustep_devroom.html">GNUstep</a>
+            </td>
+            <td>
+              <a href="../room/aw1126.html">AW1.126</a>
+            </td>
+          </tr>
+          <tr class="odd">
+            <td>
+16:20-16:35            </td>
+            <td>
+              <a href="zio.html">The ZIO Framework</a>
+            </td>
+            <td class="track-lightning_talks">
+              <a href="../track/lightning_talks.html">Lightning Talks</a>
+            </td>
+            <td>
+              <a href="../room/ferrer.html">Ferrer</a>
+            </td>
+          </tr>
+          <tr class="even">
+            <td>
+16:30-17:00            </td>
+            <td>
+              <a href="xmpp_real_time_text.html">Applications: Real-Time Text for Smooth and Rapid Communication </a>
+            </td>
+            <td class="track-jabber_and_xmpp_devroom">
+              <a href="../track/jabber_and_xmpp_devroom.html">Jabber and XMPP</a>
+            </td>
+            <td>
+              <a href="../room/h2213.html">H.2213</a>
+            </td>
+          </tr>
+          <tr class="odd">
+            <td>
+16:30-17:00            </td>
+            <td>
+              <a href="syncevolution_update.html">An update on PIM storage and sync: SyncEvolution</a>
+            </td>
+            <td class="track-open_mobile_linux_devroom">
+              <a href="../track/open_mobile_linux_devroom.html">Open Mobile Linux</a>
+            </td>
+            <td>
+              <a href="../room/aw1120.html">AW1.120</a>
+            </td>
+          </tr>
+          <tr class="even">
+            <td>
+16:30-17:00            </td>
+            <td>
+              <a href="caciocavallo_caciotest_cacioweb_and_deployment.html">Caciocavallo: CacioTest, CacioWeb &amp; Deployment</a>
+            </td>
+            <td class="track-free_java_devroom">
+              <a href="../track/free_java_devroom.html">Free Java</a>
+            </td>
+            <td>
+              <a href="../room/k4401.html">K.4.401</a>
+            </td>
+          </tr>
+          <tr class="odd">
+            <td>
+16:30-17:00            </td>
+            <td>
+              <a href="gentoo_ruby.html">Gentoo ruby packaging</a>
+            </td>
+            <td class="track-crossdistribution_devroom">
+              <a href="../track/crossdistribution_devroom.html">CrossDistribution</a>
+            </td>
+            <td>
+              <a href="../room/h1302.html">H.1302</a>
+            </td>
+          </tr>
+          <tr class="even">
+            <td>
+16:30-17:00            </td>
+            <td>
+              <a href="the_decline_of_the_gpl.html">The (possible) decline of the GPL, and what to do about it</a>
+            </td>
+            <td class="track-legal_issues_devroom">
+              <a href="../track/legal_issues_devroom.html">Legal Issues</a>
+            </td>
+            <td>
+              <a href="../room/aw1125.html">AW1.125</a>
+            </td>
+          </tr>
+          <tr class="odd">
+            <td>
+16:30-17:30            </td>
+            <td>
+              <a href="distro_qa_tools.html">QA tools for FOSS distributions</a>
+            </td>
+            <td class="track-crossdistribution_devroom">
+              <a href="../track/crossdistribution_devroom.html">CrossDistribution</a>
+            </td>
+            <td>
+              <a href="../room/h1301.html">H.1301</a>
+            </td>
+          </tr>
+          <tr class="even">
+            <td>
+16:40-16:55            </td>
+            <td>
+              <a href="wishbone.html">The Self-Describing Wishbone Bus</a>
+            </td>
+            <td class="track-lightning_talks">
+              <a href="../track/lightning_talks.html">Lightning Talks</a>
+            </td>
+            <td>
+              <a href="../room/ferrer.html">Ferrer</a>
+            </td>
+          </tr>
+          <tr class="odd">
+            <td>
+16:40-17:30            </td>
+            <td>
+              <a href="mono_monogame.html">MonoGame</a>
+            </td>
+            <td class="track-mono_devroom">
+              <a href="../track/mono_devroom.html">Mono</a>
+            </td>
+            <td>
+              <a href="../room/k3601.html">K.3.601</a>
+            </td>
+          </tr>
+          <tr class="even">
+            <td>
+16:45-17:15            </td>
+            <td>
+              <a href="libocalc.html">Calc Hacking</a>
+            </td>
+            <td class="track-libreoffice_devroom">
+              <a href="../track/libreoffice_devroom.html">LibreOffice</a>
+            </td>
+            <td>
+              <a href="../room/h1309.html">H.1309</a>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="sameroom" id="event-sameroom">
+      <h2>Next (up to 3) talks in the same room (UD2.218A):</h2>
+      <table>
+        <thead>
+          <tr>
+            <th class="start-time">When</th>
+            <th class="event">Event</th>
+            <th class="event">Track</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr class="even">
+            <td>
+17:00-17:30            </td>
+            <td>
+              <a href="open_web_documentation_aimed_at_web_devs.html">Open Web Documentation aimed at Web Devs</a>
+            </td>
+            <td class="track-mozilla_devroom">
+              <a href="../track/mozilla_devroom.html">Mozilla</a>
+            </td>
+          </tr>
+          <tr class="odd">
+            <td>
+17:30-18:00            </td>
+            <td>
+              <a href="the_state_of_new_css_features_in_the_csswg_and_in_mozilla.html">The state of new CSS features in the CSSWG and in Mozilla</a>
+            </td>
+            <td class="track-mozilla_devroom">
+              <a href="../track/mozilla_devroom.html">Mozilla</a>
+            </td>
+          </tr>
+          <tr class="even">
+            <td>
+18:00-18:40            </td>
+            <td>
+              <a href="boot_to_gecko_and_web_api.html">Boot to Gecko and Web API</a>
+            </td>
+            <td class="track-mozilla_devroom">
+              <a href="../track/mozilla_devroom.html">Mozilla</a>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="upcoming" id="event-upcoming">
+      <h2>Events that start after this one (within 30 minutes):</h2>
+      <table>
+        <thead>
+          <tr>
+            <th class="start-time">When</th>
+            <th class="event">Event</th>
+            <th class="event">Track</th>
+            <th class="event">Where</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr class="even">
+            <td>
+17:00-17:30            </td>
+            <td>
+              <a href="open_web_documentation_aimed_at_web_devs.html">Open Web Documentation aimed at Web Devs</a>
+            </td>
+            <td class="track-mozilla_devroom">
+              <a href="../track/mozilla_devroom.html">Mozilla</a>
+            </td>
+            <td>
+              <a href="../room/ud2218a.html">UD2.218A</a>
+            </td>
+          </tr>
+          <tr class="odd">
+            <td>
+17:00-17:15            </td>
+            <td>
+              <a href="minemu.html">Minemu: protecting buggy programs from memory corruption attacks</a>
+            </td>
+            <td class="track-lightning_talks">
+              <a href="../track/lightning_talks.html">Lightning Talks</a>
+            </td>
+            <td>
+              <a href="../room/ferrer.html">Ferrer</a>
+            </td>
+          </tr>
+          <tr class="even">
+            <td>
+17:00-17:25            </td>
+            <td>
+              <a href="ada_on_rails.html">Ada on Rails </a>
+            </td>
+            <td class="track-ada_devroom">
+              <a href="../track/ada_devroom.html">Ada</a>
+            </td>
+            <td>
+              <a href="../room/aw1121.html">AW1.121</a>
+            </td>
+          </tr>
+          <tr class="odd">
+            <td>
+17:00-17:25            </td>
+            <td>
+              <a href="openstack_xcp_ubuntu.html">Deploying OpenStack with the XCP toolstack on Ubuntu</a>
+            </td>
+            <td class="track-virtualization_and_cloud_devroom">
+              <a href="../track/virtualization_and_cloud_devroom.html">Virtualization and Cloud</a>
+            </td>
+            <td>
+              <a href="../room/chavanne.html">Chavanne</a>
+            </td>
+          </tr>
+          <tr class="even">
+            <td>
+17:00-17:30            </td>
+            <td>
+              <a href="xmpp_event_visualization.html">Applications: Event Visualization in Emergency Call Systems </a>
+            </td>
+            <td class="track-jabber_and_xmpp_devroom">
+              <a href="../track/jabber_and_xmpp_devroom.html">Jabber and XMPP</a>
+            </td>
+            <td>
+              <a href="../room/h2213.html">H.2213</a>
+            </td>
+          </tr>
+          <tr class="odd">
+            <td>
+17:00-17:30            </td>
+            <td>
+              <a href="everydetailsmatters.html">GNOME 3: Every Detail Matters</a>
+            </td>
+            <td class="track-crossdesktop_devroom">
+              <a href="../track/crossdesktop_devroom.html">CrossDesktop</a>
+            </td>
+            <td>
+              <a href="../room/h1308.html">H.1308</a>
+            </td>
+          </tr>
+          <tr class="even">
+            <td>
+17:00-17:30            </td>
+            <td>
+              <a href="os_in_the_mobile_app_stores.html">OS in the Mobile App Stores</a>
+            </td>
+            <td class="track-open_mobile_linux_devroom">
+              <a href="../track/open_mobile_linux_devroom.html">Open Mobile Linux</a>
+            </td>
+            <td>
+              <a href="../room/aw1120.html">AW1.120</a>
+            </td>
+          </tr>
+          <tr class="odd">
+            <td>
+17:00-17:50            </td>
+            <td>
+              <a href="postgresql_on_nfs.html">PostgreSQL on NFS</a>
+            </td>
+            <td class="track-postgresql_devroom">
+              <a href="../track/postgresql_devroom.html">PostgreSQL</a>
+            </td>
+            <td>
+              <a href="../room/k4201.html">K.4.201</a>
+            </td>
+          </tr>
+          <tr class="even">
+            <td>
+17:00-17:50            </td>
+            <td>
+              <a href="wayland.html">Wayland</a>
+            </td>
+            <td class="track-future_of_ui_track">
+              <a href="../track/future_of_ui_track.html">Future of UI</a>
+            </td>
+            <td>
+              <a href="../room/k1105.html">K.1.105</a>
+            </td>
+          </tr>
+          <tr class="odd">
+            <td>
+17:00-17:50            </td>
+            <td>
+              <a href="native_kvm.html">Native KVM Tool</a>
+            </td>
+            <td class="track-hypervisors_track">
+              <a href="../track/hypervisors_track.html">Hypervisors</a>
+            </td>
+            <td>
+              <a href="../room/janson.html">Janson</a>
+            </td>
+          </tr>
+          <tr class="even">
+            <td>
+17:00-17:55            </td>
+            <td>
+              <a href="recent_and_future_developments_in_the_rhq_systems_monitoring_and_management_framework.html">RHQ: Recent and future developments in the RHQ systems monitoring and management framework</a>
+            </td>
+            <td class="track-jbossorg_devroom">
+              <a href="../track/jbossorg_devroom.html">JBoss.org</a>
+            </td>
+            <td>
+              <a href="../room/k3201.html">K.3.201</a>
+            </td>
+          </tr>
+          <tr class="odd">
+            <td>
+17:00-18:00            </td>
+            <td>
+              <a href="gentoo_hardened.html">Introduction to hardening, the Gentoo Hardened approach</a>
+            </td>
+            <td class="track-crossdistribution_devroom">
+              <a href="../track/crossdistribution_devroom.html">CrossDistribution</a>
+            </td>
+            <td>
+              <a href="../room/h1302.html">H.1302</a>
+            </td>
+          </tr>
+          <tr class="even">
+            <td>
+17:00-18:00            </td>
+            <td>
+              <a href="openembedded_yocto_common_core.html">OpenEmbedded and the Yocto Project - working together on a common Core</a>
+            </td>
+            <td class="track-embedded_devroom">
+              <a href="../track/embedded_devroom.html">Embedded</a>
+            </td>
+            <td>
+              <a href="../room/lameere.html">Lameere</a>
+            </td>
+          </tr>
+          <tr class="odd">
+            <td>
+17:00-18:00            </td>
+            <td>
+              <a href="xserver.html">X Server 1.12 and beyond.</a>
+            </td>
+            <td class="track-xorgopenicc_devroom">
+              <a href="../track/xorgopenicc_devroom.html">X.org+OpenICC</a>
+            </td>
+            <td>
+              <a href="../room/k3401.html">K.3.401</a>
+            </td>
+          </tr>
+          <tr class="even">
+            <td>
+17:15-17:30            </td>
+            <td>
+              <a href="libodebug.html">LibreOffice debugging tips</a>
+            </td>
+            <td class="track-libreoffice_devroom">
+              <a href="../track/libreoffice_devroom.html">LibreOffice</a>
+            </td>
+            <td>
+              <a href="../room/h1309.html">H.1309</a>
+            </td>
+          </tr>
+          <tr class="odd">
+            <td>
+17:15-18:00            </td>
+            <td>
+              <a href="new_objc_features.html">New Features of Objective-C</a>
+            </td>
+            <td class="track-gnustep_devroom">
+              <a href="../track/gnustep_devroom.html">GNUstep</a>
+            </td>
+            <td>
+              <a href="../room/aw1126.html">AW1.126</a>
+            </td>
+          </tr>
+          <tr class="even">
+            <td>
+17:20-17:35            </td>
+            <td>
+              <a href="wikiotics.html">Wikiotics - Bridging the FOSS and Edu worlds through language instruction </a>
+            </td>
+            <td class="track-lightning_talks">
+              <a href="../track/lightning_talks.html">Lightning Talks</a>
+            </td>
+            <td>
+              <a href="../room/ferrer.html">Ferrer</a>
+            </td>
+          </tr>
+          <tr class="odd">
+            <td>
+17:30-18:00            </td>
+            <td>
+              <a href="the_state_of_new_css_features_in_the_csswg_and_in_mozilla.html">The state of new CSS features in the CSSWG and in Mozilla</a>
+            </td>
+            <td class="track-mozilla_devroom">
+              <a href="../track/mozilla_devroom.html">Mozilla</a>
+            </td>
+            <td>
+              <a href="../room/ud2218a.html">UD2.218A</a>
+            </td>
+          </tr>
+          <tr class="even">
+            <td>
+17:30-17:55            </td>
+            <td>
+              <a href="ppetp_streaming_in_ada.html">PPETP: a P2P streaming protocol implemented in Ada</a>
+            </td>
+            <td class="track-ada_devroom">
+              <a href="../track/ada_devroom.html">Ada</a>
+            </td>
+            <td>
+              <a href="../room/aw1121.html">AW1.121</a>
+            </td>
+          </tr>
+          <tr class="odd">
+            <td>
+17:30-17:55            </td>
+            <td>
+              <a href="cloud_orchestration.html">Orchestration for the cloud</a>
+            </td>
+            <td class="track-virtualization_and_cloud_devroom">
+              <a href="../track/virtualization_and_cloud_devroom.html">Virtualization and Cloud</a>
+            </td>
+            <td>
+              <a href="../room/chavanne.html">Chavanne</a>
+            </td>
+          </tr>
+          <tr class="even">
+            <td>
+17:30-18:00            </td>
+            <td>
+              <a href="gc_visualization_gcspy_netbeans.html">Garbage Collection Visualization, GCSpy and NetBeans in tandem</a>
+            </td>
+            <td class="track-free_java_devroom">
+              <a href="../track/free_java_devroom.html">Free Java</a>
+            </td>
+            <td>
+              <a href="../room/k4401.html">K.4.401</a>
+            </td>
+          </tr>
+          <tr class="odd">
+            <td>
+17:30-18:00            </td>
+            <td>
+              <a href="rygel_mobile_dlna.html">Rygel: Free and Open Mobile DLNA</a>
+            </td>
+            <td class="track-open_mobile_linux_devroom">
+              <a href="../track/open_mobile_linux_devroom.html">Open Mobile Linux</a>
+            </td>
+            <td>
+              <a href="../room/aw1120.html">AW1.120</a>
+            </td>
+          </tr>
+          <tr class="even">
+            <td>
+17:30-18:00            </td>
+            <td>
+              <a href="xmpp_jingle_and_everything.html">Multimedia: Jingle, the Universe, and Everything </a>
+            </td>
+            <td class="track-jabber_and_xmpp_devroom">
+              <a href="../track/jabber_and_xmpp_devroom.html">Jabber and XMPP</a>
+            </td>
+            <td>
+              <a href="../room/h2213.html">H.2213</a>
+            </td>
+          </tr>
+          <tr class="odd">
+            <td>
+17:30-18:00            </td>
+            <td>
+              <a href="libobase.html">Base Hacking</a>
+            </td>
+            <td class="track-libreoffice_devroom">
+              <a href="../track/libreoffice_devroom.html">LibreOffice</a>
+            </td>
+            <td>
+              <a href="../room/h1309.html">H.1309</a>
+            </td>
+          </tr>
+          <tr class="even">
+            <td>
+17:30-18:00            </td>
+            <td>
+              <a href="app_store_panel.html">Panel on Application Stores</a>
+            </td>
+            <td class="track-legal_issues_devroom">
+              <a href="../track/legal_issues_devroom.html">Legal Issues</a>
+            </td>
+            <td>
+              <a href="../room/aw1125.html">AW1.125</a>
+            </td>
+          </tr>
+          <tr class="odd">
+            <td>
+17:30-18:15            </td>
+            <td>
+              <a href="btrfs_snapper.html">Btrfs and Snapper - Overview and Future</a>
+            </td>
+            <td class="track-crossdistribution_devroom">
+              <a href="../track/crossdistribution_devroom.html">CrossDistribution</a>
+            </td>
+            <td>
+              <a href="../room/h1301.html">H.1301</a>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
+
+
+<!-- end pentabarf schedule -->
+
+					<span class="clear"></span>
+									</div>
+				<div class="rcbottom">
+					<span class="rc-bottomleft">&nbsp;</span>
+					<span class="rc-bottomright">&nbsp;</span>
+				</div>
+			</div><!-- #content2 -->
+			</div><!-- #content -->
+
+			
+		</div><!-- #main -->
+
+	</div><!-- #container -->
+		</body>
+
+<!-- Mirrored from fosdem.org/2012/schedule/event/how_i_added_a_feature_to_firefox by HTTrack Website Copier/3.x [XR&CO'2010], Fri, 13 Apr 2012 15:31:01 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8"><!-- /Added by HTTrack -->
+</html>

@@ -1,0 +1,19 @@
+  <event id="51">
+      <start>17:30</start>
+      <duration>00:30</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>SystemTap on Fedora</title>
+      <subtitle></subtitle>
+      <track>CentOS + Fedora</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;&lt;a href=&#34;http://fedoraproject.org/wiki/SystemTap&#34;&gt;SystemTap&lt;/a&gt; is a tool for gathering and investigating system-wide information about a running Linux system.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;SystemTap eliminates the tedious instrument, compile, reinstall, reboot sequence involved in data collection.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="511">Bryn Reeves</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

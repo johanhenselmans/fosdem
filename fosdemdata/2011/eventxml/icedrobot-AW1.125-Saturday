@@ -1,0 +1,20 @@
+  <event id="137">
+      <start>14:00</start>
+      <duration>00:30</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>IcedRobot: The GNUlization of Android</title>
+      <subtitle></subtitle>
+      <track>Free Java devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;We will introduce the IcedRobot project, which consists of the GNUDroid and the GNUBishop subprojects.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;GNUDroid is a project meant to create an Android implementation using Free Software components borrowed from GNU Classpath and OpenJDK. This will be the IcedRobot Micro Edition.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;GNUBishop is a project meant to augment the standard features offered by Android with typical Desktop functionality that are missing in the mobile world. This will be the IcedRobot Standard Edition.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;We will explain why we think is good that Android gets a more standardized API that can be used on the desktop as well as in the embedded world, and what the goals are for the project.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Android is a suitable alternative and a compendium to Java Micro Edition, offering more capabilities but keeping a good deal of possible compatibility, but has not yet targeted the Desktops, although it already runs on high resolution devices as as InternetTV, the IcedRobot project will try to leverage this compatibility and unleash the full potential power of Android.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;This talk is dedicated to all the people that have interest in Free Java in general and Android in particular. We hope to wet people’s appetite enough so that they will actually join the project, that is, first and above all, fun to do. :)&lt;/p&gt;      </description>
+      <persons>
+          <person id="1371">David Fu</person>
+          <person id="1372">Mario Torre</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,26 @@
+  <event id="405">
+      <start>18:40</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Wazaabi - Model your UI ... live</title>
+      <subtitle>Model your UI ... live</subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;UI development usually consists in building software components that rely on a business data model. But business data models need to change frequently to adapt user requirement updates. This implies to adapt frequently the UI components.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Nowadays, existing solutions provide a way to support these changes by providing code generation and data binding. But, these solutions are still slow. Then, the development cost increases rapidly if you have frequently requirement updates and/or many UI components.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Wazaabi aims to reduce this cost by providing a solution based on models which doesn&amp;#39;t require code generation. Based on Eclipse EMF, Wazaabi provides an open source framework that implements a dynamic declarative UI mechanism. The Wazaabi framework is directly based on the business data model and will evolve with it.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;This presentation aims to give a look inside this framework.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Wazaabi is an open source framework for declarative live UI-model. In this term two different concepts are included.&#xA;* The declarative UI, means that Wazaabi enables the designer to describe the UI declaratively.&#xA;* Model means that the declaration build an instance of a model of the GUI. A model is a conceptual representation of the UI.&#xA;* Live model means that we do not generate code from the Model as it is usually the case with the MDA approach. In Wazaabi the UI is a running instance of the model and an engine is responsible for  rendering the model in the target UI technology (SWT, SWING, JSF, etc.)&lt;/p&gt;      </description>
+      <persons>
+          <person id="4051">Gregoire de Hemptinne</person>
+      </persons>
+      <links>
+          <link href="463/30_wazaabi_demo_plugin.tar.gz">Wazaabi demo plugin (other)</link>
+          <link href="463/45_Wazaabi_fosdem.pdf">Wazaabi Presentation (slides)</link>
+          <link href="463/46_wazaabi_demo.webm">Wazaabi demo screencast (video)</link>
+          <link href="http://wazaabi.org/">Wazaabi website</link>
+          <link href="http://wiki.eclipse.org/Wazaabi/CreationReview">Wazaabi eclipse project proposal</link>
+          <link href="http://video.fosdem.org/2012/lightningtalks/Wazaabi.webm">Video recording</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

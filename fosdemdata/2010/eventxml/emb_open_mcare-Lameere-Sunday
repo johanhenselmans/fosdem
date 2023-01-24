@@ -1,0 +1,19 @@
+  <event id="100">
+      <start>10:00</start>
+      <duration>00:30</duration>
+      <room>Lameere</room>
+      <slug></slug>
+      <title>OPEN-MCARE: Open Heart for Elderly Care</title>
+      <subtitle></subtitle>
+      <track>Embedded</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This project uses an ARM embedded open platform to develop the mobile health care system (Open Mobile Care, OPEN-MCARE).&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;OPEN-MCARE is an assistant with positioning, health care, entertainment, multi-functional operations. If the smooth progress of this project, in addition to the academic contribution to the outcome of this program hope to be able to reduce the real burden of the families and to improve the quality of life for the elderly, so that mobility of the elderly, have a happy, healthy, free and dignified life.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1001">Kuo-Kun Tseng</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

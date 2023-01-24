@@ -1,0 +1,21 @@
+  <event id="95">
+      <start>14:00</start>
+      <duration>01:00</duration>
+      <room>Lameere</room>
+      <slug></slug>
+      <title>EFL the upcoming embedded UI toolkit</title>
+      <subtitle></subtitle>
+      <track>Embedded Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The Enlightenment Foundation Libraries is a UI toolkit designed for&#xA;the embeded world in mind. We have now released version 1.1 after&#xA;almost one year of work. This new version come with new features, a&#xA;lot of speed and memory improvement, improved portability (we&#xA;officially support Windows now) and no API or ABI break. It is a proof&#xA;of the will of Enlightenment team to provide a reliable base for any&#xA;serious work. We are now working on preparing a release for another&#xA;set of important libraries and also finishing the last few items in&#xA;the Enlightenment DR 17 todo list. With Tizen project and the growing&#xA;contribution of Samsung, 2012 is going to be a very interesting year&#xA;for the Enlightenment project and we will talk about just that.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="951">Cedric Bail</person>
+      </persons>
+      <links>
+          <link href="701/146_presentation-efl-2012-fosdem.tar.gz">presentation-efl-2012-fosdem.tar.gz (slides)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

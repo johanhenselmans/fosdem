@@ -1,0 +1,19 @@
+  <event id="147">
+      <start>16:30</start>
+      <duration>00:30</duration>
+      <room>UD2.218A</room>
+      <slug></slug>
+      <title>How I added a feature to Firefox</title>
+      <subtitle></subtitle>
+      <track>Mozilla Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;A lot has been said about writing your first patch, but how about adding a new feature?&lt;/p&gt;&#xA;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;What&amp;#39;s the impact that volunteer contributors can have in innovating the browser?&lt;/li&gt;&#xA;&lt;li&gt;Who is going to work with you and what&amp;#39;s your role as a developer?&lt;/li&gt;&#xA;&lt;li&gt;What can you do to ensure the work you start will be completed?&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&#xA;&lt;p&gt;We&amp;#39;ll talk about these topics using the Firefox Downloads Panel as a real-world example.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="1471">Paolo Amadini</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

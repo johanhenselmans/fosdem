@@ -1,0 +1,22 @@
+  <event id="52">
+      <start>15:00</start>
+      <duration>00:45</duration>
+      <room>Chavanne</room>
+      <slug></slug>
+      <title>GDB Tracepoints</title>
+      <subtitle></subtitle>
+      <track>Development and Languages</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;GDB and tracepoint debugging&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Tracepoint debugging allows a developer to observe a program as it runs with minimal impact on its real-time behavior.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Jim&amp;#39;s work, building on the Linux kprobes facility and GDB&amp;#39;s existing tracepoint support, allows GDB to debug the Linux kernel it is running under, using source-level expressions and source code locations.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="521">Jim Blandy</person>
+      </persons>
+      <links>
+          <link href="../../slides/maintracks/gdb_tracepoints.pdf">Slides (PDF)</link>
+          <link href="http://video.fosdem.org/2007/FOSDEM2007-GDBTracePoints.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

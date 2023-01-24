@@ -1,0 +1,19 @@
+  <event id="218">
+      <start>13:15</start>
+      <duration>01:00</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>UNO: Anecdotal Evidence</title>
+      <subtitle></subtitle>
+      <track>OpenOffice.org</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;UNO is the object model underlying OpenOffice.org. With its by now long and winding history, this might be a good time to reflect on its design and implementation, its shortcomings and strengths.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;In this talk we will look at details in various areas of UNO, tell the occasional anecdote, and generally have fun.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2181">Stephan Bergmann</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

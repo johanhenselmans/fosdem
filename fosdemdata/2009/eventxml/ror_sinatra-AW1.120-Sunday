@@ -1,0 +1,19 @@
+  <event id="269">
+      <start>14:15</start>
+      <duration>00:30</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>Introduction to Sinatra</title>
+      <subtitle></subtitle>
+      <track>Ruby and Rails</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;&lt;a href=&#34;http://sinatra.rubyforge.org/&#34;&gt;Sinatra&lt;/a&gt; is a Domain Specific Language(DSL) for quickly creating web-applications in ruby. It keeps a minimal feature set, leaving the developer to use the tools that best suit them and their application.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;With Sinatra you can build a web application in a single file, which makes it fun and easy to use.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2691">Koen Van der Auwera</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="91">
+      <start>14:00</start>
+      <duration>01:00</duration>
+      <room>Lameere</room>
+      <slug></slug>
+      <title>Embedded software development best practices</title>
+      <subtitle></subtitle>
+      <track>Embedded</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Basing an embedded device on FOSS brings many advantages, not the least of which is complete control over the software stack and free reuse of existing high quality solutions. However, it also means having to deal with large amounts of code, mainly coming from external parties. Dealing with this can be a challenge for small embedded teams, used to smaller stacks developed in-house.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;In this presentation, we take a step by step tour of good software development processes and how to use them to improve your organization. We emphasize embedded development and point out particular pitfalls to avoid.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="911">Adrien Ampelas</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

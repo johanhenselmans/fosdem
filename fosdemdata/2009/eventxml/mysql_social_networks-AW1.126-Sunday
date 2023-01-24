@@ -1,0 +1,19 @@
+  <event id="210">
+      <start>13:15</start>
+      <duration>01:00</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>MySQL, powering and using Social Networks</title>
+      <subtitle></subtitle>
+      <track>MySQL</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;MySQL runs a large number of the social networks of today. LinkedIn, Facebook, Flickr, Dopplr, Doodle and many other social websites run on MySQL.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;It&amp;#39;s a privilege for MySQL to be part of the fabric of tomorrow. However, MySQL is still not *using* these social networks in an optimal way. For his overview, Kaj has guinea-pig tested a number of social networks and shares his experiences, with a particular emphasis on what the social network in question can do for MySQL users, customers and employees.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2101">Kaj Arnö</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

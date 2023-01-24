@@ -1,0 +1,19 @@
+  <event id="30">
+      <start>14:00</start>
+      <duration>02:00</duration>
+      <room>UA2.114</room>
+      <slug></slug>
+      <title>BSD Associate exam session</title>
+      <subtitle></subtitle>
+      <track>Certification</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;BSDA exam session #1&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;For more information check out &lt;a href=&#34;http://www.bsdcertification.org/certification/associate.html&#34;&gt;http://www.bsdcertification.org/certification/associate.html&lt;/a&gt;&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="301">Philip Paeps</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="242">
+      <start>16:45</start>
+      <duration>00:45</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>Hidden Pearls - What&#39;s There to ReUse for Other Projects</title>
+      <subtitle></subtitle>
+      <track>OpenOffice.org</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This session presents a few examples of uniquely useful code inside OOo, plus a way for other projects to mine those pearls.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;This rant http://blog.thebehrens.net/2008/09/29/ooo-non-vision/ (except for the ranting) pretty much conveys the ideas I want to present here&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2421">Thorsten Behrens</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

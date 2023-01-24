@@ -1,0 +1,19 @@
+  <event id="90">
+      <start>16:00</start>
+      <duration>01:00</duration>
+      <room>Lameere</room>
+      <slug></slug>
+      <title>Barebox</title>
+      <subtitle></subtitle>
+      <track>Embedded</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;barebox is a new bootloader derived from the well-known U-Boot.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;It aims for developers who like to use their linux-based development patterns also within the bootloader. This includes a device/driver-model, file system support using the usual commands (mount, ls, cp,...), modular design and scalability using Kconfig, shell-like scripting and alike. While being convenient, it is still easy to port to new boards or architectures. This talk will include a number of live-demonstrations and insights from the original creator of barebox. &#xA;&lt;/p&gt;&#xA;&lt;p&gt;See &lt;a href=&#34;http://barebox.org/&#34;&gt;http://barebox.org/&lt;/a&gt; for more information.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="901">Sascha Hauer</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

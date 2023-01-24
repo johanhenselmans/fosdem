@@ -1,0 +1,21 @@
+  <event id="9">
+      <start>11:30</start>
+      <duration>01:00</duration>
+      <room>Janson</room>
+      <slug></slug>
+      <title>How a large scale opensource project works</title>
+      <subtitle></subtitle>
+      <track>Opening/Closing Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;How the &lt;a href=&#34;http://www.freebsd.org/&#34;&gt;FreeBSD Project&lt;/a&gt; Works&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;The &lt;a href=&#34;http://www.freebsd.org/&#34;&gt;FreeBSD Project&lt;/a&gt; is one of the oldest and most successful open source operating system projects, seeing wide deployment across the IT industry. From the root name servers, to top tier ISPs, to core router operating systems, to firewalls, to embedded appliances, you can&amp;#39;t use a networked computer for ten minutes without using FreeBSD dozens of times.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Part of FreeBSD&amp;#39;s reputation for quality and reliability comes from the nature of its development organization -- driven by a hundreds of highly skilled volunteers, from high school students to university professors. And unlike most open source projects, the FreeBSD Project has developers who have been working on the same source base for over twenty years.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;But how does this organization work? Who pays the bandwidth bills, runs the web servers, writes the documentation, writes the code, and calls the shots? And how can developers in a dozen time zones reach agreement on the time of day, let alone a kernel architecture?&#xA;&lt;/p&gt;&#xA;&lt;p&gt;This presentation will attempt to provide, in 45 minutes, a brief if entertaining snapshot into what makes FreeBSD run.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="91">Robert Watson</person>
+      </persons>
+      <links>
+          <link href="http://video.fosdem.org/2008/maintracks/FOSDEM2008-largescale.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

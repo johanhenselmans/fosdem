@@ -1,0 +1,19 @@
+  <event id="264">
+      <start>14:00</start>
+      <duration>01:00</duration>
+      <room>H.2213</room>
+      <slug></slug>
+      <title>Project VGA</title>
+      <subtitle></subtitle>
+      <track>X.org</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;&lt;a href=&#34;http://www.projectvga.org/&#34;&gt;Project VGA&lt;/a&gt; aims to create a fully open, low budget, VGA compatible video card. The specifications are: PCI, 100Mhz FPGA, 16MB SDRAM, VGA connector and USB for programming, all for less than 200EUR.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;This talk will introduce &lt;a href=&#34;http://www.projectvga.org/&#34;&gt;Project VGA&lt;/a&gt;, it&amp;#39;s goal and motivation, and will explain some of the design work and technology involved. When possible, initial hardware will also be demoed.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="2641">Michael Meeuwisse</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

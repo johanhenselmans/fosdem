@@ -1,0 +1,19 @@
+  <event id="218">
+      <start>15:00</start>
+      <duration>01:45</duration>
+      <room>Guillissen</room>
+      <slug></slug>
+      <title>LPI Exam Session 5</title>
+      <subtitle></subtitle>
+      <track>Certification</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;See https://fosdem.org/certification&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="2181">Klaus Behrla</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

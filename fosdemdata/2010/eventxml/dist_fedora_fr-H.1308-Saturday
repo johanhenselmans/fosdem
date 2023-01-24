@@ -1,0 +1,19 @@
+  <event id="52">
+      <start>17:30</start>
+      <duration>00:45</duration>
+      <room>H.1308</room>
+      <slug></slug>
+      <title>Fedora-fr and upstream French communities</title>
+      <subtitle></subtitle>
+      <track>Distributions</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Note that this session will be held in French !&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Open Discussion around Fedora-Fr and FedoraProject.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;ul&gt;&lt;li&gt; Who is Fedora-Fr organization ?&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Fedora-Fr Goals&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Fedora-Fr Website&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Fedora-Fr Events coverage in France in 2009 and 2010&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;  </description>
+      <persons>
+          <person id="521">Armel Kermovant</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

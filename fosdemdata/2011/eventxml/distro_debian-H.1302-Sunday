@@ -1,0 +1,19 @@
+  <event id="60">
+      <start>14:30</start>
+      <duration>00:30</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>Who the bloody hell cares about Debian?</title>
+      <subtitle></subtitle>
+      <track>CrossDistro devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Here is one way of presenting Debian. Debian is a project of 1&amp;#39;000 members that do-ocratically and democratically make a GNU/Linux distribution of 30&amp;#39;000 packages. The distribution started in 1993 and is one of the oldest and longest running distribution out there, with an unparalleled focus on quality and stability.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Here is another way. Debian is just an old fart among GNU/Linux distros.  Debian stable is so stable that it becomes obsolete a few months after its release (if not before). Ubuntu on the other hand releases every 6 months and offers all the advantages of Debian packaging and packages; why should people care about Ubuntu&amp;#39;s mother? In fact, nowadays who uses Debian anymore? Who cares about Debian anyhow?&lt;/p&gt;&#xA;&#xA;&lt;p&gt;FAIL. Such a reasoning can&amp;#39;t be more wrong. ... To be honest, some of the above is true, but focusing on that misses the point and fails to acknowledge the novel role of Debian in the free software ecosystem. First of all, Ubuntu and all other Debian derivatives directly depend on the work which is still being done in Debian. Contributors of Ubuntu and other distros should care about and collaborate with Debian to ease their work-flows and be better free software citizens. Users of derivatives should also be made aware that most of the software they use come from unmodified Debian source packages. They surely do not want such software to bitrot anytime soon, right?&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Debian has also several unique technical features, still unmatched by concurrent newfangled distributions (and more of those are coming with Debian Squeeze!).&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Even more importantly, Debian is unique in: (1) its independence from money, infrastructure, people power, and similar &amp;#34;features&amp;#34; that companies use to control the progress of free software distributions; (2) its culture of freedom and democracy, which are both at stake with company-driven decisions on the evolution of free software distributions.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;If you care about free software, you couldn&amp;#39;t care more about Debian. Nowadays, like in 1993. This talk will tell you why and how.&lt;/p&gt;      </description>
+      <persons>
+          <person id="601">Stefano Zacchiroli</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

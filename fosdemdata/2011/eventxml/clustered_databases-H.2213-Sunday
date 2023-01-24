@@ -1,0 +1,19 @@
+  <event id="31">
+      <start>16:00</start>
+      <duration>00:45</duration>
+      <room>H.2213</room>
+      <slug></slug>
+      <title>Using MVCC for Clustered Databases</title>
+      <subtitle></subtitle>
+      <track>PostgreSQL devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Multi-version concurrency control is a well known and established key technology for high performance database systems. Many open source projects as well as commercial products offer various successful implementations of MVCC. However, its potential for clustering solutions is still underestimated. Postgres-R is one of the very projects that leverages MVCC to be used in the cluster. This talk shows its many benefits and explains the key techniques of Postgres-R: concurrent, optimistic application of change sets, conflict detection during normal operation, early application of change sets during recovery and transparent support for sub-transactions, rules, triggers and stored procedures.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="311">Markus Wanner</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

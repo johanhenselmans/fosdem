@@ -1,0 +1,19 @@
+  <event id="181">
+      <start>17:00</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>LXDE - Lighter, Faster, Less Ressource Hungry</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The talk will present&#xA;&lt;/p&gt;&lt;ul&gt;&lt;li&gt; the background of LXDE&#xA;&lt;/li&gt;&#xA;&lt;li&gt; its developer team and community in Taiwan, Asia and worldwide&#xA;&lt;/li&gt;&#xA;&lt;li&gt; show the different LXDE components&#xA;&lt;/li&gt;&#xA;&lt;li&gt; offer insights into design principles and ideas of the developer team for gtk+&#xA;&lt;/li&gt;&#xA;&lt;li&gt; show an example how to make a package of LXDE&#xA;&lt;/li&gt;&#xA;&lt;li&gt; show how to translate a LXDE component&#xA;&lt;/li&gt;&#xA;&lt;li&gt; show ways to join the LXDE team and community&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;&amp;#34;Lightweight X11 Desktop Environment&amp;#34;, is an extremely faster,&#xA;performing and energy saving desktop environment started by Taiwanese&#xA;hacker Hong Jen Yee aka PCMAN in 2005. Today it is maintained by an international&#xA;community of developers. It comes with a beautiful interface,&#xA;multi-language support, standard keyboard short cuts and additional&#xA;features like tabbed file browsing. LXDE uses less CPU and less RAM.&#xA;It is especially designed for computers with low hardware&#xA;specifications like netbooks, mobile internet devices (MIDs) or older&#xA;computers. LXDE can be installed with distributions like Ubuntu or&#xA;Debian. Applications running on these systems will run with LXDE. The&#xA;source code of LXDE is licensed partly under the terms of the General&#xA;Public License and partly under the LGPL. LXDE has recently been&#xA;included as a standard desktop in Fedora and Mandriva and will also be&#xA;offered in the upcoming Debian release.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1811">Mario Behling</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

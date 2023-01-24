@@ -1,0 +1,19 @@
+  <event id="164">
+      <start>18:00</start>
+      <duration>00:30</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>Lessons Open Sourcing Java Taught Me</title>
+      <subtitle></subtitle>
+      <track>Free Java devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;When Sun made OpenJDK open source, the team working on the licensing and FAQ had the best of intentions. All the same, my views about open source project best practice have changed as a consequence.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;I&amp;#39;ll explain how, and why.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;I will also discuss how the trajectory of Free Java has influenced my role in reforming the OSI, my position on Contributor Agreements and Software Freedom as a business benefit.&lt;/p&gt;      </description>
+      <persons>
+          <person id="1641">Simon Phipps</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="197">
+      <start>10:30</start>
+      <duration>01:00</duration>
+      <room>AW1.117</room>
+      <slug></slug>
+      <title>The Zope3 component architecture</title>
+      <subtitle></subtitle>
+      <track>Python</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The aim of this talk is to show the use of the zope.interface module to formalize duck typing in python projects.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;By contractualizing APIs, a python project can gain much modularity and then make it natural to plug objects together in a reusable thanks to the delegation pattern implemented by the zope.component sister module.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1971">Olivier Grisel</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

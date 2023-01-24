@@ -1,0 +1,19 @@
+  <event id="148">
+      <start>16:00</start>
+      <duration>00:30</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>Jalimo: Cross-compiling OpenJDK using IcedTea and OpenEmbedded</title>
+      <subtitle></subtitle>
+      <track>Free Java</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;A lightning talk about our work on getting OpenJDK cross-compiled using IcedTea and OpenEmbedded as part of the &lt;a href=&#34;https://wiki.evolvis.org/jalimo/index.php/Main_Page&#34;&gt;Jalimo project&lt;/a&gt;.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="1481">Robert Schuster</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

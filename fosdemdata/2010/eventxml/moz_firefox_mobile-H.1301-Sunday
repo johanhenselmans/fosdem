@@ -1,0 +1,19 @@
+  <event id="196">
+      <start>11:15</start>
+      <duration>01:15</duration>
+      <room>H.1301</room>
+      <slug></slug>
+      <title>Firefox Mobile</title>
+      <subtitle></subtitle>
+      <track>Mozilla</track>
+      <type></type>
+      <language></language>
+      <abstract></abstract>
+      <description></description>
+      <persons>
+          <person id="1961">Mark Finkle</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

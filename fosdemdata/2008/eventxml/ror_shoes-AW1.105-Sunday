@@ -1,0 +1,19 @@
+  <event id="247">
+      <start>15:00</start>
+      <duration>00:30</duration>
+      <room>AW1.105</room>
+      <slug></slug>
+      <title>Shoes, a versatile Ruby GUI toolkit</title>
+      <subtitle></subtitle>
+      <track>Ruby on Rails</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;&lt;a href=&#34;http://code.whytheluckystiff.net/shoes/&#34;&gt;Shoes&lt;/a&gt; is a refreshingly new GUI toolkit for the Ruby language, written by the notorious _why.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Koen will present this shiny toolkit, including the improvements that &lt;a href=&#34;http://code.whytheluckystiff.net/shoes/&#34;&gt;Shoes&lt;/a&gt; has gone through in the recent months. If the demo-gods are benevolent, he&amp;#39;ll demo a Twitter client written in Shoes, and give a look under the hood.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="2471">Koen Van der Auwera</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

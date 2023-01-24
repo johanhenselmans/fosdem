@@ -1,0 +1,19 @@
+  <event id="241">
+      <start>13:00</start>
+      <duration>00:45</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>Tips and Tricks for Extension Developer</title>
+      <subtitle></subtitle>
+      <track>OpenOffice.org</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The session will give an overview about the Extension infrastructure and will give tips and hints what&amp;#39;s most important to integrate well in OpenOffice.org and to provide a more professional extension. Extensions provide often the necessary connector from OpenOffice.org to other software systems and the better they are integrated the better is the overall user experience and the interoperability.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;OpenOffice.org Extensions provide a very good mechanism to extend OpenOffice.org with new and often specialized new functions. The extension infra structure gets better and better and an extension developer should make use of all the available feature to integrate best in the office. The session will give an overview about the Extension infrastructure and will give tips and hints what&amp;#39;s most important to integrate well in OpenOffice.org and to provide a more professional extension. Often extensions are the beginning of more advanced development tasks that will go deeper in the core code of OpenOffice.org whereas extensions use API&amp;#39;s only. The advantage of extensions is that you can work on a standalone mini project that uses official API&amp;#39;s only and that you can learn the basics and secrets of OpenOffice.org step by step. But extensions can not solve all problems and often additional changes in the core or even new API&amp;#39;s are necessary to solve a specific task. But as mentioned before extensions provide a smooth way to get started and to dive deeper and deeper into the large project code base over time. OpenOffice.org is a very huge project and the start to develop with and for OpenOffice.org is not easy and the hype factor is also not the highest one. But it must be something behind this project that big companies hire special people to work on campaigns against OpenOffice.org and open source in general. Is it still David versus Goliath or has the situation changed a little bit? Who knows but you can be part of the huge and worldwide community and can start to develop with and for OpenOffice.org.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2411">Jürgen Schmidt</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

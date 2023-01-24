@@ -1,0 +1,22 @@
+  <event id="150">
+      <start>16:00</start>
+      <duration>00:50</duration>
+      <room>Janson</room>
+      <slug></slug>
+      <title>Linux Containers and OpenVZ</title>
+      <subtitle></subtitle>
+      <track>Hypervisors Track</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The talk is about operating system virtualization technology known as OpenVZ. This is an effective way of partitioning a Linux machine into multiple isolated Linux containers. All containers are running on top of one single Linux kernel, which results in excellent density, performance and manageability.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;The talk gives an overall description of OpenVZ building blocks, such as namespaces, cgroups and various resource controllers. A few features, notably live migration and virtual swap, are described in greater details. Results of some performance measurements against VMware, Xen and KVM are given. Finally, we will provide a status update on merging bits and pieces of OpenVZ kernel to upstream Linux kernel, and share our plans for the future.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;The talk is suitable for general audience, but will be of most interest to people interested in Linux kernel, resource management, virtualization, and cloud computing.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;The talk is about operating system virtualization technology known as OpenVZ. This is an effective way of partitioning a Linux machine into multiple isolated Linux containers. All containers are running on top of one single Linux kernel, which results in excellent density, performance and manageability.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;The talk gives an overall description of OpenVZ building blocks, such as namespaces, cgroups and various resource controllers. A few features, notably live migration and virtual swap, are described in greater details. Results of some performance measurements against VMware, Xen and KVM are given. Finally, we will provide a status update on merging bits and pieces of OpenVZ kernel to upstream Linux kernel, and share our plans for the future.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;The talk is suitable for general audience, but will be of most interest to people interested in Linux kernel, resource management, virtualization, and cloud computing.&lt;/p&gt;      </description>
+      <persons>
+          <person id="1501">Kir Kolyshkin</person>
+      </persons>
+      <links>
+          <link href="http://openvz.org/">OpenVZ project web site</link>
+          <link href="http://video.fosdem.org/2012/maintracks/janson/Linux_containers_and_OpenVZ.webm">Video recording</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

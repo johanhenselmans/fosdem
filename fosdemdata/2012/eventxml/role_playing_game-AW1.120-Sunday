@@ -1,0 +1,23 @@
+  <event id="349">
+      <start>10:00</start>
+      <duration>00:45</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>Anatomy of a role playing game</title>
+      <subtitle></subtitle>
+      <track>Open Source Game Development Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This presentation will walk the audience through the design principles of an isometric role playing game engine. The specimen to be dissected is an actively developed yet fully playable game called FreedroidRPG. A general presentation of the game will be made, before the architecture of its engine is exposed. Examples of good and bad design decisions will be provided, and the way to pull out of ugly situations without compromising stability explained. The game covers most of its objectives but some open questions remain which will be exposed to the audience.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="3491">Arthur Huillet</person>
+      </persons>
+      <links>
+          <link href="531/122_anatomy_rpg.pdf">Anatomy of a role playing game (slides)</link>
+          <link href="http://video.fosdem.org/2012/devrooms/open_source_game_development/Arthur_Huillet_-_Anatomy_of_a_role_playing_game.mp3">Anatomy of a role playing game (audio recording)</link>
+          <link href="http://video.fosdem.org/2012/devrooms/open_source_game_development/Arthur_Huillet_-_Anatomy_of_a_role_playing_game.avi">Anatomy of a role playing game (video recording)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,22 @@
+  <event id="16">
+      <start>11:00</start>
+      <duration>01:00</duration>
+      <room>Lameere</room>
+      <slug></slug>
+      <title>Aseba robot programming</title>
+      <subtitle></subtitle>
+      <track>Embedded Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Aseba is an open-source project providing a set of tools that&#xA;allow beginners to program robots easily and efficiently.&#xA;Technically speaking, Aseba is an event-based architecture for&#xA;distributed control of mobile robots. It targets single- or&#xA;multi-processor robots and simulations. The core of Aseba is a&#xA;lightweight virtual machine tiny enough to run on&#xA;microcontrollers. With Aseba, we program robots in a&#xA;octave-style scripting language using an integrated development&#xA;environment. This environment provides several features&#xA;important for robotics, such as real-time inspection of&#xA;sensor/actuator data, integrating plotting, on-typing&#xA;compilation, distributed debugging, and instant code upload to&#xA;the robot. Compared to alternatives (for instance Arduino and&#xA;Lego Mindstorm), Aseba focuses on text-based programming but&#xA;takes advantage of the tight integration between the environment&#xA;and the robot to provide an interactive robot programming&#xA;experience.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Aseba stems from research in miniature mobile robotics, in which&#xA;small robots with multiple microcontrollers have risen&#xA;architectural questions (see papers under links). In addition,&#xA;Aseba has found a natural application in educational robotics&#xA;with the Thymio low-cost robot. We have also demonstrated Aseba&#xA;in simulation and on a group of e-puck robots. Aseba integrates&#xA;with D-Bus and ROS, allowing access to microcontrollers from&#xA;high-level languages.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;I am the initiator and maintainer of the Aseba technology and&#xA;one of the most active contributors. I propose to present a talk&#xA;with the following content:&#xA; * Genesis, why did we develop such a thing.&#xA; * Technical overview, with discussion of the design choices.&#xA; * Presentation of the Aseba in the robotic-research context.&#xA; * Live demonstration of Aseba in the educational context using&#xA;  the Thymio robot.&#xA; * Future directions.&#xA; * Conclusion and question answering.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;I started developing Aseba as part of my PhD work in the Mobots&#xA;research group at EPFL. Currently, a community comprising&#xA;members of the Mobots group, of the mobsya association, of the&#xA;ASL at ETH Zürich and other individuals maintain and further&#xA;develop Aseba.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="161">Stéphane Magnenat</person>
+      </persons>
+      <links>
+          <link href="698/126_aseba-fosdem-2012.pdf">aseba-fosdem-2012.pdf (slides)</link>
+          <link href="https://aseba.wikidot.com/">https://aseba.wikidot.com/</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

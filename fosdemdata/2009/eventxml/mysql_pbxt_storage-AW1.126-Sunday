@@ -1,0 +1,19 @@
+  <event id="207">
+      <start>09:00</start>
+      <duration>01:00</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>Practicing DBA&#39;s Guide to the PBXT Storage Engine</title>
+      <subtitle></subtitle>
+      <track>MySQL</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;PBXT is an ACID-compliant storage engine for MySQL available for MySQL 5.1 and 6.0. PBXT is also available for Drizzle and is shipped as part of the OurDelta builds for MySQL.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;PBXT is reaching GA state and now its a good time to learn how you as a DBA can benefit from this.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;During this session, attendees will learn about the best PBXT practices, including PBXT deployment architectures on various types of media, PBXT multicore performance, system variables and their tuning, startup parameters and run-time statistics. The session will also cover other practically important topics such as installation, compatibility with other storage engines, migration, monitoring, recovery of corrupted data, online backup.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2071">Vladimir Kolesnikov</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,24 @@
+  <event id="27">
+      <start>14:15</start>
+      <duration>01:00</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>Testing migration</title>
+      <subtitle></subtitle>
+      <track>Debian</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;As member of the Release Team, Luc will give a clearer look on how packages migrate to testing.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;He will cover testing migration criteria, blocking and hinting of packages into testing, transitions, freezing, do&amp;#39;s and don&amp;#39;ts for maintainers etc.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description></description>
+      <persons>
+          <person id="271">Luk Claes</person>
+      </persons>
+      <links>
+          <link href="http://meetings-archive.debian.net/pub/debian-meetings/2007/fosdem/ogg_theora/720x576/Testing_migration-Luk_Claes.ogg">Video (Ogg/Theora)</link>
+          <link href="http://meetings-archive.debian.net/pub/debian-meetings/2007/fosdem/xvid/Testing_migration-Luk_Claes_xvid.avi">Video (DIVX)</link>
+          <link href="http://meetings-archive.debian.net/pub/debian-meetings/2007/fosdem/ogg_theora/360x288/Testing_migration-Luk_Claes.ogg">Video (Ogg/Theora/Low quality)</link>
+          <link href="http://meetings-archive.debian.net/pub/debian-meetings/2007/fosdem/slides/Testing_migration-Luk_Claes/fosdem.xml">Slides (HTML)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="187">
+      <start>17:30</start>
+      <duration>01:00</duration>
+      <room>AW1.117</room>
+      <slug></slug>
+      <title>Django</title>
+      <subtitle></subtitle>
+      <track>Python</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;&lt;a href=&#34;http://www.djangoproject.com/&#34;&gt;Django&lt;/a&gt; is a high-level Python Web framework that encourages rapid development and clean, pragmatic design.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;The talk will cover:&#xA;&lt;/p&gt;&lt;ul&gt;&lt;li&gt; an overview of the Django web framework&#xA;&lt;/li&gt;&#xA;&lt;li&gt; a small sample application to illustrate how quickly you can solve a real world problem in Django while still having a clean and maintainable code base&#xA;&lt;/li&gt;&#xA;&lt;li&gt; how Dojo can be integrated with Djanjo to give your application some Ajax coolness&#xA;&lt;/li&gt;&#xA;&lt;li&gt; pointers to get you started with Django in no time&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA; </description>
+      <persons>
+          <person id="1871">Pim Van Heuven</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

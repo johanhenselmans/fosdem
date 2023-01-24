@@ -1,0 +1,20 @@
+  <event id="139">
+      <start>12:00</start>
+      <duration>01:00</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>JIT Session: Discussion Topics Dynamically Loaded</title>
+      <subtitle></subtitle>
+      <track>Free Java</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This block is reserved for elaborating on Free Java issues which have not yet had enough coverage. Want to hear about -- or talk about -- something the Free Java world and don&amp;#39;t see a topic on the agenda? This time is reserved for late binding discussion.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description></description>
+      <persons>
+          <person id="1391">Tom Marble</person>
+          <person id="1392">Mark Wielaard</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

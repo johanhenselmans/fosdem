@@ -1,0 +1,19 @@
+  <event id="185">
+      <start>15:15</start>
+      <duration>00:45</duration>
+      <room>H.1308</room>
+      <slug></slug>
+      <title>What&#39;s next after Firefox 3.1</title>
+      <subtitle></subtitle>
+      <track>Mozilla</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Firefox 3.2, Extensions 2.0, Labs, and more&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="1851">Mike Connor</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

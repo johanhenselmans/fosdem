@@ -1,0 +1,19 @@
+  <event id="256">
+      <start>14:30</start>
+      <duration>00:30</duration>
+      <room>UA2.114</room>
+      <slug></slug>
+      <title>SQL/MED</title>
+      <subtitle></subtitle>
+      <track>BSD + PostgreSQL</track>
+      <type></type>
+      <language></language>
+      <abstract></abstract>
+      <description></description>
+      <persons>
+          <person id="2561">Peter Eisentraut</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

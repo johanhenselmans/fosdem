@@ -1,0 +1,19 @@
+  <event id="149">
+      <start>15:45</start>
+      <duration>00:30</duration>
+      <room>AY</room>
+      <slug></slug>
+      <title>Lambda + JSR292</title>
+      <subtitle></subtitle>
+      <track>Free Java</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk outline why and how anonymous functions also called lambdas should be implemented using method handle, one feature introduced by JSR 292 in Java VM.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;I will introduce a proposed syntax that is slighly different from the one proposed by Mark Reinhold, and explain how the syntax can be translated to a bytecode understandable by a JDK7 VM. Then I will discuss the possible reification of function types. I will finish by demoing a prototype of java compiler patched with lambdas implemented using method handles.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1491">Remi Forax</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

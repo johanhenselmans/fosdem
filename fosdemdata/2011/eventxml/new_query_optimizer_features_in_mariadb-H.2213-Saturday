@@ -1,0 +1,19 @@
+  <event id="229">
+      <start>16:00</start>
+      <duration>00:25</duration>
+      <room>H.2213</room>
+      <slug></slug>
+      <title>New query optimizer features in MariaDB</title>
+      <subtitle></subtitle>
+      <track>MySQL &amp; friends devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Query optimizer is one of the focus areas in MariaDB development. This talk will give an overview of the recently completed (but not yet presented anywhere) optimizer features:&lt;/p&gt;&#xA;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;index_merge intersection&lt;/li&gt;&#xA;&lt;li&gt;Key ordered retrieval for disk-sweep MRR&lt;/li&gt;&#xA;&lt;li&gt;Batched Key Access improvements&lt;/li&gt;&#xA;&lt;li&gt;[Classic] Hash join&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;      </abstract>
+      <description>&#xA;&lt;p&gt;Query optimizer is one of the focus areas in MariaDB development. This talk will give an overview of the recently completed (but not yet presented anywhere) optimizer features:&lt;/p&gt;&#xA;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;index_merge intersection&lt;/li&gt;&#xA;&lt;li&gt;Key ordered retrieval for disk-sweep MRR&lt;/li&gt;&#xA;&lt;li&gt;Batched Key Access improvements&lt;/li&gt;&#xA;&lt;li&gt;[Classic] Hash join&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;      </description>
+      <persons>
+          <person id="2291">Sergey Petrunya</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

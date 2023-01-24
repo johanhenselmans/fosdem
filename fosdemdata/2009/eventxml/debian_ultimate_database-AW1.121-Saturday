@@ -1,0 +1,20 @@
+  <event id="64">
+      <start>14:00</start>
+      <duration>01:00</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>Ultimate Debian Database: datamining Debian made easy!</title>
+      <subtitle></subtitle>
+      <track>Debian</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Ultimate Debian Database (UDD) gathers a lot of data about various aspects of Debian in an SQL database. It allows users to easily access and combine all this data.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;We will describe the current status of UDD, explain how you can make use of it, and give some examples of cool stuff that you can already learn about Debian using it and ways it could be used to improve Quality Assurance in Debian&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="641">Stefano Zacchiroli</person>
+          <person id="642">Lucas Nussbaum</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

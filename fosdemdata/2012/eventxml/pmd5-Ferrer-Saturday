@@ -1,0 +1,21 @@
+  <event id="326">
+      <start>18:20</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>PMD5: What can it do for you ?</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This lightning talk will be an overview of the important features of PMD 5.0, from which a beta should be release before then.Introducing briefly what PMD does (static code control and analysis) and how it does it (using XPath to query over Abstract Syntax Tree provided by pre-compilation), the talk will focus on the more important enhancement of this version: multi language support, mostly achieved by the great work of Ryan Gustavson between 2009 - 2010. With this features, PMD can be easily extend to support a large set of languages, including already XML based languages and ECMAScript (more commonly designated by the name JavaScript)&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="3261">Romain PELISSE</person>
+      </persons>
+      <links>
+          <link href="http://video.fosdem.org/2012/lightningtalks/PMD5.webm">Video recording</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

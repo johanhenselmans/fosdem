@@ -1,0 +1,19 @@
+  <event id="96">
+      <start>16:00</start>
+      <duration>01:00</duration>
+      <room>AW1.105</room>
+      <slug></slug>
+      <title>Follow-up Q&amp;A and Lightning Talks</title>
+      <subtitle></subtitle>
+      <track>Jabber</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;As a follow-up to his talk in the &lt;a href=&#34;http://fosdem.org/2007/schedule/tracks/internetservices&#34;&gt;Internet Services track&lt;/a&gt; on &lt;a href=&#34;http://fosdem.org/2007/schedule/events/jabber&#34;&gt;&amp;#39;Secure Communications with Jabber&amp;#39;&lt;/a&gt;, this Q&amp;amp;A session with &lt;a href=&#34;http://fosdem.org/2007/schedule/speakers/peter+saint-andre&#34;&gt;Peter Saint-Andre&lt;/a&gt; provides more time for answering questions.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Also, last-minute lightning talks (5 min. each) will be scheduled in at the end of this slot.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="961">Peter Saint-Andre</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

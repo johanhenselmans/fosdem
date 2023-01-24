@@ -1,0 +1,19 @@
+  <event id="271">
+      <start>11:00</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Rails Admin: The right way of doing data administration with Rails 3</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;My presentation focuses on Rails Admin, the project which I have developed under the auspices of the Ruby Summer of Code initiative. My involvement in the Ruby Summer of Code project departed from the goal I have shared with both my coworkers and my mentor - that of further increasing the ease and speed of Ruby web application development.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;RailsAdmin was conceived to be built with focus on code readability and extensibility, with the idea that it may one day work with any Rack-based application. RailsAdmin is currently available for use although its 1.0 version has yet to be released - something which is expected to happen by the end of December 2010. The code is available on github for use together with a README and some screenshots which can be consulted here: http://github.com/sferik/rails_admin/&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;RailsAdmin is a Rails engine that provides an easy-to-use interface for managing your data.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2711">Bogdan Gaza</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

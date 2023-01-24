@@ -1,0 +1,19 @@
+  <event id="163">
+      <start>18:15</start>
+      <duration>00:45</duration>
+      <room>H.1301</room>
+      <slug></slug>
+      <title>Roadmap for multiplayer gaming in KDE 4</title>
+      <subtitle></subtitle>
+      <track>KDE</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;KDE 4.0 introduced native &lt;a href=&#34;http://www.ggzgamingzone.org/&#34;&gt;GGZ&lt;/a&gt; client libraries for automatic online game framework integration for the first time. In the coming versions, this will be extended to KDE-based game servers and game launchers to reach the goal of free, privacy-respecting and diversified player communities.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;In KDE 2.x and 3.0 times, some support for network gaming was provided through libkdegames. In the meantime, the cross-desktop &lt;a href=&#34;http://www.ggzgamingzone.org/&#34;&gt;GGZ Gaming Zone project&lt;/a&gt; was working hard on a dedicated infrastructure for online games and communities, including support of APIs for development in C, C++, Python and Ruby.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;In order to reach the developers of the respective toolkits better, most of GGZ&amp;#39;s KDE code is not only ported to KDE 4.x but also fused into libkdegames to let it develop progressively together with the KDE codebase.&#xA;At the moment, this includes some helper code for low-level networking (libkggznet) as well as the usual Qt-style easy connection of game clients to the gaming zone.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Now that the KDE 4.1 development cycle has started, a matching Qt-style server library (libkggzdmod) will be introduced in addition to the existing pure C++ ggzdmod++ so that KDE developers can share code between client and server without having to redesign. In addition, the main GGZ application for KDE 3, called KGGZ, will be ported. It has been a chat client with the ability to launch games and watch statistics. Due to increasing popularity of Jabber and similar networks, integration with Kopete will be discussed in the talk as well, so that the GGZ developers can focus on what they&amp;#39;re good at: making multiplayer just work.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1631">Josef Spillner</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

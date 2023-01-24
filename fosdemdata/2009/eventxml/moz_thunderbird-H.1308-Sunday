@@ -1,0 +1,20 @@
+  <event id="199">
+      <start>12:00</start>
+      <duration>01:00</duration>
+      <room>H.1308</room>
+      <slug></slug>
+      <title>Thunderbird 3: what&#39;s new, where is it heading, and how you can help</title>
+      <subtitle></subtitle>
+      <track>Mozilla</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;After several years of hibernation, &lt;a href=&#34;http://www.mozilla.com/en-US/thunderbird/&#34;&gt;Thunderbird&lt;/a&gt; development has ramped up again in the last year especially. This talk is intended to give open source hackers an update on where Thunderbird is in its runup to the Thunderbird 3 release, what new systems are available for add-on developers, and how to get involved if you want to help fix email.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;In the first part, David Ascher, one of the drivers of Thunderbird 3, will give an overview of the important changes that have either already landed, or are in various stages of development. These include:&#xA;&lt;/p&gt;&lt;ul&gt;&lt;li&gt; a whole slew of platform-level updates which fall out of the Gecko platform development.&#xA;&lt;/li&gt;&#xA;&lt;li&gt; a new SQLite &amp;amp; JavaScript-powered database of all of your emails, which lets you build powerful new ways of reading &amp;amp; processing mail&#xA;&lt;/li&gt;&#xA;&lt;li&gt; a set of optimizations that make the day-to-day interactions with Thunderbird much faster, thanks to moving blocking operations to background threads&#xA;&lt;/li&gt;&#xA;&lt;li&gt; new views on email, including google-style search results, conversation views, canvas-based visualizations, and more.&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;In the second part Ludovic Hirlimann, QA lead for Thunderbird, will explain how you can involve yourself into fixing email:&#xA;&lt;ul&gt;&lt;li&gt; Joining the QA effort - where bugs need to be reported, triaged, tests written and run.&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Joining our marketing effort and help the rebirth of thunderbird (&lt;a href=&#34;http://www.spreadthunderbird.com/&#34;&gt;spreadthunderbird&lt;/a&gt;)&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Proposing patches and helping the development team.&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Translating thunderbird: how to help make Thunderbird rock in your language.&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Developing extensions to build the tb ecosystem.&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;There will be plenty of time for Q&amp;amp;A.&#xA;&#xA;  </description>
+      <persons>
+          <person id="1991">Ludovic Hirlimann</person>
+          <person id="1992">David Ascher</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

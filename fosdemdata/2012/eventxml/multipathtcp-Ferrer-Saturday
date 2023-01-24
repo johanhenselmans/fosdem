@@ -1,0 +1,24 @@
+  <event id="260">
+      <start>14:00</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Linux Kernel MultiPath TCP</title>
+      <subtitle>An open source implementation of MultiPath TCP in the Linux Kernel</subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;MultiPath TCP, a major extension to TCP, allows the simultaneous use of a smartphone&amp;#39;s 3G and WiFi interface to increase throughput and better resilience.&#xA;We implement MultiPath TCP in the Linux Kernel, publicly available at http://mptcp.info.ucl.ac.be&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;TCP, the most used Transport Protocol on the Internet, does not allow the simultaneous usage of multiple Interfaces. Smartphones with 3G and WiFi interfaces would benefit from a simultaneous use of both interfaces.&#xA;MultiPath TCP is a major extension to TCP, allowing the use of multiple Interfaces for a single data-stream, without the need to modify the applications. This allows an increased throughput and better resilience to failures.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;The IP Networking Lab (http://inl.info.ucl.ac.be) of the Université Catholique de Louvain is implementing MultiPath TCP in the Linux Kernel. The publicly available source-code (http://mptcp.info.ucl.ac.be) modifies/adds about 10000 lines to the Linux Kernel&amp;#39;s TCP-stack.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;The implementation has shown very good performance. For example, a throughput of up to 15 Gbps across two 10 Gig interfaces, whereas regular TCP can only use a single interface and thus 10 Gbps.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;We are now considering inclusion in the mainline kernel and would like to encourage people to test our implementation and/or submit patches to help improving it.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2601">Christoph Paasch</person>
+      </persons>
+      <links>
+          <link href="453/43_screen_final2html.html">Video of the Live-Demo (video)</link>
+          <link href="453/44_presentation.pdf">Linux MultiPath TCP - presentation (slides)</link>
+          <link href="http://mptcp.info.ucl.ac.be/">Main Website</link>
+          <link href="http://video.fosdem.org/2012/lightningtalks/Multipath_TCP.webm">Video recording</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

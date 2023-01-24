@@ -1,0 +1,21 @@
+  <event id="64">
+      <start>14:30</start>
+      <duration>00:30</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>Community Qt apps repository - way forward</title>
+      <subtitle></subtitle>
+      <track>Open Mobile Linux Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;At the moment it is hard to find out what kind of Qt apps have been&#xA;developed in the community, for various devices eg. Nokia N9, MeeGo&#xA;tablets or Mer/Nemo. This is a missed opportunity for everybody.&#xA;However we have such a system already in place, that is Apps for MeeGo&#xA;(apps.formeego.org). It has all of the basic pieces in place already,&#xA;and has been developed with the same folks who brought as the Maemo&#xA;extras. In this talk I present the current status of apps.formeego.org&#xA;(with demo(s)), and ask the question: can we build one central &amp;#34;app&#xA;store&amp;#34; for community Qt applications? What is in place already, and&#xA;what needs to be done?&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="641">Jukka Eklund</person>
+      </persons>
+      <links>
+          <link href="602/98_communityappsfosdem-120204105352-phpapp02.pdf">communityappsfosdem-120204105352-phpapp02.pdf (slides)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

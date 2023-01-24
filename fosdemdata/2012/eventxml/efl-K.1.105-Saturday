@@ -1,0 +1,26 @@
+  <event id="94">
+      <start>15:00</start>
+      <duration>00:50</duration>
+      <room>K.1.105</room>
+      <slug></slug>
+      <title>EFL, the toolkit for up and coming Linux mobile devices</title>
+      <subtitle></subtitle>
+      <track>Future of UI Track</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;h2&gt;EFL, the toolkit for up and coming mobile devices&lt;/h2&gt;&#xA;&#xA;&lt;p&gt;EFL (The Enlightenment Foundation Libraries) were written to support the development of Enlightenment, and ultimately became a complete toolkit for making applications for desktops and especially lower powered devices like phones and tablets. The focus on achieving great effects, ease of programming and lean efficiency has attracted some major players to EFL, such as Samsung Electronics. EFL is being used in development for their next generation devices. Find out about EFL.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;This presentation will cover the following:&lt;/p&gt;&#xA;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;What is EFL&lt;/li&gt;&#xA;&lt;li&gt;How to get started&lt;/li&gt;&#xA;&lt;li&gt;Some core concepts that may vary in EFL from other toolkits&lt;/li&gt;&#xA;&lt;li&gt;Key EFL features&lt;/li&gt;&#xA;&lt;li&gt;Why would an electronics giant choose a little-known toolkit&lt;/li&gt;&#xA;&lt;li&gt;How you can use EFL effectively for fun and profit&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;      </description>
+      <persons>
+          <person id="941">Rasterman</person>
+      </persons>
+      <links>
+          <link href="383/114_Fosdem%20slideshtml.html">Fosdem slides (paper)</link>
+          <link href="http://www.enlightenment.org/">Project Website</link>
+          <link href="http://www.enlightenment.org/p.php?p=about">About Project</link>
+          <link href="http://trac.enlightenment.org/e/wiki/EFL">About EFL</link>
+          <link href="http://trac.enlightenment.org/e/wiki/EFLOverview">Overview of EFL</link>
+          <link href="http://video.fosdem.org/2012/maintracks/k.1.105/EFL.webm">Video recording</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

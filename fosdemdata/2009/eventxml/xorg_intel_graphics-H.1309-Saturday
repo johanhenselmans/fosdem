@@ -1,0 +1,19 @@
+  <event id="291">
+      <start>17:00</start>
+      <duration>01:00</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>Intel&#39;s graphics projects for the coming year.</title>
+      <subtitle></subtitle>
+      <track>X.org</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;While significant progress has been made in fixing the Linux graphics architecture, there are still some sharp edges. This talk will cover Intel&amp;#39;s plans for the coming year, including DRI2 vblank support, DRI2 page flipping, rebuilding Mesa&amp;#39;s compiler infrastructure, pulling ideas from Gallium into core Mesa, and more.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="2911">Eric Anholt</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

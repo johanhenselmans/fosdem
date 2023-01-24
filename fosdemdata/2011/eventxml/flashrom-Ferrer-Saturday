@@ -1,0 +1,19 @@
+  <event id="106">
+      <start>14:20</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>flashrom: Run your BIOS/EFI/firmware updates under any free OS</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk is a short introduction to flashrom.&#xA;You will learn about flashrom&amp;#39;s features, the reliability promise, how to run a standard BIOS update and how to perform advanced recovery tricks and firmware dumping.&#xA;Common pitfalls and future directions will be revealed, and you get to watch a live demonstration of a BIOS update without rebooting.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;flashrom is the open source utility of choice to identify, read, write, verify and erase flash chips.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;flashrom is commonly used to flash BIOS/EFI/firmware from a running Linux, *BSD, OpenSolaris and Mac OS X, but it also has the ability to reflash graphics cards, SATA controllers, network cards and one game console. A wide variety of external programmers is supported as well, from ultra-cheap homemade setups to high end commercial machines. Hotflashing and crossflashing complete the feature set.&lt;/p&gt;      </description>
+      <persons>
+          <person id="1061">Carl-Daniel Hailfinger</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

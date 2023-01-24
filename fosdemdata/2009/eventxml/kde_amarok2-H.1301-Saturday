@@ -1,0 +1,21 @@
+  <event id="168">
+      <start>14:15</start>
+      <duration>00:45</duration>
+      <room>H.1301</room>
+      <slug></slug>
+      <title>Amarok 2 - rediscover music</title>
+      <subtitle></subtitle>
+      <track>KDE</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Verson 2.0 was a major step for the Amarok project: new look and tight integration with web services. But this is only the beginning of a new era.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;This talk shows you the current state of Amarok 2.0 and what to expect from  the wonderful world of 2.1. You wanna customize your Amarok? Learn how you can use the new extremely powerful JavaScript interface to extend Amarok with new internet services and tools. The scripting interface gives you access to the entire Qt API; it is the same API we use to write Amarok itself.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1681">Sven Krohlas</person>
+          <person id="1682">Ian Monroe</person>
+          <person id="1683">Lydia Pintscher</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

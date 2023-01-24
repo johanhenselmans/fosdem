@@ -1,0 +1,19 @@
+  <event id="217">
+      <start>14:00</start>
+      <duration>01:00</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>X.org Video Driver API Update</title>
+      <subtitle></subtitle>
+      <track>X.org</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Unification of X.org video driver APIs&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;The X.org video driver API has not supported the full range of hardware capabilities for several years.&#xA;The resulting driver-specific mechanisms have made general configuration systems hard and provided diverse capabilities not based on hardware abilities, but rather on the vageries of the development process. Unifying these interfaces and exposing common configuration mechanisms serves to both homogenize the X server functionality across all hardware platforms as well as provide an interface for new RandR functionality.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="2171">Keith Packard</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

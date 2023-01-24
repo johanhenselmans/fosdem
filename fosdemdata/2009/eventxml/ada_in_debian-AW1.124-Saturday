@@ -1,0 +1,19 @@
+  <event id="25">
+      <start>16:00</start>
+      <duration>01:00</duration>
+      <room>AW1.124</room>
+      <slug></slug>
+      <title>Ada in Debian</title>
+      <subtitle></subtitle>
+      <track>Ada</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Ludovic Brenta will explain his work as the principal maintainer of Ada in &lt;a href=&#34;http://www.debian.org/&#34;&gt;Debian&lt;/a&gt;, and the &lt;a href=&#34;http://www.ada-france.org/debian/debian-ada-policy.html&#34;&gt;policy that unites all Ada packages&lt;/a&gt;, thereby making Debian the best free Ada development platform in the world.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;The Debian Project is an association of individuals who have made common cause to create a free operating system. The development processes are open to the public and anyone can contribute. The strict Debian Free Software Guidelines are the basis of the Open Source Definition. The resulting operating system consists of tens of thousands of Free Software packages and is renowned for its reliability, thanks to Debian&amp;#39;s extensive quality assurance policy.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Debian GNU/Linux supports 12 hardware architectures and 4 more are in various stages of development. Debian GNU/Hurd, Debian GNU/NetBSD and Debian GNU/kFreeBSD are works in progress. Several other distributions use Debian as their foundation.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="251">Ludovic Brenta</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

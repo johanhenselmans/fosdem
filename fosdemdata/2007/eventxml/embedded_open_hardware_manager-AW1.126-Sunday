@@ -1,0 +1,19 @@
+  <event id="35">
+      <start>13:00</start>
+      <duration>01:00</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>Open Hardware Manager</title>
+      <subtitle></subtitle>
+      <track>Embedded</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Lunch discussion about: Open Hardware Manager: Device policy on an embedded platform.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The discussion panel will try to guide the discussion and consistes of people who are used to deal with Embedded Linux and/or power management.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;The latest phones, set top boxes and Internet tablets are increasingly choosing Linux as the OS of choice. All of these embedded devices require system wide code for hardware policy control. There is currently no standardization of the hardware management interfaces and no upstream development in this area.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Open Hardware Manager is a small open source system policy daemon which sits above HAL and abstracts out common hardware management tasks such as controlling heat dissipation on embedded devices. OHM is product and vendor neutral and is currently being prototyped by a small team of developers including Richard Hughes and Rob Taylor.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The problem space will be discussed, and typical use-cases, followed by a quick discussion on OHM. Initial design ideas, along with scope and future plans will hopefully initiate free discussion.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="351">Discussion Panel</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

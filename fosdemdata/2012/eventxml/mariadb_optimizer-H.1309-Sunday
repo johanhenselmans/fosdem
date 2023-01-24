@@ -1,0 +1,19 @@
+  <event id="227">
+      <start>10:30</start>
+      <duration>00:25</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>MariaDB 5.3&#39;s query optimizer: taking the dolphin to where he&#39;s never been before</title>
+      <subtitle></subtitle>
+      <track>MySQL and Friends Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;A typical recent version of a MySQL-based product focuses on letting you run the same queries on more CPU cores, or having better replication. MariaDB 5.3 is very different: its focus is the new query optimizer features that let you run queries that were traditionally considered off-limits for MySQL.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;MariaDB 5.3 is getting stable: 5.3.3 Release Candidate has been released in December, and one can expect another, almost? stable release in January or February.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;This talk will show: - What kinds of traditionally no-no queries are now okay to run, - What optimizations are used to execute them, - How the new optimizations behave for typical kinds queries and popular&lt;/p&gt;&#xA;&#xA;&lt;pre&gt;&lt;code&gt;benchmark suites. &#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&#xA;&lt;p&gt;In conclusion, we will discuss relationship with other MySQL branches: which of these new optimizations will also be in MySQL 5.6, what are the differences between MySQL and MariaDB variants, and what one can expect to see in Percona server.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2271">Sergey Petrunya</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

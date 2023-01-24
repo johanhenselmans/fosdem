@@ -1,0 +1,19 @@
+  <event id="233">
+      <start>10:00</start>
+      <duration>00:55</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>OpenOffice.org Accessibility - past, present and future</title>
+      <subtitle></subtitle>
+      <track>Accessibility devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Accessibility support in OOo is a very important thing, and the demand&#xA;becomes higher and higher. We started our Accessibility efforts with OOo&#xA;1.1 by supporting the Java Accessibility API. Many things had changed&#xA;since then. We now have native support for GNOME Accessibility and for&#xA;Mac Accessibility. We have developed a very complete accessibility API&#xA;for OOo (UAA), and IBM derived IA2 from it to fill the Accessibility API&#xA;gaps on Windows. IA2 is well accepted meanwhile, and it&amp;#39;s time to get&#xA;IA2 support into OOo, which will be a big improvement for OOo&amp;#39;s&#xA;Accessibility on Windows.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;This presentation will give a short overview about accessibility support&#xA;in OOo, what&amp;#39;s going on (like finally getting IA2 into OOo now) and what&#xA;plans and ideas we have for future releases.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Accessibility support in OOo is a very important thing, and the demand&#xA;becomes higher and higher. We started our Accessibility efforts with OOo&#xA;1.1 by supporting the Java Accessibility API. Many things had changed&#xA;since then. We now have native support for GNOME Accessibility and for&#xA;Mac Accessibility. We have developed a very complete accessibility API&#xA;for OOo (UAA), and IBM derived IA2 from it to fill the Accessibility API&#xA;gaps on Windows. IA2 is well accepted meanwhile, and it&amp;#39;s time to get&#xA;IA2 support into OOo, which will be a big improvement for OOo&amp;#39;s&#xA;Accessibility on Windows.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;This presentation will give a short overview about accessibility support&#xA;in OOo, what&amp;#39;s going on (like finally getting IA2 into OOo now) and what&#xA;plans and ideas we have for future releases.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2331">Malte Timmermann</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

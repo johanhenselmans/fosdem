@@ -1,0 +1,21 @@
+  <event id="126">
+      <start>09:15</start>
+      <duration>00:40</duration>
+      <room>H.1308</room>
+      <slug></slug>
+      <title>GNOME 3.4 accessible: Status, news, future</title>
+      <subtitle></subtitle>
+      <track>CrossDesktop Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;In GNOME, accessibility is a core value that touches all aspects of&#xA;the system. [1]&lt;/p&gt;&#xA;&#xA;&lt;p&gt;From the infrastructure, to the graphical toolkit, to the&#xA;applications, to the assistive technologies, accessibility has been a&#xA;central consideration from the very early days.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;On April 2011 GNOME 3.0 was released, and although GNOME and the&#xA;accessibility made a huge effort, the accessibility support was not&#xA;ideal. But not are bad news. Finally the accessibility technologies&#xA;are starting to be used from the two main free desktops. AT-SPI is&#xA;starting to be used on KDE distros, and Orca is starting to be&#xA;functional with Qt apps. Since GNOME 3.0 a big effort was done in&#xA;order to improve the situation. At the moment of this proposal writing&#xA;an ATK/AT-SPI2 hackfest is being organized, in order to fix the issues&#xA;from the framework itself.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;The purpose of this presentation is explaining:&#xA;  * Introduce accessibility on GNOME.&#xA;  * Briefly explain the status towards GNOME 3.4&#xA;  * Summarize the output of the ATK/AT-SPI2 hackfest&#xA;  * Compare GNOME 3.0 vs GNOME 3.4&#xA;  * KDE status and cooperation&#xA;  * Future&lt;/p&gt;&#xA;&#xA;&lt;p&gt;[1] http://library.gnome.org/devel/accessibility-devel-guide/nightly/gad-how-it-works.html.en&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="1261">Alejandro Piñeiro Iglesias</person>
+      </persons>
+      <links>
+          <link href="617/142_2012-apinheiro-fosdem-talk.pdf">2012-apinheiro-fosdem-talk.pdf (slides)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

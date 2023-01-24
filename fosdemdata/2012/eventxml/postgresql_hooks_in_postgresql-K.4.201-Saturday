@@ -1,0 +1,19 @@
+  <event id="332">
+      <start>15:00</start>
+      <duration>00:50</duration>
+      <room>K.4.201</room>
+      <slug></slug>
+      <title>Hooks in PostgreSQL</title>
+      <subtitle></subtitle>
+      <track>PostgreSQL Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;PostgreSQL&amp;#39;s extensibility is well known. Most people have heard of user types, user operators, the new extension capability, and such. But few know about hooks in PostgreSQL. This talk will cover all kinds of hooks available in PostgreSQL, and will show some tools using them already.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="3321">Guillaume Lelarge</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

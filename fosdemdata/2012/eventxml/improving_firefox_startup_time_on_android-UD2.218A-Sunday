@@ -1,0 +1,19 @@
+  <event id="155">
+      <start>10:00</start>
+      <duration>00:30</duration>
+      <room>UD2.218A</room>
+      <slug></slug>
+      <title>Improving Firefox startup time on Android</title>
+      <subtitle></subtitle>
+      <track>Mozilla Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;One important aspect of user experience, especially on mobile devices, is how quick an application can start up and show what the user requests. This talk will explore the challenges and solutions under works to make the Firefox startup a much better experience on Android.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="1551">Mike Hommey</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

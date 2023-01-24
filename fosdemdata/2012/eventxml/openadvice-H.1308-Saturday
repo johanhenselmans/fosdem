@@ -1,0 +1,21 @@
+  <event id="286">
+      <start>14:50</start>
+      <duration>00:15</duration>
+      <room>H.1308</room>
+      <slug></slug>
+      <title>Open Advice</title>
+      <subtitle></subtitle>
+      <track>CrossDesktop Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Come and join us for the release of the Open Advice book.&#xA;Open Advice is a collaboration of people from many different Free&#xA;Software projects answering one question: What&amp;#39;s one key thing you&#xA;would have liked to know when you started contributing. We will give a&#xA;short tour of the book and talk about some of the lessons learned from&#xA;taking a large-scale book project from idea to publishing.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="2861">Lydia Pintscher</person>
+      </persons>
+      <links>
+          <link href="724/139_OpenAdvicelaunchFOSDEM2012.pdf">OpenAdvicelaunchFOSDEM2012.pdf (slides)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

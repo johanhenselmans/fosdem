@@ -1,0 +1,23 @@
+  <event id="117">
+      <start>16:00</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Geeklog: The secure CMS.</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Geeklog is a web content management system. The project has been around for more than 10 years now and is probably best known for powering the Groklaw website.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Yet another CMS? Actually, Geeklog has been around for longer than many of the other systems, yet has kept a low profile. Originally written for a security portal, security has always been our focus - to the extent of refusing certain features as long as they can not be implemented in a way that we consider secure.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;The lightning talk will provide a quick overview of Geeklog, its features, focus, and community.&lt;/p&gt;      </description>
+      <persons>
+          <person id="1171">Dirk Haun</person>
+      </persons>
+      <links>
+          <link href="469/18_Geeklog-FOSDEM.pdf">Geeklog-FOSDEM.pdf (slides)</link>
+          <link href="http://www.geeklog.net/">Geeklog</link>
+          <link href="http://video.fosdem.org/2012/lightningtalks/Geeklog__The_secure_CMS..webm">Video recording</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

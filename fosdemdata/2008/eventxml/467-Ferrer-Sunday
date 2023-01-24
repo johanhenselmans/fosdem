@@ -1,0 +1,22 @@
+  <event id="35">
+      <start>09:20</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>CloudBridges: bridging social networks</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The talk will explain the underlying technology of Google&amp;#39;s OpenSocial platform, and the philosophy of DataPortability, then give an example of friending between two social network accounts via CloudBridges.  The future potential of a fully open, Social Web will be explored.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;A CloudBridge is a small FOSS application you can install into your profile on a social network which provides you with a microformat-based profile on the open Web, with a controllable level of privacy.  It lets you specify which friends can see your profile, even if those friends are on a different social network.  As such it is the first public example of a meta social network, where people from different networks can friend each other without having to create any new accounts.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="351">Edwin Taylor</person>
+      </persons>
+      <links>
+          <link href="http://video.fosdem.org/2008/lightningtalks/FOSDEM2008-cloudbridges.ogg">Slides (PDF)</link>
+          <link href="http://fosdem.org/2008/slides/lightningtalks/fosdem08_ltalk_cloudbridges.pdf">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

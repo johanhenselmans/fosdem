@@ -1,0 +1,19 @@
+  <event id="228">
+      <start>10:30</start>
+      <duration>00:30</duration>
+      <room>AW1.124</room>
+      <slug></slug>
+      <title>PostgreSQL Future Directions</title>
+      <subtitle></subtitle>
+      <track>BSD + PostgreSQL</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;n/a&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description></description>
+      <persons>
+          <person id="2281">Bruce Momjian</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

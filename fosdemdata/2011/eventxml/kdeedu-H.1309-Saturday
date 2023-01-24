@@ -1,0 +1,19 @@
+  <event id="157">
+      <start>13:15</start>
+      <duration>00:45</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>KDE Education</title>
+      <subtitle></subtitle>
+      <track>Crossdesktop devroom</track>
+      <type></type>
+      <language></language>
+      <abstract></abstract>
+      <description>&#xA;&lt;p&gt;On the KDE Education talk we will discuss how KDE integrates education projects into KDE Edu to provide a solution that can be useful to students and people who want to learn: from pre-school to university and how can we help KDE Edu to be used by the interested parties.&lt;/p&gt;      </description>
+      <persons>
+          <person id="1571">Aleix Pol</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

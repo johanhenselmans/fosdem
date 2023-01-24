@@ -1,0 +1,19 @@
+  <event id="165">
+      <start>14:15</start>
+      <duration>00:30</duration>
+      <room>AW1.105</room>
+      <slug></slug>
+      <title>libcurl: Supporting seven SSL libraries and one SSH library</title>
+      <subtitle></subtitle>
+      <track>Security &amp; hardware crypto devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;&amp;#34;Supporting seven SSL libraries and one SSH library&amp;#34;: how libcurl does to support them all and something about their differences.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="1651">Daniel Stenberg</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

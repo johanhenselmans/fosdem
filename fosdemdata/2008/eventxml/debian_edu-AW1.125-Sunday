@@ -1,0 +1,21 @@
+  <event id="90">
+      <start>16:00</start>
+      <duration>01:00</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>The long road to Debian Edu in main</title>
+      <subtitle></subtitle>
+      <track>Debian</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk will briefly explain what &lt;a href=&#34;http://wiki.debian.org/DebianEdu&#34;&gt;Debian Edu&lt;/a&gt; is, how we develop our distribution, how we differ from Debian, how we work on bridging the gaps that still exist and what our plans for the future are.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;In July 2007 the Debian Edu project released its third release, codename &amp;#34;Skolelinux 3.0 Terra&amp;#34;. Debian Edu is probably the most widely known and most widely used Custom Debian Distribution - at least if you follow the official criteria for a CDD, which we aim to finally fulfill 100% for Lenny: all packages are taken unmodified from Debian main.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;This talk will explain the development process of Debian Edu and the various differences to a default Debian install. An overview of the planned features for Lenny will be given as well as a list of current showstoppers will be presented.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Using wiki.debian.org to write a fine manual will be explained briefly too: our documentation is written in a wiki, then exported as docbook and translated using .po files, then transfered back into docbook, to generate html and PDFs versions, which are made available in the debian-edu-doc package, which is installed on a webserver again.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="901">Holger Levsen</person>
+      </persons>
+      <links>
+          <link href="http://meetings-archive.debian.net/pub/debian-meetings/2008/fosdem/ogg_theora/384x288/The_long_road_to_Debian_Edu_in_main___Holger_Levsen.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

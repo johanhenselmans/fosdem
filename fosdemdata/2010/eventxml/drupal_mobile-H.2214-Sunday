@@ -1,0 +1,19 @@
+  <event id="81">
+      <start>10:45</start>
+      <duration>00:45</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>Designing for mobile devices</title>
+      <subtitle></subtitle>
+      <track>Drupal</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Practical presentation on making a mobile device friendly version of your Drupal site.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;The presentation is non-technical, and covers mainly configuration and a little bit of css.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="811">Simon Elliot</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

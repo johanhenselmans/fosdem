@@ -1,0 +1,19 @@
+  <event id="94">
+      <start>15:30</start>
+      <duration>00:30</duration>
+      <room>AW1.105</room>
+      <slug></slug>
+      <title>EJBCA and OpenSC</title>
+      <subtitle></subtitle>
+      <track>Security &amp; hardware crypto devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;PKI smart cards in practice; usage lifecycle&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;The whole chain needed in order to use smart cards are quite complex.&#xA;PKI, middle-ware and cards are needed and must all work together in&#xA;order to make a succesful deployment in larger scale.&#xA;This talk will demonstrate how opensc can be used together with EJBCA&#xA;PKI, using smart cards as an HSM for the certificate authority, issuing&#xA;certificates to user smart cards to be used for client authentication.&#xA;We will show where the tricky integration points are and talk about what&#xA;we can do about it together.&lt;/p&gt;      </description>
+      <persons>
+          <person id="941">Tomas Gustavsson</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

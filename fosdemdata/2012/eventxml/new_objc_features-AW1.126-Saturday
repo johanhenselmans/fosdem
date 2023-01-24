@@ -1,0 +1,21 @@
+  <event id="272">
+      <start>17:15</start>
+      <duration>00:45</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>New Features of Objective-C</title>
+      <subtitle></subtitle>
+      <track>GNUstep Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;With iOS 5 and OS X 10.7, Apple introduced a number of new Objective-C features. With the release of version 1.6 of the GNUstep Objective-C runtime and version 3.0 of clang these are now all available to GNUstep developers. The new features include better data hiding, automatic reference counting, and a number of other features. This talk will cover these features, as well as some of the extensions beyond Apple&amp;#39;s version and the improvements in Objective-C performance since FOSDEM last year.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="2721">David Chisnall</person>
+      </persons>
+      <links>
+          <link href="558/107_ObjC.pdf">ObjC.pdf (slides)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

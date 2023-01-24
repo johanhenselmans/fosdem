@@ -1,0 +1,19 @@
+  <event id="243">
+      <start>15:15</start>
+      <duration>00:45</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>Just Testing</title>
+      <subtitle></subtitle>
+      <track>OpenOffice.org</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;OpenOffice.org is too fat and too weird to let you simply apply your standard unit-testing-approach to writing correct code. Over the years, this has lead to the creation of a number of mechanisms within the OOo code base with which OOo developers can test the code they write and compile.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Some of the mechanisms are, erm, creative, some are trivial. But what all the mechanisms have in common is that they all are brittle and all start to fail, in one way or another, sooner or later. Time to clean up. This talk will discuss where we intend to go, and probably tell a couple of anecdotes about where we came from.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2431">Stephan Bergmann</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

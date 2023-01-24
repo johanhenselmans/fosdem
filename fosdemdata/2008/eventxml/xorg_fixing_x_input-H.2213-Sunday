@@ -1,0 +1,19 @@
+  <event id="256">
+      <start>12:00</start>
+      <duration>01:00</duration>
+      <room>H.2213</room>
+      <slug></slug>
+      <title>Fixing X input</title>
+      <subtitle></subtitle>
+      <track>X.org</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;X input is currently a horrible tangled mess. It&amp;#39;s primarily comprised of three components: core input, which doesn&amp;#39;t believe in multiple input devices or different layouts; XKB, which does everything for keyboards except mapping keys, and XInput, which enables applications to actually deal with input devices separately.  XKB is a hacked-together mess that only the maintainer understands, and XInput is only used by one application.  Input in X is currently undergoing a huge cleanup, and also growing to become useful, as with the multi-pointer X work.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;X input is currently a horrible mess of spaghetti code that is conceptually broken. But that&amp;#39;s okay, because the implementation is also abysmal. At linux.conf.au, our fearless input ninjas (Daniel Stone and Petter Hutterer of MPX fame) sat down at a pub and devised a back-of-a-coaster plan to actually properly fix input once and for all, and make it even remotely understandable.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;This talk will present the current problems, and the plan for moving forward.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="2561">Daniel Stone</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,20 @@
+  <event id="98">
+      <start>17:00</start>
+      <duration>00:30</duration>
+      <room>Lameere</room>
+      <slug></slug>
+      <title>Copyleft Hardware and the Ben Nanonote</title>
+      <subtitle></subtitle>
+      <track>Embedded</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Making Legal Open Source Hardware in China investigates the Shanzhai technology culture in China, analyzes its positive and negative aspects, and announces a new legal approach to build off the best parts of Shanzhai technology.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;This approach uses a mixture of Creative Commons licensing for hardware plans, Free Software licensing for software used to run the hardware, and open patents for the novel technological innovations.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Do you have Qi Inside your hardware? Ben Nanonote is the first real product on market using the approach mentioned above, we will describe it in deep and doing a live demo on the device.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="981">Mirko Lindner</person>
+          <person id="982">Jon Phillips</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

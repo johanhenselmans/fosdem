@@ -1,0 +1,19 @@
+  <event id="158">
+      <start>17:00</start>
+      <duration>01:00</duration>
+      <room>AW1.105</room>
+      <slug></slug>
+      <title>Mobicents</title>
+      <subtitle></subtitle>
+      <track>JBoss</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;JAIN SLEE is a specification (JSR 240) of a real-time and event-based platform in JAVA. It can be seen as the equivalent of the JEE but for real-time and oriented to Telecommunication, especially NgIN and IMS.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;However, it could be used for any other JAVA applications requiring performance. In this talk we will introduce the JAIN SLEE throug the Mobicents project, the first certified-JAINSLEE 1.1 and open source application server from RedHat.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The presentation will cover:&#xA;&lt;/p&gt;&lt;ul&gt;&lt;li&gt; The JAIN SLEE component model and the event-driven programming&#xA;&lt;/li&gt;&#xA;&lt;li&gt; The mobicents JAIN SLEE 1.2 features and the introduction to EclipSLEE the Service Creation Environment on Eclipse&#xA;&lt;/li&gt;&#xA;&lt;li&gt; IMS example: we will show how we can implement a SIP registrar with JAIN SLEE. We will also show how a JAIN SLEE AS might be integrated in an IMS infrastructure.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;  </description>
+      <persons>
+          <person id="1581">Sabri Skhiri</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

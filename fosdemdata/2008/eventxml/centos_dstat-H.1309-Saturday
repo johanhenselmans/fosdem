@@ -1,0 +1,19 @@
+  <event id="66">
+      <start>18:00</start>
+      <duration>01:00</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>Pluggable real-time monitoring with dstat</title>
+      <subtitle></subtitle>
+      <track>CentOS + Fedora</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;&lt;a href=&#34;http://dag.wieers.com/home-made/dstat/&#34;&gt;Dstat&lt;/a&gt; is a versatile replacement for vmstat, iostat, netstat, nfsstat and ifstat. Dstat overcomes some of their limitations and adds some extra features, more counters and flexibility. Dstat is handy for monitoring systems during performance tuning tests, benchmarks or troubleshooting.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Dstat allows you to view all of your system resources instantly, you can eg. compare disk usage in combination with interrupts from your IDE controller, or compare the network bandwidth numbers directly with the disk throughput (in the same interval).&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The aim of this talk is to present dstat to the FOSDEM audience. At first explain what it was designed for and why it displays information in this&#xA;way. The usefulness to correlate counters by selecting only those values on a case-by-case basis. I&amp;#39;d like to highlight the different use cases and&#xA;show the potential of dstat as it is today in comparison with vmstat, top and other tools.&#xA;How one can create raw data and graphs and what kind of plugins currently exist. Before diving into the internals, I&amp;#39;d like to pinpoint some of the known limitations and performance aspects of using a scripting language.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="661">Dag Wieers</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

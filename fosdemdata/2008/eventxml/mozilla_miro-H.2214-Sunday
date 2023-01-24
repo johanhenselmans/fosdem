@@ -1,0 +1,19 @@
+  <event id="184">
+      <start>11:15</start>
+      <duration>01:00</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>Miro</title>
+      <subtitle></subtitle>
+      <track>Mozilla</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The online video space risks being ruled by proprietary software (like Flash), DRM, and gatekeepers (Google/Youtube).  Miro is our best strategy against that, and our best strategy for an online video world where users are in charge.  I&amp;#39;ll talk about what Miro does, what&amp;#39;s cool about it, and how you can help.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Miro is like a TV on your computer.  And Miro is a strategy for democratizing media and cracking open the online video space.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Miro subscribes to RSS feeds, downloads videos, seamlessly integrates Bittorrent, and it plays practically every video format.   Users can browse a &amp;#34;Channel Guide&amp;#34; of free video RSS feeds in a built-in web browser.   Miro is available for Linux, Mac, and Windows, and it was downloaded over 2 million times last year.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;It&amp;#39;s made by Participatory Culture Foundation, a mission-based nonprofit (NGO) who&amp;#39;s goal is to open up media.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1841">Holmes Wilson</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

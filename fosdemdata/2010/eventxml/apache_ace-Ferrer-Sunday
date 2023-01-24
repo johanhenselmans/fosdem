@@ -1,0 +1,19 @@
+  <event id="19">
+      <start>10:20</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Apache ACE: distributing software components</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk introduces the Apache ACE project, shows how to use it to assemble software out of reusable components and deploy those components onto an ever increasing number of managed target platforms. Besides giving a high level overview of the architecture, some examples of how to use and extend the project will be shown, and different options given to setup an automated development, QA/testing, staging and production environment.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Apache ACE is a software distribution framework that allows you to centrally manage and distribute software components, configuration data and other artifacts to target systems. It is built using OSGi and can be deployed in different topologies. The target systems are usually also OSGi based, but don&amp;#39;t have to be.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="191">Marcel Offermans</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

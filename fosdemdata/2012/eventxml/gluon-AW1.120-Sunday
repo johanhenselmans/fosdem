@@ -1,0 +1,22 @@
+  <event id="125">
+      <start>15:25</start>
+      <duration>00:45</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>Game On - Game Creation and Distribution with Gluon</title>
+      <subtitle></subtitle>
+      <track>Open Source Game Development Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Building computer games is fast becoming big business, not just for the big companies, but also for the little companies. To join this vibrant world, we need tools: Ways of easily constructing the games, modern and effective distribution methods, ways of getting the users&amp;#39; feedback and so on.&#xA;Enter the GamingFreedom.org project, whose open platform empowers everybody to create and distribute games. This talk will shortly explain the ideas behind GamingFreedom.org, and present the Gluon framework for creating games, and the GamingFreedom.org network for makers and players of games.&#xA;Finally: A live, on-stage demo!&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="1251">Dan Leinir Turthra Jensen</person>
+      </persons>
+      <links>
+          <link href="533/110_Dan_Leinir_Turthra_Jensen_-_Game_On_-_Game_Creation_and_Distribution_with_Gluon_-_Slides.pdf">Game On - Game Creation and Distribution with Gluon (slides)</link>
+          <link href="http://video.fosdem.org/2012/devrooms/open_source_game_development/Dan_Leinir_Turthra_Jensen_-_Game_On_-_Game_Creation_and_Distribution_with_Gluon.mp3">Game On - Game Creation and Distribution with Gluon (audio recording)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

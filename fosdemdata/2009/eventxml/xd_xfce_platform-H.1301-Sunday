@@ -1,0 +1,19 @@
+  <event id="290">
+      <start>14:30</start>
+      <duration>00:45</duration>
+      <room>H.1301</room>
+      <slug></slug>
+      <title>Xfce as a Platform</title>
+      <subtitle></subtitle>
+      <track>CrossDesktop</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk is especially targeted to software developers, distributions and other software vendors. It will cover the APIs and infrastructure provided by the Xfce project. We will explain libraries and tools, how they work together and how you can use them for your own software project or distribution. Special focus will be put on Xfconf and ways to extend Xfce.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="2901">Stephan Arts</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

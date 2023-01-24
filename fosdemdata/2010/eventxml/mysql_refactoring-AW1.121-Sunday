@@ -1,0 +1,19 @@
+  <event id="222">
+      <start>15:45</start>
+      <duration>00:30</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>Refactoring Stored Routines</title>
+      <subtitle></subtitle>
+      <track>MySQL</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Although MySQL stored routines have their drawbacks, especially performance-wise, they still have their use. However, there are many things that can go wrong, and in many cases, observing a few principles, and adopting a few coding habits can have huge benefits for performance and maintainability of your stored routines.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;In this presentation, I will present a few cases and perform a few stepwise improvements to refactor the stored routine. Benchmarks are presented to show how each change improves performance.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2221">Roland Bouman</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

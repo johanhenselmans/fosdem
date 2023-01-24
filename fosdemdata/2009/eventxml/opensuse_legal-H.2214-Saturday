@@ -1,0 +1,19 @@
+  <event id="230">
+      <start>17:45</start>
+      <duration>00:30</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>Legal aspects of distribution development</title>
+      <subtitle></subtitle>
+      <track>openSUSE</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Every community distributions have to deal with legal issues. The talk shows what kind of pitfalls we have in our daily distribution work and how to solve them. This will only work with the upstream developers of the projects and most of the work will be done for every distribution again.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="2301">Jürgen Weigert</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

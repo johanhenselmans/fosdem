@@ -1,0 +1,20 @@
+  <event id="388">
+      <start>13:30</start>
+      <duration>00:40</duration>
+      <room>H.1308</room>
+      <slug></slug>
+      <title>How to trick a developer into being a designer?</title>
+      <subtitle></subtitle>
+      <track>CrossDesktop Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;We can&amp;#39;t get anywhere with free software if the developers don&amp;#39;t do&#xA;design. They always did. It just sucked because they went with whatever&#xA;the first iteration was. The focal point changed and &amp;#34;we&amp;#39;ll add some UI&#xA;later&amp;#34; is not design. Interaction with the software is key.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Design requires you to have a general idea about the interaction&#xA;upfront, but not everything. Once a general idea is out there an agreed&#xA;upon, the second part of the design process kicks in.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;&amp;#34;Prototyping&amp;#34;&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Prototypes help you see the flaws of a design more clearly, and missing&#xA;features can be added to accelerate the design/development of the&#xA;project. Frequent and agile iterations between visual designing &amp;amp;&#xA;prototyping is part of a healthy design process.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Since developers can write code they can also prototype, (as long as&#xA;they don&amp;#39;t get attached to their code).&lt;/p&gt;&#xA;&#xA;&lt;p&gt;This talk is about how designers tricked a developer to be one of&#xA;them...&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="3881">Allan Day</person>
+          <person id="3882">Seif Lotfy</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

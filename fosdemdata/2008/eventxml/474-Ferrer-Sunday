@@ -1,0 +1,22 @@
+  <event id="42">
+      <start>11:40</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Polippix: free software to protect basic rights and freedoms</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;How to use free software to protect basic rights and freedoms. Rigts and freedoms that are not traditionally viewed as IT-relatd, but is now very dependent on IT either because everything is becoming digital or because IT is used to take away freedoms: Anonymity, privacy, exchange of information (anti infosoc/trusted computing), freedom to innovate (anti patent), etc. Free software is necessary to achieve these freedoms. I believe that it is necessary to make use of these freedoms to not lose them for real. The Polippix project has demonstrated the political influence free software can have when it is put to use. We managed to get the attention of every major TV-station and newspaper in Denmark and it make some politicians listen to us. People and organizations from European countries and less democratic countries have show interest in Polippix and the upcoming version 2 will be internationally oriented.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;It is a live CD, based on Knoppix (next version is based on Kubuntu)&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="421">Niels Elgaard Larsen</person>
+      </persons>
+      <links>
+          <link href="http://fosdem.org/2008/slides/lightningtalks/fosdem08_ltalk_polippix.pdf">Slides (PDF)</link>
+          <link href="http://video.fosdem.org/2008/lightningtalks/FOSDEM2008-polippix.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

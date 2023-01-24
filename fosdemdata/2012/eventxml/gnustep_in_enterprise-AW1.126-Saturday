@@ -1,0 +1,19 @@
+  <event id="132">
+      <start>15:15</start>
+      <duration>00:45</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>Enterprise Control, Configuration and Logging/Alarming using GNUstep-base</title>
+      <subtitle></subtitle>
+      <track>GNUstep Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;ol&gt;&#xA;&lt;li&gt;An overview of the problem of dealing with multiple server processes on multiple hosts and sites.  How to provide fault tolerance and how to scale up without losing control.&lt;/li&gt;&#xA;&lt;li&gt;A discussion of the use of the basic technologies such as Distributed Objects and property lists etc to implement these systems.&lt;/li&gt;&#xA;&lt;li&gt;Control ... how we start/stop server processes, prevent duplication of processes, support automated restart, and query the state of processes.&lt;/li&gt;&#xA;&lt;li&gt;Configuration ... how we provide specific configuration to each process under central control, yet allow those servers to operate independently.&lt;/li&gt;&#xA;&lt;li&gt;Logging/Alarming ... how we provide and manage simple and consistent audit/debug logging facilities for server processes, and how we integrate with SNMP.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;      </abstract>
+      <description></description>
+      <persons>
+          <person id="1321">Richard Frith-Macdonald</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

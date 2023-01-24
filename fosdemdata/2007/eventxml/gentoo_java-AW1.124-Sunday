@@ -1,0 +1,21 @@
+  <event id="60">
+      <start>09:00</start>
+      <duration>01:00</duration>
+      <room>AW1.124</room>
+      <slug></slug>
+      <title>Java on Gentoo</title>
+      <subtitle></subtitle>
+      <track>Gentoo</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;In this talk, Gentoo/Recruiting co-lead and Gentoo java developer Petteri Räty, provides an overview of Java support for Gentoo Linux.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;The Gentoo/Java project provides support for Java on everyone&amp;#39;s favorite Linux distro, Gentoo Linux.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The project provides a wide variety of Java runtimes and development kits, applications, libraries, and utilities. This talk will provide an overview of what you can expect from Gentoo as a Java user or developer.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The Java team has for some years successfully used overlays as a way to involve users so this talk also provides ideas on how to get involved in Gentoo development using overlays.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="601">Joshua Nichols</person>
+      </persons>
+      <links>
+          <link href="http://dev.gentoo.org/~betelgeuse/GentooJavaFOSDEM07.pdf">Slides (PDF)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

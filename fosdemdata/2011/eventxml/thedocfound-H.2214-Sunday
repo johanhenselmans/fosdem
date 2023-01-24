@@ -1,0 +1,19 @@
+  <event id="298">
+      <start>13:00</start>
+      <duration>00:30</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>The Document Foundation</title>
+      <subtitle>four months in the making</subtitle>
+      <track>LibreOffice devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Come and hear what we&amp;#39;ve been up to, and where we&amp;#39;re going.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;On the 26th of September 2010 the birth of the LibreOffice project was announced. Ever since that time, the project has grown in size, contributors, infrastructure, etc. It will be a both a retrospective of what we started with as a team, what we accomplished and where we&amp;#39;re heading in terms of project and vision.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2981">Charles Schultz</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

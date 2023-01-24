@@ -1,0 +1,19 @@
+  <event id="229">
+      <start>11:30</start>
+      <duration>00:30</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>Mer ... and what you can do with it</title>
+      <subtitle></subtitle>
+      <track>Open Mobile Linux Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Mer says it is &amp;#34;aimed at device manufacturers&amp;#34; - but what does this mean? It has the same source as many other distros so this talk will introduce the non-code areas where Mer differentiates and how it does that by operating in the open. From systems and tools to processes; what&amp;#39;s available, what Mer does and does not address and how a Mer-based project gets going?&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="2291">David Greaves</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

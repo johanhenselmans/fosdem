@@ -1,0 +1,19 @@
+  <event id="258">
+      <start>18:15</start>
+      <duration>00:45</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>Most Wanted: Future PostgreSQL Features</title>
+      <subtitle></subtitle>
+      <track>PostgreSQL</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Based on user feedback, I will discuss the most requested features for PostgreSQL, their implementation status, difficulties, blockers, and future plans.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Items include replication, materialized views, parallel queries, in-place upgrade. The audience is invited to join the discussion.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2581">Peter Eisentraut</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

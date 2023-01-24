@@ -1,0 +1,19 @@
+  <event id="84">
+      <start>15:00</start>
+      <duration>00:45</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>Apache Solr and state-of-the-art search techniques</title>
+      <subtitle></subtitle>
+      <track>Drupal</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The Apache Solr module integrates Drupal with the Apache Solr search&#xA;platform.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Solr search can be used as a replacement for core content&#xA;search and boasts both extra features and better performance. Among&#xA;the extra features is the ability to have faceted search on facets&#xA;ranging from content author to taxonomy to arbitrary CCK fields.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="841">Robert Douglass</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

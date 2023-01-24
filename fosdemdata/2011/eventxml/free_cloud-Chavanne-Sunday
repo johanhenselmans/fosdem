@@ -1,0 +1,19 @@
+  <event id="111">
+      <start>16:00</start>
+      <duration>00:50</duration>
+      <room>Chavanne</room>
+      <slug></slug>
+      <title>Building a free, massively scalable cloud computing platform</title>
+      <subtitle></subtitle>
+      <track>Cloud Track</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt; A developer&amp;#39;s look into Openstack architecture&lt;/p&gt;&#xA;&#xA;&lt;p&gt; OpenStack is a very new, very popular cloud computing project, backed by&#xA; Rackspace and NASA. It&amp;#39;s all free software (Apache Licensed) and is in&#xA; production use already.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;A developer&amp;#39;s look into Openstack architecture&lt;/p&gt;&#xA;&#xA;&lt;p&gt; OpenStack is a very new, very popular cloud computing project, backed by&#xA; Rackspace and NASA. It&amp;#39;s all free software (Apache Licensed) and is in&#xA; production use already.&lt;/p&gt;&#xA;&#xA;&lt;p&gt; It&amp;#39;s written entirely in Python and uses Twisted, Eventlet, AMQP, SQLAlchemy,&#xA; WSGI and many other high quality libraries and standards.&lt;/p&gt;&#xA;&#xA;&lt;p&gt; We&amp;#39;ll take a detailed look at the architecture and dive into some of the&#xA; challenges we&amp;#39;ve faced building a platform that is supposed to handle&#xA; millions of gigabytes of data and millions of virtual machines, and how we&amp;#39;ve&#xA; dealt with them.&lt;/p&gt;&#xA;&#xA;&lt;p&gt; There will be time at the end for Q&amp;amp;A about cloud computing in general and&#xA; Openstack in particular.&#xA; We&amp;#39;ll take a detailed look at the architecture and dive into some of the&#xA; challenges we&amp;#39;ve faced building a platform that is supposed to handle&#xA; millions of gigabytes of data and millions of virtual machines, and how we&amp;#39;ve&#xA; dealt with them.&lt;/p&gt;&#xA;&#xA;&lt;p&gt; There will be time at the end for Q&amp;amp;A about cloud computing in general and&#xA; Openstack in particular.&lt;/p&gt;      </description>
+      <persons>
+          <person id="1111">Soren Hansen</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

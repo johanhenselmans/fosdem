@@ -1,0 +1,22 @@
+  <event id="10">
+      <start>16:00</start>
+      <duration>01:00</duration>
+      <room>Lameere</room>
+      <slug></slug>
+      <title>Simple and powerful Android code with AndroidAnnotations!</title>
+      <subtitle></subtitle>
+      <track>Embedded Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Is your Android code easy to write, to read and to maintain?&#xA;AndroidAnnotations is an Open Source Android framework that aims at simplifying your Android developments, without performance cost.&#xA;AndroidAnnotations helps you build Android Applications faster because it allows you to focus on your business problem rather than the plumbing code that connects components and systems.&#xA;Simply put, AndroidAnnotations generates the boring boilerplate code of your application at compile time, using the Java 6 Annotation Processing API.&#xA;The presentation will start by explaining the key concepts, followed by a live coding of a simple Android application, to demonstrate AndroidAnnotations&amp;#39; advantages.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="101">Pierre-Yves Ricau</person>
+      </persons>
+      <links>
+          <link href="https://plus.google.com/b/106206799999983258245/106206799999983258245/posts/htE7y4bKFkk">screencast</link>
+          <link href="https://github.com/pyricau/fosdem-sms">source code and slides</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

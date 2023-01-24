@@ -1,0 +1,19 @@
+  <event id="435">
+      <start>13:00</start>
+      <duration>01:00</duration>
+      <room>K.3.401</room>
+      <slug></slug>
+      <title>Cairo: How to render tomorrow&#39;s user interfaces.</title>
+      <subtitle></subtitle>
+      <track>X.org+OpenICC Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Cairo is the drawing API that is used predominantly by the GTK stack along with Firefox and couple of ports of WebKit. It is designed as a comprehensible page layout API rather than as a high performance interface to the GPU. It is Cairo&amp;#39;s job to bridge the gap between an easy-to-use drawing model and efficient rendering. This is not always as easy as it sounds...&lt;/p&gt;&#xA;&#xA;&lt;p&gt;The talk will present the origins of Cairo, its successes, some of its failures, and the promising technologies for the future.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="4351">Chris Wilson</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

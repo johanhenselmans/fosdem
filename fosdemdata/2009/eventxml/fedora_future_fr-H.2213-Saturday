@@ -1,0 +1,19 @@
+  <event id="96">
+      <start>15:00</start>
+      <duration>01:00</duration>
+      <room>H.2213</room>
+      <slug></slug>
+      <title>Future Fedora-fr challenges</title>
+      <subtitle></subtitle>
+      <track>Fedora + CentOS</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Fedora organization in French speaking country.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Fedora-fr is a non profit organization mainly active in France. Now that the organization is well organized and going to have its head renewed for the first time at the beginning of this year, Fedora-fr has to meet other French speaking Fedora addicts in foreign countries, and see how it can help them buzz about Fedora and organise events in their own areas.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="961">Thomas Canniot</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

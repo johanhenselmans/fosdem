@@ -1,0 +1,20 @@
+  <event id="177">
+      <start>15:45</start>
+      <duration>00:30</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>Calendar Project</title>
+      <subtitle></subtitle>
+      <track>Mozilla</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Calendar Project: Status, Strategy &amp;amp; QA.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The first part of the talk will center about the current state of the project (recent accomplishments and releases) and will give a glimpse of what&amp;#39;s coming in the next 6-12 months. In the second part we will shed some light on the QA efforts in such a small project.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;With 4 releases in the last 16 months and the next release (0.8) just around the corner, the talk will first focus on the current highlights of the project and the issues that it is currently facing. It will then present some highlights from the upcoming release and give a glimpse of what&amp;#39;s coming up on the road to 1.0. The first part of the talk will end with a short strategic outlook.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The second part will give an overview of the QA activites in the Mozilla Calendar project. Challenges for a community project, calendar client, and Mozilla platform application. Testing techniques ranging from unscripted to automated, and how practices and frameworks provided by the Mozilla platform can help.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1771">Martin Schröder</person>
+          <person id="1772">Simon Paquet</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

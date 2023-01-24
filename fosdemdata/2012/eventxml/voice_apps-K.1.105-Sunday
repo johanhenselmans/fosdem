@@ -1,0 +1,22 @@
+  <event id="399">
+      <start>10:00</start>
+      <duration>00:50</duration>
+      <room>K.1.105</room>
+      <slug></slug>
+      <title>Voice Applications for the Modern Open Source Hacker</title>
+      <subtitle></subtitle>
+      <track>Network and IO Track</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Many open source hackers see the allure of building applications that integrate with the telephone network.  However layers of industry jargon, proprietary technology and arcane knowledge lead many to believe that telephony is &amp;#34;hard.&amp;#34;  Adhearsion will change their minds.  The Adhearsion project is an open source voice application development framework, the first of its kind in the open source world.  In this talk we will build several working voice applications and demonstrate how to integrate them with external services.  Along the way, we will discuss voice application design and show how to avoid common pitfalls.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;The Adhearsion project is an open source voice application development framework, the first of its kind in the open source world.  By utilizing modern a modern, powerful and descriptive programming language, Ruby, and development practices like test-driven-development, Adhearsion allows developers to apply tools and skills they already have to this rich domain.  During this talk, we will build and demonstrate several working voice applications:&lt;/p&gt;&#xA;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Getting started: setting up your first app&lt;/li&gt;&#xA;&lt;li&gt;Getting connected: demonstrate the ways to get calls into your app&lt;/li&gt;&#xA;&lt;li&gt;Getting integrated: pulling data from outside sources&lt;/li&gt;&#xA;&lt;li&gt;Getting sophisticated: mixing in text-to-speech and speech recognition to your app&lt;/li&gt;&#xA;&lt;li&gt;Getting to scale: Techniques and patterns to make your voice app scale&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&#xA;&lt;p&gt;The demos will cover ways to deploy apps on a pure open-source stack with Asterisk as well as to the cloud by using service providers like Tropo.&lt;/p&gt;      </description>
+      <persons>
+          <person id="3991">Ben Klang</person>
+      </persons>
+      <links>
+          <link href="http://adhearsion.com/">Adhearsion project home page</link>
+          <link href="http://video.fosdem.org/2012/maintracks/k.1.105/Voice_Applications_for_the_Modern_Open_Source_Hacker.webm">Video recording</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

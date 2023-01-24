@@ -1,0 +1,21 @@
+  <event id="418">
+      <start>16:00</start>
+      <duration>01:00</duration>
+      <room>Lameere</room>
+      <slug></slug>
+      <title>Why mobile text input is hard</title>
+      <subtitle></subtitle>
+      <track>Embedded Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Mobile text input requires easy copy&amp;#39;n&amp;#39;paste interaction, reliable&#xA;cursor positioning and the ability to edit (or fix) previously written&#xA;text. For Asian markets, computer-assisted input of composed characters&#xA;is of paramount importance. A virtual keyboard alone cannot solve that.&#xA;For input methods to work, sophisticated platform and toolkit&#xA;integration is required.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;The current general-purpose APIs that come with their respective input&#xA;method modules in UI toolkits such as GTK+ and Qt are not sufficiently&#xA;equipped for these tasks. Although the situation within the toolkits is&#xA;slowly improving, Maliit - a flexible and cross-platform input method&#xA;framework - can further narrow this functionality gap.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;This talk will analyze problems of mobile text input and show how they&#xA;were solved on Nokia&amp;#39;s N9.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="4181">Michael Hasselman</person>
+      </persons>
+      <links>
+          <link href="696/133_Fosdem2012-why-mobile-text-input-is-hard.pdf">Fosdem2012-why-mobile-text-input-is-hard.pdf (slides)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="317">
+      <start>15:00</start>
+      <duration>00:50</duration>
+      <room>Janson</room>
+      <slug></slug>
+      <title>WebODF: an office suite built on browser technology</title>
+      <subtitle></subtitle>
+      <track>Office Track</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Office suites for the cloud are becoming more popular. All of them are closed&#xA; source and, worse, running on a server that is outside of the control of the&#xA; user. A Free Software solution for this problems is urgently needed.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;WebODF is a library for adding OpenDocument Format (ODF) support to&#xA; applications, regardless of whether they are running on the web or on the&#xA; desktop. WebODF is a javascript library of about 1000 lines of code (measured&#xA; August 2010) that can display ODF documents in browsers and HTML widgets.&#xA; Currently, editing support is being added. WebODF can be used in web&#xA; applications and desktop applications.&lt;/p&gt;&#xA;&#xA;&lt;p&gt; WebODF is extremely innovative because it is the first  FOSS implementation&#xA; of an office suite based on HTML5. Using HTML5 means that the code will run&#xA; on nearly all modern computing systems. On top of that, it uses&#xA; CSS in such a way that the ODF document is used nearly unaltered as the&#xA; run-time presentation. This simplification allows us to develop fast and with&#xA; little code.&lt;/p&gt;      </description>
+      <persons>
+          <person id="3171">Jos van den Oever</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

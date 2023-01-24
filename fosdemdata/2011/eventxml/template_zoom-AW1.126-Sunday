@@ -1,0 +1,19 @@
+  <event id="297">
+      <start>11:30</start>
+      <duration>00:40</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>Template::Zoom - Modern HTML and PDF Engine</title>
+      <subtitle></subtitle>
+      <track>Perl devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Separating web design and programming tasks&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Template::Zoom enables you to completely separate web design and programming&#xA;tasks for dynamic web applications.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Templates are plain HTML files without inline code or mini language, thus&#xA;making it easy to maintain them for web designers and to preview them with&#xA;a browser.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;The CSS selectors in the template are tied to your data structures or&#xA;objects by a specification, which relieves the programmer from changing&#xA;his code for mere changes of class names.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;In addition to HTML output, Template::Zoom also supports generation of&#xA;PDF files on-the-fly based on the same template and specification.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2971">Stefan Hornburg</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

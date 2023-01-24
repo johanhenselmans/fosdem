@@ -1,0 +1,19 @@
+  <event id="210">
+      <start>14:30</start>
+      <duration>00:30</duration>
+      <room>H.1301</room>
+      <slug></slug>
+      <title>In-tab UI</title>
+      <subtitle></subtitle>
+      <track>Mozilla devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;As part of the effort to reduce additional windows being brought up, Firefox 4 starts moving user interface elements into browser tabs.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt; This evolution is planned to continue and might have impacts in how we view any future application interface. This talk will show the current state, plans and some experiments in this area.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2101">Robert Kaiser</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

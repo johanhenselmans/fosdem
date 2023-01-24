@@ -1,0 +1,19 @@
+  <event id="27">
+      <start>12:00</start>
+      <duration>00:45</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>Configuration management for development environments </title>
+      <subtitle></subtitle>
+      <track>Configuration &amp; Systems Management devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Most of the talk about configuration management has been around using&#xA;tools to automate the building of an ever growing number of servers in&#xA;a production environment. But lots of smaller teams and organisations&#xA;can probably benefit even more from using the same tools to manage the&#xA;development environments used by developers on their own machines.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;This talk, based on recent real world experience, will cover:&lt;/p&gt;&#xA;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Why virtualisation is important for local development environments&lt;/li&gt;&#xA;&lt;li&gt;How configuration management tools applied to local virtual machines&#xA;can help get new employees up and running quickly&lt;/li&gt;&#xA;&lt;li&gt;How configuration management kills most &amp;#34;it works on my machine&amp;#34; problems dead&lt;/li&gt;&#xA;&lt;li&gt;Where tools like Vagrant fit in, showing how to use Chef and Puppet&#xA;to bootstrap a virtual machine&lt;/li&gt;&#xA;&lt;li&gt;The important of sharing cookbooks between developers and operations&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;      </description>
+      <persons>
+          <person id="271">Gareth Rushgrove</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="63">
+      <start>10:00</start>
+      <duration>01:00</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>TDebs</title>
+      <subtitle></subtitle>
+      <track>Debian</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Tdebs - translation packages. A guide to the draft TDeb specification and how this support can be implemented in Debian Squeeze with actual .tdebs arriving in Squeeze+1.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Includes a discussion to improve the specification itself.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="631">Neil Williams</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

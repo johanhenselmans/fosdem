@@ -1,0 +1,19 @@
+  <event id="41">
+      <start>16:00</start>
+      <duration>01:00</duration>
+      <room>AW1.124</room>
+      <slug></slug>
+      <title>coreboot board porting</title>
+      <subtitle></subtitle>
+      <track>Coreboot</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;You don&amp;#39;t like your BIOS? Want coreboot instead? Here is my story...&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;This talk introduces some strategies for porting coreboot to new hardware. We go over the information gathering stage, data-mining, datasheet usage and common gotchas. The porting of a new motherboard but with existing chipset support, as well as kick-starting a new chipset port, are explained.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="411">Rudolf Marek</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

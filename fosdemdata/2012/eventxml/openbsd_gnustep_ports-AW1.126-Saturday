@@ -1,0 +1,19 @@
+  <event id="287">
+      <start>11:15</start>
+      <duration>00:30</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>OpenBSD GNUstep ports update</title>
+      <subtitle></subtitle>
+      <track>GNUstep Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Topics covered:&#xA;* Why the hell on OpenBSD&#xA;* How easy it is to create a new GNUstep port&#xA;* What&amp;#39;s new compared to last year&#xA;* Problems I encountered over the last year&#xA;* Goals for the next year&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="2871">Sebastian Reitenbach</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

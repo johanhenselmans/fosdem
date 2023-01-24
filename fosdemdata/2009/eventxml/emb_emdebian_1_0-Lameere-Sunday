@@ -1,0 +1,19 @@
+  <event id="77">
+      <start>15:00</start>
+      <duration>01:30</duration>
+      <room>Lameere</room>
+      <slug></slug>
+      <title>Emdebian 1.0 release - small &amp; super small Debian</title>
+      <subtitle></subtitle>
+      <track>Embedded</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Neil presents the release of Emdebian 1.0 Grip and Crush.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;== Emdebian 1.0 Grip - a small, binary compatible, Debian ==&#xA;Grip is between 25 and 40% smaller than standard Debian and uses TDebs for localisation. Grip can be easily installed using standard Debian-Installer images or debootstrap and allows for easy mixing of Debian and Grip packages. Grip supports seven architectures using the existing Debian ports: arm, armel, i386, amd64 (test architecture), mips, mipsel and powerpc. Version 1.0 is primarily for developers but is roughly equivalent to Debian in terms of usability and maintenance.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Emdebian 1.0 Grip includes packages for a typical XFCE desktop installation. Typical Grip installations are between 25 and 40% smaller than the equivalent Debian installation.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;This talk covers all the essential features of Grip and will (hopefully) include a demo of using the Debian Installer from Lenny to install Emdebian 1.0 Grip on an Acer Aspire1 netbook.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;== Emdebian 1.0 Crush - a cross-built tiny Debian developer release ==&#xA;Crush is only available for ARM and consists of a limited package set based around the GNOME Palmtop Environment. Crush&#xA;installation methods are machine-specific (with support from packages in Debian Lenny) and Crush does not include any kernels. Version 1.0 is only for developers and is significantly more difficult to prepare, install and maintain than either Debian or Emdebian Grip but provides a much smaller installation. Basic root filesystems of 24Mb installed,&#xA;full GPE GUI installations within 75Mb.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;This talk covers the limitations of Crush, the practical difficulties inherent in cross-building Debian using packages from Lenny and the improvements being implemented into the next release of Debian (Squeeze) that will make it easier to add support for more architectures for Emdebian Crush 2.0 (based on Debian 6.0 &amp;#34;Squeeze&amp;#34;).&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="771">Neil Williams</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

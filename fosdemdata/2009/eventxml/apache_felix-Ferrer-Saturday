@@ -1,0 +1,19 @@
+  <event id="31">
+      <start>16:00</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Dynamic deployment with Apache Felix</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The OSGi framework allows you to install, update and delete components without restarting the framework. Together with the deployment admin specification and custom resource processors, you can dynamically deploy both OSGi and non-OSGi applications. The talk will demonstrate how to update OSGi bundles and other resources.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Apache Felix is a community effort to implement the OSGi R4 Service Platform, which includes the OSGi framework and standard services, as well as providing and supporting other interesting OSGi-related technologies. The ultimate goal is to provide a completely compliant implementation of the OSGi framework and standard services and to support a community around this technology.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="311">Marcel Offermans</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="295">
+      <start>12:00</start>
+      <duration>01:00</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>Aggressive power management in graphics hardware</title>
+      <subtitle></subtitle>
+      <track>X.org</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Computers spend a lot of time idle, and graphics cards spend a lot of time just displaying a static image. This talk presents various techniques for reducing the power consumption of graphics hardware without any significant impact on visual quality or performance.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="2951">Matthew Garrett</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="212">
+      <start>11:15</start>
+      <duration>00:30</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>Galera Replication for MySQL</title>
+      <subtitle></subtitle>
+      <track>MySQL</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This session will present the current state of Galera replication project.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;ul&gt;&lt;li&gt; High level overview of Galera replication method&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Contents of recent MySQL/Galera 0.7 release (fully open source)&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Feedback and experiences from the field&#xA;&lt;/li&gt;&#xA;&lt;li&gt; New benchmark results&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Short term road map, 0.8 development status&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;  </description>
+      <persons>
+          <person id="2121">Seppo Jaakola</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

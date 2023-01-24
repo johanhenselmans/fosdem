@@ -1,0 +1,19 @@
+  <event id="244">
+      <start>14:00</start>
+      <duration>02:00</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>Welcome and Research projects introduction</title>
+      <subtitle></subtitle>
+      <track>Research Room</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Welcome and Research projects introduction:&#xA;&lt;/p&gt;&lt;ul&gt;&lt;li&gt; &lt;a href=&#34;http://flossmetrics.org/&#34;&gt;FLOSSMetrics&lt;/a&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt; &lt;a href=&#34;http://www.qualoss.org/&#34;&gt;QUALOSS&lt;/a&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt; &lt;a href=&#34;http://www.sqo-oss.eu/&#34;&gt;SQO-OSS&lt;/a&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt; &lt;a href=&#34;http://www.mancoosi.org/&#34;&gt;MANCOOSI&lt;/a&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt; &lt;a href=&#34;http://www.qualipso.org/&#34;&gt;QUALIPSO&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA; </abstract>
+      <description></description>
+      <persons>
+          <person id="2441">Israel Herraiz</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

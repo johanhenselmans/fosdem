@@ -1,0 +1,19 @@
+  <event id="165">
+      <start>15:15</start>
+      <duration>00:15</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>Zero/Shark</title>
+      <subtitle></subtitle>
+      <track>Free Java</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;OpenJDK only supports three processors, x86, x86-64 and SPARC, but Linux distributions typically support many more.  Zero is an interpreter-only port of OpenJDK that uses no assembler and therefore can trivially be built on any Linux system.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;This talk will be about developments since the last FOSDEM.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The build system has been improved to the point that building is as simple as &amp;#34;./configure &amp;amp;&amp;amp; make&amp;#34;; many new platforms&#xA;have been tried and tested; and a platform-independent JIT called Shark has been developed that uses the LLVM compiler infrastructure to JIT compile Java methods without introducing system-specific code.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1651">Gary Benson</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

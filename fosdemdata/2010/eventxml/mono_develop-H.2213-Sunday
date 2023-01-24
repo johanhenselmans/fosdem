@@ -1,0 +1,19 @@
+  <event id="182">
+      <start>09:15</start>
+      <duration>00:45</duration>
+      <room>H.2213</room>
+      <slug></slug>
+      <title>MonoDevelop</title>
+      <subtitle></subtitle>
+      <track>Mono</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;MonoDevelop is an open source IDE primarily designed for C# and other .NET languages.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;MonoDevelop enables developers to quickly write desktop and ASP.NET Web applications on Linux, Windows and Mac OSX. MonoDevelop makes it easy for developers to port .NET applications created with Visual Studio to Linux and to maintain a single code base for all platforms.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;In this talk, I&amp;#39;ll show the features of the recently released MonoDevelop 2.2, and a sneak peak of what we are planning for the next release. It will be a practical session with examples of how to use and extend MonoDevelop.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1821">Lluis Sanchez Gual</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

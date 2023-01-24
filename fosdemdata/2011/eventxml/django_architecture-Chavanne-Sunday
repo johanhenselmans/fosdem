@@ -1,0 +1,19 @@
+  <event id="87">
+      <start>11:00</start>
+      <duration>00:50</duration>
+      <room>Chavanne</room>
+      <slug></slug>
+      <title> Django&#39;s architecture - the good, the bad, and the ugly </title>
+      <subtitle></subtitle>
+      <track>Web Frameworks Track</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Django has become one of the leading web frameworks over the past few years, and has become well-known in the web industry for both good and bad reasons.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;This talk takes a look at the internal architecture of Django, and highlights what we&amp;#39;ve cleaned up, what we got right from he start, and the dusty corners of the code that still need a bit more work - a never-ending problem in such a large open-source project&lt;/p&gt;      </description>
+      <persons>
+          <person id="871">Andrew Godwin</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

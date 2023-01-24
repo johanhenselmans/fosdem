@@ -1,0 +1,22 @@
+  <event id="28">
+      <start>17:00</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Alfresco: fresh document management approach</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The talk will be about:&#xA;&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Alfresco functionalities.(5min)&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Alfresco software architecture.(5 min)&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Alfresco business model.(5 min)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Alfresco is an DM/WCM fresh approach project.  The entire source code is&#xA;published under the GPL license and is based on the JAVA stack.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="281">Philippe Dubois</person>
+      </persons>
+      <links>
+          <link href="http://fosdem.org/2008/slides/lightningtalks/fosdem08_ltalk_alfresco.pdf">Slides (PDF)</link>
+          <link href="http://video.fosdem.org/2008/lightningtalks/FOSDEM2008-alfresco.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

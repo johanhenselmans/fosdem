@@ -1,0 +1,21 @@
+  <event id="104">
+      <start>13:00</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Q&amp;A with the FOSDEM Staff</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Q&amp;amp;A session with core organizers. &lt;em&gt;The&lt;/em&gt; opportunity to get in touch with us, to ask questions about organization aspects, to tell us what you love or hate, and to discuss anything FOSDEM related.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Everybody in the FOSDEM staff is a volunteer. We do this because we care about open source, and especially about the community.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;What we do can be considered a kind of FOSS/community project. Hence, we love getting feedback and being in touch with the community. This session is created for that purpose. Come and talk to us!&lt;/p&gt;      </description>
+      <persons>
+          <person id="1041">FOSDEM Staff</person>
+      </persons>
+      <links>
+          <link href="http://video.fosdem.org/2012/lightningtalks/Q_A_with_the_FOSDEM_staff.webm">Video recording</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

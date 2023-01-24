@@ -1,0 +1,19 @@
+  <event id="267">
+      <start>16:15</start>
+      <duration>00:15</duration>
+      <room>AW1.124</room>
+      <slug></slug>
+      <title>PyF: a python framework for dataflow processing, mining, transforming and reporting</title>
+      <subtitle></subtitle>
+      <track>Data Analytics devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;PyF is a python framework to ease flow based programming and allow massive data crunching on multiple CPUs.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;PyF is a python framework to ease flow based programming and allow massive data crunching on multiple CPUs. We boast an optional web-based interface to visually design processing tubes, batch scheduling, report generation and email alerts.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;The Framework is easily extensible by writing plugins, a lot of features like data persistence, reporting and web scrapping are already part of the ecosystem.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;This presentation will focus on an introduction to PyF higher-level designer ui use and how it could be useful to you.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2671">Jonathan Schemoul</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

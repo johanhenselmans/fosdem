@@ -1,0 +1,19 @@
+  <event id="182">
+      <start>16:40</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Marionnet: networking for dummies</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Overview of Marionnet, advantages towards different solutions, how it proved to be a necessary tool, how teaching networking has become less painful.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Marionnet is a virtual network laboratory: it allows users to define, configure and run complex computer networks without any need for physical setup. Only a single, possibly even non-networked GNU/Linux host machine is required to simulate a whole Ethernet network complete with computers, routers, hubs, switches, cables, and more.&#xA;Support is also provided for integrating the virtual network with the physical host network.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;As Marionnet is meant to be used also by inexperienced people, it features a very intuitive graphical user interface. Marionnet is written in the mostly functional language OCaml and depends on User Mode Linux and VDE for the simulation part.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1821">Marco Stronati</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

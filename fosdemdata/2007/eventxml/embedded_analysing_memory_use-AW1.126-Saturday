@@ -1,0 +1,21 @@
+  <event id="31">
+      <start>16:00</start>
+      <duration>01:00</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>Analysing Embedded Memory Use</title>
+      <subtitle></subtitle>
+      <track>Embedded</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Analysing Embedded Memory Use: Introduction to Exmap-Console Tools&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;How much memory is *really* used by what and how? On the Linux desktop, the not very widely known Exmap tool has for some time provided exhaustive answers these questions, breaking down memory use to individual symbols in an executable or a linked library, while separating mapped memory from unmapped, shared from unshared, and even calculating each application&amp;#39;s effective portion of the shared.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Exmap-console is a suite of command-line tools, developed at OpenedHand Ltd, that bring the power of Exmap to embedded Linux; it includes an interactive console client, a server application for remote sessions, and a daemon for automated logging. The talk will provide an overview of the tools and a demonstration of their use.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="311">Tomas Frydrych</person>
+      </persons>
+      <links>
+          <link href="../../slides/devrooms/embedded/exmap/slide-00.html">Slides (HTML)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

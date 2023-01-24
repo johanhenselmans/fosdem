@@ -1,0 +1,19 @@
+  <event id="243">
+      <start>14:00</start>
+      <duration>00:30</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>Packaging Perl and it&#39;s deps...</title>
+      <subtitle></subtitle>
+      <track>Perl devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;A use case of packaging a Perl application&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;A story of how we went about packaging perl and all of the&#xA;dependencies that our project has. Where we were before, the chosen path,&#xA;and the end result. The pitfalls and a view on the pros and cons of the&#xA;previous state of affairs versus the pros/cons of the end result.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2431">Paulo Castro</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

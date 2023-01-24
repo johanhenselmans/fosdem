@@ -1,0 +1,19 @@
+  <event id="229">
+      <start>15:30</start>
+      <duration>00:45</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>Bits from your GNOME team (with build service fun inside!)</title>
+      <subtitle></subtitle>
+      <track>openSUSE</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;At the last FOSDEM, JP Rosevear gave a good overview of what was going on the GNOME land of openSUSE. It turns out that since then, many things have happened and 2008 helped the team achieve a lot.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;This talk will present some interesting technical changes on your desktop and how it affects the while distribution, but will also focus on the GNOME team and its processes, like for example our use of the build service.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2291">Vincent Untz</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

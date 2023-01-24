@@ -1,0 +1,19 @@
+  <event id="136">
+      <start>15:20</start>
+      <duration>00:15</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>An example graph visualization with Processing.js </title>
+      <subtitle></subtitle>
+      <track>Graph Processing Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Visualizing a directed property graph with Processing.js and Neo4j. A short introduction to Processing.js, followed by a high level overview of an example visualization and finally how to connect it to Neo4j via their REST API to populate it. Example: http://getvouched.com/visualizations&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="1361">Max De Marzi</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

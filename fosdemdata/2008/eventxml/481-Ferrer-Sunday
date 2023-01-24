@@ -1,0 +1,22 @@
+  <event id="49">
+      <start>16:00</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Minerva: house automation suite</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The talk will cover the architecture necessary to run a house through&#xA;software, the ubiquitous web browser, and the issues involved in this&#xA;hitherto uncharted field. It will also detail the basic abstractions in the&#xA;house automation field, showing how Minerva lets you control the systems&#xA;currently supported, and how new &amp;#39;conduits&amp;#39; can be added. A quick&#xA;run-through of various features will follow. There should also be the time&#xA;to cover the subtleties of home automation.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Minerva is a complete, easy to use, home automation suite. Using Minerva you&#xA;can make your home easier and cheaper to run and more secure. With Minerva&#xA;you can: switch on your lights from anywhere, using a mobile phone or PC;&#xA;email your video; check your security CCTV footage; control your central&#xA;heating and much more. It runs on GNU/Linux, but exists in its own mini&#xA;eco-system, with its own list of users, set of scripts, and functionality.&#xA;It relies on command line tools to perform all of its many tasks, and can&#xA;therefore be run from virtually any platform (smartphone, PDA, laptop or&#xA;remote PC) with identical functionality. Minerva&amp;#39;s visionary grand design is&#xA;to provide a means whereby every piece of home technology can be interfaced&#xA;together through common and Open technology - and that technology is&#xA;Minerva!&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="491">Steven Goodwin</person>
+      </persons>
+      <links>
+          <link href="http://fosdem.org/2008/slides/lightningtalks/fosdem08_ltalk_minerva.pdf">Slides (PDF)</link>
+          <link href="http://video.fosdem.org/2008/lightningtalks/FOSDEM2008-minerva.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

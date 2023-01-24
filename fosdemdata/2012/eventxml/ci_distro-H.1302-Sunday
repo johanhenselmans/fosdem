@@ -1,0 +1,19 @@
+  <event id="55">
+      <start>16:00</start>
+      <duration>01:00</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>Continuous Integration / Continuous Delivery within a Linux Distribution</title>
+      <subtitle></subtitle>
+      <track>CrossDistribution Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;      </abstract>
+      <description></description>
+      <persons>
+          <person id="551">Karanbir Singh</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

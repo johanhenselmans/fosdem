@@ -1,0 +1,19 @@
+  <event id="38">
+      <start>13:15</start>
+      <duration>00:30</duration>
+      <room>AW1.105</room>
+      <slug></slug>
+      <title>Smart card and crypto jungle</title>
+      <subtitle></subtitle>
+      <track>Security &amp; hardware crypto devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Description of different crypto hardware and insight to the maze of different libraries, frameworks and middlewares.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="381">Jean-Michel Pouré</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

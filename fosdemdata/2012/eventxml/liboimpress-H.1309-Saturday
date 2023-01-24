@@ -1,0 +1,19 @@
+  <event id="199">
+      <start>14:30</start>
+      <duration>00:30</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>Impress Hacking</title>
+      <subtitle>The What &amp; The Where</subtitle>
+      <track>LibreOffice Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Want to hack some nice graphics algorithms, or just fix the most annoying bug your MBA friends keep nagging you with for Impress? Here&amp;#39;s the place to get directions &amp;amp; ideas for that, plus some war stories from 10+ years of Impress hacking.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="1991">Thorsten Behrens</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

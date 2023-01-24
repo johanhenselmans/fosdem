@@ -1,0 +1,19 @@
+  <event id="269">
+      <start>15:40</start>
+      <duration>00:15</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>NoSQL/Graph Database Visualization, The case of Gephi and Neo4j </title>
+      <subtitle></subtitle>
+      <track>Graph Processing Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;We are recently witnesses of the significant movement and adoption of NoSQL databases. In particular, the&#xA;graph databases become an important technology as we deal with a high increase of relational data.&#xA;They not only store graph data structures much more efficiently, but also provide powerful graph traversal&#xA;capabilities that make them suitable for this kind of data.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;However we need to ease the exploration and understanding of these large amount of data. Visualizing the graph&#xA;structure (relationships between nodes and edges) is critical to many situations like: verifying the reliability of new&#xA;data input, optimizing an architecture based on the shape of the data, and even creating new services based on facts&#xA;discovered in the data.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;In this talk, you will learn how to understand the graph structure easily using Gephi &amp;amp; Neo4j!&lt;/p&gt;&#xA;&#xA;&lt;p&gt;We will go through the installation and showcase of visualization capabilities of Neo4j graph database&#xA;in Gephi. The talk will cover exploration of general useful features of Gephi applying them on imported Neo4j&#xA;database.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="2691">Martin Skurla</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

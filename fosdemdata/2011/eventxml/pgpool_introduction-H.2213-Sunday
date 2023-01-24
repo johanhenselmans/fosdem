@@ -1,0 +1,19 @@
+  <event id="253">
+      <start>14:00</start>
+      <duration>00:45</duration>
+      <room>H.2213</room>
+      <slug></slug>
+      <title>Introduction to pgpool-II version 3</title>
+      <subtitle></subtitle>
+      <track>PostgreSQL devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Pgpool-II is a server program sitting between clients and PostgreSQL to add functionalities including connection pooling, load balancing, automated fail over and replication.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;In this talk we present the major features of the latest version of pgpool-II, especially the collaborating mode with PostgreSQL 9&amp;#39;s built-in replication. A short demonstration will be performed.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="2531">Tatsuo Ishii</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

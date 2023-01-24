@@ -1,0 +1,19 @@
+  <event id="87">
+      <start>14:00</start>
+      <duration>01:00</duration>
+      <room>Lameere</room>
+      <slug></slug>
+      <title>Wt, a C++ web toolkit, for rich web interfaces to embedded systems</title>
+      <subtitle></subtitle>
+      <track>Embedded</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Pieter presents [[http://www.webtoolkit.eu/wt Wt], an open source web toolkit that brings state-of-the-art cross-browser, AJAX-enabled web application development to C++ programmers who have little or no experience in web technologies.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;A web interface to an embedded system provides many benefits, such as remote control without software installation, and comfortable device operation and configuration without the constraints and the cost of an awkward user interface due to limited space on the device itself.&#xA;&lt;/p&gt;&#xA;&#xA;&lt;p&gt;At the same time, web interfaces are becoming the preferred choice for application development of various types, driven by rapid advances in web browser technology, (wireless) network availability, and low deployment costs.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.webtoolkit.eu/wt&#34;&gt;Wt&lt;/a&gt; is an open source web toolkit that brings state-of-the-art cross-browser, AJAX-enabled web application development to C++ programmers who have little or no experience in web technologies. We present some of its features and show how it resembles typical desktop GUI toolkits from a programmer point of view. Because of its high performance, it is popular for large deployments on Internet and intranet servers down to small deployments on embedded systems. We discuss its suitability for embedded systems compared to alternative approaches, and demonstrate some capabilities using a 200MHz ARM device.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="871">Pieter Libin</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

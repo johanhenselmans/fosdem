@@ -1,0 +1,19 @@
+  <event id="188">
+      <start>11:00</start>
+      <duration>00:15</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>Accessibility in LibreOffice</title>
+      <subtitle>the way forward</subtitle>
+      <track>LibreOffice Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;LibreOffice has many features for accessible authoring: it provides functionality to use the accessibility features of the OpenDocument Format (ODF), it supports export to tagged PDF (unlike most other free and open-source tools), it has extensions for exporting to digital audio books (odt2daisy) and Braille (odt2braille), and an extension for evaluating and repairing accessibility issues in ODT, DOC and DOCX (AccessODF). It also implements accessibility APIs to enable users of assistive technologies to use the office suite. However, there is room for improvement, both with regard to the creation of accessible content and with regard to the accessibility of LibreOffice itself. This presentation will discuss both types of issues. It will highlight bugs and feature requests that could be addressed to make it easier to create accessible content, and issues related to the support for accessibility APIs.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="1881">Christopher Strobbe</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

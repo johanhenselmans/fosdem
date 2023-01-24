@@ -1,0 +1,21 @@
+  <event id="210">
+      <start>13:00</start>
+      <duration>01:00</duration>
+      <room>Lameere</room>
+      <slug></slug>
+      <title>Linux (SoC) power management</title>
+      <subtitle></subtitle>
+      <track>Embedded Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Due to the nature of the new SoC architectures the Power Management&#xA;needs a new model for the various system latencies.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;The talk presents:&#xA;- the concepts of system, devices, wake-up and resume latencies,&#xA;- the recent changes in the devices framework for the latency, why and&#xA;how to make it generic,&#xA;- the recent changes in the ARM/OMAP platform code for the system latency,&#xA;- the problems encountered while modeling and measuring the various latencies,&#xA;- a proposal on the model,&#xA;- the planned changes in the device framework, the platform code and the APIs.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;This talk is oriented towards Linux power management developers and&#xA;users. The generic model covers all flavors of Linux, from the&#xA;embedded device up to the multi processor computing server.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="2101">Jean Pihet</person>
+      </persons>
+      <links>
+          <link href="694/144_Fosdem-2012-jpihet-DeviceLatencyModel.pdf">Fosdem-2012-jpihet-DeviceLatencyModel.pdf (slides)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="70">
+      <start>15:30</start>
+      <duration>00:30</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>Gumby</title>
+      <subtitle>a package dependency Browser/Viewer for Linux</subtitle>
+      <track>CrossDistro devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Data visualization has been in shortage in the area of Linux distros despite the abundance of package managers.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;With the honourable exception of debtree there is/was no way to visually explore a local package universe.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;In this talk I&amp;#39;ll talk about how Gumby can fit in the current package management landscape to help the user or package maintainer to visually inspect his current package universe.&lt;/p&gt;      </description>
+      <persons>
+          <person id="701">André Guerreiro</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,20 @@
+  <event id="73">
+      <start>10:30</start>
+      <duration>00:30</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>The difficulty of forking</title>
+      <subtitle>and why you should not do it, yet prepare for it</subtitle>
+      <track>CrossDistro devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Forking a project is never an easy task both on social and technical level.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Mageia, like Libreoffice, is a big project born from a fork, and faced several issues regarding community and infrastructure. The lessons learned from forking can be generalized to any software project.&lt;/p&gt;      </description>
+      <persons>
+          <person id="731">Anne Nicolas</person>
+          <person id="732">Michael Scherer</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

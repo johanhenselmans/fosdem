@@ -1,0 +1,19 @@
+  <event id="12">
+      <start>09:15</start>
+      <duration>00:40</duration>
+      <room>AW1.124</room>
+      <slug></slug>
+      <title>Introduction to Asterisk Development</title>
+      <subtitle></subtitle>
+      <track>Open Source Telephony devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Introduction to Asterisk Development&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;This talk will discuss how the Asterisk development community operates and how to get involved.  If time permits, Russell will also showcase some cool Asterisk features.&lt;/p&gt;      </description>
+      <persons>
+          <person id="121">Russell Bryant</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

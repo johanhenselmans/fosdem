@@ -1,0 +1,19 @@
+  <event id="125">
+      <start>17:40</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Quick start into mobile development for desktop developers</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;There is still a void for open source developers having their own platform for mobile development. The current choice is between Google, Nokia and Intel. Hackable1 intends to close this gap and offers desktop developers a quick start in minutes. No longer &amp;#34;fighting&amp;#34; with scratchbox or Openembedded: mobile development like on your desktop and with similar speed. If you have been developing for the desktop you will feel at home in no time. Hackable1 is based on Debian thus brings the power of 1500 DDs with it. It implements the GNOME Mobile stack and comes with a basic suite of phone applications: a dialer, a SMS and contacts application.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Mobile devices are becoming ubiquitous and hackable1 is intended to bridge from desktop development to embedded development. It is an area where Open Source has a chance to be from the start ahead of the closed source competitors. We just need to do it!&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;hackable:1 is a Debian based community distribution for hackable devices implementing the GNOME Mobile stack. Currently it runs on the Neo Freerunner from Openmoko but other devices will be supported soon too.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;As I have been developing myself on and for mobile platforms for several years now the main goal was to bring mobile development to all open source developers in minutes: mobile devices are the next &amp;#34;revolution&amp;#34; in computing and we should not leave the field to Google and Co.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Hackable:1 comes with the full development environment, can be installed in minutes and provides an environment like on your desktop and allows for similar speeds.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Bearstech (the french distributor of the openmoko phones) supports the development but a key point is community involvement - no decisions behind closed doors, everything is done in public on IRC and mailing lists.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1251">Marcus Bauer</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

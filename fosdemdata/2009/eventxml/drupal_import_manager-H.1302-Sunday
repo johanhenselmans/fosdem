@@ -1,0 +1,19 @@
+  <event id="69">
+      <start>13:00</start>
+      <duration>01:00</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>Importing data with job queue and import manager</title>
+      <subtitle></subtitle>
+      <track>Drupal</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Continuously importing data, of any size or number of sources, needs infrastructure. Neil Drumm wrote &lt;a href=&#34;http://drupal.org/project/job_queue&#34;&gt;Job Queue&lt;/a&gt; and &lt;a href=&#34;http://drupal.org/project/import_manager&#34;&gt;Import Manager&lt;/a&gt; to queue and manage imports.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;He will show how to use these modules to get the basics out of the way.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Neil Drumm will also talk about a few strategies he found successful for data conversion. The presentation will not be able to cover how to get everything into nodes, but will teach how to think about converting data.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;At &lt;a href=&#34;http://maplight.org/&#34;&gt;MAPLight&lt;/a&gt;, Neil managed importing data from GovTrack, OpenSecrets, the FEC, the Iowa Legislature and other government entities. Some updates happen within 30 minutes of an action in Congress, while others need to be run monthly, or reports as-needed.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="691">Neil Drumm</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

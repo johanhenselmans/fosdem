@@ -1,0 +1,19 @@
+  <event id="109">
+      <start>16:30</start>
+      <duration>00:30</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>Web Service Development for Managers</title>
+      <subtitle></subtitle>
+      <track>Drupal</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;&lt;a href=&#34;http://mosi.vub.ac.be/webdev/&#34;&gt;WSDM&lt;/a&gt; is a course in development, it is running its second test year in a Master after Master class and will be integrated in the new Master of Management for next year. The goal of the course is to learn students to use the internet and open source as part of there business plan when creating a service.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;The student need to develop a project. In the first phase basic php is learned, continued with a exercise on creating a Drupal module. During that phase the student has to define a &amp;#34;service on the web&amp;#34; project (not to confuse with web services). The second phase is the focus of the course. With the project the course becomes more individual and several options to integrate are possible. The development shift from programming to problem solving. The course is managed by putting up some clear criteria at front, related to communication, functionality and reusability.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1091">Mixel Kiemen</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

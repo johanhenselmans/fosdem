@@ -1,0 +1,19 @@
+  <event id="273">
+      <start>10:20</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>The Secure List Server: an OpenPGP and S/MIME aware Mailman</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The talk will start with a very short overview of the history of Mailman and&#xA;the mailman-pgp-smime project.  Some remarks will be made on how to install and&#xA;configure the software, so that one can try it.  Currently supported features&#xA;will be mentioned, as well as an overview of development plans.  One will learn&#xA;how to contribute to the project; an overview of the revision control system&#xA;used will be given.  Some remarks on the future of the patch will be made: will&#xA;it be shipped with Mailman itself?&#xA;&lt;/p&gt;&#xA;&lt;p&gt;If you have used Mailman, both as a subscriber and as a list admin, and if&#xA;you know what PGP and S/MIME are, you should definitely attend this talk.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;he Secure List Server, mailman-pgp-smime, is an effort to add support for&#xA;encryption and authentication to Mailman, the GNU mailing list software.  This&#xA;enhancement enables groups of people to safely cooperate and communicate using&#xA;email.  The patch includes support for both RFC 2633 (S/MIME) and RFC 2440 &#xA;(OpenPGP) email messages.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Development of the patch is made possible by the NLnet foundation.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;A post to a secure list will be distributed only if the PGP (or S/MIME)&#xA;signature on the post is from one of the list members.  For sending encrypted&#xA;email, a list member encrypts to the public key of the list.  The post will be&#xA;decrypted and re-encrypted to the public keys of all list members.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2731">Joost van Baal</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

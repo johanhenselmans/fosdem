@@ -1,0 +1,19 @@
+  <event id="176">
+      <start>16:30</start>
+      <duration>00:25</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>Low latency in Gervill and JavaSound</title>
+      <subtitle></subtitle>
+      <track>Free Java devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The shortcomings of JavaSound and a proposal for how to fix it.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Currently it is not easy or even possible with the current JavaSound API to write low-latency audio application without resorting to using external libraries. Also JavaSound doesn&amp;#39;t readily support 5.1/Surround or HD audio. I want to talk about those shortcomings of JavaSound and give a proposal on how to fix it.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;I also want to make a demonstration of low-latency in Gervill.&lt;/p&gt;      </description>
+      <persons>
+          <person id="1761">Karl Helgason</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

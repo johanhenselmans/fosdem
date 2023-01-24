@@ -1,0 +1,24 @@
+  <event id="25">
+      <start>10:00</start>
+      <duration>01:00</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>Netconf</title>
+      <subtitle></subtitle>
+      <track>Debian</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Debian&amp;#39;s ifupdown has served us well for many years: it is the established standard, provides flexible hooks and thus allows many other programmes to integrate with it, and handles the most common scenarios. However, with mobile computing, VPN, WLAN and other technology related to networking, more flexibility is needed.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;netconf Martin&amp;#39;s brainchild to address these needs, but it&amp;#39;s still vapourware, which is why this proposal is an invitation to a brainstorming session. I want to start implementing netconf at Debcamp7.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The plan is to provide a backwards-compatible, stateless network configuration system, which is extensible to cater for today&amp;#39;s networking needs. Environment detection, WLAN roaming, automated VPN setup, use of the DHCP option fields for various configuration tasks (think: SMTP smart server, NTP server, etc.) are some of the buzzwords I came up with. Furthermore, control sockets and policy-based access control should make it easy to allow normal users to perform the essential tasks from their desktops.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="251">Martin Krafft</person>
+      </persons>
+      <links>
+          <link href="http://meetings-archive.debian.net/pub/debian-meetings/2007/fosdem/ogg_theora/720x576/Netconf-Martin_Krafft.ogg">Video (Ogg/Theora)</link>
+          <link href="http://meetings-archive.debian.net/pub/debian-meetings/2007/fosdem/xvid/Netconf-Martin_Krafft_xvid.avi">Video (DIVX)</link>
+          <link href="http://meetings-archive.debian.net/pub/debian-meetings/2007/fosdem/ogg_theora/360x288/Netconf-Martin_Krafft.ogg">Video (Ogg/Theora/Low quality)</link>
+          <link href="http://meetings-archive.debian.net/pub/debian-meetings/2007/fosdem/slides/Netconf-Martin_Krafft/slides.s5.html">Slides (HTML)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

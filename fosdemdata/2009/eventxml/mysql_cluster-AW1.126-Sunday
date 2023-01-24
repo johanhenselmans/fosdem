@@ -1,0 +1,19 @@
+  <event id="203">
+      <start>11:00</start>
+      <duration>00:45</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>MySQL Cluster</title>
+      <subtitle></subtitle>
+      <track>MySQL</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;MySQL Cluster became a new product in 2008, but little is still known about it.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;This talk will show how MySQL Cluster works, and show some practical situations where it can be useful. Version 6.4, the next release, will also be presented with some great new features coming in.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2031">Geert Vanderkelen</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

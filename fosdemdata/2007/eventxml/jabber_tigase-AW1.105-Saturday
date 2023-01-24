@@ -1,0 +1,19 @@
+  <event id="98">
+      <start>16:45</start>
+      <duration>00:45</duration>
+      <room>AW1.105</room>
+      <slug></slug>
+      <title>Tigase</title>
+      <subtitle></subtitle>
+      <track>Jabber</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;&lt;a href=&#34;http://www.tigase.org/&#34;&gt;Tigase&lt;/a&gt; is a Jabber server written in Java.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;This presentation will go into the project goals and its current status. It will highlight the technical challenges encountered during development, while going over the server&amp;#39;s design.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Finally the future plans of the project and directions in the short term will be presented.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="981">Artur Hefczyc</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

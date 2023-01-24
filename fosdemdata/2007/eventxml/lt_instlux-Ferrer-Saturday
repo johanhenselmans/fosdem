@@ -1,0 +1,21 @@
+  <event id="130">
+      <start>15:00</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Instlux</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;A lightning talk about Instlux, an installation program for windows, that installs linux.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Presentation of the project:&#xA;&lt;/p&gt;&lt;ul&gt;&lt;li&gt; What it is&#xA;&lt;/li&gt;&#xA;&lt;li&gt; How it works&#xA;&lt;/li&gt;&#xA;&lt;li&gt; How it is implemented&#xA;&lt;/li&gt;&#xA;&lt;li&gt; How to contribute&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Future plans&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;dd&gt;&#xA;&lt;/dd&gt;&#xA;&lt;i&gt;About Instlux:&lt;/i&gt;&#xA;&lt;dd&gt;&#xA;&lt;/dd&gt;&#xA;&#xA;&#xA;Instlux is a collaborative project hosted on sourceforge that&#xA;simplifies the Linux installation on a Windows system.&#xA;&#xA;Its main contribution is that it makes the installation easier by&#xA;avoiding the BIOS configuration step. That is, with instlux, a Windows&#xA;user can install linux without configuring the BIOS and so without&#xA;booting from the DVD/CDROM.&#xA;&#xA;Instlux has been translated into 20 languages: albanian, catalan, czech,&#xA;danish, dutch, finnish, french, german, indonesian, italian, lithuanian,&#xA;polish, portuguese, brasilian, romanian, spanish, swedish, turkish, ... &#xA;&#xA;It supports two distributions, Ubuntu and OpenSuSE.&#xA;&#xA;Instlux is one year old. During this year, it has been downloaded 50000&#xA;times. There are 40 pages that link to the project web page, and more&#xA;than 127000 references to it[1].&#xA;&#xA;&lt;i&gt;Opinions about it:&lt;/i&gt;&#xA;&amp;#34;This is an amazingly cool idea. &amp;#34; by Cody Somerville, Canadian ubuntu&#xA;team member, Xubuntu users admin, Ubuntu marketing team&#xA;&#xA;&amp;#34;Instlux the fifth columnist .exe file that installs GNU/Linux&#xA;(Ubuntu, OpenSUSE and other distros to come) from MS Windows. A&#xA;must-have in less than five years that is already built and working&amp;#34; by&#xA;Quim Gil, organizer of the Guadec 2006 and Maemo product manager at&#xA;Nokia&amp;#39;s OSSO Team.&#xA;&#xA; </description>
+      <persons>
+          <person id="1301">Jordi Massaguer</person>
+      </persons>
+      <links>
+          <link href="../../slides/lightningtalks/Instlux.pdf">Slides (PDF)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

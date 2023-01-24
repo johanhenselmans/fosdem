@@ -1,0 +1,19 @@
+  <event id="114">
+      <start>15:00</start>
+      <duration>00:30</duration>
+      <room>AW1.105</room>
+      <slug></slug>
+      <title>Fribid and browser security software</title>
+      <subtitle></subtitle>
+      <track>Security &amp; hardware crypto devroom</track>
+      <type></type>
+      <language></language>
+      <abstract></abstract>
+      <description>&#xA;&lt;p&gt;Since many years ago Swedish digital id&amp;#39;s issued by the banks&#xA;(equivalent to other countries digital national id&amp;#39;s) are using&#xA;proprietary client software in order to log in, sign transactions and&#xA;enroll for id&amp;#39;s. The software works as browser plug-ins since on-line&#xA;services are always web based.&#xA;Prorietary software rarely works well with Linux, although there are now&#xA;have a 32 bit version out. Samuel created an open source version of the&#xA;browser plug-in, Fribid [1] to get something that works better. By&#xA;investigating communication he soon had a linux client that worked well.&#xA;It even works with smart cards using OpenSC [2].&lt;/p&gt;&#xA;&#xA;&lt;p&gt;This talk will describe a bit of the development behind fribid, and&#xA;extend to some questions that are much broader in scope than the swedish&#xA;digital id&amp;#39;s, that fribid was created for.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Some of the natural questions to ask are:&#xA;- Why are there no open standards for the authentication and digital&#xA;signature operations needed for web based applications?&#xA;- What can the open source world to to make this important technology&#xA;(in a much wider concept than swedish digital id&amp;#39;s) open and user friendly?&lt;/p&gt;&#xA;&#xA;&lt;p&gt;[1] http://fribid.se/ (swedish unfortunately)&#xA;[2] http://wiki.fribid.se/sidor/SmartCards&lt;/p&gt;      </description>
+      <persons>
+          <person id="1141">Samuel Lidén Borell</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

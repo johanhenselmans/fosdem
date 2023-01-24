@@ -1,0 +1,19 @@
+  <event id="120">
+      <start>10:00</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Introduction to GnuTLS</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;I&amp;#39;ll introduce GnuTLS and mention it features over the competition, and talk about problems facing a free software project in an area which has many patents.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;GnuTLS is a SSL/TLS implementation for the GNU system.  SSL/TLS is the network security protocol used by HTTPS, and numerus other network protocols to provide X.509, OpenPGP etc security.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1201">Simon Josefsson</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

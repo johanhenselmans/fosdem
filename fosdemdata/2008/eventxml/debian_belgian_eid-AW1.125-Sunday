@@ -1,0 +1,21 @@
+  <event id="88">
+      <start>09:30</start>
+      <duration>00:30</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>The Belgian electronic ID card in Debian</title>
+      <subtitle></subtitle>
+      <track>Debian</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;A few years ago, the Belgian government decided to replace its ID card with an electronic version, and they made the decision to make the software to read data from this ID card free (as in speech). Wouter has packaged this software for Debian, and will give an introduction on its benefits, downsides, and the practical use of the eID in Debian.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;This talk is being held in response to a &lt;a href=&#34;http://fosdem.org/2007/schedule/events/centos_eid_card&#34;&gt;similar talk that was held last year, in the CentOS Developers&amp;#39; room&lt;/a&gt;.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="881">Wouter Verhelst</person>
+      </persons>
+      <links>
+          <link href="http://meetings-archive.debian.net/pub/debian-meetings/2008/fosdem/ogg_theora/384x288/The_Belgian_electronic_ID_card_in_Debian___Wouter_Verhelst.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

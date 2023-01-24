@@ -1,0 +1,21 @@
+  <event id="219">
+      <start>11:00</start>
+      <duration>06:00</duration>
+      <room>UA2.114</room>
+      <slug></slug>
+      <title>LPI Item Writing Workshop</title>
+      <subtitle></subtitle>
+      <track>Certification</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;LPI holds an open attendance item development workshop for the new exam &amp;#34;Linux Essentials&amp;#34;. G. Matthew Rice, Director of Product Development at LPI, will guide this workshop.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Participants are invited to write real exam questions and answers for this new exam during the workshop. The purpose of the Linux Essentials Program is to define the basic knowledge required to competently use a desktop or mobile device using a Linux Operating System. The program will guide and encourage youth and those new to Linux and Open Source&#xA;to understand the place of Linux and Open Source in the context of the broader IT industry. More information about the Linux Essentials Program are at http://wiki.lpi.org/wiki/LinuxEssentials and at http://wiki.lpi.org/wiki/LinuxEssentialsProgramme&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="2191">G. Matthew Rice</person>
+      </persons>
+      <links>
+          <link href="http://wiki.lpi.org/wiki/VolunteerItemWriting">Volunteer item writing on lpi.org</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

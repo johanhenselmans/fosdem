@@ -1,0 +1,19 @@
+  <event id="20">
+      <start>13:15</start>
+      <duration>00:45</duration>
+      <room>AW1.124</room>
+      <slug></slug>
+      <title>Ada Break: Questions and Free Discussions</title>
+      <subtitle></subtitle>
+      <track>Ada</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Lunch break and informal discussions.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="201">Valentine Reboul</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

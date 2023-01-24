@@ -1,0 +1,19 @@
+  <event id="99">
+      <start>11:30</start>
+      <duration>00:30</duration>
+      <room>Lameere</room>
+      <slug></slug>
+      <title>Ofono and how to use the Nokia modem plugin</title>
+      <subtitle></subtitle>
+      <track>Embedded</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;oFono is an open source project for mobile telephony (GSM/UMTS). It provides a high-level D-Bus API for applications, and a plug-in API for adapting to different modem hardware.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;This talk gives an overview of how to run oFono on the Nokia N900 device running Maemo, as well as with (most) Nokia phones over USB.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="991">Aki Niemi</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

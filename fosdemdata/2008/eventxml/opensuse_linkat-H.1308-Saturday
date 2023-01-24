@@ -1,0 +1,20 @@
+  <event id="210">
+      <start>15:30</start>
+      <duration>00:45</duration>
+      <room>H.1308</room>
+      <slug></slug>
+      <title>Linkat: a distribution based on SUSE for the schools, community and services around it</title>
+      <subtitle></subtitle>
+      <track>openSUSE</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;&lt;a href=&#34;http://linkat.xtec.cat/portal/&#34;&gt;Linkat&lt;/a&gt;: openSUSE based distribution for the schools, community and services around it.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;We will present Linkat, a Linux distribution that is based on SLED10 but also has openSUSE packages as well as from other repositories, and its relation with the openSUSE community.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;We will present it from different perspectives: technical perspective, business perspective, local community perspective and international community perspective. We will see how all these views are interrelated in a local ecosystem that is possible thanks to linkat.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Finally we&amp;#39;ll discuss future plans and future collaborations with the openSUSE community through the &lt;a href=&#34;http://build.opensuse.org/&#34;&gt;openSUSE BuildService&lt;/a&gt;.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="2101">Jordi Massaguer</person>
+          <person id="2102">Jordi Bruguera</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

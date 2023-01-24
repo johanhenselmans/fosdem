@@ -1,0 +1,19 @@
+  <event id="224">
+      <start>14:30</start>
+      <duration>00:15</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>openSUSE Build Service overview</title>
+      <subtitle></subtitle>
+      <track>openSUSE</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Introduction into the &lt;a href=&#34;http://build.opensuse.org/&#34;&gt;openSUSE Build Service&lt;/a&gt;, why it was created, what are the goals it wants to achieve and a brief overview about its components.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="2241">Adrian Schroeter</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

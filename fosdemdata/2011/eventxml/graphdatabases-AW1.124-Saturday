@@ -1,0 +1,19 @@
+  <event id="132">
+      <start>18:15</start>
+      <duration>00:15</duration>
+      <room>AW1.124</room>
+      <slug></slug>
+      <title>Graph databases, the Web of Data storage engines</title>
+      <subtitle></subtitle>
+      <track>Data Analytics devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Graph databases included the possibility to run graph theory algorithms as easy as SQL queries are processed. This feature of graph databases make possible analysis of linked data easy, with use cases like finding communities, centrality measures, finding hubs, routing, shorted paths, recommendations and more.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Data has changed a lot during the last 30 years of computer history, we began with a records and text documents, followed by the introduction of HyperText and at mid 2000s the generalization of blogs, wikis, RDF, ontologies. Now the importance of data is on the site of relationships, we are on the middle of the hole era of social web. On the other side we are on the era of participation, so the generation of data grows every day exponentially.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;This facts make evolve graph databases, former network database on steroids, as a key actor on the field. When we speak about graph databases we are doing it about Innovative, sometimes open source, non relational, schema less, distributed and scalable solutions that store data as graphs.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Graph databases included the possibility to run graph theory algorithms as easy as SQL queries are processed. This feature of graph databases make possible analysis of linked data easy, with use cases like finding communities, centrality measures, finding hubs, routing, shorted paths, recommendations and more. With highly connected data stored as a graph let us to get an incredible gain in performance on common graph analysis operations. Operations like computing Betweenness Centrality over a graph of 2&lt;sup&gt;20&lt;/sup&gt; vertex could be done in lest than ten minutes, on the other side relational model need days of processing.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;At the end we have a useful tool to store, query and process huge amount of linked data in a decent way. Near feature will show us semantic web, or linked data, application backed with high quality graph databases.&lt;/p&gt;      </description>
+      <persons>
+          <person id="1321">Pere  Urbón-Bayes</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="171">
+      <start>13:45</start>
+      <duration>00:30</duration>
+      <room>AW1.105</room>
+      <slug></slug>
+      <title>SSH libraries: SSH vs TLS; libssh</title>
+      <subtitle></subtitle>
+      <track>Security &amp; hardware crypto devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt; SSH libraries: what they can do for you, and how different SSH is from TLS/SSL. Specific case of libssh : its API in two words, features and roadmap.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="1711">Aris Adamantiadis</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

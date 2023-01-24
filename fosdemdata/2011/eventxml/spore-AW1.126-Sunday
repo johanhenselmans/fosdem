@@ -1,0 +1,19 @@
+  <event id="289">
+      <start>16:00</start>
+      <duration>00:20</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>SPORE</title>
+      <subtitle></subtitle>
+      <track>Perl devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Spore is a specification for describing REST API&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;More and more web services offer REST API. Every time you want to access one of these services, you need to write a client for this API, or find an existing one. Sometimes, you will find the right library that will do exactly what you need. Sometimes you won’t, and you end up writing your own.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Spore is a specification for describing REST API that can be parsed and used automatically by client implementations to communicate with the descibed API.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2891">Franck Cuny</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="265">
+      <start>10:30</start>
+      <duration>00:45</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>Project Coin</title>
+      <subtitle>Language Evolution in the Open</subtitle>
+      <track>Free Java devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;&lt;a href=&#34;http://openjdk.java.net/projects/coin/&#34;&gt;Project Coin&lt;/a&gt; is an effort to add a set of small Java language changes to JDK 7.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Early phases of Project Coin included an open call for proposals period and many design discussions have occurred on the OpenJDK coin-dev mailing list. The subsequent implementations of the features are in the OpenJDK 7 Hg repositories and the features are also supported in NetBeans 7 beta builds. Besides the actual features and their development, the talk will also discuss experiences in community involvement in on-going language evolution.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2651">Joe Darcy</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

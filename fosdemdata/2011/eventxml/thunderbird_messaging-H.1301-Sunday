@@ -1,0 +1,19 @@
+  <event id="300">
+      <start>11:00</start>
+      <duration>00:30</duration>
+      <room>H.1301</room>
+      <slug></slug>
+      <title>Messaging / Thunderbird</title>
+      <subtitle></subtitle>
+      <track>Mozilla devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;General Thunderbird/Messaging update.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;What&amp;#39;s going on with Thunderbird. What&amp;#39;s going on with raindrop and other experiment Mozillamessaging is working on.&lt;/p&gt;      </description>
+      <persons>
+          <person id="3001">Ludovic  Hirlimann</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

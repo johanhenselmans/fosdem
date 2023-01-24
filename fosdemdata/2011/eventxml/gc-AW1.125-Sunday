@@ -1,0 +1,19 @@
+  <event id="118">
+      <start>16:55</start>
+      <duration>00:05</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>Garbage Collection</title>
+      <subtitle>Wrap-up</subtitle>
+      <track>Free Java devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Closing speeches and goodbyes.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;The end of the Free Java devroom for FOSDEM 2011.&lt;/p&gt;      </description>
+      <persons>
+          <person id="1181">Tom Marble</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

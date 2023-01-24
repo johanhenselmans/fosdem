@@ -1,0 +1,19 @@
+  <event id="299">
+      <start>16:00</start>
+      <duration>01:00</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>Shader Compiler Optimisation Strategies</title>
+      <subtitle></subtitle>
+      <track>X.org</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Different GPUs have different architectures and thus require different shader compiler optimisations for more optimal performance.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;This talk explains some of the differences between both AMD, Nvidia and Intel GPUs and will present some compiler algorithms to optimise shaders accordingly.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2991">Jerome Glisse</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

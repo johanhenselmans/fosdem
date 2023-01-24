@@ -1,0 +1,21 @@
+  <event id="125">
+      <start>09:40</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Balloon Open Hardware License</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;A lightning talk about the Balloon Open Hardware License.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;The talk will be primarily about the Balloon Open Hardware&#xA;Licence on which we are currently solicting feedback. It will explain&#xA;why the licence is different from software Licences, distinguishing&#xA;between designers, manufacturers, and users, who needs different&#xA;rights and protections. We are actively seeking feedback on this&#xA;Licence, in order to make it widely suitable. A short history of the&#xA;Balloon Project and current status will be included.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;i&gt;About the Balloon Project:&lt;/i&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Balloonboard is primarily about the design and use of the&#xA;Balloon series of open hardware boards. First Balloon hardware was in&#xA;2002, and Balloon2 was used in products of a couple of companies, for&#xA;Disabled speech sythesisers and seismometers. Balloon3 is now out,&#xA;with built-in FPGA, being used in University teaching (robotics) via&#xA;the Cambridge/MIT MDP.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;We have created a new Open Hardware licence suitable for all such Open&#xA;Hardware, and are keen to see Balloon spread to other educational&#xA;institutions and products, and the licence be refined and used&#xA;elsewher.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1251">Wookey</person>
+      </persons>
+      <links>
+          <link href="../../slides/lightningtalks/Balloon.pdf">Slides (PDF)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

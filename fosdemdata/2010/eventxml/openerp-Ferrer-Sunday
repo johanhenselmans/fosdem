@@ -1,0 +1,19 @@
+  <event id="245">
+      <start>11:20</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>OpenERP: Design applicactions with OpenObject in minutes</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;I propose to show OpenObject in action, how you can customize or develop new modules for OpenERP. It includes: the object and view editor, the workflow editor and the report designer.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;OpenERP is a modern Enterprise Management Software, released under the AGPL license, and featuring CRM, HR, Sales, Accounting, Manufacturing, Stock. It is based on OpenObject, a modular, scalable, and intuitive Rapid Application Development (RAD) framework written in Python.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;OpenObject features a complete and modular toolbox for quickly building applications: integrated Object-Relationship Mapping (ORM) support, template-based Model-View-Controller (MVC) interfaces, a report generation system, automated internationalization, and much more.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2451">Fabien Pinckaers</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

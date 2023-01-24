@@ -1,0 +1,19 @@
+  <event id="214">
+      <start>09:00</start>
+      <duration>02:00</duration>
+      <room>AW1.105</room>
+      <slug></slug>
+      <title>Traveling in OOo code and having Fun with the Mac port</title>
+      <subtitle></subtitle>
+      <track>OpenOffice.org</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;In this workshop, I&amp;#39;d like to describe my recent contributions for the Mac OS X port of OpenOffice.org, and organize a travel in several modules (including one new module), explaining what we find in them, through little examples I wrote.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;ul&gt;&lt;li&gt; Part1: describe the Apple Remote implementation, locate and show the involved code, explain the difficulties, the good and bad choices, how they have been improved in several child workspaces, and the future improvements. This feature does concern Mac OS X, but not only, and recent changes do concern all ports.&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;ul&gt;&lt;li&gt; Part 2: I&amp;#39;ll describe how I removed menu entries (macmenusquit child workspace) to match better with Aqua Human Interface Guidelines&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;ul&gt;&lt;li&gt; Part 3 : describe the work in progress of the 3D OpenGL transitions in Impress for the Mac OS X port.&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;Concerned languages :  C/C++ , objective C/C++, bash, perl and a bit of xsltproc&#xA;Concerned modules will be: postprocess, apple_remote, vcl, sd, scp2, slideshow, config_office, officecfg&#xA;&#xA;  </description>
+      <persons>
+          <person id="2141">Eric Bachard</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

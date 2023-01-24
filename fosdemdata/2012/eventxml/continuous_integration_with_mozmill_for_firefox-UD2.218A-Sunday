@@ -1,0 +1,19 @@
+  <event id="67">
+      <start>12:00</start>
+      <duration>00:30</duration>
+      <room>UD2.218A</room>
+      <slug></slug>
+      <title>Continuous integration with Mozmill for Firefox</title>
+      <subtitle></subtitle>
+      <track>Mozilla Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;An overview of how Mozmill is used to test daily Firefox builds in a CI environment. The talk also includes our plan to expand this testing to l10n builds triggered by check-ins from localizers.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="671">Henrik Skupin</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

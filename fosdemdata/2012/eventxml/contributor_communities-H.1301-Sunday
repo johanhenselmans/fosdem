@@ -1,0 +1,27 @@
+  <event id="69">
+      <start>11:30</start>
+      <duration>01:00</duration>
+      <room>H.1301</room>
+      <slug></slug>
+      <title>Working with contributor communities (round table)</title>
+      <subtitle></subtitle>
+      <track>CrossDistribution Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Several distribution projects have existing initiatives and programs in order to coordinate and/or fund local communities as well as shipping or producing promotional material, going to events to promote the project, etc...&#xA;Some projects are currently looking into setting up something like this, and others are rethinking their current model.&#xA;Those programs all have their differences, but achieve pretty similar goals.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;In this session, we will bring together a bunch of people from different projects who are in charge or actively participating in such initiatives, in order to briefly present what they are currently doing in their project and, more importantly, share experience about what has worked well and what hasn&amp;#39;t in an open discussion session.&#xA;Let&amp;#39;s learn from each others&amp;#39; ideas and mistakes.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="691">Kostas Koudaras</person>
+          <person id="692">Oliver Burger</person>
+          <person id="693">Laura Czajkowski</person>
+          <person id="694">Christoph Wickert</person>
+          <person id="695">Donnie Berkholz</person>
+          <person id="696">Petteri Räty</person>
+          <person id="697">Stefano Zacchiroli</person>
+      </persons>
+      <links>
+          <link href="http://video.fosdem.org/2012/crossdistro/Working_with_contributor_communities__round_table_.webm">Video recording</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

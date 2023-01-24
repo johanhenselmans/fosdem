@@ -1,0 +1,19 @@
+  <event id="193">
+      <start>18:30</start>
+      <duration>00:15</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>Analysing LibreOffice with Compiler plugins</title>
+      <subtitle>what does the compiler see that we cannot ?</subtitle>
+      <track>LibreOffice Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Above all else, LibreOffice is a vast corpus of C++ source code of varying quality. Static analysis of that giant code base guarantees a constant stream of interesting findings. The talk will look at how plugin architectures of modern C++ compilers allow to tap that stream.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="1931">Stephan Bergmann</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

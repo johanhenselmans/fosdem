@@ -1,0 +1,19 @@
+  <event id="156">
+      <start>11:00</start>
+      <duration>00:30</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>PhoneME CLDC and CDC VMs</title>
+      <subtitle></subtitle>
+      <track>Free Java</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;&lt;a href=&#34;http://www.mobileandembedded.org/&#34;&gt;The Java Mobile &amp;amp; Embedded Community&lt;/a&gt; hosts Sun&amp;#39;s GPL&amp;#39;ed Java ME VM projects called phoneME Feature and phoneME Advanced.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;phoneME Feature is a product-quality, highly-optimized CLDC/MIDP stack designed for resource-constrained platforms such as mobile phones and embedded devices. The commercial version has shipped millions of times. &#xA;&lt;/p&gt;&#xA;&lt;p&gt;phoneME Advanced is a product-quality, highly-optimized CDC/FP/PBP stack designed for advanced platforms such as smart-phones set-top boxes, IP TV, and other higher-end embedded applications. It is the base for many interesting projects and products, beating most other embedded VMs in performance, footprint, and robustness. &#xA;&lt;/p&gt;&#xA;&lt;p&gt;Let us introduce you to both VMs, their communities and code bases, and show you some of the interesting projects they are being used in.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1561">Terrence Barr</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

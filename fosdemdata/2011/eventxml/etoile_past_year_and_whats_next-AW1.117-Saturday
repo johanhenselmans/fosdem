@@ -1,0 +1,19 @@
+  <event id="97">
+      <start>13:30</start>
+      <duration>00:45</duration>
+      <room>AW1.117</room>
+      <slug></slug>
+      <title>Étoilé: What has been done over the past year and what&#39;s next?</title>
+      <subtitle></subtitle>
+      <track>World of GNUstep devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;In this presentation, we will take a look at the Étoilé progresses over the past year. We will summarize our work on both our core frameworks and GNUstep to which we have contributed a lot recently. We will also discuss the project status in a broader way, and what can be expected in 2011.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;In this presentation, we will take a look at the Étoilé progresses over the past year. We will summarize our work on both our core frameworks and GNUstep to which we have contributed a lot recently. We will also discuss the project status in a broader way, and what can be expected in 2011.&lt;/p&gt;      </description>
+      <persons>
+          <person id="971">Quentin Mathé</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

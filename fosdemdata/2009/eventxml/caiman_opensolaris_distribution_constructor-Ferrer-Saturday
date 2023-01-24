@@ -1,0 +1,19 @@
+  <event id="40">
+      <start>15:40</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Building custom OpenSolaris distributions with the  distro constuctor</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The presentation will give an overview about building your own customized OpenSolaris distribution. The presentation will discuss the new distro constructor being released with OpenSolaris 11.2008 and demonstrate on how to use it.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;The Distribution Constructor project is building a set of GUI and command-line tools allowing users to build an install image from a package repository. The distribution constructor tools accept input from the user and process a set of repository packages into one or more media images which can be utilized to install an OpenSolaris distribution.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The Distribution Constructor package is available in the pkg.opensolaris.org repository as of build 99, its name is SUNWdistro-const. Some basic documentation is available. The OpenSolaris 2008.11 distribution is built using this tool beginning with the build 98 ISO images.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;A future phase of the project will add the ability to generate an installable distribution using an existing installed system as its input, rather than a set of packages in a repository. This would be either an enhancement to, or replacement for, the existing Flash Installation functionality.&#xA;Key Requirements and Functionality (2008.11 Release)&#xA;&lt;/p&gt;&#xA;&lt;p&gt;    * A command-line interface to run the construction process&#xA;    * A manifest file format consumed by the constructor&#xA;    * Modifications to the Target Instantiation module built in Dwarf Caiman and Slim Install to create the file system structure needed for building thedistribution&#xA;    * Modifications to the Transfer module to support installing a set of IPS packages&#xA;    * A plug-in interface that the user or other projects can use to perform their image-specific customizations&#xA;    * Checkpointing interfaces which allow a build to be debugged, and restarted&#xA;    * A module for constructing a boot archive usable on installable media&#xA;    * Support for localization of the image produced&#xA;    * An installable package containing the distro constructor&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="401">Stefan Schneider</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

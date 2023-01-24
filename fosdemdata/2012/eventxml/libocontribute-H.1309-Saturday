@@ -1,0 +1,19 @@
+  <event id="194">
+      <start>18:45</start>
+      <duration>00:15</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>10 reasons to contribute to LibreOffice today</title>
+      <subtitle>why you should get hacking now</subtitle>
+      <track>LibreOffice Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Ten quick reasons why LibreOffice is a great place to make your blow for Free Software, with some detail about how we make this a fun place for you to get involved.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="1941">Björn Michaelsen</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

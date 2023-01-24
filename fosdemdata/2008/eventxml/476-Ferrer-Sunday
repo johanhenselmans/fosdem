@@ -1,0 +1,22 @@
+  <event id="44">
+      <start>14:20</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Wir3D: visual network scanner</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;My lightning talk will mainly cover the subject of network topology maps.&#xA;I&amp;#39;ll explain why the currently available solutions are insufficient in&#xA;some cases and what are the advantages of drawing 3D topology maps. I&amp;#39;ll&#xA;also mention about NMS apps: Graphical UI vs. Web UI and the idea of using&#xA;3D topology maps to create a highly intuitive UI for NMS.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;WiR3D is a SNMP network scanner which uses LANout to visualise the&#xA;scanning results in a 3D scene. In the future more features will be added&#xA;including GTK GUI, monitoring and alerting, so the program will become&#xA;NMS. Here&amp;#39;s the link to the short movie at YouTube showing WiR3D in&#xA;action:&#xA;http://youtube.com/watch?v=SOMvVxcihN8&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="441">Maciek Kolbusz</person>
+      </persons>
+      <links>
+          <link href="http://video.fosdem.org/2008/lightningtalks/FOSDEM2008-wir3d.ogg">Slides (PDF)</link>
+          <link href="http://fosdem.org/2008/slides/lightningtalks/fosdem08_ltalk_wir3d.pdf">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

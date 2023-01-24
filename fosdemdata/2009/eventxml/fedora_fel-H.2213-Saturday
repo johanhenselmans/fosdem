@@ -1,0 +1,19 @@
+  <event id="93">
+      <start>14:00</start>
+      <duration>01:00</duration>
+      <room>H.2213</room>
+      <slug></slug>
+      <title>Fedora Electronic Lab</title>
+      <subtitle></subtitle>
+      <track>Fedora + CentOS</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;&lt;a href=&#34;http://chitlesh.fedorapeople.org/FEL/&#34;&gt;Fedora&amp;#39;s Electronic Laboratory&lt;/a&gt; is dedicated to supporting the innovation and development of opensource EDA community along with a history of experience in multiple applications.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Fedora Electronic Laboratory provides a complete electronic laboratory setup with reliable open source design tools in order to meet one&amp;#39;s requirements to keep one in pace with current technological race. Project management tools &#x9;such as spreadsheet, gantt diagram, mindmapping tools.... are also included.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="931">Chitlesh Goorah</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

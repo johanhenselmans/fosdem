@@ -1,0 +1,19 @@
+  <event id="265">
+      <start>11:15</start>
+      <duration>00:45</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>MyOwnDB/Dedomenon</title>
+      <subtitle></subtitle>
+      <track>Ruby and Rails</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;&lt;a href=&#34;http://www.myowndb.com/&#34;&gt;Myowndb&lt;/a&gt; was launched early 2006 as one of the first Web databases exploiting Ajax to present its users with an easy to use interface.&#xA;The software is based on Ruby on Rails and Postgresql, and is developed by Free and Open Source Software developers, who released the MyOwnDb.com engine under the AGPLv3 at &lt;a href=&#34;http://www.dedomenon.org/&#34;&gt;dedomenon.org&lt;/a&gt;.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;This session will introduce you to the software, show how it was developed with flexibility and extensibility in mind and how easy it is to adapt it to your own needs.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2651">Raphaël Bauduin</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,22 @@
+  <event id="238">
+      <start>09:00</start>
+      <duration>00:25</duration>
+      <room>K.3.201</room>
+      <slug></slug>
+      <title>Welcome! or Why do we meet here today</title>
+      <subtitle></subtitle>
+      <track>Microkernel OS Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This short talk is intended as the opening talk of the entire devroom.&#xA;After a welcome greeting, I will briefly ponder about the motivation for&#xA;meeting together and attempt a basic quantitative comparison of&#xA;participating projects based on available project-metric data. The goal&#xA;of this quick comparison is to illustrate some apparent similarities and&#xA;differences between our projects, and to further support our common cause.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="2381">Jakub Jermář</person>
+      </persons>
+      <links>
+          <link href="545/91_FOSDEM2012-Welcome.pdf">FOSDEM2012-Welcome.pdf (slides)</link>
+          <link href="http://">http://</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

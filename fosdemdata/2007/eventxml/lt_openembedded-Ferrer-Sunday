@@ -1,0 +1,21 @@
+  <event id="139">
+      <start>16:00</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>OpenEmbedded</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;A lightning talk about OpenEmbedded, and other build-systems.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;OpenEmbedded can be classified as build-system. It heavily&#xA;relies on build-systems of Free Software projects. Exactly this will&#xA;be the content of the lightning talk. We will take a look at badly&#xA;written buildsystems including fontconfig and glibc, understand why&#xA;these things are bad and how these issues can be resolved. At the end&#xA;we will look into some requirements you should take into account when&#xA;picking a buildsystem for your project. &#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;i&gt;About OpenEmbedded:&lt;/i&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Deterministic and flexible system to build Embedded&#xA;Linux Distributions, Toolchains and Packages&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1391">Holger Freythe</person>
+      </persons>
+      <links>
+          <link href="../../slides/lightningtalks/OpenEmbedded.pdf">Slides (PDF)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

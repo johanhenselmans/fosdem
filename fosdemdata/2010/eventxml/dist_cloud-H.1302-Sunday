@@ -1,0 +1,19 @@
+  <event id="45">
+      <start>09:15</start>
+      <duration>00:45</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>Linux distribution for the cloud</title>
+      <subtitle></subtitle>
+      <track>Distributions</track>
+      <type></type>
+      <language></language>
+      <abstract></abstract>
+      <description></description>
+      <persons>
+          <person id="451">Peter Eisentraut</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

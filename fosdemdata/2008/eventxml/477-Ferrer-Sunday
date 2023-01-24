@@ -1,0 +1,22 @@
+  <event id="45">
+      <start>14:40</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>K-3D: 3D modeling and animation package</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;My presentation will give a brief overview of the K-3D architecture, and show &#xA;how to write and use a simple plugin. The idea is to demonstrate how easy it &#xA;is to write a plugin, and how the visual programming system allows any plugin &#xA;to immediately work together with the rest of K-3D to allow new, powerful &#xA;combinations. Hopefully, this will be convincing enough to attract new &#xA;developers.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;K-3D is a free 3D modeling and animation package, written by Timothy M. Shead, &#xA;who released the project under the GPL in 1999. The main features that set &#xA;K-3D apart from other FOSS modelers are its object-oriented design, &#xA;its &amp;#34;visual programming&amp;#34; system and the extremely modular architecture. A &#xA;solid framework and many modeling tools are currently in place, as well as &#xA;support for several external rendering engines. K-3D also participated in the &#xA;Google Summer of Code 2007 with two students, one of whom successfully &#xA;finished his project.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="451">Bart Janssens</person>
+      </persons>
+      <links>
+          <link href="http://video.fosdem.org/2008/lightningtalks/FOSDEM2008-k3d.ogg">Slides (PDF)</link>
+          <link href="http://fosdem.org/2008/slides/lightningtalks/fosdem08_ltalk_k3d.pdf">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,17 @@
+  <event id="24">
+      <start>16:30</start>
+      <duration>00:30</duration>
+      <room>K.4.201</room>
+      <slug></slug>
+      <title>Cross-distro Collaboration Brainstorming and Closing</title>
+      <subtitle></subtitle>
+      <track>BSD Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The various BSD licensed operating systems have many things in common.  We should use our time at FOSDEM to find new ways to collaborate.  This session will give us an opportunity to do so before we go our separate ways.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons></persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

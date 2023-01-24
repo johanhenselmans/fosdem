@@ -1,0 +1,19 @@
+  <event id="98">
+      <start>15:00</start>
+      <duration>01:00</duration>
+      <room>AW1.117</room>
+      <slug></slug>
+      <title>Fast and Flexible UI Development with EtoileUI</title>
+      <subtitle></subtitle>
+      <track>World of GNUstep devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;EtoileUI is a high-level UI toolkit for Étoilé where elements visible on screen are abstract nodes to which pluggable aspects can be bound. The same uniform tree structure is used to describe any kind of structured content (composite document, application User Interface etc.) and the role of each node can be entirely changed at runtime by altering the aspects bound to it. All User Interface concerns such as layouts, tools, action handlers, styles, model objects etc. are pluggable aspects which can be easily reused and recombined.&#xA;In this presentation, we will give a general introduction to the EtoileUI framework available on any GNUstep platform and also Mac OS X (EtoileUI is Cocoa compatible). We will discuss which problems EtoileUI tries to solve, and how it moves away from the monolithic widget model used by most other UI toolkits to support treating the User Interface as a permanent prototype. We will share our progresses since the last FOSDEM and highlight various points which were not covered in the last year presentation. Finally we will present new features which have been added recently and talk about our next plans a bit.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;EtoileUI is a high-level UI toolkit for Étoilé where elements visible on screen are abstract nodes to which pluggable aspects can be bound. The same uniform tree structure is used to describe any kind of structured content (composite document, application User Interface etc.) and the role of each node can be entirely changed at runtime by altering the aspects bound to it. All User Interface concerns such as layouts, tools, action handlers, styles, model objects etc. are pluggable aspects which can be easily reused and recombined.&#xA;In this presentation, we will give a general introduction to the EtoileUI framework available on any GNUstep platform and also Mac OS X (EtoileUI is Cocoa compatible). We will discuss which problems EtoileUI tries to solve, and how it moves away from the monolithic widget model used by most other UI toolkits to support treating the User Interface as a permanent prototype. We will share our progresses since the last FOSDEM and highlight various points which were not covered in the last year presentation. Finally we will present new features which have been added recently and talk about our next plans a bit.&lt;/p&gt;      </description>
+      <persons>
+          <person id="981">Quentin Mathé</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

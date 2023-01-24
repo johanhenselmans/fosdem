@@ -1,0 +1,29 @@
+  <event id="105">
+      <start>11:00</start>
+      <duration>00:05</duration>
+      <room>K.4.401</room>
+      <slug></slug>
+      <title>Welcome to the Free Java DevRoom</title>
+      <subtitle></subtitle>
+      <track>Free Java Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Brief Welcome to the Free Java DevRoom&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="1051">Sylvestre Ledru</person>
+          <person id="1052">Mario Torre</person>
+          <person id="1053">Martijn Verburg</person>
+          <person id="1054">Ben Evans</person>
+          <person id="1055">Tom Marble</person>
+          <person id="1056">Mark Wielaard</person>
+          <person id="1057">Andrew Haley</person>
+          <person id="1058">Andrew Hughes</person>
+          <person id="1059">Dalibor Topić</person>
+      </persons>
+      <links>
+          <link href="http://wiki.debian.org/Java/DevJam/2012/Fosdem">Free Java DevRoom Wiki</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

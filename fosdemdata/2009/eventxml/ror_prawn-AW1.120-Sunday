@@ -1,0 +1,19 @@
+  <event id="267">
+      <start>10:00</start>
+      <duration>00:30</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>Prawn</title>
+      <subtitle></subtitle>
+      <track>Ruby and Rails</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;&lt;a href=&#34;http://prawn.majesticseacreature.com/&#34;&gt;Prawn&lt;/a&gt; is Ruby&amp;#39;s solution to generate PDF files.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;In this talk, you&amp;#39;ll get an overview of the history of the project, the direction it is going in, learn how to create PDFs with Ruby, and even get some code snippets to get you started!&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2671">Tom Klaasen</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

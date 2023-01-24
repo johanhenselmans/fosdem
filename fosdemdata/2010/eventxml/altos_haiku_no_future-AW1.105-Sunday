@@ -1,0 +1,19 @@
+  <event id="9">
+      <start>16:00</start>
+      <duration>00:30</duration>
+      <room>AW1.105</room>
+      <slug></slug>
+      <title>Haiku has No Future</title>
+      <subtitle></subtitle>
+      <track>Alt-OS</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Haiku has No Future (like most other small OSS Operating Systems)&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Many Open Source projects start as small but ambitious endeavors, with the hopes of becoming successful. Though it is fair to say that most do not. By taking some recent examples of successful OSS projects and putting it in a juxtaposition with contemporary queer theory (after all, being alternative is all about being queer), I attempt to construct a new definition of success that hopefully serves as an inspiration for OSS projects.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="91">Niels Sascha Reedijk</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

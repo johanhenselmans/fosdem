@@ -1,0 +1,24 @@
+  <event id="235">
+      <start>11:10</start>
+      <duration>00:45</duration>
+      <room>K.3.201</room>
+      <slug></slug>
+      <title>Introduction to HelenOS</title>
+      <subtitle></subtitle>
+      <track>Microkernel OS Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;HelenOS is a general-purpose multiserver operating system written from scratch. It is based on a custom microkernel, SPARTAN, which currently runs on seven different CPU architectures (ARM, IA-32, x86-64, Itanium, MIPS, PowerPC and SPARC V9) . Most system services (e.g. device drivers, file systems, networking) are implemented in regular user-space processes which communicate via asynchronous messaging.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;First, the talk will briefly introduce the HelenOS project history and community structure. Second, we will briefly talk about the major technical areas and specifics of the system (boot and kernel, IPC mechanisms and naming services, devices and filesystems). This part will be supported by demos of the running system as well as by showing the structure of the source code. Last, we will look at what functionality is already there, what is currently being actively worked on and what are the future plans, which aim toward making the system self-hosting.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="2351">Jakub Jermář</person>
+      </persons>
+      <links>
+          <link href="548/94_FOSDEM2012-HelenOS.pdf">FOSDEM2012-HelenOS.pdf (slides)</link>
+          <link href="http://www.helenos.org/">HelenOS project homepage</link>
+          <link href="bzr://bzr.helenos.org/mainline">HelenOS main repository</link>
+          <link href="http://trac.helenos.org/">HelenOS Developer wiki</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

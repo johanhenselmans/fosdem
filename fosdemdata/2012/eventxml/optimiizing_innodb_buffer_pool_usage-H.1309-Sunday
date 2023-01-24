@@ -1,0 +1,19 @@
+  <event id="308">
+      <start>14:00</start>
+      <duration>00:25</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>Optimizing your innodb buffer pool usage</title>
+      <subtitle></subtitle>
+      <track>MySQL and Friends Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Many of the MySQL servers now support inspection of the InnoDB buffer pool contents. Since effective usage of the InnoDB buffer pool is critical to good MySQL performance, a look into what is in your buffer pool is an effective tool to optimize your table layout and index usage for optimal performance. The presentation shows how to use this information to create efficient tables and indexes by looking at your buffer pool contents.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="3081">Steve Hardy</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

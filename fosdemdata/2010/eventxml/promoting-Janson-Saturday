@@ -1,0 +1,21 @@
+  <event id="263">
+      <start>10:45</start>
+      <duration>00:45</duration>
+      <room>Janson</room>
+      <slug></slug>
+      <title>Promoting Open Source Methods at a Large Company</title>
+      <subtitle></subtitle>
+      <track>Keynotes</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk will&#xA;cover Aerosource, our project to bring open source development tools&#xA;and methods to internal developers.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;At the Aerospace corporation our approximately 2500 engineers developer&#xA;a lot of software in the course of doing their jobs.  This talk will&#xA;cover Aerosource, our project to bring open source development tools&#xA;and methods to internal developers.  Aerosource is a project hosting&#xA;environment built on open source tools including Apache, FreeBSD,&#xA;PostgreSQL, Python, and Trac.  We will share our experiences and&#xA;successes at promoting open source methods in a traditionally closed&#xA;environment.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2631">Brooks Davis</person>
+      </persons>
+      <links>
+          <link href="http://video.fosdem.org/2010/maintracks/promoting-opensource.xvid.avi">Video (DIVX)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

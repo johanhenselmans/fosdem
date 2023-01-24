@@ -1,0 +1,19 @@
+  <event id="34">
+      <start>15:40</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Coccinelle: Finding bugs in open source systems code</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Bugs are pervasive in code. And when one finds one bug there are often&#xA;others of the same type lurking in other parts of the code base. The&#xA;difficulty then is how to find them efficiently within thousands or&#xA;millions of lines of code.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;At the University of Copenhagen, in collaboration with researchers in Paris&#xA;and Aalborg, we have been developing the Coccinelle program matching and&#xA;transformation engine (http://coccinelle.lip6.fr). Coccinelle provides a&#xA;language, SmPL (semantic patch language), for writing complex code patterns&#xA;that may perform simple searching or that can be annotated with&#xA;transformation information. A novelty of Coccinelle is that these patterns&#xA;look very similar to ordinary source code. Nevertheless, SmPL patterns can&#xA;be made generic using pattern variables, and are matched according to the&#xA;semantics of the source code rather than the line-by-line syntax, and hence&#xA;we have given them the name semantic patches.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;In this talk, we will introduce Coccinelle and the SmPL language, and then&#xA;illustrate its use with examples based on bugs that we have found and fixed&#xA;in Linux kernel code. In particular, we will focus on how the source-code&#xA;like language makes it easy to customize the bug finding process to very&#xA;specific problems and to fine-tune semantic patches to reduce the number of&#xA;false positives, which plague automated bug finding tools.  To date, over&#xA;400 patches derived from the use of Coccinelle have been accepted into the&#xA;Linux kernel source tree.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Coccinelle is a program matching and transformation system targeting C code.&#xA;Coccinelle provides a language, SmPL (semantic patch language), for writing&#xA;complex code patterns that may perform simple searching or that can be&#xA;annotated with transformation information. A novelty of Coccinelle is that&#xA;these patterns look very similar to ordinary source code. Nevertheless, SmPL&#xA;patterns can be made generic using pattern variables, and are matched according&#xA;to the semantics of the source code rather than the line-by-line syntax.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;In developing Coccinelle, we have particularly targeted Linux kernel code.&#xA;Nevertheless, Coccinelle has been applied in the context of other open source&#xA;software projects, such as OpenSSL and Wine.  To date, over 400 patches derived&#xA;from the use of Coccinelle have been accepted into the Linux kernel source tree.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="341">Julia Lawall</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

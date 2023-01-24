@@ -1,0 +1,19 @@
+  <event id="27">
+      <start>14:00</start>
+      <duration>01:00</duration>
+      <room>AW1.124</room>
+      <slug></slug>
+      <title>Introduction to Ada for Beginning or Experienced Programmers</title>
+      <subtitle></subtitle>
+      <track>Ada</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This presentation exposes the main features of the Ada language, with special emphasis on the features that make it especially attractive for free software development.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="271">Jean-Pierre Rosen</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

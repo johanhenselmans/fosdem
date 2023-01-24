@@ -1,0 +1,19 @@
+  <event id="17">
+      <start>16:00</start>
+      <duration>01:00</duration>
+      <room>Janson</room>
+      <slug></slug>
+      <title>10 cool things about Exherbo</title>
+      <subtitle></subtitle>
+      <track>Distributions</track>
+      <type></type>
+      <language></language>
+      <abstract></abstract>
+      <description>&#xA;&lt;p&gt;This talk will focus on 10 important features that makes it easier for users&#xA;and developers alike to work with Exherbo. While the talk will focus on the&#xA;current state of Exherbo and the short-term future the ideas being presented&#xA;should be equally interesting for other distribution developers and users.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="171">Bryan Østergaard</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

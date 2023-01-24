@@ -1,0 +1,19 @@
+  <event id="303">
+      <start>13:00</start>
+      <duration>00:55</duration>
+      <room>K.3.201</room>
+      <slug></slug>
+      <title>Openshift</title>
+      <subtitle></subtitle>
+      <track>JBoss.org Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;You&amp;#39;re using IaaS to build a large scale, multi-tenant, hosted service. At the end of the day, you&amp;#39;re hosting other people&amp;#39;s code in some form.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Your environment needs to be dynamic to properly utilize IaaS capabilities and meet user expectations. You need it to stay secure and controlled. Your users need to stay isolated from each other without feeling restricted. You need to control orchestration, workload management and security. You need to orchestrate to respond to changes in scale or failures at the IaaS level. You need workload management to control the resources a single user can consume and how contention is managed. Lastly, you need users to have access to as much as possible so they feel in control without risking your control of the overall system.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;This talk will show by example how Red Hat&amp;#39;s OpenShift Platform-as-a-Service uses MCollective for orchestration, SELinux for segmentation, Linux Control Groups for workload management and some core operational fundamentals applied to cloud architectures to tackle this challenge.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Ref : https://openshift.redhat.com&lt;/p&gt;      </description>
+      <persons>
+          <person id="3031">Grant Shipley</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

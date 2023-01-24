@@ -1,0 +1,19 @@
+  <event id="20">
+      <start>16:40</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>asterisk: An introduction to Asterisk Development</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;A brief introduction to the tools used in Asterisk development, as well as the structure of the program. Information regarding how to submit new features and bug reports will be included as well.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Asterisk is an open source telephony platform, commonly used to implement PBX&amp;#39;s.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="201">Mark Michelson</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="254">
+      <start>13:15</start>
+      <duration>00:45</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>Developments in PostgreSQL 9.0</title>
+      <subtitle></subtitle>
+      <track>PostgreSQL</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk will briefly examine the development process used by the PostgreSQL project over the last year, and take a look back at the new features that have been committed to the source tree for the upcoming 9.0 release, as well as some of those currently in development.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="2541">Dave Page</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

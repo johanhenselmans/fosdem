@@ -1,0 +1,19 @@
+  <event id="129">
+      <start>18:15</start>
+      <duration>00:15</duration>
+      <room>AW1.117</room>
+      <slug></slug>
+      <title>GNUstep on OpenBSD, a short overview</title>
+      <subtitle></subtitle>
+      <track>World of GNUstep devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The talk will focus on what was there, half a year ago and what will OpenBSD 4.9 have in the ports tree. The following questions will be answered:&#xA;* why GNUstep on OpenBSD?&#xA;* what works (where, i.e. which platforms), and what&amp;#39;s not?&#xA;* why its not working on some platforms?&#xA;* what&amp;#39;s planned, or needed to have more progress/GNUstep ports added?&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;The talk will focus on what was there, half a year ago and what will OpenBSD 4.9 have in the ports tree. The following questions will be answered:&#xA;* why GNUstep on OpenBSD?&#xA;* what works (where, i.e. which platforms), and what&amp;#39;s not?&#xA;* why its not working on some platforms?&#xA;* what&amp;#39;s planned, or needed to have more progress/GNUstep ports added?&lt;/p&gt;      </description>
+      <persons>
+          <person id="1291">Sebastian Reitenbach</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

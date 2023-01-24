@@ -1,0 +1,19 @@
+  <event id="140">
+      <start>14:00</start>
+      <duration>00:25</duration>
+      <room>H.2213</room>
+      <slug></slug>
+      <title>Boosting Enterprise MySQL performance: implementing I/O prefetch for InnoDB</title>
+      <subtitle></subtitle>
+      <track>MySQL &amp; friends devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Tests have shown that InnoDB is not using traditional spindle-based I/O subsystems to their maximum potential while doing OLTP workloads with I/O-bound queries; Pages are requested sequentially from the disk system instead of asynchronously, even when using MySQL 5.5&amp;#39;s native Aynchronous I/O support. The presentation shows the advantages of implementing a prefetch mechanism which can result in large gains in I/O performance.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;For more information of the Innodb prefetch improvement see this mailinglist post: http://lists.mysql.com/internals/38126&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Tests have shown that InnoDB is not using traditional spindle-based I/O subsystems to their maximum potential while doing OLTP workloads with I/O-bound queries; Pages are requested sequentially from the disk system instead of asynchronously, even when using MySQL 5.5&amp;#39;s native Aynchronous I/O support. The presentation shows the advantages of implementing a prefetch mechanism which can result in large gains in I/O performance.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;For more information of the Innodb prefetch improvement see this mailinglist post: http://lists.mysql.com/internals/38126&lt;/p&gt;      </description>
+      <persons>
+          <person id="1401">Steve Hardy</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

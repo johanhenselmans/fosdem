@@ -1,0 +1,24 @@
+  <event id="20">
+      <start>09:00</start>
+      <duration>01:00</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>Formal Dependency Management</title>
+      <subtitle></subtitle>
+      <track>Debian</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Formal Dependency Management in Debian Package Repositories&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;In this talk we will briefly sketch the research that has been done concerning the maintenance of large package-based distributions and the formal management of inter-package dependencies, in the context of the EDOS Project.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The toolset that has been developed starting from this research will be showcased in its Debian incarnation:&#xA;&lt;/p&gt;&lt;ul&gt;&lt;li&gt; edos-debcheck: a dependency checker for finding inconsistencies in Debian repositories.&#xA;&lt;/li&gt;&#xA;&lt;li&gt; edos-history: a package repository exploration tool that is able to handle historical Debian repositories data.&#xA;&lt;/li&gt;&#xA;&lt;li&gt; anla: a web service that reports the analysis of Debian repositories over time.&#xA;&lt;/li&gt;&#xA;&lt;li&gt; tart: a distribution &amp;#34;thinner&amp;#34; used to build custom Debian distributions.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA; </description>
+      <persons>
+          <person id="201">Berke Durak</person>
+      </persons>
+      <links>
+          <link href="http://meetings-archive.debian.net/pub/debian-meetings/2007/fosdem/slides/Formal_Dependency_Management-Berke_Durak/Formal_Dependency_Management-Berke_Durak.pdf">Slides (PDF)</link>
+          <link href="http://meetings-archive.debian.net/pub/debian-meetings/2007/fosdem/ogg_theora/720x576/Formal_Dependency_Management-Berke_Durak.ogg">Video (Ogg/Theora)</link>
+          <link href="http://meetings-archive.debian.net/pub/debian-meetings/2007/fosdem/xvid/Formal_Dependency_Management-Berke_Durak_xvid.avi">Video (DIVX)</link>
+          <link href="http://meetings-archive.debian.net/pub/debian-meetings/2007/fosdem/ogg_theora/360x288/Formal_Dependency_Management-Berke_Durak.ogg">Video (Ogg/Theora/Low quality)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

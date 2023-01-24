@@ -1,0 +1,19 @@
+  <event id="55">
+      <start>18:15</start>
+      <duration>00:45</duration>
+      <room>H.1308</room>
+      <slug></slug>
+      <title>How to be a good upstream</title>
+      <subtitle></subtitle>
+      <track>Distributions</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;How upstreams run their projects determines how easy the projects are for packagers to package.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;The aim of this coal is to introduce what kind things should be taken into account in order to make the life of  distributions easier.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="551">Petteri Räty</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

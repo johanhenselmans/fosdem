@@ -1,0 +1,19 @@
+  <event id="26">
+      <start>17:00</start>
+      <duration>00:30</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>Beyond the historical group limit in FreeBSD</title>
+      <subtitle></subtitle>
+      <track>BSD</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Historically FreeBSD has limited the number of groups per process (and hence per-user) to somewhere between 14 and 16 depending how you count. This leads to problems in a number of environments including the use of FreeBSD as an SMB server.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;I will talk about those issues, bugs in the existing implementation, how we raised the limit to 1023 in 8.0, and what&#xA;our future plans are for group support.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="261">Brooks Davis</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

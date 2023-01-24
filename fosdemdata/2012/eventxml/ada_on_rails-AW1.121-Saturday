@@ -1,0 +1,19 @@
+  <event id="4">
+      <start>17:00</start>
+      <duration>00:25</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>Ada on Rails </title>
+      <subtitle></subtitle>
+      <track>Ada Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Discover how Ada catches up with web application development.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Ada on Rails is a bleeding edge Ada tooled framework environment that enables web applications development. The goal of Ada on Rails is to efficiently use all the strength of the Ada based technologies in web applications, while being: Rapid Application Development compatible; agile friendly; safe and secure; ready for formal method through SPARK Ada; low code, memory and CPU footprint; range from bareboard to large scaled distributed SOA applications.&lt;/p&gt;      </description>
+      <persons>
+          <person id="41">David Sauvage</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

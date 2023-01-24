@@ -1,0 +1,19 @@
+  <event id="84">
+      <start>10:30</start>
+      <duration>00:30</duration>
+      <room>H.1308</room>
+      <slug></slug>
+      <title>Zentyal</title>
+      <subtitle></subtitle>
+      <track>CrossDistro devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Zentyal (formerly eBox Platform) is a Linux small business server,&#xA;  that can act as Gateway, Infrastructure Manager, Unified Threat&#xA;  Manager, Office Server, Unified Communication Server or a combination&#xA;  of them.  These functionalities are tightly integrated, automating&#xA;  most tasks, avoiding mistakes and saving time for system&#xA;  administrators.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Zentyal is based on Ubuntu server, being able to manage services in a&#xA;  computer network like advanced routing, firewall and traffic shaping,&#xA;  DHCP, DNS, RADIUS, VPN, proxy, IDS, mail, file and printer sharing,&#xA;  VoIP, IM and more.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;  The main challenge of the project has been going further than simple&#xA;  configuration providing integration between the managed services.&#xA;  Modules like firewall, DNS, CA, webserver or mail offer their services&#xA;  to other modules which can be configured to work together. It offers a&#xA;  layer of abstraction and management, with concepts like services,&#xA;  network objects, events or master-slave LDAP architecture between&#xA;  others. To archive these goals a specific service management and&#xA;  integration MVC framework was developed and improved during the 6&#xA;  years project life. This framework has proved how easy it&amp;#39;s to&#xA;  configure a new service or improve an existing module, experience we&#xA;  shared with the Perl community on last year YAPC::EU.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;  This talk will present the project, its framework, how it integrates&#xA;  with Ubuntu and the plans to upload to Debian too. Also the&#xA;  difficulties that exist dealing with packaging policies and security&#xA;  profiles and how the project attempts to resolve them: configuration&#xA;  file updates: fstab, nsswitch, pam, etc.&lt;/p&gt;      </description>
+      <persons>
+          <person id="841">Jorge Salamero Sanz</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

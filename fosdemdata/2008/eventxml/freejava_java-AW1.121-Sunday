@@ -1,0 +1,21 @@
+  <event id="138">
+      <start>16:00</start>
+      <duration>01:30</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>Java: Freedom, Compatibility and Community</title>
+      <subtitle></subtitle>
+      <track>Free Java</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;How to combine the holy trinity of Free Java? Freedom, Compatibility and Community.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Java is Free! Now how do we keep it that way? How do we measure compatibity? What about this mysterious and non-free JCK? What is the future of the JCP process? Where does the community come in and how can you help?&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1381">Dalibor Topic</person>
+          <person id="1382">Onno Kluyt</person>
+          <person id="1383">Andrew Haley</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

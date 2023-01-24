@@ -1,0 +1,19 @@
+  <event id="265">
+      <start>10:30</start>
+      <duration>00:30</duration>
+      <room>H.2213</room>
+      <slug></slug>
+      <title>XAudio, an Audio extension for the X Window System</title>
+      <subtitle></subtitle>
+      <track>X.org</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;&lt;a href=&#34;http://www.chaoticmind.net/~hcb/murx/xaudio/&#34;&gt;XAudio&lt;/a&gt; extends the X Window System to support audio processing; this extension is currently implemented as a loadable module for the X.org server. X clients can capture, playback and process audio through the X server.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Audio processing is network transparent, optionally low-latency can be achieved through a shared memory mechanism. An audio manager performs functions analogous to the Window/Compositing manager, such as determining mix-down of streams from multiple clients.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The &lt;a href=&#34;http://www.chaoticmind.net/~hcb/murx/xaudio/&#34;&gt;XAudio project&lt;/a&gt; aims to showcase the considerable benefits of integration compared to stand-alone audio daemons. And will demonstrate the feasibility of this approach and hopefully provide a standard implementation of this concept.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="2651">Helge Bahmann</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

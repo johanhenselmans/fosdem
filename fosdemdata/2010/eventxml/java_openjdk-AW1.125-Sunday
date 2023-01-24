@@ -1,0 +1,19 @@
+  <event id="151">
+      <start>15:45</start>
+      <duration>00:30</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>OpenJDK Roundtable</title>
+      <subtitle></subtitle>
+      <track>Free Java</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Discuss with OpenJDK regulars what you&amp;#39;re hacking on, what you&amp;#39;d like to do in the project, and how you&amp;#39;ll go about it.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="1511">Dalibor Topic</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

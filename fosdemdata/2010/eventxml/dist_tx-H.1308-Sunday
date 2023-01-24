@@ -1,0 +1,19 @@
+  <event id="72">
+      <start>10:00</start>
+      <duration>00:45</duration>
+      <room>H.1308</room>
+      <slug></slug>
+      <title>Transactional Roll-backs and Upgrades</title>
+      <subtitle></subtitle>
+      <track>Distributions</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;As part of the MANCOOSI project, looking to improve upon the upgrade process of packages, Caixa Mágica and several other European partners are researching and developing solutions for various, related topics of the package upgrade process. One aspect is that of looking at whether Roll-Back is feasible and what mechanisms are best for making this sort of approach work alongside existing package meta-installers.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;We will state what we define as Roll-Back and the associated problems of trying to achieve this process. To do this we investigate current state-of-the-art mechanisms available for &amp;#39;Roll-Back&amp;#39; and configuration management and then state what our current methodology is for trying to tackle and achieve Roll-Back for our apt-rpm based distribution. We outline some of the decisions and assumptions  that have been taken and indicate what the project members believe the outcome will be. &#xA;&lt;/p&gt;&#xA;&lt;p&gt;We will then invite questions from the audience to try and promote a few talking points.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="721">John Thomson</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

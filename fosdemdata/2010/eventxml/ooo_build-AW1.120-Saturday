@@ -1,0 +1,19 @@
+  <event id="239">
+      <start>14:30</start>
+      <duration>00:45</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>Improving the OpenOffice.org Build System</title>
+      <subtitle></subtitle>
+      <track>OpenOffice.org</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The Build Environment Effort is an ongoing effort to update various aspects of the OpenOffice.org build environment.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Some of the aims of this effort require to rethink the basic architecture of how OpenOffice.org is build. This talk with present the results so far and how we are planning to go on.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2391">Bjoern Michaelsen</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

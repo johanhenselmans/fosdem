@@ -1,0 +1,22 @@
+  <event id="70">
+      <start>12:00</start>
+      <duration>00:50</duration>
+      <room>Janson</room>
+      <slug></slug>
+      <title>coreboot - The last frontier: Laptops</title>
+      <subtitle>Bringing free firmware to a laptop near you</subtitle>
+      <track>System Track</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;coreboot is a free firmware for x86 computers. It is designed as an extremely fast and lightweight alternative to BIOS and EFI (poweron to OS in &amp;lt;500 ms) while retaining the flexibility to boot any operating system. A few hundred desktop/server/embedded mainboards are supported, but supported laptops were unavailable in shops until now.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;The coreboot developers are proud to present the first working mainstream laptop here at FOSDEM.&#xA;We&amp;#39;ll tell you how we did it, and how you can enjoy coreboot on your hardware as well.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;coreboot is a free firmware for x86 computers. It is designed as an extremely fast and lightweight alternative to BIOS and EFI (poweron to OS in &amp;lt;500 ms) while retaining the flexibility to boot any operating system. A few hundred desktop/server/embedded mainboards are supported, but supported laptops were unavailable in shops until now.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;The coreboot developers are proud to present the first working mainstream laptop here at FOSDEM.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;This talk will briefly introduce coreboot goals and current project status, and then jump right into a rollercoaster ride through laptop architecture (main processor and embedded controllers), x86 early initialization, coreboot architecture, reverse engineering, hardware debugging, and how to write coreboot support for a laptop. You&amp;#39;ll get to know the various technical (no debug hardware available, ...) and non-technical (no datasheets, ...) roadblocks and how to overcome them.&#xA;Whether you just want to understand how coreboot works and buy supported hardware or you want to port and install coreboot to your own hardware, this talk will give you all the info to get started.&lt;/p&gt;      </description>
+      <persons>
+          <person id="701">Carl-Daniel Hailfinger</person>
+      </persons>
+      <links>
+          <link href="http://www.coreboot.org/">coreboot project homepage</link>
+          <link href="http://video.fosdem.org/2012/maintracks/janson/Coreboot.webm">Video recording</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

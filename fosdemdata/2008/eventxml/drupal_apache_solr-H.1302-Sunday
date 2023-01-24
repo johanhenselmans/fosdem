@@ -1,0 +1,19 @@
+  <event id="102">
+      <start>13:30</start>
+      <duration>01:00</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>Introducing the Apache Solr Module</title>
+      <subtitle></subtitle>
+      <track>Drupal</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Robert Douglass introduces the &lt;a href=&#34;http://lucene.apache.org/solr/&#34;&gt;ApacheSolr&lt;/a&gt; &lt;a href=&#34;http://drupal.org/project/apachesolr&#34;&gt;module&lt;/a&gt; - next generation search for Drupal sites.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;The &lt;a href=&#34;http://drupal.org/project/apachesolr&#34;&gt;ApacheSolr module&lt;/a&gt; allows Drupal sites to integrate with &lt;a href=&#34;http://lucene.apache.org/solr/&#34;&gt;Lucene/Solr&lt;/a&gt; for a comprehensive search solution that exceeds Drupal&amp;#39;s core search in performance and features. From faceted searching to searching across multiple sites, ApacheSolr opens up a world of new possibilities.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Join Robert as he explains the fundamental concepts behind this technology and demonstrates its features.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1021">Robert Douglass</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

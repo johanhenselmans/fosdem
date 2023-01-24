@@ -1,0 +1,21 @@
+  <event id="23">
+      <start>15:00</start>
+      <duration>00:45</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>Debian GNU/kFreeBSD</title>
+      <subtitle></subtitle>
+      <track>BSD</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;With its upcoming release Debian 6.0 aka Squeeze, for the first time, Debian users will have the choice between a Linux and a FreeBSD kernel.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Lets see what awaits the user when choosing a FreeBSD kernel.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="231">Axel Beckert</person>
+      </persons>
+      <links>
+          <link href="http://noone.org/talks/kfreebsd/">Slides (HTML)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

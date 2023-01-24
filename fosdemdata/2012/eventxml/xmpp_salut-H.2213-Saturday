@@ -1,0 +1,19 @@
+  <event id="433">
+      <start>18:00</start>
+      <duration>00:15</duration>
+      <room>H.2213</room>
+      <slug></slug>
+      <title>Social Networking: Salut à Toi, a multi-frontend, multi-purpose XMPP client</title>
+      <subtitle></subtitle>
+      <track>Jabber and XMPP Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Architecture and use cases of Salut à Toi, a XMPP client with multi frontends (console ncurses-like, command line interface, desktop, web), with special focus on microblogging.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;This talk aims to briefly present the Salut à Toi project and its goals. Salut à Toi is a XMPP client which focus on the whole XMPP stuff, not only instant messaging, and where many frontends use a common backend.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;The following points will be covered:&lt;/p&gt;&#xA;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;p&gt;global overview of the project&lt;/p&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;p&gt;why a multi-frontends client ?&lt;/p&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;p&gt;the architecture/technologies used&lt;/p&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;p&gt;quick presentation of some features&lt;/p&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;p&gt;XMPP as a replacement of traditional e-mail network&lt;/p&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;      </description>
+      <persons>
+          <person id="4331">Jérôme Poisson</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

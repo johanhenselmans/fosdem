@@ -1,0 +1,21 @@
+  <event id="32">
+      <start>13:30</start>
+      <duration>00:30</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>buildroot: flexible building of a custom embedded system</title>
+      <subtitle></subtitle>
+      <track>Open Mobile Linux Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Buildroot is a nice, simple and efficient tool to build small to medium sized embedded Linux systems. It to automates the process of building a cross-compiling toolchain, the root filesystem with all userspace components, a Linux kernel image and a bootloader image.  It is used for embedded systems ranging from industrial controllers to hand-held media devices.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="321">Arnout Vandecappelle</person>
+      </persons>
+      <links>
+          <link href="595/87_Presentation_Buildroot-Open-Mobile.pdf">Presentation_Buildroot-Open-Mobile.pdf (slides)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

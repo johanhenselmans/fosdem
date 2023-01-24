@@ -1,0 +1,21 @@
+  <event id="182">
+      <start>14:00</start>
+      <duration>02:30</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>Back to the future, (re) learn smalltalk</title>
+      <subtitle></subtitle>
+      <track>Smalltalk Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;A lot of the things in software engineering we take for granted these days are rooted in Smalltalk.&#xA;But most people do not program in Smalltalk. Do you wonder if there are more pieces of brilliance in Smalltalk waiting to be picked up by&#xA;the general computing community? Come and experience yourself.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;We&amp;#39;ll work with you through an exercise showing Seaside, Glamour and other little known treasures, fully exploiting the &amp;#39;objects-all-the-way&amp;#39;&#xA;attitude visible in the Pharo open source Smalltalk environment.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Bring your laptop to pair through the exercises. Take home a web application, deployed on your laptop.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="1821">Stephan Eggermont</person>
+          <person id="1822">Willem van den Ende</person>
+          <person id="1823">Diego Lont</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

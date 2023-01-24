@@ -1,0 +1,19 @@
+  <event id="128">
+      <start>17:00</start>
+      <duration>00:15</duration>
+      <room>AW1.117</room>
+      <slug></slug>
+      <title>ocpp-2.0: a preprocessor approach to translate Objective-C 2.0 extensions to Objective-C 1.0 for (older) platforms</title>
+      <subtitle></subtitle>
+      <track>GNUstep</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;With the introduction of OS X 10.5 Apple had defined an gcc-extension for Objective-C which brings many interesting features to the language: garbage collection, properties, synchronization, fast enumerations, dot-notation for getters and setters, code blocks, etc.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Although Apple provides their extensions back to gcc, integration is slow because it has to be tested against all other gcc features and also needs special considerations for different target architectures. So let&amp;#39;s dicsuss another approach: write a preprocessor that maps the new Obj-C 2.0 features back to any existing Obj-C 1.0 compiler (plus some library calls if needed). This should allow to faster follow new developments of the language. The talk offers for discussion a flex/bison grammar for Obj-C 2.0 and some strategies for translating the new features.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1281">Nikolaus Schaller</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

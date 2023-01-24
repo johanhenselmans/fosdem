@@ -1,0 +1,19 @@
+  <event id="406">
+      <start>15:00</start>
+      <duration>00:30</duration>
+      <room>UD2.218A</room>
+      <slug></slug>
+      <title>Web security, and how to stop the next DigiNotar</title>
+      <subtitle></subtitle>
+      <track>Mozilla Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;In 2011 we learned that Certificate Authorities get hacked. What does this mean for the security of https and SSL/TLS? This talk covers the proposed solutions, why we aren&amp;#39;t using any of them (yet), and how you can help.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="4061">Kai Engert</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

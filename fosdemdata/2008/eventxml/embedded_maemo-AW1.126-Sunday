@@ -1,0 +1,19 @@
+  <event id="114">
+      <start>10:00</start>
+      <duration>01:00</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>Controlling embedded devices with the Maemo internet tablet</title>
+      <subtitle></subtitle>
+      <track>Embedded</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Linux based internet tablets provide inexpensive and powerful computers for embedded applications. However they have limited means to control external devices.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;In this presentation Kate will show methods to enhance tablet I/O capabilities and methods to interface with external microcontroller based embedded controllers.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;She will be taking care of both software and hardware aspects in both tablet and embedded controller side and also demonstrating some open source applications on how we can control external harware with interfacing microcontrollers and an internet tablet.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1141">Kate Alhola</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

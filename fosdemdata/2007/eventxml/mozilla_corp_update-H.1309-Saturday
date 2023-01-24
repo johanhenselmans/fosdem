@@ -1,0 +1,19 @@
+  <event id="155">
+      <start>14:45</start>
+      <duration>00:45</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>Mozilla Corporation update</title>
+      <subtitle></subtitle>
+      <track>Mozilla</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Mike will give an update on the activities of the Mozilla Corporation in the last year and outline the current plannings.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description></description>
+      <persons>
+          <person id="1551">Mike Schroepfer</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

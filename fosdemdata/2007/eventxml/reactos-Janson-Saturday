@@ -1,0 +1,21 @@
+  <event id="198">
+      <start>14:00</start>
+      <duration>00:45</duration>
+      <room>Janson</room>
+      <slug></slug>
+      <title>ReactOS</title>
+      <subtitle></subtitle>
+      <track>Kernel</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;ReactOS is an advanced free open source operating system providing a ground-up implementation of a Microsoft Windows® XP compatible operating system.&#xA;ReactOS aims to achieve complete binary compatibility with both applications and device drivers meant for NT and XP operating systems, by using a similar architecture and providing a complete and equivalent public interface.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Topics of Aleksey&amp;#39;s talk:&#xA;1. Introduction, what is ReactOS.&#xA;2. Goals of implementing ReactOS.&#xA;3. &amp;#34;ReactOS is not Unix!&amp;#34; - the kernel, HAL, bootloader and drivers. Overall architecture.&#xA;4. Compatibility from technical point of view. How close to go / playing a catch-up game.&#xA;5. Current ReactOS in action - screenshots / live demo (if possible).&#xA;6. Questions.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1981">Aleksey Bragin</person>
+      </persons>
+      <links>
+          <link href="http://video.fosdem.org/2007/FOSDEM2007-ReactOS.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

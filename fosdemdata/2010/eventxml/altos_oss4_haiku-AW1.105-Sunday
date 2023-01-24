@@ -1,0 +1,19 @@
+  <event id="12">
+      <start>14:00</start>
+      <duration>00:30</duration>
+      <room>AW1.105</room>
+      <slug></slug>
+      <title>OpenSound System v4 port to Haiku</title>
+      <subtitle></subtitle>
+      <track>Alt-OS</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;OpenSound System (OSS) is the first attempt in unifying the digital audio architecture for UNIX. OSS is a set of device drivers that provide a uniform API across all the major UNIX architectures, released under BSD/GPL licences.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;The talk will describe the required steps for the port of OpenSound System v4 to the Haiku operating system.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="121">François Revol</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

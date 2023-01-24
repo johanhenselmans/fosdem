@@ -1,0 +1,19 @@
+  <event id="8">
+      <start>15:00</start>
+      <duration>01:00</duration>
+      <room>Chavanne</room>
+      <slug></slug>
+      <title>Reverse Engineering of Proprietary Protocols, Tools and Techniques</title>
+      <subtitle></subtitle>
+      <track>Development and Languages</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk is about reverse engineering a proprietary network protocol,&#xA;and then creating my own implementation. The talk will cover the tools&#xA;used to take binary data apart, capture the data, and techniques I use&#xA;for decoding unknown formats. The protocol covered is the RTMP protocol&#xA;used by Adobe flash, and this new implementation is part of the Gnash&#xA;project.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="81">Rob Savoye</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="213">
+      <start>16:15</start>
+      <duration>00:30</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>Gearman for MySQL</title>
+      <subtitle></subtitle>
+      <track>MySQL</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Gearman is a client/server infrastructure for generic tasks, usable on distributed servers, with little worry about the details.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;No matter what language you speak, Gearman can meet your needs in C, PHP, Perl, Ruby, shell scripting, and several more. Gearman can also work in conjunction with MySQL, either using UDFs, or simply through its basic architecture. This talk will show examples of how to use Gearman for remote installation and how to call functions written in Perl from any other language or from inside MySQL server, with no knowledge of Perl at all.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2131">Giuseppe Maxia</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

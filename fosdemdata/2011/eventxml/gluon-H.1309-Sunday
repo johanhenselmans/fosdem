@@ -1,0 +1,19 @@
+  <event id="122">
+      <start>13:00</start>
+      <duration>00:45</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>Creating and Distributing Games with Gluon  </title>
+      <subtitle></subtitle>
+      <track>Crossdesktop devroom</track>
+      <type></type>
+      <language></language>
+      <abstract></abstract>
+      <description>&#xA;&lt;p&gt;Building computer games is fast becoming big business, not just for the big&#xA;companies, but also for the little companies. Witness the success of smaller&#xA;studios like Rovio of Angry Birds fame (30 people) and Minecraft (one single&#xA;person), and you can see why there is no reason why we cannot create games in&#xA;the open source world to sit alongside these successes. But we need tools for&#xA;this: Ways of easily constructing the games, modern and effective distribution&#xA;methods, ways of getting the users&amp;#39; feedback and so on.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Enter Gluon, an open platform for creating and distributing games. This talk&#xA;will shortly explain the ideas behind Gluon, and present the GamingFreedom.org&#xA;network for makers and players of games. Finally a live demonstration of the&#xA;Gluon Creator tool used to build games will show you just how easy it is to&#xA;build games today, and why you can do it, without needing to know everything&#xA;about game creation.&lt;/p&gt;      </description>
+      <persons>
+          <person id="1221">Dan Leinir Turthra Jensen</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

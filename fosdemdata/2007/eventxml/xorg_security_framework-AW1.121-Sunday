@@ -1,0 +1,19 @@
+  <event id="216">
+      <start>10:00</start>
+      <duration>01:00</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>X security framework</title>
+      <subtitle></subtitle>
+      <track>X.org</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;A framework to add security policies which meet the needs of specific environments and use cases in place.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;The original design of the X Window system treated all application as &amp;#39;friends&amp;#39;. Applications (i.e.) X clients had access to data, state information and resources of each other. Many use cases don&amp;#39;t allow such a policy.&#xA;In environments where the protection of confidentiality matters this behavior is undesirable.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The first attempt to overcome this was the X-Security extension. It presented a fixed and rather simplistic security policy. It had proven itself to be unflexible and not useful.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Here we present a framework to add security policies which meet the needs of the specific environment and use case in place.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="2161">Egbert Eich</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

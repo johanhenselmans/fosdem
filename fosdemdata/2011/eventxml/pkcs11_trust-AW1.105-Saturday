@@ -1,0 +1,19 @@
+  <event id="258">
+      <start>16:30</start>
+      <duration>00:30</duration>
+      <room>AW1.105</room>
+      <slug></slug>
+      <title>How to store Trust</title>
+      <subtitle></subtitle>
+      <track>Security &amp; hardware crypto devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;How to store Trust: Trust assertions in PKCS#11&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;In order to provide a usable foundation for crypto on the desktop, the&#xA;various crypto libraries need a way of accessing common information&#xA;about the user&amp;#39;s preferences with regard to certificates and &amp;#39;trust&amp;#39;.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;&amp;#34;Trust Assertions&amp;#34; provide a way to represent certificate authority&#xA;anchors, &amp;#39;pinned&amp;#39; certificate exceptions, revocation lists, and other&#xA;bits of trust information. A common method of accessing this information&#xA;is missing from the open source desktop.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;We will show how we can make this information available through PKCS#11,&#xA;so the user&amp;#39;s applications (regardless of crypto library) can act&#xA;consistently when making trust decisions.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;We&amp;#39;ll present one solution, but more importantly: kick start progress in&#xA;this area and discuss how we can move forward together.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2581">Stef Walter</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

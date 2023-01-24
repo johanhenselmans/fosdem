@@ -1,0 +1,19 @@
+  <event id="49">
+      <start>15:00</start>
+      <duration>01:00</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>Logical Volume Management</title>
+      <subtitle></subtitle>
+      <track>CentOS + Fedora</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Upcoming enhancements to LVM2 and device-mapper.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;LVM2 is the disk volume manager used by both Fedora and CentOS. This presentation will discuss ideas for enhancements to both kernel and userspace packages, including a summary of work already in progress as well as some &amp;#39;blue sky&amp;#39; thinking. Come along and share your ideas!&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="491">Alasdair Kergon</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

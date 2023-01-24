@@ -1,0 +1,19 @@
+  <event id="159">
+      <start>14:00</start>
+      <duration>01:00</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>L20n - A localization architecture proposal</title>
+      <subtitle></subtitle>
+      <track>Mozilla</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Localizing software is still a challenge and a compromise between programming effort and localization quality. The talk will outline some unsolved issues so far and propose a new architecture to tackle those.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Localization of software brings up the same problems in every project, and not all of them have solutions so far. After analyzing the common requirements in the wild and within the Mozilla applications in particular, we found no existing architecture being able to bring the localization quality to software that users deserve.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;L20n is the code name for a proposed architecture that changes the way programs handle locale-dependent strings such that the quality of the localization is only limited by the amount of work a localizers spends, and not limited by architectural problems. We will show common localization pitfalls along with the proposed solutions.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;L20n is designed with Mozilla applications in mind, but should be interesting for other applications and frameworks, both for locally installed applications and web applications. We hope for participation from non-Mozilla hackers and localizers in particular at FOSDEM, and reserve a good deal of the allocated time for discussions.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1591">Axel Hecht</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

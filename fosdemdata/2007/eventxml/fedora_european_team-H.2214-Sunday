@@ -1,0 +1,19 @@
+  <event id="45">
+      <start>17:00</start>
+      <duration>00:30</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>Fedora European Team</title>
+      <subtitle></subtitle>
+      <track>CentOS + Fedora</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Fedora European Contributors objectives, goals and more. This presentation will be more like a debate.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description></description>
+      <persons>
+          <person id="451">Chitlesh Goorah</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="19">
+      <start>09:00</start>
+      <duration>01:00</duration>
+      <room>Lameere</room>
+      <slug></slug>
+      <title>Barebox: Booting Linux Fast and Fancy</title>
+      <subtitle></subtitle>
+      <track>Embedded devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Booting Linux is easy - everyone does it, every day. But there are&#xA;challenges around: On devices with a display, everyone wants to have a&#xA;flicker-free boot process, with a shiny penguin splash screen. And of&#xA;course, booting shall be possible from every boot medium around, be it&#xA;NAND flash, an SD card, a serial line or from USB with the DFU protocol.&#xA;Last but not least, things have not only to be fast, but &lt;em&gt;really&lt;/em&gt; fast.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Following an introduction to the Barebox bootloader (formerly known as&#xA;U-Boot-v2) and its features, we outline how this bootloader can be used&#xA;to achieve quickboot requirements. We demonstrate how to boot a 400 MHz&#xA;MX27 ARM device into a fully operational graphical Qt application plus&#xA;standard userspace services in &amp;lt; 6 s. And in case that the audience&#xA;doesn&amp;#39;t qualify that as &lt;em&gt;really&lt;/em&gt; fast, we boot an MX35 into the&#xA;userspace in 336 ms.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="191">Robert Schwebel</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

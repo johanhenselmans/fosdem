@@ -1,0 +1,22 @@
+  <event id="110">
+      <start>13:35</start>
+      <duration>00:45</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>Balancing a game: the open source way</title>
+      <subtitle></subtitle>
+      <track>Open Source Game Development Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Battle for Wesnoth has a reputation for being a balanced game, but it took many years to get there.&#xA;This was a long learning process, not only to get a balanced game, but also to learn how to use the resources available specifically to open source software and use them in the best possible way to reach a game that is challenging without being impossible and fair to all players.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="1101">Jeremy Rosen</person>
+      </persons>
+      <links>
+          <link href="529/102_Jeremy_Rosen_-_Balancing_a_game_-_the_open_source_way_-_Slides.pdf">Balancing a game: the open source way (slides)</link>
+          <link href="http://video.fosdem.org/2012/devrooms/open_source_game_development/Jeremy_Rosen_-_Balancing_a_game_-_the_open_source_way.mp3">Balancing a game: the open source way (audio recording)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

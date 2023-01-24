@@ -1,0 +1,19 @@
+  <event id="252">
+      <start>15:00</start>
+      <duration>00:45</duration>
+      <room>H.2213</room>
+      <slug></slug>
+      <title>Get ready for the PostgreSQL Extension Network</title>
+      <subtitle></subtitle>
+      <track>PostgreSQL devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The purpose of PGXN is to provide a central repository and distribution system for open-source PostgreSQL extension libraries. In its first iteration it will consist of four basic parts: an upload server, an rsync-able directory of extension distributions and metadata, a website for searching through extension releases and a command-line client for downloading, testing, and installing them.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;This talk will explain the current status of the project, how to install an extension and how to distribute your own stuff.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="2521">Damien Clochard</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

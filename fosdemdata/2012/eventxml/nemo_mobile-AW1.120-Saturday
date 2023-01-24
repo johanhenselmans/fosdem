@@ -1,0 +1,21 @@
+  <event id="267">
+      <start>15:30</start>
+      <duration>00:30</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>Nemo Mobile - How to contribute to the project</title>
+      <subtitle></subtitle>
+      <track>Open Mobile Linux Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Nemo Mobile is a linux distribution that is based on Mer Core and is using MeeGo Handset UX as its UX at the moment. Probably the easiest way is to think that the Nemo Mobile continues where MeeGo Community Edition (MeeGo CE) left off, with the main difference that it uses Mer as the core instead of MeeGo. In this talk the current status of the project is shown as well as the basics of how community can contribute to the project.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="2671">Marko Saukko</person>
+      </persons>
+      <links>
+          <link href="601/81_fosdem2012-nemo-presentation.pdf">fosdem2012-nemo-presentation.pdf (slides)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

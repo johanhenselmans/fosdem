@@ -1,0 +1,19 @@
+  <event id="77">
+      <start>16:00</start>
+      <duration>00:45</duration>
+      <room>H.1301</room>
+      <slug></slug>
+      <title>Deb Packaging Introduction</title>
+      <subtitle></subtitle>
+      <track>CrossDesktop</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;A tutorial to get you started making .deb packages.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Learn how to make .deb packages. This interactive tutorial will take you through packaging an application.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="771">Jonathan Riddell</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

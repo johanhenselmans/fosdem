@@ -1,0 +1,19 @@
+  <event id="65">
+      <start>10:00</start>
+      <duration>00:45</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>Packaging perl and CPAN modules</title>
+      <subtitle></subtitle>
+      <track>Distributions</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;According to a report generated in 2007 less than 10% of the CPAN packages are redistributed by Debian and Fedora and much less by the other distributions.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;This is frustrating to the end user as they need to install many other packages directly from CPAN. Because they already have to install from CPAN they don&amp;#39;t care asking the distributors to include those packages nor do they come and help packaging. Hence there are few packages....&#xA;&lt;/p&gt;&#xA;&lt;p&gt;In this session we will try to break the vicious cycle of the chicken and the egg and find an improvement to the situation.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="651">Gabor Szabo</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

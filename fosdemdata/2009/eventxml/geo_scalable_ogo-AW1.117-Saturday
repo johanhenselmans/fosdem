@@ -1,0 +1,19 @@
+  <event id="109">
+      <start>14:00</start>
+      <duration>01:00</duration>
+      <room>AW1.117</room>
+      <slug></slug>
+      <title>ScalableOGo</title>
+      <subtitle></subtitle>
+      <track>GNUstep + OpenGroupware + Etoile</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This presentation presents ScalableOGo, a standards compliant free software groupware server.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Scalable OGo (SOGo) is a free groupware server focused on scalability instead of depth in functionality. The web interface uses human readable URLs and can be accessed according to REST web service ideas.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The server stores data in the iCalendar/vCard formats and has broad support for theCalDAV/GroupDAV protocols.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1091">Helge Heß</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

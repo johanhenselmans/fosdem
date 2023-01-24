@@ -1,0 +1,19 @@
+  <event id="182">
+      <start>13:15</start>
+      <duration>00:15</duration>
+      <room>Guillissen</room>
+      <slug></slug>
+      <title>LPI How?</title>
+      <subtitle></subtitle>
+      <track>Certification</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;You are committed to get your lpi certification!&#xA;Marcel will explain how you can certify for LPI?&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;You are committed to get your lpi certification!&#xA;Marcel will explain how you can certify for LPI?&lt;/p&gt;      </description>
+      <persons>
+          <person id="1821">Marcel Nijenhof</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="60">
+      <start>14:00</start>
+      <duration>00:45</duration>
+      <room>H.1308</room>
+      <slug></slug>
+      <title>The Maemo Community Council: a case-study in governance</title>
+      <subtitle></subtitle>
+      <track>Distributions</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The co-operation between Nokia and non-Nokia members of the Maemo community has evolved radically over the lifetime of the project. Since its inception in 2008, the Maemo Community Council has become a key element of how the Maemo community co-operates with Nokia in setting priorities for the project. The council is elected by the Maemo Community, and represents the community&amp;#39;s interests to Nokia, and has a large say in the priorities of the maemo.org staff, a group of people paid by Nokia to work on the Maemo project.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;This presentation will present the history and achievement of the council, with a view to identifying lessons which other vendor-led communities might be able to learn from the governance structure which has been put in place.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="601">Dave Neary</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

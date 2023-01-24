@@ -1,0 +1,19 @@
+  <event id="251">
+      <start>14:20</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>OpenPCF: An Open Provisioning and Control Framework</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Originally, I wanted to do a talk which actually demonstrates the automated setup of a RHEL 4 or 5, Debian 4 or 5 or NetBSD 4 or 5 system live, and using the resulting system to deploy new systems. However, I think 15 minutes would be a little tight for that. I want to talk about:&#xA;&lt;/p&gt;&#xA;&lt;p&gt;1: 5 minutes introduction: why openpcf&#xA;2: 5 minutes internals: how it works&#xA;3: 5 minutes results: what you can do with it&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;OpenPCF (which stands for Open Provisioning and Control Framework) is an open-source, automated system configuration tool. It can generate configurations for any service that runs on a posix-like platform. Services like DHCP, DNS, HTTP, LDAP and many more are supported.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;OpenPCF aims to automate the often-times manual labour of configuring services on a computer system you&amp;#39;ve just setup. The ultimate goal is a system that sets up all services needed within a datacenter resulting in a computer system that can deploy (through tftp, dhcp, pxe, http, nfs, cifs) various operating systems.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2511">Rubin Simons</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

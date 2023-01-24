@@ -1,0 +1,19 @@
+  <event id="262">
+      <start>15:30</start>
+      <duration>00:45</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>Internationalization in Rails 2.2</title>
+      <subtitle></subtitle>
+      <track>Ruby and Rails</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk will discuss how the new i18n framework of Rails 2.2 eases the translation of rails applications in multiple languages.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Probably the biggest new feature of Rails 2.2, released in November 2008, is its integrated internationalization framework, which ends a complicated past of many incompatible solutions based on various gems and plugins.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;This talk will discuss the various following topics:&#xA;&lt;/p&gt;&lt;ul&gt;&lt;li&gt; a brief recap of the history of i18n in rails&#xA;&lt;/li&gt;&#xA;&lt;li&gt; an explanation what the new framework does:&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;ul&gt;&lt;li&gt; the API and its implementations&#xA;&lt;/li&gt;&#xA;&lt;li&gt; translation files&#xA;&lt;/li&gt;&#xA;&lt;li&gt; namespaces&#xA;&lt;/li&gt;&#xA;&lt;li&gt; interpolation and pluralization&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt; a small demo of how to use the framework&#xA;&lt;/li&gt;&#xA;&lt;li&gt; a presentation of plugins available to extend the framework&#xA;&lt;/li&gt;&#xA;&lt;li&gt; a list of valuable external resources&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;  </description>
+      <persons>
+          <person id="2621">Nicolas Jacobeus</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

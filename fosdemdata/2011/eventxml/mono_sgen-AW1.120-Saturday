@@ -1,0 +1,19 @@
+  <event id="207">
+      <start>17:00</start>
+      <duration>00:40</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>Mono&#39;s new garbage collector</title>
+      <subtitle></subtitle>
+      <track>Mono devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Mono&amp;#39;s new garbage collector&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;I will give a short overview of what a garbage collector does, why the Boehm collector is not good enough for Mono, what SGen, our new garbage collector does better, provide a few relevant details about the internals and what this means for getting the best performance out of Mono.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Also, if the audience demands it, I will juggle 5 balls.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2071">Mark Probst</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

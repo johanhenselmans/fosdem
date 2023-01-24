@@ -1,0 +1,19 @@
+  <event id="235">
+      <start>14:45</start>
+      <duration>00:55</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>Opengazer, dasher and ticker: hands-free error tolerant communication</title>
+      <subtitle>hands-free error tolerant communication</subtitle>
+      <track>Accessibility devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Opengazer&amp;#39;s non-invasive web-cam based head tracker and gesture&#xA;switch are presented. The head tracker is used as continuous gesture&#xA;input to dasher, allowing information efficient text entry just by&#xA;moving one&amp;#39;s head.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Opengazer&amp;#39;s non-invasive web-cam based head tracker and gesture&#xA;switch are presented. The head tracker is used as continuous gesture&#xA;input to dasher, allowing information efficient text entry just by&#xA;moving one&amp;#39;s head.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;The gesture switch learns a gesture such as &amp;#34;eyes up&amp;#34;, or &amp;#34;smile&amp;#34;&#xA;during a very simple training phase, and emits a &amp;#34;click&amp;#34;, so acts&#xA;as a single button switch. (A multibutton version already exists.)&#xA;Good vision is necessary to use dasher. An alternative audio&#xA;interface text entry system dubbed &amp;#34;ticker&amp;#34; will be demonstrated&#xA;using the gesture switch as input.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Development of these systems is funded by the European Commission&#xA;in the context of the AEGIS project, and by the Gatsby Foundation.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Emli-Mari Nel and Patrick Welche are researchers in David Mackay&amp;#39;s Inference&#xA;Group, University of Cambridge.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2351">Patrick Welche</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

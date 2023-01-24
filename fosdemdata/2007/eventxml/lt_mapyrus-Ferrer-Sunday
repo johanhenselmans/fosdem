@@ -1,0 +1,21 @@
+  <event id="133">
+      <start>15:20</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Mapyrus</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;A lightning talk about Mapyrus, software for creating PostScript plots.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;This talk is a quick introduction to Mapyrus, describing how it provides a&#xA;scripting/BASIC&#xA;type language for drawing shapes, labels and images to various graphics output&#xA;formats. The method of combining sequences of steps to create different types&#xA;of&#xA;output will be shown.&#xA;&lt;/p&gt; &#xA;&lt;p&gt;Several nice features of Mapyrus will be demonstrated, such as transparent&#xA;colours and use&#xA;of blending modes, user-defined TrueType and PostScript fonts, using&#xA;clipping polygons to avoid drawing inside/outside an area, protecting&#xA;areas of page to avoid over-lapping labels or symbols and a sinkhole&#xA;algorithm for finding position for labelling polygons.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Finally, some real world mapping and charting applications of Mapyrus will be&#xA;shown,&#xA;using data read from Geographic Information Systems (GIS) mapping datasets&#xA;and a relational database.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;About Mapyrus:&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Mapyrus is Java software built on the Java2D library for creating plots of&#xA;points, lines, polygons and labels to&#xA;PostScript (high resolution, up to A0 paper size), Portable Document Format&#xA;(PDF), Scalable Vector Graphics (SVG) format and web image output formats.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Mapyrus is released under the LGPL license.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1331">Simon Chenery</person>
+      </persons>
+      <links>
+          <link href="../../slides/lightningtalks/Mapyrus.pdf">Slides (PDF)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

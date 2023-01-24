@@ -1,0 +1,19 @@
+  <event id="6">
+      <start>11:45</start>
+      <duration>00:15</duration>
+      <room>AW1.105</room>
+      <slug></slug>
+      <title>Update on Gallium3D ports to AROS and Haiku</title>
+      <subtitle></subtitle>
+      <track>Alt-OS</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Gallium3D is a new architecture for building 3D graphics drivers. Initially supporting Mesa and Linux graphics drivers, Gallium3D is designed to allow portability to all major operating systems and graphics interfaces.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;We will be showing a quick demo of the recent progress of the Gallium3D ports to AROS and Haiku.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="61">François Revol</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="291">
+      <start>15:00</start>
+      <duration>00:50</duration>
+      <room>Janson</room>
+      <slug></slug>
+      <title>systemd: Beyond init</title>
+      <subtitle></subtitle>
+      <track>System Track</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;systemd is a system and session manager for Linux, compatible with SysV and  LSB  init scripts. systemd provides aggressive parallelization capabilities,  uses socket and D-Bus activation for starting services, offers on-demand  starting of daemons, keeps track of processes using Linux cgroups, supports  snapshotting and restoring of the system state, maintains mount and automount  points and implements an elaborate transactional dependency-based service  control logic.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Wow, what a paragraph! In case I lost you half-way: in our presentation I  hope to explain in a lot more detail what systemd is really about, and parse  with you the paragraph in a way that is hopefully more understandable.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Both the Fedora and OpenSUSE distributions (and many others, too) are working  on making systemd the default init system in their next releases. Since the  init system is a core part of the operating system and systemd a major change  that will impact what we consider a Linux system quite a bit this talk should  be interesting to all developers, administrators and users alike.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2911">Lennart Poettering</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="200">
+      <start>16:20</start>
+      <duration>00:30</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>Mono C++ Interop</title>
+      <subtitle></subtitle>
+      <track>Mono devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Mono C++ Interop&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;One of Mono&amp;#39;s long-standing limitations is C++ interoperability, or&#xA;lack thereof. This talk will focus on a new framework, developed&#xA;during Google Summer of Code by Alex Corrado, that adds C++ Interop&#xA;support to Mono with no native glue code. We will look at what&amp;#39;s&#xA;supported now, what it can do, how C++ libraries can be bound, what&#xA;work is still needed and what the future holds for C++ on Mono.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2001">Andreia Gaita</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

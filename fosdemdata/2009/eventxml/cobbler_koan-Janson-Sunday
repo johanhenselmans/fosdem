@@ -1,0 +1,20 @@
+  <event id="49">
+      <start>10:00</start>
+      <duration>01:00</duration>
+      <room>Janson</room>
+      <slug></slug>
+      <title>Cobbler &amp; Koan</title>
+      <subtitle></subtitle>
+      <track>Systems</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;During this talk, we aim to give you an overview of the Cobbler project,&#xA;explain where we&amp;#39;d like to see it going and explain a few use cases.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Cobbler is an installation server, written in Python, which allows for rapid&#xA;deployment (and re-deployment) of large amounts of physical and virtual&#xA;machines by defining distributions, repositories, profiles and systems as&#xA;objects. It&amp;#39;s easy to get started with Cobbler, but we ship a lot of&#xA;advanced features to make it as versatile as possible, so you won&amp;#39;t get&#xA;bored with it.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="491">Robert Lazzurs</person>
+          <person id="492">Jasper Capel</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

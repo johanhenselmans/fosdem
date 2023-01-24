@@ -1,0 +1,19 @@
+  <event id="258">
+      <start>11:40</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>How the social networking site Hyves benefits from puppet</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;After explaining the basics of puppet and some background of the social network Hyves the speaker will discuss how puppet helped Hyves to automate a large set of daily sysadmin tasks. The speaker will also discuss how to automate common sysadmin problems / tasks with puppet and will show how to manage puppet masters and clients on large scale networks (+2000 servers)&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Puppet is an open-source next-generation server automation tool. It is composed of a declarative language for expressing system configuration, a client and server for distributing it, and a library for realizing the configuration.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The primary design goal of Puppet is that it have an expressive enough language backed by a powerful enough library that you can write your own server automation applications in just a few lines of code. With Puppet, you can express the configuration of your entire network in one program capable of realizing the configuration. The fact that Puppet has open source combined with how easily it can be extended means that you can add whatever functionality you think is missing and then contribute it back to the main project if you desire.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2581">Marlon de Boer</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

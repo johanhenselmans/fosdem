@@ -1,0 +1,19 @@
+  <event id="224">
+      <start>15:00</start>
+      <duration>00:30</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>Maliit - the open mobile text input project</title>
+      <subtitle></subtitle>
+      <track>Open Mobile Linux Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Maliit is an open source project for enabling first-class text input solutions for mobile devices. The project aims to provides a reference solution for easy integration, and a framework that others can build upon. It also strives to work closely with the wider community to improve mobile text input on open platforms. Current examples include its use in MeeGo, Nemo Mobile and Maemo Fremantle, the integration in Qt Components and Libmeegotouch, and improvements made to Qt and GTK+ input method interfaces.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Reviews of mobile devices most often include one or several sections about text input, and how well it works (or not). On-screen keyboard, language support, copy-paste and selection handling, error correction and word prediction, are all fundamental to a good end-user experience.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;The talk aims to highlight the importance of, and challenges in implementing, modern mobile text input methods on open mobile platforms. It also serves to encourage cross-project collaboration to overcome these challenges and explains how Maliit can provide a solid foundation for this collaboration.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Maliit homepage: http://www.maliit.org&lt;/p&gt;      </description>
+      <persons>
+          <person id="2241">Jon Nordby</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

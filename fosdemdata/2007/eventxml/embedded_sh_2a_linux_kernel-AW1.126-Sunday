@@ -1,0 +1,21 @@
+  <event id="42">
+      <start>10:00</start>
+      <duration>01:00</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>SH-2A Linux kernel</title>
+      <subtitle></subtitle>
+      <track>Embedded</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Implementation of SH-2(A) Linux kernel&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Yoshinori ported linux-2.6 to SH-2 and SH-2A processors of Renesas Technorogy.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;SH-3 and SH-4 were supported in the past, but SH-2 needed to be implemented because the architecture was different from those processors.&#xA;Yoshinori will introduce his implementation for SH-2 equivalence mainly on such a part.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="421">Yoshinori Sato</person>
+      </persons>
+      <links>
+          <link href="../../slides/devrooms/embedded/Yoshinori_Sato_SH2_porting.pdf">Slides (PDF)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

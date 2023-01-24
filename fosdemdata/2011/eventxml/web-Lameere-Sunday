@@ -1,0 +1,19 @@
+  <event id="313">
+      <start>16:00</start>
+      <duration>01:00</duration>
+      <room>Lameere</room>
+      <slug></slug>
+      <title>Creating secure web based user interfaces for Embedded Devices</title>
+      <subtitle></subtitle>
+      <track>Embedded devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;A web interface is the easiest way to add something GUI-ish to an embedded system. However, setting up an Apache and writing CGI scripts requires too much work and overburdens resource constrained systems.. This presentation shows you the best tools to simplify your life for adding an interface to your embedded system. The first step is the Mongoose Embedded Web Server. It is a tiny (40K) yet fully-featured web server that can be embedded directly in your application. Combining it with the efficient CyaSSL library gives you a secure environment. For a more advanced GUI, there is Wt, which completely removes the burden of web programming from you - you&amp;#39;ll hardly even notice there&amp;#39;s a web server in your application!&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="3131">Arnout Vandecappelle</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

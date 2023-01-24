@@ -1,0 +1,19 @@
+  <event id="72">
+      <start>17:30</start>
+      <duration>00:45</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>gtkmm</title>
+      <subtitle></subtitle>
+      <track>GNOME</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Developing GNOME applications using gtkmm&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;gtkmm is the official C++ interface for the popular GUI library GTK+. It is designed to ensure typesafe programming and yet let programmers enjoy&#xA;the neat model of the Gtk+ framework.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;This talk will present Gtkmm and the so called modern programming techniques associated to the C++ language that are available to GNOME application programmers today.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;It will focus on techniques to write safer GNOME applications and libraries in a modular manner.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="721">Dodji Seketeli</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

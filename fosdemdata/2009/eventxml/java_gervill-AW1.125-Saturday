@@ -1,0 +1,19 @@
+  <event id="144">
+      <start>18:15</start>
+      <duration>00:30</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>Gervill Software Synthesizer</title>
+      <subtitle></subtitle>
+      <track>Free Java</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The &lt;a href=&#34;https://gervill.dev.java.net/&#34;&gt;Gervill Software Synthesizer&lt;/a&gt;.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;ul&gt;&lt;li&gt; How it began &#xA;&lt;/li&gt;&#xA;&lt;li&gt; History of progress &#xA;&lt;/li&gt;&#xA;&lt;li&gt; Performance &#xA;&lt;/li&gt;&#xA;&lt;li&gt; Future improvements &#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;And if possible some demonstrations.&#xA;&#xA;  </description>
+      <persons>
+          <person id="1441">Karl Helgason</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

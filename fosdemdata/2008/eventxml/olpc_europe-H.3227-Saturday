@@ -1,0 +1,19 @@
+  <event id="190">
+      <start>15:00</start>
+      <duration>02:00</duration>
+      <room>H.3227</room>
+      <slug></slug>
+      <title>/etc/init.d/olpc_europe start</title>
+      <subtitle></subtitle>
+      <track>OLPC</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;During the last 12 months many &lt;a href=&#34;http://laptop.org/&#34;&gt;OLPC&lt;/a&gt; grassroots initiatives in Europe and elsewhere in the world popped up, to promote the OLPC idea locally in their communities, to help children locally and globally.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;OLPC Europe aims to be a focus point to share experiences, ideas and work between those local groups and towards the global OLPC project. Like the &#xA;global project we aim to be an education project and use that laptop as a means.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;This meeting aims to get the different people from any OLPC related initiative together, to get us know each other and to discuss the feature of the young OLPC Europe project. &#xA;&lt;/p&gt;&#xA;&lt;p&gt;If you intend to participate please enter yourself at http://wiki.laptop.org/go/OLPC_Europe/Events/FOSDEM&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1901">Holger Levsen</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

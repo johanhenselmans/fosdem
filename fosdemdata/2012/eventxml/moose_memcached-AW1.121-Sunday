@@ -1,0 +1,19 @@
+  <event id="253">
+      <start>16:20</start>
+      <duration>00:20</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>Using Moose objects with Memcached</title>
+      <subtitle></subtitle>
+      <track>Perl Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;2dehands/2ememain uses Memcached for caching Moose objects. We use MooseX::Storage for this, and have extended it in some interesting&#xA;ways.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;We deal with issues such as:&lt;/p&gt;&#xA;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;We cannot flush the cache, so we need an upgrade path for new object versions.&lt;/li&gt;&#xA;&lt;li&gt;We wanted to isolate some changes that are normaly global settings.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&#xA;&lt;p&gt;In this talk Marius will describe how they use Moose with Memcached and show how they used the standard Moose/MOP tools to extend MooseX::Storage to support their needs.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2531">Marius Olsthoorn</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

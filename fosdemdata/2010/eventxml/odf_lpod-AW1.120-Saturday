@@ -1,0 +1,19 @@
+  <event id="236">
+      <start>18:30</start>
+      <duration>00:30</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>lpOD – languages &amp; platforms OpenDocument</title>
+      <subtitle></subtitle>
+      <track>OpenOffice.org</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Presentation of the lpOD -- languages &amp;amp; platforms OpenDocument&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;lpOD, is a Free Software project that offers, for high level use cases, an application programming interface dedicated to document processing with the Python, Perl and Ruby languages. It’s complying with the Open Document Format (ODF).&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2361">Luis Belmar-Letelier</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

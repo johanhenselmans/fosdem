@@ -1,0 +1,19 @@
+  <event id="221">
+      <start>14:00</start>
+      <duration>01:00</duration>
+      <room>Janson</room>
+      <slug></slug>
+      <title>openSUSE</title>
+      <subtitle></subtitle>
+      <track>Distributions</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Since this is a distro talk, I will be covering the openSUSE Distro,&#xA;the openSUSE Build Service, and how to become involved in the project&#xA;and/or use the openSUSE Build Service to create packages for open&#xA;source projects for multiple distributions.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="2211">Joe Brockmeier</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

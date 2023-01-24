@@ -1,0 +1,19 @@
+  <event id="170">
+      <start>10:00</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Kerrighed: Flexible distributed checkpoint/restart</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Process checkpoint consists in saving the state of a running process, so that the process can be restarted at any time later. Uses include fault tolerance, job suspend that frees memory resources, process live-migration across physical machines. Checkpoint services may checkpoint only single processes as well as full operating systems with processes, file systems, socket states, etc. This talk will present Kerrighed&amp;#39;s application checkpoint/restart and show its advantages in flexibility over other checkpoint services.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Kerrighed is a Single System Image operating system for clusters. It offers the view of a unique SMP machine on top of a cluster of standard PCs.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Kerrighed is implemented as an extension to the Linux operating system (a set of modules and a patch to the kernel). Current development version is based on Linux 2.6.30.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Main available features are:&#xA;&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Cluster wide process management with customizable load balancing over the cluster (through process migration and remote forking)&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Cluster wide shared memory&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Application checkpointing&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Node addition/removal&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;  </description>
+      <persons>
+          <person id="1701">Matthieu Fertre</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

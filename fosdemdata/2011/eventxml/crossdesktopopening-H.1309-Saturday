@@ -1,0 +1,20 @@
+  <event id="37">
+      <start>13:00</start>
+      <duration>00:15</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>Opening</title>
+      <subtitle></subtitle>
+      <track>Crossdesktop devroom</track>
+      <type></type>
+      <language></language>
+      <abstract></abstract>
+      <description></description>
+      <persons>
+          <person id="371">Christophe Fergeau</person>
+          <person id="372">Bart Coppens</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="210">
+      <start>14:00</start>
+      <duration>01:00</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>A build environment for X</title>
+      <subtitle></subtitle>
+      <track>X.org</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;A modular build environment for X.org&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;The monolithic X tree forced the user to build all X server and client side pieces at once even when only a small subset of the entire suite was needed.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The modular environment now allows to build any piece separately provided that the prerequisites are installed.&#xA;This caused us to loose the &amp;#39;big picture&amp;#39; ie. it made it hard to determine what these dependencies are and to grab and build these.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;We present an environment that allows us to retrieve these dependencies automatically. Furthermore it allows one to download and build all dependencies. It does not require any additional tools installed on the system beyond what is already required for building the tree.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="2101">Egbert Eich</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="168">
+      <start>16:00</start>
+      <duration>00:30</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>Is copyleft being framed?</title>
+      <subtitle></subtitle>
+      <track>Legal Issues Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This short talk will address the following questions, to inspire&#xA;discussion and contemplation about how we frame descriptions of the&#xA;state of licensing in free software.&lt;/p&gt;&#xA;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Numbers are increasingly being cited to show that the use of copyleft licenses, specifically the GPL, is declining. What do these numbers actually show, who is propagating them, and why? What do or might other numbers show?&lt;/li&gt;&#xA;&lt;li&gt;Is the &amp;#34;percentage of free software projects which use copyleft licenses&amp;#34; a useful way to judge the success of copyleft? Does an increase in the percentage of projects using non-copyleft permissive licenses indicate a failure of copyleft?&lt;/li&gt;&#xA;&lt;li&gt;As a small related case study, what role have the licensing terms of popular mobile application stores played in this debate, and how have those terms changed the frame of the discussion?&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;      </abstract>
+      <description></description>
+      <persons>
+          <person id="1681">John Sullivan</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

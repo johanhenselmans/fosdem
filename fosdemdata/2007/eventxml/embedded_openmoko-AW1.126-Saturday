@@ -1,0 +1,21 @@
+  <event id="37">
+      <start>17:00</start>
+      <duration>01:00</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>OpenMoko</title>
+      <subtitle></subtitle>
+      <track>Embedded</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;&lt;a href=&#34;http://www.openmoko.com/&#34;&gt;OpenMoko&lt;/a&gt;, Exploration of an Emotion&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;This talk will shed light on the reasons for &lt;a href=&#34;http://www.openmoko.com/&#34;&gt;OpenMoko&lt;/a&gt; and explain the ideas behind it.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Tell more about how its implementation, the architecture and the tools that have been chosen. Further background on the future of the projects and the related dreams will be given, and also the community involvement will be presented. This of course includes the way how the OpenMoko projects sees the community and how it hopes normal people  and developers alike will get involved. After all the real power emerges from the interaction of all the users of &amp;#34;freed phones.&amp;#34;&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="371">Sean Moss-Pultz</person>
+      </persons>
+      <links>
+          <link href="../../slides/devrooms/embedded/Sean_Moss-Pultz-OpenMoko.pdf">Slides (PDF)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

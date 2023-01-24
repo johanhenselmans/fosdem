@@ -1,0 +1,21 @@
+  <event id="15">
+      <start>12:00</start>
+      <duration>00:45</duration>
+      <room>Janson</room>
+      <slug></slug>
+      <title>CMake</title>
+      <subtitle></subtitle>
+      <track>Build Systems</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk is about the &lt;a href=&#34;http://www.cmake.org/&#34;&gt;CMake&lt;/a&gt; build system.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;&lt;a href=&#34;http://www.cmake.org/&#34;&gt;CMake&lt;/a&gt; is a cross platform build system supporting Windows, Linux, UNIX, and Mac OSX platforms. &#xA;Unlike other build system, &lt;a href=&#34;http://www.cmake.org/&#34;&gt;CMake&lt;/a&gt; generates projects using the native build tools like &lt;a href=&#34;http://www.kdevelop.org/&#34;&gt;KDevelop&lt;/a&gt;, Visual Studio, makefiles, and Xcode.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;This allows developers to use the tools they are most productive with. In addition to building software, CMake provides a &lt;a href=&#34;http://www.cmake.org/Wiki/CMake_Testing_With_CTest&#34;&gt;testing system called CTest&lt;/a&gt;, and a &lt;a href=&#34;http://www.cmake.org/Wiki/CMake:Packaging_With_CPack&#34;&gt;packaging system called CPack&lt;/a&gt;.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;This talk will cover how to build, package and test software with the CMake family of tools.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="151">Bill Hoffman</person>
+      </persons>
+      <links>
+          <link href="http://video.fosdem.org/2008/maintracks/FOSDEM2008-cmake.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="197">
+      <start>16:30</start>
+      <duration>01:30</duration>
+      <room>AW1.117</room>
+      <slug></slug>
+      <title>OpenOffice.org programmability - at a glance</title>
+      <subtitle></subtitle>
+      <track>OpenOffice.org</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This session will give a detailed overview about the programmability features of OpenOffice.org that is more than a standalone office suite.&#xA;The session will explain how developers can program with or for OpenOffice.org.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;The popularity of the standardized (OASIS and ISO/IEC 26300) Open Document Format for Office Applications (OpenDocument) is growing. This also drives the popularity of OpenOffice.org in government agencies and enterprises. Corporate users often demand the integration of office productivity into existing workflows and applications. They also often require additional functionality or special customizations of the existing features.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;OpenOffice.org offers a language independent application programming interface (API) which allows to program OpenOffice.org in various supported programming languages. It allows to use OpenOffice.org as service provider in other applications, extend it with new functionality or simply customize and control OpenOffice.org&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Typical use cases are document creation, conversion or printing from remote client applications (typical server scenarios). Embedding office functionality into own Java applications to make use of the rich feature set. For example using the editor of the word processor application with all its features in your own application. Or intercept and replace existing commands with own implementations. For example replace the standard save/load commands to save/load directly into/from a document management system (DMS). Alternatively it is possible to insert special save/load menu entries to support the DMS additionally. Do you have thought about embedding your own Java component into an OpenOffice.org writer document? Embed Java components and activate them outplace in an external window. The list of use cases can be extended easily and even popular is the development of extensions for OpenOffice.org like Firefox Add-ons, see for example the growing &lt;a href=&#34;http://extensions.services.openoffice.org/&#34;&gt;OpenOffice.org extensions repository&lt;/a&gt;.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;In detail the session will cover the following:&#xA;&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Introduction into UNO (Universal Network Objects)&#xA;&lt;/li&gt;&#xA;&lt;li&gt; API concepts and design patterns&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Introduction into extensions&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Examples of special Service Provider Interfaces&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA; </description>
+      <persons>
+          <person id="1971">Jürgen Schmidt</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="52">
+      <start>15:00</start>
+      <duration>01:00</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>Introducing DDE, Debian Data Export</title>
+      <subtitle></subtitle>
+      <track>Debian</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;DDE (Debian Data Export) is a simple interface to remotely access Debian information.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;It is designed to be simple to query, and to back the implementation of nice things such as package name autocompletion on all input fields in Debian web pages, or to make more data easily available to Debian utilities and package managers.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;On top of all that, it is a RESTful Web 2.0 middleware designed&#x9;to enable AJAX mashups. What more can you ask? Come and have a look.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="521">Enrico Zini</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

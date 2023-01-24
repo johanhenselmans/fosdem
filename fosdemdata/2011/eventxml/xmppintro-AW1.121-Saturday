@@ -1,0 +1,19 @@
+  <event id="326">
+      <start>13:00</start>
+      <duration>00:30</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>The Extraordinary, Magical Powers and Possibilities of XMPP</title>
+      <subtitle></subtitle>
+      <track>Jabber &amp; XMPP devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Introduction to XMPP&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;The Extraordinary, Magical Powers and Possibilities of XMPP&lt;/p&gt;      </description>
+      <persons>
+          <person id="3261">Remko Tronçon</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

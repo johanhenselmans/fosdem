@@ -1,0 +1,19 @@
+  <event id="64">
+      <start>13:30</start>
+      <duration>00:30</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>Example of cross-distro collaboration: Application Installer</title>
+      <subtitle></subtitle>
+      <track>CrossDistro devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Nearly all distributions are slowly moving towards making it easier to deal with applications, and get information about those. However, many of us are working in our own corners: unfortunately, this is often what happens with many topics that would move faster if they were looked from a cross-distro perspective.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;A small team of people from various distributions will meet in January to discuss what can be done in a cross-distro way. This talk will present the conclusions from this meeting, and will come back on the experience of organizing work in a cross-distro way.&lt;/p&gt;      </description>
+      <persons>
+          <person id="641">Vincent Untz</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

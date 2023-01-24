@@ -1,0 +1,19 @@
+  <event id="172">
+      <start>13:20</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>LiMux: 5 years on the way to free software in Munich</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The talk gives a brief general view on the project&amp;#39;s political and technical background in Germany&amp;#39;s largest Municipality, shows the goals already achieved like the complete migration to OpenOffice.org and the city-wide use of the Open Document Format (ODF) and explains the steps for the next two years, the large-scale migration to the linux client.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Munich&amp;#39;s LiMux project aims at the use of free software and open standards on most of the 14,000 PCs of the Municipality&amp;#39;s administration. Challenges are the integration of the Debian GNU/Linux client, the availability of (proprietary) business applications for this linux client and the migration to OpenOffice.org.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1721">Florian Schiessl</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

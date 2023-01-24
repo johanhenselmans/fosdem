@@ -1,0 +1,19 @@
+  <event id="77">
+      <start>10:00</start>
+      <duration>00:30</duration>
+      <room>H.1308</room>
+      <slug></slug>
+      <title>Pardus and Pisi</title>
+      <subtitle>Distribution from Scratch</subtitle>
+      <track>CrossDistro devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Pardus is an open source, freely distributable, GPL licensed user-friendly GNU/Linux distribution with many usability, hardware compatibility, stability and security enhancements. The project is sponsored by the Turkish National Research Institute of Electronics and Cryptology (UEKAE).&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;PiSi (Packages Installed Successfully, as Intended) is the package management system of Pardus. It is the tool that installs, upgrades and removes the software packages successfully, as intended. PiSi stores and handles the dependencies for the other packages, libraries and COMAR tasks. You may install and use software without being aware of the underlying technical details, not even the name of the application. Tasks such as opening a new file type or serving web pages are just a click away with PiSi.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Some distinctive features of Pisi package management system are the following:&#xA;* Implemented in Python&#xA;* Efficient and small&#xA;* Package sources are written in XML and Python&#xA;* Integrates low-level and high-level package operations (dependency resolution)&#xA;* Framework approach to build applications and tools upon&#xA;* Comprehensive CLI and a user-friendly Qt GUI (distributed separately)&#xA;* Extremely simple and fast package construction&lt;/p&gt;      </description>
+      <persons>
+          <person id="771">Gökçen Eraslan</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

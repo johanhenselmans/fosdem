@@ -1,0 +1,21 @@
+  <event id="92">
+      <start>15:30</start>
+      <duration>01:00</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>netconf - design and overview</title>
+      <subtitle></subtitle>
+      <track>Debian</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;&lt;a href=&#34;http://netconf.alioth.debian.org/&#34;&gt;netconf&lt;/a&gt; is a novel network configuration management system, designed with modern network infrastructures and the needs of roaming users in mind. In this talk, I present the design of netconf, as well as a brief run-through of its code base. I want to make it easier for others to contribute and join the development team.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;&lt;a href=&#34;http://netconf.alioth.debian.org/&#34;&gt;netconf&lt;/a&gt; is a daemon designed from the bottom up with only minimal functionality. It uses an event-driven model and well-defined, bidirectional interfaces, which make it possible to integrate advanced functionality:&#xA;&lt;/p&gt;&lt;ul&gt;&lt;li&gt; link and location autodetection;&#xA;&lt;/li&gt;&#xA;&lt;li&gt; configuration of printers, smarthosts, proxies, etc. from DHCP data;&#xA;&lt;/li&gt;&#xA;&lt;li&gt; LinkLocal addressing;&#xA;&lt;/li&gt;&#xA;&lt;li&gt; wireless LAN;&#xA;&lt;/li&gt;&#xA;&lt;li&gt; VPN;&#xA;&lt;/li&gt;&#xA;&lt;li&gt; firewalling;&#xA;&lt;/li&gt;&#xA;&lt;li&gt; advanced routing and traffic control, including bridging, various user interfaces (including the NetworkManager GUI), and so on.&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;All of these are implemented as scripts for maximum configurability and flexibility.&#xA;&#xA; </description>
+      <persons>
+          <person id="921">Martin Krafft</person>
+      </persons>
+      <links>
+          <link href="http://meetings-archive.debian.net/pub/debian-meetings/2008/fosdem/ogg_theora/384x288/netconf_-_design_and_overview___Martin_Krafft.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

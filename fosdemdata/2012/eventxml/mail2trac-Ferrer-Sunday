@@ -1,0 +1,23 @@
+  <event id="222">
+      <start>15:00</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>mail2trac</title>
+      <subtitle>a pluggable email handler for Trac</subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Mail2trac, a Trac plug-in, presents a new interface allowing Trac users to interact with it by email.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Trac is a free, web-based project management and bug-tracking tool. It is written in the Python programming language.&#xA;Until mid-2005, it was available under the GNU General Public License; since version 0.9, it has been released under a modified BSD license.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Fast, highly flexible, its users can configure a lot of thing, and extend its functionalities with dozens of plug-ins.&#xA;Mail2trac is one of them.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;The main purpose of mail2trac is to present a new interface of extension allowing trac&amp;#39;s admins to propose to their users to interact with trac using mail.&#xA;In this early version, it already propose this interface, and allow to create and respond to tickets via email.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Let us show you mail2trac, its work-flow and its future.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2221">Valentin Schmitt</person>
+      </persons>
+      <links>
+          <link href="475/74_mail2trac.pdf">mail2trac.pdf (slides)</link>
+          <link href="http://trac-hacks.org/wiki/MailToTracPlugin">http://trac-hacks.org/wiki/MailToTracPlugin</link>
+          <link href="http://video.fosdem.org/2012/lightningtalks/mail2trac.webm">Video recording</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

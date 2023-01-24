@@ -1,0 +1,19 @@
+  <event id="78">
+      <start>14:15</start>
+      <duration>00:45</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>How to setup the perfect development environment</title>
+      <subtitle></subtitle>
+      <track>Drupal</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Presentation on how to setup the perfect development environment for&#xA;Drupal on Ubuntu including svn, drush, eclipse, debugging and database&#xA;sharing.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="781">Roel de Meester</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

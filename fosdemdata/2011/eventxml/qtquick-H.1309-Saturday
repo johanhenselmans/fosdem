@@ -1,0 +1,19 @@
+  <event id="269">
+      <start>15:45</start>
+      <duration>00:45</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>Quick Intro to Qt and Qt Quick</title>
+      <subtitle></subtitle>
+      <track>Crossdesktop devroom</track>
+      <type></type>
+      <language></language>
+      <abstract></abstract>
+      <description>&#xA;&lt;p&gt;Qt is a programming library popular on for desktop software and now taking over mobile platforms too. This talk will look at where Qt is used and how to write a quick Qt programme. It will introduce the exciting new world of Qt Quick, using QML and declarative programming to create featureful, friendly and tactile user interfaces.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2691">Jonathan Riddell</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

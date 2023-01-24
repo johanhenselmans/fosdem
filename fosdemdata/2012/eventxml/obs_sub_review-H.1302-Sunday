@@ -1,0 +1,19 @@
+  <event id="277">
+      <start>15:00</start>
+      <duration>01:00</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>Submission Review with Open Build Service</title>
+      <subtitle></subtitle>
+      <track>CrossDistribution Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;A reliable and transparent, high volume package review infrastructure was implemented with the &lt;a href=&#34;http://openbuildservice.org/&#34;&gt;Open Build Service (OBS)&lt;/a&gt;. In OBS, a software package can travel through several projects. Submission Review is done at project specific gates to control such travel.&#xA;The openSUSE:Factory project currently defines review gates for license compliance, security and packaging. Together with an issue tracking system we create a community friendly ecosystem that implements project policies. Centralized gatekeepers or dedicated review periods are eliminated. Propagation delay is minimized.&#xA;With OBS providing the hooks to add review authorities, we were able to code most of the respective business logic with python scripts, reusing and extending the osc command line tool as a feature-rich layer ontop of the OBS API.&#xA;This talk describes the openSUSE project review process and how it helps various stakeholders to excercise their control, using the legal team as a non-trivial example.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="2771">Jürgen Weigert</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

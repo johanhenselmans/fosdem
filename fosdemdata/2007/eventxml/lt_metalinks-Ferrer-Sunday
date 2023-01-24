@@ -1,0 +1,21 @@
+  <event id="134">
+      <start>11:20</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>MetaLinks</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;A lightning talk about MetaLinks: XML mirror lists.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;The lightning talk will cover a basic metalink, what problem metalinks&#xA;hope to solve and what support for them is already out there, showing&#xA;the difference between Metalinks and some other solutions currently&#xA;used. &#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;i&gt;About MetaLinks:&lt;/i&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The Metalinks tools project is there to create tools to handle and&#xA;generate Metalinks. Metalinks are XML mirror lists with verification&#xA;information (and more).&#xA;Currently the project has created a command line tool to generate&#xA;these files and the Metalink standard is already supported by mutliple&#xA;download managers (see http://metalinker.org/ for a full list).&#xA;Metalinker.org is where the XML format specs and general information&#xA;about Metalinks can be found (including news).&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1341">Bram Neijt</person>
+      </persons>
+      <links>
+          <link href="../../slides/lightningtalks/MetaLinks.pdf">Slides (PDF)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

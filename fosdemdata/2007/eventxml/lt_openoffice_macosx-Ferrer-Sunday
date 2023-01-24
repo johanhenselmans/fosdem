@@ -1,0 +1,21 @@
+  <event id="140">
+      <start>15:00</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>OpenOffice.org port for Mac OS X</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;A lightning talk about the Mac OS X port of OpenOffice.org&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;ul&gt;&lt;li&gt; what is Mac port inside the project&#xA;&lt;/li&gt;&#xA;&lt;li&gt; people: who / where&#xA;&lt;/li&gt;&#xA;&lt;li&gt; communication between developers, tools&#xA;&lt;/li&gt;&#xA;&lt;li&gt; how  works the project : schedule, QA, issues, development management&#xA;&lt;/li&gt;&#xA;&lt;li&gt; development problems : marry fully OpenSource project with non-open source platform is not so easy, find resources &#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;i&gt;About OpenOffice.org:&lt;/i&gt;&#xA;&#xA;OpenOffice.org project ( http://www.openoffice.org ) is a fully Open Source project, with a good portability on several platform / OS&#xA;&#xA; </description>
+      <persons>
+          <person id="1401">Eric Bachard</person>
+      </persons>
+      <links>
+          <link href="../../slides/lightningtalks/MacOOosX.pdf">Slides (PDF)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

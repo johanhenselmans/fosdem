@@ -1,0 +1,22 @@
+  <event id="2">
+      <start>17:15</start>
+      <duration>01:00</duration>
+      <room>Janson</room>
+      <slug></slug>
+      <title>Beyond GPLv3</title>
+      <subtitle></subtitle>
+      <track>Opening/Closing talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Beyond GPLv3: Free Software today and tomorrow&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;After 2006 already saw massive changes in the Free Software ecosystem, this year is promising to become the most exciting year for Free Software yet.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Major industrial players update their strategies, and the GNU General Public License (GPL) has become a mainstream license to consider for most enterprises. With the upcoming release of the GNU General Public License, and the various ongoing battles between the European Commission and Microsoft, as well as the issues of ODF vs OpenXML, the world is changing fast.&#xA;All of these are signs of increasing maturity in the Free Software ecosystem.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;In his keynote, Georg Greve will give an overview of the situation, speak briefly about the GPLv3 and its relevance to Free Software, and explain how the Freedom Task Force and other initiatives fit into the larger picture of an exciting 2007.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="21">Georg Greve</person>
+      </persons>
+      <links>
+          <link href="../../slides/maintracks/beyond_gpl3.pdf">Slides (PDF)</link>
+          <link href="http://video.fosdem.org/2007/FOSDEM2007-BeyondGPLv3.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

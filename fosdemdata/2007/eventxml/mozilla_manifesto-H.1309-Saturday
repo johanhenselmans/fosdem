@@ -1,0 +1,19 @@
+  <event id="160">
+      <start>17:00</start>
+      <duration>00:45</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>The Mozilla Manifesto</title>
+      <subtitle></subtitle>
+      <track>Mozilla</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;An opportunity for people to comment on and propose changes to the draft Mozilla manifesto.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;The Mozilla project recently published a draft of the &amp;#34;Mozilla Manifesto&amp;#34;, a statement of principles about the way we think the Internet should operate. Comments and discussion on the draft are welcomed, and this talk is an opportunity to do just that.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1601">Gervase Markham</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

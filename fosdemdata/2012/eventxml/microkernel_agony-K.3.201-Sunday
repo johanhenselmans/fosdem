@@ -1,0 +1,24 @@
+  <event id="231">
+      <start>14:10</start>
+      <duration>00:45</duration>
+      <room>K.3.201</room>
+      <slug></slug>
+      <title>The agony of choice - the diversity of microkernels in Genode</title>
+      <subtitle></subtitle>
+      <track>Microkernel OS Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;One shiny aspect of the Genode OS framework is its diversity with&#xA;respect to microkernels and hardware platforms it&amp;#39;s running on top of.&#xA;Although primarily of interest to clients and users, this property&#xA;provides some hidden benefits to the system-developer itself.&#xA;This talk is basically an experience report. It will give you an insight&#xA;into the benefits and troubles of developing on a diverse biotope, the&#xA;strength and weaknesses of the available platforms, how Genode gets&#xA;ported to a kernel, and what is basically necessary from the kernel&amp;#39;s&#xA;perspective to drive Genode. The last point will be illustrated by&#xA;introducing recent developments of a hybrid kernel/user API in Genode.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="2311">Stefan Kalkowski</person>
+      </persons>
+      <links>
+          <link href="737/95_diversity.pdf">diversity.pdf (slides)</link>
+          <link href="http://www.genode-labs.com/">Genode Labs website</link>
+          <link href="https://github.com/genodelabs/genode">Genode git repo</link>
+          <link href="http://genode.org/">Genode project website</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

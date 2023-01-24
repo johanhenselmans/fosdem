@@ -1,0 +1,19 @@
+  <event id="258">
+      <start>11:00</start>
+      <duration>01:00</duration>
+      <room>H.2213</room>
+      <slug></slug>
+      <title>Bringing Metisse and Xorg together</title>
+      <subtitle></subtitle>
+      <track>X.org</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;&lt;a href=&#34;http://insitu.lri.fr/metisse/&#34;&gt;Mettisse&lt;/a&gt; is a 2.5d windowing system based on the X window system. Rather than being a new desktop environment, it is intended as a tool for creating new types of desktop environments.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;This talk will feature demos on &lt;a href=&#34;http://insitu.lri.fr/metisse/&#34;&gt;Metisse&lt;/a&gt;&amp;#39;s current features, [[http://insitu.lri.fr/metisse/ Metisse]&amp;#39;s future directions and how Xorg integration will come into play with XComposite, GLX_EXT_texture_from_pixmap, input redirection, MPX, ...&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="2581">Remi Cardona</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

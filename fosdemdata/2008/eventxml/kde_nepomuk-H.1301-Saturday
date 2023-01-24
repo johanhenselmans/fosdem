@@ -1,0 +1,19 @@
+  <event id="164">
+      <start>15:45</start>
+      <duration>00:45</duration>
+      <room>H.1301</room>
+      <slug></slug>
+      <title>Nepomuk</title>
+      <subtitle></subtitle>
+      <track>KDE</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;&lt;a href=&#34;http://nepomuk.semanticdesktop.org/&#34;&gt;Nepomuk&lt;/a&gt; - The Road to a Semantic KDE Desktop&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Semantic KDE has as main goal the application of one the visions of the Social Semantic Desktop paradigm, i.e. to create a seamless communication channel between different applications present on the desktop as well as between applications used by one person on their desktop to applications used by another person on another desktop. &#xA;&lt;/p&gt;&#xA;&lt;p&gt;Semantic KDE provides a solution to the data interoperability issue by making use of formal ontologies, able to capture both a shared conceptualization of desktop data and personal mental models and more specific, of RDF (Resource Description Format), as a common data representation format.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Last, but not least, Semantic KDE will build semantic and social technologies that can be integrated deeply into the KDE framework and provide a basis for Semantic KDE applications.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1641">Sebastian Trüg</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

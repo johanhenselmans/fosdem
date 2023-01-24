@@ -1,0 +1,19 @@
+  <event id="198">
+      <start>18:30</start>
+      <duration>00:30</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>CloudB: a distributed hybrid storage system for the Mono framework</title>
+      <subtitle></subtitle>
+      <track>Mono devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;CloudB: a distributed hybrid storage system for the Mono framework&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;The growing needs of storage solutions and the new data architectures emerging in the last times are forcing IT professionals and corporates to approach new solutions for the data management. The SQL model has resisted, and still resists, as the commonly accepted standard for data modeling and storage, but its scalability is limited by the referential model, not replicable among distributed contexts.&#xA;To overcome the scalability issue, a new stream of products, going under the no-SQL emblem have emerged, providing more dynamic solutions for storage and retrieve data.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;In this fight between approaches, CloudB (official name &amp;#34;&amp;#34;DeveelDB in the Cloud&amp;#34;&amp;#34;) stands in the middle, providing a scalable network architecture, unbound from every data model: in fact, it is possible to &amp;#34;&amp;#34;plug-in&amp;#34;&amp;#34; the preferred data-model (SQL, Graph, OODB, string-dictionary, etc.) and being able to interface the data with open standards (eg. REST, ADO.NET, RPC, etc.) with ease, robustness and reliability.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;CloudB is a solution, entirely written in C# language, created with networks in mind, oriented to Mono appliances on Unix (but also Windows ...) based infrastructures, benefiting of the better performances and portability provided by the Mono framework.&lt;/p&gt;      </description>
+      <persons>
+          <person id="1981">Antonello Provenzano</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

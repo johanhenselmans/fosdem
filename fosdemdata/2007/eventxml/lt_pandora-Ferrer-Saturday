@@ -1,0 +1,21 @@
+  <event id="143">
+      <start>14:40</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Pandora Free Monitoring System</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;A lightning talk about what Pandora FMS is, how it works, and how it is used.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;The talk will show how Pandora works and what things could be done with Pandora FMS, that´s to say, show Pandora FMS to everybody and if anybody is interested, we (all the team would go to Brussels) will give him/her further information. We will be available to explain him/her whatever he/she wants to know about our project. The demostration is not going to be a 15 minutes of command-line, not at all, actually, Pandora is so easy because it can be managed from a Web Console.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;i&gt;About Pandora FMS:&lt;/i&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Pandora FMS is a monitoring tool that allows a system administrator to visually analise the status and efficiency of Operating Systems, Servers, Applications and Hardware Systems - such as firewalls,proxies, databases, Web servers, tunnelling servers, routers, switches, processes, services, remote access&#xA;servers, etc. - all integrated into an open and distributed architecture. Pandora can be implemented over many operating system, with specific agents for each platform. Pandora can also monitor any TCP/IP hardware system, as load balancers, routers, switches, printers, etc.&#xA;Everything of the above is easily controlled by a Web Console, making the procces of monitorizing a box so easy and intuitive at all.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Pandora FMS is being used in loads of big companys in Spain, such as Red Electrica de España (Which is one of largest companys in the country and where all the spanish electricity is managed).&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1431">Manuel Arostegui</person>
+      </persons>
+      <links>
+          <link href="../../slides/lightningtalks/Pandora.pdf">Slides (PDF)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

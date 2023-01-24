@@ -1,0 +1,19 @@
+  <event id="35">
+      <start>16:00</start>
+      <duration>01:00</duration>
+      <room>UA2.114</room>
+      <slug></slug>
+      <title>OLAP/Windowing functions</title>
+      <subtitle></subtitle>
+      <track>BSD + PostgreSQL</track>
+      <type></type>
+      <language></language>
+      <abstract></abstract>
+      <description></description>
+      <persons>
+          <person id="351">David Fetter</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

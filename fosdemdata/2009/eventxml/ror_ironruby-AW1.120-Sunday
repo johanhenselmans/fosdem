@@ -1,0 +1,19 @@
+  <event id="263">
+      <start>09:15</start>
+      <duration>00:45</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>IronRuby with .NET technologies</title>
+      <subtitle></subtitle>
+      <track>Ruby and Rails</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;ul&gt;&lt;li&gt; A brief discussion of what the DLR is and what it brings to the table in .NET/MONO.&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Introduction on how IronRuby could possibly ease rails deployment on IIS Silverlight as cross-platform GUI toolkit. &#xA;&lt;/li&gt;&#xA;&lt;li&gt; How to use silverlight to run ruby in the browser much like javascript&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Silverline: an integration for Silverlight with Rails.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="2631">Ivan Porto Carrero</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

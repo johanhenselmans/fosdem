@@ -1,0 +1,19 @@
+  <event id="115">
+      <start>17:00</start>
+      <duration>01:00</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>Modest, email client for embedded systems</title>
+      <subtitle></subtitle>
+      <track>Embedded</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;&lt;a href=&#34;http://modest.garage.maemo.org/&#34;&gt;&amp;#34;Modest&amp;#34;&lt;/a&gt; is a project to build a fully open-source email program, designed specifically  for embedded devices like the Nokia N800 and N810.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Starting December 2007, installable packages are available, with frequent updates. Modest uses the &lt;a href=&#34;http://www.tinymail.org/&#34;&gt;Tinymail e-mail framework&lt;/a&gt;.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Dirk-Jan Binnema has been part of the project since its inception, and in this talk, he&amp;#39;ll go through some of the challenges of building a user-friendly e-mail client, taking into account the strengths and limitations of an embedded platform. Both technical and non-technical issues will be discussed, and the way they were handled.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1151">Dirk-Jan Binnema</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

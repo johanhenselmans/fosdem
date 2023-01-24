@@ -1,0 +1,21 @@
+  <event id="110">
+      <start>15:00</start>
+      <duration>00:45</duration>
+      <room>H.1301</room>
+      <slug></slug>
+      <title>KDE 4</title>
+      <subtitle></subtitle>
+      <track>KDE</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;KDE4 - where are we and where are we going.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Jos will outline what the current status of the KDE 4.0 development cycle is, and what the KDE project wants to archieve in the KDE 4 series.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Some screenshots showing the current new stuff.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1101">Jos Poortvliet</person>
+      </persons>
+      <links>
+          <link href="http://www.kde.org/kdeslides/fosdem2007/2007-02-poortvliet-kde4.pdf">Slides (PDF)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

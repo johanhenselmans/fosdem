@@ -1,0 +1,19 @@
+  <event id="212">
+      <start>15:00</start>
+      <duration>01:00</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>GGI/KGI</title>
+      <subtitle></subtitle>
+      <track>X.org</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;GGI/KGI as a model for an improved graphics driver architecture&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;With the current graphics architecture on GNU/Linux (and similar systems), responsibilities aren&amp;#39;t clearly regulated: Between kernel (text console or&#xA;framebuffer), X drivers, DRM, DirectFB, SVGATextMode, and some other hacks, there is a lot of friction -- non-working suspend/resume, lost or distorted display on console switch, unusable console after X server of console application crashes etc. are the result.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Incompatibilities and configuration problems are ubiquitous. Clearly, a better integrated approach is desirable.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;This talk discusses the problems with the current architecture, and presents GGI/KGI as a model for a more unified and robust design.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="2121">Olaf Buddenhagen</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

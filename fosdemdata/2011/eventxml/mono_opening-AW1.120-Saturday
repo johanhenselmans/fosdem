@@ -1,0 +1,19 @@
+  <event id="206">
+      <start>13:00</start>
+      <duration>00:10</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>Opening</title>
+      <subtitle></subtitle>
+      <track>Mono devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Welcome to the Mono Room!&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Short welcoming to the Mono Developer Room.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2061">Ruben Vermeersch</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

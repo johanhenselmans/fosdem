@@ -1,0 +1,19 @@
+  <event id="170">
+      <start>14:00</start>
+      <duration>00:50</duration>
+      <room>Janson</room>
+      <slug></slug>
+      <title>Liberating Open Office Development</title>
+      <subtitle></subtitle>
+      <track>Office Track</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;LibreOffice is the most powerful and viable Free Softare&#xA; office suite, available cross-platform. As well as a few demos showing its&#xA; joys, we&amp;#39;ll understand the history, and rational behind the LibreOffice&#xA; project and its relation to OpenOffice.org.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;We will survey the threat to the Free Software ecosystem that&#xA; poorly managed, corporate dominated, copyright assignment based&#xA; projects can cause. Then we&amp;#39;ll get stuck into new features, our&#xA; development roadmap, and how to get involved develping with it - even&#xA; if you are not (yet) a super-star hacker. Come and get involved with&#xA; something exciting, and help make tens of millions of user&amp;#39;s first&#xA; experience of Free Software something to be proud of.&lt;/p&gt;      </description>
+      <persons>
+          <person id="1701">Michael Meeks</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

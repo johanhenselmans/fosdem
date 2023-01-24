@@ -1,0 +1,23 @@
+  <event id="241">
+      <start>10:00</start>
+      <duration>01:00</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>Contributions presentations (3)</title>
+      <subtitle></subtitle>
+      <track>Research Room</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;ul&gt;&lt;li&gt; Service oriented forge, by Olivier Abdoun, Ciaran Bryce and Adrian Mos&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Open Research Issues Toward a Legal Framework for OSS, by Guillaume Rousseau&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Security Engineering and Open Source Software Development, by Martin Gruhn&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA; </abstract>
+      <description></description>
+      <persons>
+          <person id="2411">Guillaume Rousseau</person>
+          <person id="2412">Adrian Mos</person>
+          <person id="2413">Ciaran Bryce</person>
+          <person id="2414">Olivier Abdoun</person>
+          <person id="2415">Martin Gruhn</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="150">
+      <start>18:00</start>
+      <duration>01:00</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>Introduction to FreeBSD</title>
+      <subtitle>What is the FreeBSD Project?</subtitle>
+      <track>BSD devroom</track>
+      <type></type>
+      <language></language>
+      <abstract></abstract>
+      <description>&#xA;&lt;p&gt;If you never heard of FreeBSD or want to know what it&amp;#39;s all about this talk is for you.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;The speaker will touch topics like the differences and similarities between Linux and FreeBSD, FreeBSD&amp;#39;s project model and unique features which make FreeBSD a great operating system.&lt;/p&gt;      </description>
+      <persons>
+          <person id="1501">Marius Nuennerich</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

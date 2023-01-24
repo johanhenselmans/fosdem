@@ -1,0 +1,19 @@
+  <event id="184">
+      <start>16:00</start>
+      <duration>01:00</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>Lua meets BSD</title>
+      <subtitle></subtitle>
+      <track>BSD devroom</track>
+      <type></type>
+      <language></language>
+      <abstract></abstract>
+      <description>&#xA;&lt;p&gt;Recently, the Lua scripting language has been included in the NetBSD&#xA;base system.  In this talk, Marc Balmer presents the main language&#xA;features and shows how the Lua engine can be embedded into C programs to&#xA;make them extensible and scriptable.&lt;/p&gt;      </description>
+      <persons>
+          <person id="1841">Marc Balmer</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

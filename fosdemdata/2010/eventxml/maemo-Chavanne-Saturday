@@ -1,0 +1,21 @@
+  <event id="179">
+      <start>14:00</start>
+      <duration>00:45</duration>
+      <room>Chavanne</room>
+      <slug></slug>
+      <title>Maemo 6 security framework, making happy DRM business and freedom lovers with the same device</title>
+      <subtitle></subtitle>
+      <track>Security</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The presentation will cover the Maemo Platform Security Architecture in more details, providing a deeper technical view on its components and their interaction.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;The purpose of the Platform Security in the Maemo 6 platform is to protect the owner of a Maemo-powered device from getting her personal, private data and passwords from being stolen and used for malicious purposes, to prevent a malware from misusing a device and incurring costs on user, to prevent a user from accidentally breaking the device and to make the platform meet the requirements set by such third party software that requires a safe execution environment.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The presentation will cover the Maemo Platform Security Architecture in more details, providing a deeper technical view on its components and their interaction.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1791">Elena Reshetova</person>
+      </persons>
+      <links>
+          <link href="http://video.fosdem.org/2010/maintracks/maemo.xvid.avi">Video (DIVX)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

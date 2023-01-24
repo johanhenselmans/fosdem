@@ -1,0 +1,19 @@
+  <event id="58">
+      <start>15:15</start>
+      <duration>01:00</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>Infrastructure round table</title>
+      <subtitle></subtitle>
+      <track>Distributions</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Seeing that all distributions face the problem of maintaining their infrastructure (server landscape, keeping the services running, managing downtimes), this round table is an open discussion forum for infrastructure maintainers from all distributions and maybe other large projects which are running their own infrastructure.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;After a short overview about the infrastructure issues a linux distribution can have, these issues can be discussed between the infrastructure maintainers of different distributions and other interested parties. Besides learning about how other people handle infrastructure issues, this round table should also be a means of getting to know the people behind the infrastructure of other distributions.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;All infrastructure personnel attending FOSDEM is invited to join us in this round table.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="581">Ralph Angenendt</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

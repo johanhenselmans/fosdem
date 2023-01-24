@@ -1,0 +1,19 @@
+  <event id="165">
+      <start>09:45</start>
+      <duration>00:45</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>Extension Development with Thunderbird</title>
+      <subtitle></subtitle>
+      <track>Mozilla</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;An overview of how OpenPGP is integrated into Thunderbird, including the problems that the OpenPGP standards cause for mail clients.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;&lt;a href=&#34;http://enigmail.mozdev.org/&#34;&gt;Enigmail&lt;/a&gt; is tightly integrated into Thunderbird. This is often not as straightforward as it may seem, since OpenPGP standards are incompatible to several email standards and implementation approaches used by Thunderbird. This talk gives an overview on these problems and how they are addressed.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1651">Patrick Brunschwig</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

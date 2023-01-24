@@ -1,0 +1,22 @@
+  <event id="176">
+      <start>13:30</start>
+      <duration>01:00</duration>
+      <room>H.1308</room>
+      <slug></slug>
+      <title>OpenOffice - OpenXML</title>
+      <subtitle></subtitle>
+      <track>openSUSE</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;A talk about the OpenXML integration in OpenOffice&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description></description>
+      <persons>
+          <person id="1761">Michael Meeks</person>
+      </persons>
+      <links>
+          <link href="http://ftp5.gwdg.de/pub/opensuse/FOSDEM/2007/fosdem2007-14_OpenOffice_OpenXML-1200.ogg">Video (Ogg/Theora)</link>
+          <link href="http://ftp5.gwdg.de/pub/opensuse/FOSDEM/2007/fosdem2007-14_OpenOffice_OpenXML-320.ogg">Video (Ogg/Theora/Low quality)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

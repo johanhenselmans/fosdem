@@ -1,0 +1,19 @@
+  <event id="4">
+      <start>13:30</start>
+      <duration>00:30</duration>
+      <room>AW1.105</room>
+      <slug></slug>
+      <title>DDE - Generic Porting of Device Drivers</title>
+      <subtitle></subtitle>
+      <track>Alt-OS</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk will give a short presentation of the Device Driver Environment (DDE), a library that helps porting Linux and FreeBSD device drivers to other operating systems.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;The DDE is divided into two parts, the DDEkit, a generic operating system abstraction layer, and guest-specific DDE&amp;#39;s (currently available for Linux 2.6 and FreeBSD) allowing to run unmodified Linux and FreeBSD device drivers. Currently there exist implementations for TUD:OS, an L4 microkernel based operating system developed at TU Dresden and the Genode operating system framework developed by Genode Labs (Dresden). There are also plans to port the DDE to Minix 3.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="41">Dirk Vogt</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

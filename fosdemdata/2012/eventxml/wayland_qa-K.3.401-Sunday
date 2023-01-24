@@ -1,0 +1,20 @@
+  <event id="403">
+      <start>11:30</start>
+      <duration>00:30</duration>
+      <room>K.3.401</room>
+      <slug></slug>
+      <title>Wayland Q &amp; A for toolkit developers. </title>
+      <subtitle></subtitle>
+      <track>X.org+OpenICC Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk is aimed at developers porting toolkits to run on Wayland. It will include an overview of some of the lessons learnt from porting various toolkits over to Wayland and provide an opportunity for developers to raise questions.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="4031">Rob Bradford</person>
+          <person id="4032">Kristian Høgsberg</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

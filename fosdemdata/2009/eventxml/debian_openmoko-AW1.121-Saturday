@@ -1,0 +1,19 @@
+  <event id="61">
+      <start>16:00</start>
+      <duration>01:00</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>The Debian status quo on the Openmoko Neo Freerunner</title>
+      <subtitle></subtitle>
+      <track>Debian</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Because Debian calls itself &amp;#34;the universal operating system&amp;#34;, it was inevitable that it would have come to the first F/LOSS-friendly mobile phone, the Openmoko Neo FreeRunner.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Debian on the Openmoko FreeRunner is not a new port nor a new distribution, but instead a different underlying system for the various Openmoko distributions (originally based on&#x9;OpenEmbedded). At the moment the Debian FreeSmartphone.Org team has focused its works mainly on the FreeSmartphone.Org stack, which is intended not only for the Openmoko devices, but as a general stack for all mobile phones.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="611">Luca Capello</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

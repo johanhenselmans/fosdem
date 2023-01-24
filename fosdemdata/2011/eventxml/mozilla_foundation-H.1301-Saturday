@@ -1,0 +1,19 @@
+  <event id="214">
+      <start>13:15</start>
+      <duration>00:30</duration>
+      <room>H.1301</room>
+      <slug></slug>
+      <title>Mozilla Foundation</title>
+      <subtitle>Drumbeat, membership, community.</subtitle>
+      <track>Mozilla devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Mozilla foundation update.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Gerv will give an update on the activities of the Mozilla Foundation in the last year - the Drumbeat initiative (http://www.drumbeat.org), our new &amp;#39;Join Mozilla&amp;#39; membership drive, and community support.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2141">Gervase Markham</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

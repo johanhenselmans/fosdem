@@ -1,0 +1,21 @@
+  <event id="145">
+      <start>10:00</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>phpAspect</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;A lightning talk about phpAspect, aspect-oriented programming in PHP.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;The talk will be a quick overview of phpAspect and demonstrates&#xA;how this tool can be used to modularize web-specifics crosscutting&#xA;concerns like XSS faillures with a very simple use case. &#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;i&gt;About phpAspect:&lt;/i&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;In software engineering, the programming paradigm of aspect-oriented&#xA;programming (AOP), attempts to aid programmers in the separation of&#xA;technical concerns (persistence, logging, etc) from the business&#xA;logic.&#xA;This paradigm introduce a software entity, called aspect which, thanks&#xA;to a mechanism of weaving, can enrich portions of business logic with&#xA;technical processes.&#xA;In phpAspect this mechanism of weaving uses XSLT to perform source&#xA;code transformation.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1451">William Candillon</person>
+      </persons>
+      <links>
+          <link href="../../slides/lightningtalks/phpAspect.pdf">Slides (PDF)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,21 @@
+  <event id="141">
+      <start>15:20</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>OpenWengo</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;A lightning talk about &amp;#34;OpenWengo - VoIP and communication over IP in&#xA;the participative age&amp;#34;.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;&amp;#34;OpenWengo - VoIP and communication over IP in&#xA;the participative age&amp;#34;. Dave Neary will present the OpenWengo project,&#xA;our community, and what&amp;#39;s interesting and passionate about working on&#xA;the bleeding edge of VoIP.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;i&gt;About OpenWengo:&lt;/i&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;OpenWengo is a free software project to&#xA;create a unified communication over IP program. The WengoPhone is a&#xA;standards-based softphone, videophone and IM client with a growing&#xA;community.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1411">Dave Neary</person>
+      </persons>
+      <links>
+          <link href="../../slides/lightningtalks/OpenWengo.pdf">Slides (PDF)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

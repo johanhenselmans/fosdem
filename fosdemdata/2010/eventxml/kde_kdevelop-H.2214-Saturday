@@ -1,0 +1,19 @@
+  <event id="165">
+      <start>14:45</start>
+      <duration>00:45</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>KDevelop 4</title>
+      <subtitle></subtitle>
+      <track>KDE</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;KDevelop is the IDE from KDE. It can be used for many programming languages and environements. KDevelop 4 rewrites much of the application and is about to be released.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Aleix will take a look at the features and give us tips on getting the most out of your coding time.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1651">Aleix Pol</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

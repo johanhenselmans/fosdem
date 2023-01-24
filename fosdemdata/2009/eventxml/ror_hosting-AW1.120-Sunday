@@ -1,0 +1,19 @@
+  <event id="261">
+      <start>16:15</start>
+      <duration>00:45</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>Hosting ruby on rails</title>
+      <subtitle></subtitle>
+      <track>Ruby and Rails</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Real-life experiences in designing, engineering and supporting hosting environments.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Choosing the right technologies, tying them together and debugging errors in the stacks. Practical examples, benchmarks and code-snippets to inform and entertain...&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2611">Bernard Grymonpon</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

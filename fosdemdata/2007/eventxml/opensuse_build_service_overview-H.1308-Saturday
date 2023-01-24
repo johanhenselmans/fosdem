@@ -1,0 +1,22 @@
+  <event id="171">
+      <start>15:30</start>
+      <duration>00:15</duration>
+      <room>H.1308</room>
+      <slug></slug>
+      <title>openSUSE Build Service Overview</title>
+      <subtitle></subtitle>
+      <track>openSUSE</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Introduction into the &lt;a href=&#34;http://en.opensuse.org/Build_Service&#34;&gt;openSUSE Build Service&lt;/a&gt;, why it was created, what are the goals it wants to achieve and a brief overview about its components.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description></description>
+      <persons>
+          <person id="1711">Adrian Schroeter</person>
+      </persons>
+      <links>
+          <link href="http://ftp5.gwdg.de/pub/opensuse/FOSDEM/2007/fosdem2007-03_openSUSE_Build_Service_Overview-1200.ogg">Video (Ogg/Theora)</link>
+          <link href="http://ftp5.gwdg.de/pub/opensuse/FOSDEM/2007/fosdem2007-03_openSUSE_Build_Service_Overview-320.ogg">Video (Ogg/Theora/Low quality)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

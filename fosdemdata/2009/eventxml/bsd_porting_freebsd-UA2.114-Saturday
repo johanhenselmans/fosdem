@@ -1,0 +1,19 @@
+  <event id="36">
+      <start>17:00</start>
+      <duration>01:00</duration>
+      <room>UA2.114</room>
+      <slug></slug>
+      <title>Porting applications in FreeBSD</title>
+      <subtitle></subtitle>
+      <track>BSD + PostgreSQL</track>
+      <type></type>
+      <language></language>
+      <abstract></abstract>
+      <description></description>
+      <persons>
+          <person id="361">Rodrigo Osorio</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

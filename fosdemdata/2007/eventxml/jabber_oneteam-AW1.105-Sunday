@@ -1,0 +1,19 @@
+  <event id="95">
+      <start>13:15</start>
+      <duration>00:45</duration>
+      <room>AW1.105</room>
+      <slug></slug>
+      <title>OneTeam</title>
+      <subtitle></subtitle>
+      <track>Jabber</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;A Mozilla/XUL Jabber application.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.process-one.net/en/oneteam/&#34;&gt;OneTeam&lt;/a&gt; is a Mozilla based client, focusing on the enterprise market and introducing innovative productivity oriented features. It can be run from the web or as a standalone desktop client.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;This talk will describe the design approach behind the new OneTeam client, the target features and the project roadmap. The talk will close with a&#xA;demonstration of OneTeam&amp;#39;s most current version. We will then provide accounts to visitors, to access the Web version after the talk.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="951">Mickaël Rémond</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

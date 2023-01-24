@@ -1,0 +1,20 @@
+  <event id="123">
+      <start>15:00</start>
+      <duration>01:00</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>Xen for Secure Isolation on ARM11</title>
+      <subtitle></subtitle>
+      <track>Embedded</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Using &lt;a href=&#34;http://www.xensource.com/&#34;&gt;Xen&lt;/a&gt; for Secure Isolation on ARM11 Based Mobile Devices or Yet Another Xen ARM Port.&#xA;&lt;a href=&#34;http://www.mvista.com/&#34;&gt;MontaVista&lt;/a&gt; is implementing a port of Xen to the ARM architecture tailored for use on mobile devices. Although there are reports of existing Xen ARM ports, those ports are either [[http://www.cs.ubc.ca/grads/resources/thesis/May06/Ferstay_Daniel.pdf incomplete], &lt;a href=&#34;http://www.cs.uiuc.edu/class/sp06/cs523/assignments/midterm-workshop/lemay-jin-reddy-schoudel.pdf&#34;&gt;abandoned&lt;/a&gt; and/or have &lt;a href=&#34;http://www.xensource.com/files/xensummit_4/Secure_Xen_ARM_xen-summit-04_07_Suh.pdf&#34;&gt;not been publicly released&lt;/a&gt;. &#xA;MontaVista is therefore implementing yet another Xen ARM port which will indeed be publicly released.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;ol&gt;&lt;li&gt; Our primary goal for porting Xen to the ARM architecture is to provide secure isolation between two or more Xen guest domains on mobile devices utilizing ARM11 based processors.  To achieve this primary goal, we intend to leverage the ongoing Xen Security Modules (XSM) FLux Advanced Security Kernel (FLASK) work as part of our Xen based ARM Secure Isolation strategy.&#xA;&lt;/li&gt;&#xA;&lt;li&gt; As a secondary goal, we intend to implement our Xen ARM port in a manner which will facilitate rapid porting to new ARM processors and/or machines. This secondary goal will be achieved via inclusion of the excellent ARM multi-processor/multi-machine support implementation present in the current Linux-2.6 kernel into our Xen ARM port.&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Our tertiary goal is to incorporate ARM Linux kernel initialisation parameter support into Xen to set up the initial Xen ARM machine environment thus facilitating use of Xen on existing ARM targets without requiring target bootloader customisations. As of this writing, we have completed the initial bring up of the Xen ARM idle domain on a QEMU Versatile/PB ARM926EJ-S based target but have not yet completed bring up of the Xen mini-OS and/or Linux guest domains.  It is anticipated that we will have substantially completed our Xen ARM porting efforts in time to present a fully functional Xen ARM port at the LCA Virtualisation Miniconf.&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;        &#xA;This presentation will provide:&#xA;&lt;ol&gt;&lt;li&gt; An architectural overview of the MontaVista Xen ARM port&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Background details of the MontaVista Xen ARM porting efforts to date&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Current status of the MontaVista Xen ARM port&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Live demonstration of Xen on an ARM11 based target&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Next steps for the Xen ARM port&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA; </description>
+      <persons>
+          <person id="1231">George Davis</person>
+          <person id="1232">Jean Pihet</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

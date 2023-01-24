@@ -1,0 +1,21 @@
+  <event id="132">
+      <start>14:00</start>
+      <duration>00:45</duration>
+      <room>Janson</room>
+      <slug></slug>
+      <title>Large scale data analysis made easy - Apache Hadoop</title>
+      <subtitle></subtitle>
+      <track>Scalability</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The goal of Apache Hadoop is to make large scale data analysis easy. Hadoop implements a distributed filesystem based on the dieas behind GFS, the Google File System. With Map/Reduce it provides an easy way to implement parallel algorithms.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Storage has become ever cheaper in recent years. Currently one terabyte of harddisk space costs less than 100 Euros. As a result a growing number of businesses have started collecting and digitizing data: Custumer transaction logs, news articles published over decades, crawls of parts o f the world wide web are only few use cases that produce large amounts of data. But with petabytes of data at your fingertips the question of how to make ad-hoc as well as continuous processing efficient arises.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The goal of Apache Hadoop is to make large scale data analysis easy. Hadoop implements a distributed filesystem based on the dieas behind GFS, the Google File System. With Map/Reduce it provides an easy way to implement parallel algorithms.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;After motivating the neeed for a distributed library the talk gives an introduction to Hadoop detailing its strengths and weaknesses. It gives an introduction on how to quickly get your own Map/Reduce jobs up and running. The talk closes with an overview of the Hadoop ecosystem.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1321">Isabel Drost</person>
+      </persons>
+      <links>
+          <link href="http://video.fosdem.org/2010/maintracks/hadoop.xvid.avi">Video (DIVX)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="213">
+      <start>11:00</start>
+      <duration>02:00</duration>
+      <room>AW1.105</room>
+      <slug></slug>
+      <title>OOoCalc Bug Hunting and Performance Profiling Workshop</title>
+      <subtitle></subtitle>
+      <track>OpenOffice.org</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The workshop will give an overview of how to dive into the OooCalc spreadsheet code for bug hunting, using a gdb debug session. If time permits we will fix an issue live during the workshop. The second part of the workshop will give an introduction to performance profiling using the valgrind and kcachegrind tools to spot performance bottlenecks.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="2131">Eike Rathke</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

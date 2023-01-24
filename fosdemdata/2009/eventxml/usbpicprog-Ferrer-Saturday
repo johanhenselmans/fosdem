@@ -1,0 +1,19 @@
+  <event id="281">
+      <start>18:20</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Introducing usbpicprog, an affordable usb programmer for PIC-chips.</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;We&amp;#39;ll introduce for the first time to the public usbpicprog, a brand new programmer for the PIC microcontrollers by Microchip. The different stages of development, a basic overview of how it works and comparison to alternatives will be presented.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;usbpicprog, a brand new programmer for the PIC microcontrollers by Microchip. Software works on multiple OSses using wxWidgets. It&amp;#39;s the first cheap, small, usb-supported programmer, with active development.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2811">Frans Schreuder</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

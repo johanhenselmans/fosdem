@@ -1,0 +1,19 @@
+  <event id="240">
+      <start>17:00</start>
+      <duration>00:45</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>Microsoft Windows Management with OPSI </title>
+      <subtitle></subtitle>
+      <track>Configuration &amp; Systems Management devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Today we have a very mixed environment of systems, those systems runs&#xA;GNU/Linux, FreeBSD, OpenBSD, Windows (tm), MacOSx.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;While we have free software tools to manage GNU/Linux and BSD systems,&#xA;managing Microsoft Windows systems is still the most difficult part.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;OPSI is a free software tool to manage the complexity of Microsoft Windows&#xA;Environments. What make it special is that it&amp;#39;s not again managing&#xA;Microsoft Windows by unix guys, but managing it the way the Windows&#xA;administrators works.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;OPSI provide a complete solution to deploy, manage and update to windows&#xA;system from Windows 2000 to Windows 7, it also manage the licences for&#xA;all the deployed software.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;There is now collaboration between the OPSI project and the&#xA;fusioninventory project to make OPSI use the fusioninventory client to&#xA;manage the hardware and software inventory.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="2401">Benoit Mortier</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="334">
+      <start>14:00</start>
+      <duration>00:50</duration>
+      <room>K.4.201</room>
+      <slug></slug>
+      <title>Multi-CPU performance in PostgreSQL 9.2</title>
+      <subtitle></subtitle>
+      <track>PostgreSQL Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;There will be many improvements to multi-CPU scalability in the upcoming 9.2 release. This presentation gives a sneak-peek preview of the changes that have been made, and presents the current status of PostgreSQL scalability.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="3341">Heikki Linnakangas</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

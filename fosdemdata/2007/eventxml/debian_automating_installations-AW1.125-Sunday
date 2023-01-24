@@ -1,0 +1,23 @@
+  <event id="17">
+      <start>16:00</start>
+      <duration>01:00</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>Automating installations</title>
+      <subtitle></subtitle>
+      <track>Debian</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Automating installations using preseeding in Debian Installer&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;An introduction to how installing Debian can be automated using &amp;#34;preseeding&amp;#34;.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The talk will give some background information on how preseeding is basically just making use of the debconf protocol, which preseeding methods are available, and how to create a preconfiguration file. Some potential problems and current limitations of using preseeding will be discussed as well.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="171">Frans Pop</person>
+      </persons>
+      <links>
+          <link href="http://meetings-archive.debian.net/pub/debian-meetings/2007/fosdem/ogg_theora/720x576/Automating_installations-Frans_Pop.ogg">Video (Ogg/Theora)</link>
+          <link href="http://meetings-archive.debian.net/pub/debian-meetings/2007/fosdem/xvid/Automating_installations-Frans_Pop_xvid.avi">Video (DIVX)</link>
+          <link href="http://meetings-archive.debian.net/pub/debian-meetings/2007/fosdem/ogg_theora/360x288/Automating_installations-Frans_Pop.ogg">Video (Ogg/Theora/Low quality)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

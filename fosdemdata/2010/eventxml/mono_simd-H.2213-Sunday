@@ -1,0 +1,19 @@
+  <event id="191">
+      <start>13:15</start>
+      <duration>00:30</duration>
+      <room>H.2213</room>
+      <slug></slug>
+      <title>Image processing with Mono.Simd</title>
+      <subtitle></subtitle>
+      <track>Mono</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk will focus on putting Mono.Simd -- the layer for enabling SIMD processing in mono -- to work in the field of image processing. All code, no slides.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="1911">Stéphane Delcroix</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

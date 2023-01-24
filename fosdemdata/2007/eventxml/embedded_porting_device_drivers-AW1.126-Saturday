@@ -1,0 +1,21 @@
+  <event id="38">
+      <start>14:00</start>
+      <duration>01:00</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>Porting device drivers to 2.6</title>
+      <subtitle></subtitle>
+      <track>Embedded</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Porting device drivers for the 2.6 kernel, the new driver framework.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;In this talk we will look into the challenges and contradictions OS designers and developers face. The first group needs to maintain order and sense in the kernel structure while the other has to get the things working.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;We will look at the compromises made in the reality of the Linux kernel. Next we will overview the bus and driver model of the 2.6 kernel, also looking at the development of sysfs and the vexed relationship with proc and udev/devfs. Also addressed will behow to deal with programmable devices (such as FPGA&amp;#39;s) and how they fit (or not) in the OS&amp;#39;s bus and device hierarchy.&#xA;Finally an example (namely the SMCs91c96i driver will be taken as an example and look at actually how to port working  driver code into the 2.6 series.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="381">Craig Duffy</person>
+      </persons>
+      <links>
+          <link href="../../slides/devrooms/embedded/Craig_Duffy_Porting_drivers.odp">Slides (OOo)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

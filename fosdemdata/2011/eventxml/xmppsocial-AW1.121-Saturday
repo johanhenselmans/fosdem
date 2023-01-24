@@ -1,0 +1,19 @@
+  <event id="329">
+      <start>16:30</start>
+      <duration>00:30</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>XMPP and Federated Social Networking</title>
+      <subtitle></subtitle>
+      <track>Jabber &amp; XMPP devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;XMPP and Federated Social Networking&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;XMPP and Federated Social Networking&lt;/p&gt;      </description>
+      <persons>
+          <person id="3291">Simon Tennant</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

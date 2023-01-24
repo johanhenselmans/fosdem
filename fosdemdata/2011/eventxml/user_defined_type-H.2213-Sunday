@@ -1,0 +1,19 @@
+  <event id="306">
+      <start>12:00</start>
+      <duration>00:45</duration>
+      <room>H.2213</room>
+      <slug></slug>
+      <title>Writing a user-defined type</title>
+      <subtitle></subtitle>
+      <track>PostgreSQL devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Walk-through of extending PostgreSQL with a user-defined type. How to define operators for the type, B-tree support for basic indexing, as well as GiST and GIN index support to speed up searches of advanced operations.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="3061">Heikki Linnakangas</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

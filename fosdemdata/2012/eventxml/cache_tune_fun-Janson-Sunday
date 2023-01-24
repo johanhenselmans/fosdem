@@ -1,0 +1,22 @@
+  <event id="36">
+      <start>11:00</start>
+      <duration>00:50</duration>
+      <room>Janson</room>
+      <slug></slug>
+      <title>Caching and Tuning fun for high scalability</title>
+      <subtitle></subtitle>
+      <track>System Track</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Caching has been a &amp;#39;hot&amp;#39; topic for a few years. But caching takes more than merely taking data and putting it in a cache : the right caching techniques can improve performance and reduce load significantly. But we&amp;#39;ll also look at some major pitfalls, showing that caching the wrong way can bring down your site. If you&amp;#39;re looking for a clear explanation about various caching techniques and tools like Memcached, Nginx and Varnish, as well as ways to deploy them in an efficient way, this talk is for you. In this talk, we&amp;#39;ll start from a Zend Framework (PHP) based site. We&amp;#39;ll add caching, begin to add servers and replace the standard LAMP stack, all while performing live benchmarks.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="361">Wim Godden</person>
+      </persons>
+      <links>
+          <link href="http://www.slideshare.net/wimg/caching-and-tuning-fun-for-high-scalability-fosdem">Slides</link>
+          <link href="http://video.fosdem.org/2012/maintracks/janson/Caching_and_tuning_fun_for_high_scalability.webm">Video recording</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

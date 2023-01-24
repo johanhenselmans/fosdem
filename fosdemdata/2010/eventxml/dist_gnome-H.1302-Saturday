@@ -1,0 +1,19 @@
+  <event id="54">
+      <start>17:30</start>
+      <duration>00:45</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>Working with GNOME upstream</title>
+      <subtitle></subtitle>
+      <track>Distributions</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This session is not a talk, but an interactive session. The goal of this session is to have the downstream and upstream people working on GNOME meet, joke, fight, laugh, cry and dance together. And after that, an open discussion will take place about all the topics that we feel we should discuss.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Potential topics include:&#xA;&lt;/p&gt;&lt;ul&gt;&lt;li&gt; what GNOME is not doing right for downstream, and how we could change this&#xA;&lt;/li&gt;&#xA;&lt;li&gt; what GNOME is doing right compared to other projects, so we know this should not be changed ;-)&#xA;&lt;/li&gt;&#xA;&lt;li&gt; forwarding downstream patches and bugs&#xA;&lt;/li&gt;&#xA;&lt;li&gt; forwarding feedback from distribution users&#xA;&lt;/li&gt;&#xA;&lt;li&gt; communicating important bugfixes to downstream&#xA;&lt;/li&gt;&#xA;&lt;li&gt; how GNOME 3 will affect packagers&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;  </description>
+      <persons>
+          <person id="541">Vincent Untz</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

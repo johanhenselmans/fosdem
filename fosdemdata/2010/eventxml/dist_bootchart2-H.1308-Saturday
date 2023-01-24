@@ -1,0 +1,19 @@
+  <event id="44">
+      <start>16:15</start>
+      <duration>00:30</duration>
+      <room>H.1308</room>
+      <slug></slug>
+      <title>bootchart2</title>
+      <subtitle></subtitle>
+      <track>Distributions</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;A quick expose on boot time profiling tools, show-casing the slightly-less-lame: &amp;#34;bootchart2&amp;#34; - a new and improved boot time profiling tool, and other ways to speed things up.&amp;#34;&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Which of the seven+ &amp;#39;readahead&amp;#39; tools do you want, and why ? With a summary of recent fixes and wins in the area, and how to get involved with improving Linux boot performance.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="441">Michael Meeks</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

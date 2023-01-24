@@ -1,0 +1,19 @@
+  <event id="138">
+      <start>14:00</start>
+      <duration>00:30</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>PubSub and the Web</title>
+      <subtitle></subtitle>
+      <track>Jabber + XMPP</track>
+      <type></type>
+      <language></language>
+      <abstract></abstract>
+      <description></description>
+      <persons>
+          <person id="1381">Nathan Fritz</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

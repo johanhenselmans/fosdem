@@ -1,0 +1,21 @@
+  <event id="98">
+      <start>14:30</start>
+      <duration>01:00</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>Cross-building Debian and Tdebs</title>
+      <subtitle></subtitle>
+      <track>Debian</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;A lot of progress has been made in preparing Debian for embedded devices in the last year. This talk describes the common problems arising from cross building, improvements being made to existing Debian infrastructure to ease cross compiling and the problems that remain.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Also included is a description of the &lt;a href=&#34;http://www.emdebian.org/&#34;&gt;Emdebian&lt;/a&gt; implementation of &lt;a href=&#34;http://www.emdebian.org/emdebian/langupdate.html&#34;&gt;Tdebs&lt;/a&gt; - translation packages with secondary repository and cache support and how this support can be implemented in Debian.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="981">Neil Williams</person>
+      </persons>
+      <links>
+          <link href="http://meetings-archive.debian.net/pub/debian-meetings/2008/fosdem/ogg_theora/384x288/Cross-building_Debian_and_Tdebs___Neil_Williams.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

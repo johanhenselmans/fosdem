@@ -1,0 +1,19 @@
+  <event id="187">
+      <start>16:00</start>
+      <duration>00:30</duration>
+      <room>H.2213</room>
+      <slug></slug>
+      <title>OSCTool - learning C# and Mono by doing</title>
+      <subtitle></subtitle>
+      <track>Mono</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;In 2007, the Oxford Supercomputing Centre received enough funding to put some infrastructure in place behind their clusters - but found a lack of adequate tools to manage it. This talk covers the progression from Perl-based prototyping to 25kloc of C#, due for GPL release in Q1 2010.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="1871">Jo Shields</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

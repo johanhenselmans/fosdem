@@ -1,0 +1,22 @@
+  <event id="1">
+      <start>14:00</start>
+      <duration>00:45</duration>
+      <room>Janson</room>
+      <slug></slug>
+      <title>Perl 6</title>
+      <subtitle></subtitle>
+      <track>Languages</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Patrick Michaud will talk about the &lt;a href=&#34;http://dev.perl.org/perl6/&#34;&gt;Perl 6 programming language&lt;/a&gt; from a variety of perspectives, and targeting a number of different audiences.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Patrick will look at some of the changes and improvements that &lt;a href=&#34;http://dev.perl.org/perl6/&#34;&gt;Perl 6&lt;/a&gt; has made as a language over previous versions of Perl, as well as many of the technical details of its implementation. &#xA;&lt;/p&gt;&#xA;&lt;p&gt;Along the way he&amp;#39;ll also take a look at &lt;a href=&#34;http://www.parrotcode.org/&#34;&gt;Parrot&lt;/a&gt;, and see how it is progressing to become a common runtime platform for Perl, Python, PHP, Ruby, Javascript, and many other dynamic languages.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="11">Patrick Michaud</person>
+      </persons>
+      <links>
+          <link href="http://www.pmichaud.com/2008/pres/fosdem-perl6">Slides (PDF)</link>
+          <link href="http://video.fosdem.org/2008/maintracks/FOSDEM2008-perl6.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

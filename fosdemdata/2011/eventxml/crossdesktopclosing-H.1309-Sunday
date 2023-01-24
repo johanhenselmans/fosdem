@@ -1,0 +1,20 @@
+  <event id="35">
+      <start>16:45</start>
+      <duration>00:15</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>Au revoir, see you next year!</title>
+      <subtitle></subtitle>
+      <track>Crossdesktop devroom</track>
+      <type></type>
+      <language></language>
+      <abstract></abstract>
+      <description></description>
+      <persons>
+          <person id="351">Christophe Fergeau</person>
+          <person id="352">Bart Coppens</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

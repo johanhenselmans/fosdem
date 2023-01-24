@@ -1,0 +1,19 @@
+  <event id="162">
+      <start>10:00</start>
+      <duration>00:45</duration>
+      <room>K.4.201</room>
+      <slug></slug>
+      <title>Introduction to pkgng</title>
+      <subtitle></subtitle>
+      <track>BSD Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Pkgng is a completely new package manager rewritten from scratch. It aims at replacing the old pkg_install. It is developed on top of new libpkg which is the high level library that does all the package management, it brings new features such as safe upgrade, (multi) repository support, integrity checking and more. It has been designed to be extensible while remaining fully compatible with the current FreeBSD ports tree.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="1621">Baptiste Daroussin</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

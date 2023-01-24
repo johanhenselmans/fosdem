@@ -1,0 +1,20 @@
+  <event id="300">
+      <start>16:00</start>
+      <duration>00:30</duration>
+      <room>H.2213</room>
+      <slug></slug>
+      <title>Mirabeau: Creating Personal Media Networks</title>
+      <subtitle></subtitle>
+      <track>Jabber + XMPP</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Mirabeau: Creating Personal Media Networks and Bridging UPnP Devices over the Internet with XMPP&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="3001">Philippe Normand</person>
+          <person id="3002">Frank Scholz</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

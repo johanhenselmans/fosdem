@@ -1,0 +1,22 @@
+  <event id="49">
+      <start>13:00</start>
+      <duration>00:45</duration>
+      <room>K.3.601</room>
+      <slug></slug>
+      <title>Open Source Infrastructure - Running the Jenkins project with Puppet</title>
+      <subtitle></subtitle>
+      <track>Configuration and Systems Management Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;How the Jenkins project had to grow infrastructure overnight, and how a costly mistake doing things the wrong way forced us to migrate to managing our infrastructure with Puppet.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt; In early 2011 the Jenkins project became the Jenkins project, leaving&#xA;behind an organically grown but Oracle (formerly Sun) operated infrastructure.&#xA;An open source project with thousands of users had to grow an infrastructure&#xA;practically overnight, initially doing things &amp;#34;the wrong way&amp;#34; by hand crafting&#xA;machines. That was until a costly mistake forced us to reconsider and migrate&#xA;to managing our infrastructure with Puppet from a publicly available shared Git&#xA;repository.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Besides Puppet, the Jenkins project also uses a number of other tools to help&#xA;manage access control on GitHub, parts of JIRA, etc, all carrying on the very&#xA;transparent and welcoming tradition the project prides itself on.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;In this talk I will discuss the ups and downs of switching an established&#xA;infrastructure to Puppet, all within the public eye and with volunteer time and&#xA;energy.&lt;/p&gt;      </description>
+      <persons>
+          <person id="491">R Tyler Croy</person>
+      </persons>
+      <links>
+          <link href="649/116_Open-Source-Infra_FOSDEM.pdf">Open-Source-Infra_FOSDEM.pdf (slides)</link>
+          <link href="http://jenkins-ci.org/">Jenkins Project</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,21 @@
+  <event id="118">
+      <start>18:00</start>
+      <duration>01:00</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>Gentoo EAPI 5</title>
+      <subtitle></subtitle>
+      <track>CrossDistribution Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Gentoo uses versioning in the package manager script format. EAPI is the contract between ebuilds (Gentoo&amp;#39;s packaging scripts) and the package manager. The version currently in use is 4.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;This session is about looking over features in the pipeline for the next version and hopefully having a discussion on them and others. Traditionally multiple council members have attended FOSDEM so this is your chance to influence the technical direction of Gentoo package management.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="1181">Petteri Räty</person>
+      </persons>
+      <links>
+          <link href="http://video.fosdem.org/2012/crossdistro/Gentoo_EAPI_5.webm">Video recording</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

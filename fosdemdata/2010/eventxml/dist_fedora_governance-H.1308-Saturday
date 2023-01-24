@@ -1,0 +1,19 @@
+  <event id="53">
+      <start>14:45</start>
+      <duration>00:45</duration>
+      <room>H.1308</room>
+      <slug></slug>
+      <title>Fedora Governance</title>
+      <subtitle></subtitle>
+      <track>Distributions</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;In this talk, former Fedora Project Leader Max Spevack will discuss the governance and decision-making processes that exist within Fedora.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;From individual contributors to special-interest-groups to the core projects that make up Fedora, this talk will explain not only how the Fedora Project is structured, but the underlying principles and goals of Fedora that have led it to have its current organizational structure.  The talk will also discuss some general ideas about governance and organization in volunteer-led communities -- both in Open Source, as well as other fields.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="531">Max Spevack</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,22 @@
+  <event id="122">
+      <start>15:45</start>
+      <duration>00:30</duration>
+      <room>H.1308</room>
+      <slug></slug>
+      <title>Getting into GNOME - Impressions of a new maintainer</title>
+      <subtitle></subtitle>
+      <track>CrossDesktop Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Where to start as a novice&lt;/li&gt;&#xA;&lt;li&gt;Mentoring programmes (Google Summer of Code and Code-In, Outreach Program for Women, GNOME Love) for those who want to commit to a longer-term involvement&lt;/li&gt;&#xA;&lt;li&gt;Guest appearance by Ekaterina Gerasimova to talk about the Outreach Program for Women, and her experience as both an intern and mentor in the GNOME Documentation Project&lt;/li&gt;&#xA;&lt;li&gt;GNOME-specific entry routes, both through GNOME technology and GNOME Foundation initiatives&lt;/li&gt;&#xA;&lt;li&gt;Becoming a module maintainer, the responsibilities and benefits&lt;/li&gt;&#xA;&lt;li&gt;Examples of the above topics , with specific references to the Vinagre, Vino and Cheese projects, which I maintain&lt;/li&gt;&#xA;&lt;li&gt;Alternative ways to contribute to GNOME, such as translation or volunteering to help organise GNOME events&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;      </abstract>
+      <description></description>
+      <persons>
+          <person id="1221">Ekaterina Gerasimova</person>
+          <person id="1222">David King</person>
+      </persons>
+      <links>
+          <link href="727/138_new-maintainter.pdf">new-maintainter.pdf (slides)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,21 @@
+  <event id="137">
+      <start>17:00</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>MySQL</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;A lightning talk about what&amp;#39;s new at MySQL AB&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;This talk will provide you with quick updates about what&amp;#39;s going on at MySQL AB&#xA;with regards to new products, updates to existing ones as well as ongoing&#xA;community activities and offerings.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;i&gt;About MySQL:&lt;/i&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;MySQL AB is the company that develops and markets the MySQL Server and related&#xA;Open Source products. As part of the LAMP stack, MySQL is quite popular as an&#xA;essential component of today&amp;#39;s OSS information technology infrastructure.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1371">Lenz Grimmer</person>
+      </persons>
+      <links>
+          <link href="../../slides/lightningtalks/MySQL.pdf">Slides (PDF)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

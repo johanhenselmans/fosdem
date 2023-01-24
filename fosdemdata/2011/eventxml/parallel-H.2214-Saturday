@@ -1,0 +1,19 @@
+  <event id="247">
+      <start>15:00</start>
+      <duration>00:30</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>GNU Parallel</title>
+      <subtitle>the command line power tool</subtitle>
+      <track>GNU devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;What you can do with GNU Parallel&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Demo of what you can do with GNU Parallel - loosely based on http://www.youtube.com/watch?v=OpaiGYxkSuQ&lt;/p&gt;      </description>
+      <persons>
+          <person id="2471">Ole Tange</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

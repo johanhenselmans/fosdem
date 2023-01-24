@@ -1,0 +1,21 @@
+  <event id="47">
+      <start>15:20</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Archetype: structural JavaScript Framework</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;My talk will present why we have made Archetype Javascript Framework, by&#xA;comparing serverside and clientside ways to work, and what it does to do&#xA;more with much of the same (JavaScript).&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Archetype is a structural JavaScript Framework (just like no other JS&#xA;Framework). It helps a lot in big JavaScript development fo Ajax&#xA;applications, and able developers to use JS instead of Flash for heavy&#xA;developments.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The Framework:&#xA;&lt;/p&gt;&lt;ul&gt;&lt;li&gt; simplifies good practices in JS&#xA;&lt;/li&gt;&#xA;&lt;li&gt; is modular (can be used just for some of its function : loading,&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;templates, logging, etc.)&#xA;&lt;ul&gt;&lt;li&gt; is designed to fully work in MVC on the client side&#xA;&lt;/li&gt;&#xA;&lt;li&gt; provide an easy to use logging interface&#xA;&lt;/li&gt;&#xA;&lt;li&gt; adds a lightning fast template system for JS inspired by Smarty&#xA;&lt;/li&gt;&#xA;&lt;li&gt; help for files loading in an efficient way (JS dependencies, templates,&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;etc.) to avoid JS loading errors in big projects&#xA;&lt;ul&gt;&lt;li&gt; adds communication through Events between components&#xA;&lt;/li&gt;&#xA;&lt;li&gt; ease development through :&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;   - Components (a component is based on a JS Object like definition,&#xA;defining dependencies, libraries and services it uses, and of course, it&amp;#39;s&#xA;methods and variables. It&amp;#39;s kind of a &amp;#34;super-object&amp;#34;)&#xA;   - Graphical components (aka your own widgets, with template and css&#xA;loading)&#xA;   - Method Builders for Components (Archetype associates a particular&#xA;service to a method call, based on the method name)&#xA;&#xA;Archetype simplifies much of JS uncommon behavior compared to common&#xA;languages (java, php, etc.): you don&amp;#39;t need to program exactly what you&#xA;want, you just need to describe it and Archetype will write it as needed !&#xA;&#xA; </description>
+      <persons>
+          <person id="471">Florian Traverse</person>
+      </persons>
+      <links>
+          <link href="http://video.fosdem.org/2008/lightningtalks/FOSDEM2008-archetype.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

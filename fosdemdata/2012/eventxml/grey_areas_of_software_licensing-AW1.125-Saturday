@@ -1,0 +1,19 @@
+  <event id="140">
+      <start>12:30</start>
+      <duration>00:30</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>Grey Areas of Software Licensing</title>
+      <subtitle></subtitle>
+      <track>Legal Issues Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Stories on complications of combing works under different software licenses.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="1401">Dave Neary</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

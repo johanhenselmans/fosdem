@@ -1,0 +1,20 @@
+  <event id="206">
+      <start>09:30</start>
+      <duration>00:30</duration>
+      <room>H.1301</room>
+      <slug></slug>
+      <title>Open Source Meetups</title>
+      <subtitle></subtitle>
+      <track>Mozilla</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Most people use open source software day by day. A fact that most of them do not know: Often, this free software is being developed, documented, marketed and improved by volunteers in their free time. Many open source projects work on fostering the idea of free software and open content, and a lot of users benefit from their efforts. Other than with proprietary software, users can get in direct touch with the communities via blogs, IRC channels, mailing lists or forums.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Despite the modern way of communicating, personal contact still is the best way to get to know each other. Meeting the people behind the names in reality is a great experience, and helps users of finding their way into open source communites to engage themselves. Therefore, Mozilla and OpenOffice.org jointly organize the so-called &amp;#34;Open-Source-Treffen&amp;#34; (&amp;#34;Open Source Meetings&amp;#34;) to help open source projects in meeting their end-users and vice versa. Members of the community can get in touch with their users to gather valuable feedback, and open source adopters meet other supporters from their area.&#xA;In the German city of Munich, the &amp;#34;Open-Source-Treffen&amp;#34; have been taking place regularly, and the idea is to spread the word for other areas, engaging community members to set up more meetings. Carsten Book of Mozilla and Florian Effenberger of OpenOffice.org, founders of the &amp;#34;Open-Source-Treffen&amp;#34;, introduce their vision and tell about the previous experiences. Audience for this talk are open source communities wishing to set up their own meetings as well as interested users who love to learn more about the idea.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2061">Florian Effenberger</person>
+          <person id="2062">Carsten Book</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

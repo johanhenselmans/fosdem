@@ -1,0 +1,22 @@
+  <event id="46">
+      <start>15:00</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>MySQL Proxy: monitor, analyze and transform queries</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Using MySQL Proxy for scale out, tracking queries, modifying and denying&#xA;SQL. All controlled by a LUA script, transparent to the application and&#xA;with as little latency as possible.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;MySQL Proxy is a simple program that sits between your client and MySQL&#xA;server(s) that can monitor, analyze or transform their communication.&#xA;Its flexibility allows for unlimited uses; common ones include: load&#xA;balancing; failover; query analysis; query filtering and modification;&#xA;and many more.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="461">Jan Kneschke</person>
+      </persons>
+      <links>
+          <link href="http://fosdem.org/2008/slides/lightningtalks/fosdem08_ltalk_mysqlproxy.pdf">Slides (PDF)</link>
+          <link href="http://video.fosdem.org/2008/lightningtalks/FOSDEM2008-mysql-proxy.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

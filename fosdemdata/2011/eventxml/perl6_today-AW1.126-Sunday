@@ -1,0 +1,19 @@
+  <event id="248">
+      <start>09:00</start>
+      <duration>00:40</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>Using Perl 6 today</title>
+      <subtitle></subtitle>
+      <track>Perl devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Introducing what Rakudo Perl 6 can do for you today.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Many people wonder what is the status of Perl 6?&#xA;Can I use it today?&#xA;In this talk I&amp;#39;ll give an overview of some of the exciting features of Perl 6&#xA;and show what and how can you do with it today.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2481">Gabor Szabo</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

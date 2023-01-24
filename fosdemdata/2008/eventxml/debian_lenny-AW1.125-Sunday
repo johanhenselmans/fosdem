@@ -1,0 +1,21 @@
+  <event id="91">
+      <start>17:00</start>
+      <duration>01:00</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>Lenny: the past and the future</title>
+      <subtitle></subtitle>
+      <track>Debian</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;In this talk at least the following questions should get a decent answer:&#xA;&lt;/p&gt;&lt;ul&gt;&lt;li&gt; What happened since Etch and what will hopefully happen before Lenny?&#xA;&lt;/li&gt;&#xA;&lt;li&gt; What is the Release schedule?&#xA;&lt;/li&gt;&#xA;&lt;li&gt; What are the Release Goals?&#xA;&lt;/li&gt;&#xA;&lt;li&gt; What does still need to happen?&#xA;&lt;/li&gt;&#xA;&lt;li&gt; How can I help?&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA; </abstract>
+      <description></description>
+      <persons>
+          <person id="911">Luk Claes</person>
+      </persons>
+      <links>
+          <link href="http://meetings-archive.debian.net/pub/debian-meetings/2008/fosdem/ogg_theora/384x288/Lenny_the_past_and_the_future___Luk_Claes.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

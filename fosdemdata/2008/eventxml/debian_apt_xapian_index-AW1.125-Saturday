@@ -1,0 +1,21 @@
+  <event id="87">
+      <start>17:00</start>
+      <duration>01:00</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>Apt Xapian Index</title>
+      <subtitle></subtitle>
+      <track>Debian</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Apt Xapian Index, or, Everything You Always Wanted to Index About Debian Packages, But were Afraid to Ask.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Enrico has recently put together a new, extensible way of indexing information about Debian packages that complements the Apt index.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;This provides a base to build more advanced package managers, with features like fast searches, stemmed searches, search as you type, debtags filters, and leveraging data not found in the Packages file, like popcon ratings and ratings provided by 3rd parties.&#xA;&lt;/p&gt; &#xA;&lt;p&gt;During the talk he&amp;#39;ll present the index, showing both ways to query it and ways to add indexing plugins to index extra packaging data of your choice.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="871">Enrico Zini</person>
+      </persons>
+      <links>
+          <link href="http://meetings-archive.debian.net/pub/debian-meetings/2008/fosdem/ogg_theora/384x288/Apt_Xapian_Index___Enrico_Zini.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

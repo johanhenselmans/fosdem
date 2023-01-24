@@ -1,0 +1,19 @@
+  <event id="141">
+      <start>14:00</start>
+      <duration>00:45</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>Impress Hacking</title>
+      <subtitle>an introduction for beginners</subtitle>
+      <track>LibreOffice devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Getting into the guts of LibreOffice Impress, to help you do so too.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Impress is the presentation application of the LibreOffice project, and has lots of nifty features, but also areas in need of improvement. This talk gives you the how and whereabout, to grok the basic design, subsystems in use, and should enable you to start hacking on Impress in earnest. Also included: a little walkthrough of plans, upcoming features, and crazy ideas.&lt;/p&gt;      </description>
+      <persons>
+          <person id="1411">Thorsten Behrens</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

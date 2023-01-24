@@ -1,0 +1,21 @@
+  <event id="9">
+      <start>14:00</start>
+      <duration>01:00</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>CentOS infrastructure and roadmap</title>
+      <subtitle></subtitle>
+      <track>CentOS + Fedora</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Presentation of CentOS infrastructure and roadmap.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;CentOS has 30 servers, 150 mirrors, millions of users.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;This talk will describe how to manage the infrastructure and also what the plans are for the future of the CentOS project.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="91">Lance Davis</person>
+      </persons>
+      <links>
+          <link href="http://wiki.centos.org/Events/Fosdem2007?action=AttachFile&amp;do=get&amp;target=Lance-fosdem.pdf">Slides (PDF)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

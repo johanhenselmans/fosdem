@@ -1,0 +1,21 @@
+  <event id="77">
+      <start>10:00</start>
+      <duration>01:00</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>Debtags.debian.net reloaded!</title>
+      <subtitle></subtitle>
+      <track>CrossDistribution Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;I have just finished redesigning the Debtags website, consolidating a 9 years long history of bringing categories to a large and complex distribution like Debian.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;There is more to Debtags than meets the eye: interesting library science concepts, anonymous submissions, an efficient review workflow, a fully automated tagging engine, dynamically generated tagging hints, fancy tag search algorithms.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;On top of that, there is not much that is Debian-specific in the new codebase, so if you are interested in implementing categories on your distribution of choice, this could give you quite a head start.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="771">Enrico Zini</person>
+      </persons>
+      <links>
+          <link href="http://video.fosdem.org/2012/crossdistro/debtags.debian.net_reloaded.webm">Video recording</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

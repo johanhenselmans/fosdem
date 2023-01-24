@@ -1,0 +1,19 @@
+  <event id="63">
+      <start>16:00</start>
+      <duration>01:00</duration>
+      <room>AW1.124</room>
+      <slug></slug>
+      <title>Introduction to SELinux</title>
+      <subtitle></subtitle>
+      <track>Gentoo</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Introduction to SELinux&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;The talk will be part historical background talking about authorization from early UNIX days to now and part technical describing important SELinux concepts and how they can help secure servers and desktop machines.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="631">Bryan Østergaard</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

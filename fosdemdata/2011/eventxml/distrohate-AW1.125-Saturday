@@ -1,0 +1,19 @@
+  <event id="86">
+      <start>15:00</start>
+      <duration>00:20</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>Why Linux Distributions Hate Java</title>
+      <subtitle></subtitle>
+      <track>Free Java devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;While it is being used by a lot of open source developers, Java is a second-class citizen in most Linux distributions.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;This is not really due to the language itself, but is more a conflict between two ecosystems. This presentation will explain in detail the two main reasons why distribution developers generally hate Java: binary library bundling and source dependency inflation. We&amp;#39;ll also see that there seem to be no painless solution out of this situation and that the position of the two ecosystems will have to evolve if we want to fix this issue.&lt;/p&gt;      </description>
+      <persons>
+          <person id="861">Thierry Carrez</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

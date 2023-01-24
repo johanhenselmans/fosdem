@@ -1,0 +1,19 @@
+  <event id="333">
+      <start>14:40</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>XWiki: Annotating documents, the eXtensible wiki way</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Since version 2.3, XWiki integrates document annotations in its collaborative environment (http://extensions.xwiki.org/xwiki/bin/view/Extension/Annotations+Application). This talk will focus on the implementation of the annotation feature, with the challenges that an eXtensible wiki implies: handling user collaboration on documents and annotations, annotating dynamically generated content, flexible annotations structure to allow customization. As a default XWiki feature, it allows users to add notes on all types of content, plain unstructured documents or structured documents. It is also used in the Scribo project (http://www.scribo.ws) to manipulate automatic semantic annotations on wiki documents and collaboration around them. Since a demo is worth a thousand words, the presentation will center upon showing all these at work.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;XWiki is a Java open source software development platform based on the wiki principles. In addition to being a full-featured wiki, it is also a second generation wiki allowing collaborative web applications to be written easily and quickly. On top of this platform several products are developed, targeted mainly on aiding enterprise-level needs.&lt;/p&gt;      </description>
+      <persons>
+          <person id="3331">Anca Luca</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

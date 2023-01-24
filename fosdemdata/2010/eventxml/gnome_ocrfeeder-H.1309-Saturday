@@ -1,0 +1,19 @@
+  <event id="118">
+      <start>17:15</start>
+      <duration>00:45</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>OCRFeeder</title>
+      <subtitle></subtitle>
+      <track>GNOME</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;OCRFeeder is a document layout analysis and optical character recognition system that I wrote for my Master&amp;#39;s Thesis project.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Like it says on its website, given the images it will automatically outline its contents, distinguish between what&amp;#39;s graphics and text and perform OCR over the latter. It generates multiple formats being its main one ODT.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;I think this is currently the most complete and user friendly OCR application for GNU/Linux out there and, of course, I wrote it to be used mainly with GNOME, featuring a GUI written in PyGTK and respecting, as far as I could, the GNOME User Interface Guidelines.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;I would like to present how the application works on the inside, for example the page segmentation algorithm I created for it, etc. I think this would be interest for the GNOME community and general attendants of the GNOME Dev room at FOSDEM.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1181">Joaquim Rocha</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

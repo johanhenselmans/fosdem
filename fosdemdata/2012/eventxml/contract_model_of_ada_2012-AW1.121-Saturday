@@ -1,0 +1,19 @@
+  <event id="68">
+      <start>13:30</start>
+      <duration>00:25</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>The contract model of Ada 2012</title>
+      <subtitle></subtitle>
+      <track>Ada Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The basics of programming by contracts and how contracts were introduced in Ada 2012.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Ada 2005 already had assertions. The notion was considerably extended in Ada 2012, with pre- and post-conditions and type invariants. Together with other properties of the language that separate clearly interfaces from implementations, these new features provide an accurate description of the obligations and expectations of the user and of the provider of software components.&lt;/p&gt;      </description>
+      <persons>
+          <person id="681">Jean-Pierre Rosen</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

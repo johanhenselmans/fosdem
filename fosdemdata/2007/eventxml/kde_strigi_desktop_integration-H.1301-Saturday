@@ -1,0 +1,22 @@
+  <event id="113">
+      <start>15:00</start>
+      <duration>00:30</duration>
+      <room>H.1301</room>
+      <slug></slug>
+      <title>Strigi desktop integration</title>
+      <subtitle></subtitle>
+      <track>KDE</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Strigi desktop integration: how to access Strigi features.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Strigi, the fastest and smallest desktop search engine, provides fast searches and good metadata extraction capabilities. It will be used by the&#xA;next KDE, but it can be easily integrated in other programs.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Modern humans are using more and more data every day. Keeping data organized is becoming insufficient, so finding and filtering documents&#xA;have become key tasks in modern operating systems. The traditional unix tools find, grep and locate do no longer suffice for a number of&#xA;reasons: The amounts of data have grown more than data access speeds, many document formats are too complex to handle by simple tools and&#xA;relations between different types of data are becoming more important for a convenient user experience. Strigi introduces a new way of looking&#xA;at metadata and file formats that enables the creation of very efficient tools for improving the way users handle their data. It does so by using&#xA;simple C++ code with very few dependencies.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Strigi&amp;#39;s features can be easily integrated by other programs using two different interfaces: socket and DBus. The last one can be considered&#xA;the best choice since there are lot of DBus bindings that make possible to interact with Strigi using different programming&#xA;languages. DBus inter-process communication system will be used by KDE4 and is actually used by Gnome. Moreover, DBus bindings exists for&#xA;lot of programming languages. Thanks to this Strigi can be easily integrated in different window manager and inside programs written in&#xA;languages different from C++.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;KDE developers can also take advantage from Strigi&amp;#39;s JStreams: a set of classes for fast access to archive files. In fact Strigi defines a&#xA;dedicated KIO Slave for JStreams, this can be easily used by other programs, making archives access faster.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;This presentation will show how the current Strigi clients interact with the daemon, how to communicate with Strigi and, most important of&#xA;all, how other projects can benefit too accessing Strigi.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1131">Flavio Castelli</person>
+      </persons>
+      <links>
+          <link href="http://www.kde.org/kdeslides/fosdem2007/2007-02-flaviocastelli-strigi_desktop_integration.pdf">Slides (PDF)</link>
+          <link href="http://www.kde.org/kdeslides/fosdem2007/2007-02-flaviocastelli-strigi_desktop_integration.odp">Slides (OOo)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

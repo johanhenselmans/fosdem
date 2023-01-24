@@ -1,0 +1,19 @@
+  <event id="276">
+      <start>18:00</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>SyncEvolution: From the SyncML Protocol to Free and Open Implementations</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Data synchronization is still mostly a missing piece in the free desktop&#xA;puzzle: solutions that are reliable and ready for the mythical Average&#xA;User just aren&amp;#39;t available. This talk presents the SyncML protocol,&#xA;introduces the Synthesis SyncML engine (developed since 2000, open sourced&#xA;2009) and outlines how SyncEvolution is used as the synchronization&#xA;solution in Moblin, GNOME and other Linux desktop systems - stay tuned for&#xA;more news about this.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;SyncEvolution is meant to be a cross-platform solution, therefore this&#xA;talk would be suitable for the cross-desktop developer room.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Direct synchronization with other mobile devices is the main new feature&#xA;in the upcoming Moblin 1.0 release. It will be covered in this talk for&#xA;the first time.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;SyncEvolution is a tool that synchronizes personal information management (PIM) data like contacts, calenders, tasks, and memos using the SyncML information synchronization standard. SyncEvolution compiled for GNOME&amp;#39;s Evolution supports all of these data items. Compiled for Nokia 770/800/810 Internet Tablets, Mac OS X and the iPhone (only 0.7), it supports synchronizing the system address book. The command-line tool &amp;#39;syncevolution&amp;#39; (compiled separately for each of these platforms) executes the synchronization. In addition, there is the GTK &amp;#34;sync-UI&amp;#34;. The external Genesis is a graphical frontend for SyncEvolution written in PyGTK. The GUIs make SyncEvolution accessible without having to use a command line and provides graphical feedback of transaction results.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;SyncEvolution was written to have a small, reliable solution for Evolution PIM data synchronization without reinventing the wheel. SyncML is the established industry standard and Funambol has kindly provided their source code under the GPL, so there was already an existing code base for client and server development. During SyncEvolution&amp;#39;s development special attention was paid to automated testing and coverage of corner cases of the SyncML, vCard and iCalendar standards to ensure that no data gets lost or mangled.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The focus right now is to deliver the best possible SyncML client for Moblin and Linux. With the switch to the Synthesis SyncML Engine it will be easier to also implement a server mode and direct device-to-device synchronization - this is already working in the 1.0 alpha release.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2761">Patrick Ohly</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="196">
+      <start>12:30</start>
+      <duration>00:30</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>Easy Hacks</title>
+      <subtitle>how to get stuck into LibreOffice</subtitle>
+      <track>LibreOffice Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Looking at some easy hacks - some worked examples in getting started in the LibreOffice project. We have a ton of entry level tasks, all of them useful that we&amp;#39;d love to get people involved with. We also have some more juicy, but still really useful things we need to get done too.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="1961">Michael Meeks</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

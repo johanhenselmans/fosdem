@@ -1,0 +1,19 @@
+  <event id="420">
+      <start>16:00</start>
+      <duration>00:55</duration>
+      <room>Chavanne</room>
+      <slug></slug>
+      <title>Infrastructure as an open-source project</title>
+      <subtitle></subtitle>
+      <track>Virtualization and Cloud Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;I&amp;#39;ve been moving the site operations model of the Wikimedia infrastructure from being a closed, mainly staff-only, model to an open to all model of contributions. I&amp;#39;m treating operations like an open source project, using Puppet, OpenStack and Git. The bottleneck of the operations team is greatly lessened, allowing volunteer contributions to be accepted and implemented much faster.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;In this presentation, I&amp;#39;ll describe the architecture of the Wikimedia Labs project, and how we are utilizing it to allow anyone to push changes from ideas to production. I&amp;#39;ll also describe how this same model can apply to other open source projects, and also how it could apply more generally in private cloud implementations.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="4201">Ryan Lane</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

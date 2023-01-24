@@ -1,0 +1,19 @@
+  <event id="185">
+      <start>15:30</start>
+      <duration>00:30</duration>
+      <room>H.2213</room>
+      <slug></slug>
+      <title>Moonlight and you</title>
+      <subtitle></subtitle>
+      <track>Mono</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Moonlight is an open source implementation of Microsoft Silverlight for Unix systems, developed by Novell. It not only allows existing Silverlight applications to run on Linux, you can also create your own on Linux and MacOS using the MonoDevelop IDE.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;In this hands-on presentation we&amp;#39;ll take a look at what Moonlight provides now, what it can do for developers, what tools are there, and how you can have a lot of fun with it.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1851">Andreia Gaita</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

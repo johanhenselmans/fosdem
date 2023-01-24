@@ -1,0 +1,20 @@
+  <event id="52">
+      <start>09:00</start>
+      <duration>01:30</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>Ada in Debian and other distributions</title>
+      <subtitle></subtitle>
+      <track>CrossDistro devroom</track>
+      <type></type>
+      <language></language>
+      <abstract></abstract>
+      <description>&#xA;&lt;p&gt;This talk will:&lt;/p&gt;&#xA;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;p&gt;briefly describe Ludovic&amp;#39;s work maintaining the Ada part of GCC as&#xA;part of the larger Debian-GCC team;&lt;/p&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;p&gt;describe the Debian Policy for Ada packages; why one is needed and why&#xA;it is written the way it is;&lt;/p&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;p&gt;compare (in a constructive way, obviously) Debian with other&#xA;distributions that also have good support for Ada, in particular&#xA;Gentoo and FreeBSD, and with complementary third-party efforts such as&#xA;the GNU Ada project on SourceForge[2] and MacAda[3] &amp;#34;GNAT for&#xA;Macintosh&amp;#34;;&lt;/p&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;p&gt;propose coordination between distributions on how to package Ada&#xA;software.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Followed by a live demonstration&lt;/p&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;      </description>
+      <persons>
+          <person id="521">Ludovic Brenta</person>
+          <person id="522">Miguel Telleria de Esteban</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

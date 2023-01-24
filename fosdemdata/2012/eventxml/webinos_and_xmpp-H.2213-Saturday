@@ -1,0 +1,19 @@
+  <event id="409">
+      <start>13:00</start>
+      <duration>00:30</duration>
+      <room>H.2213</room>
+      <slug></slug>
+      <title>WebApps: webinos, Tying Web Technology to Everything </title>
+      <subtitle></subtitle>
+      <track>Jabber and XMPP Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The webinos project (http://webinos.org/) aims to deliver an open source open standards based platform for secure and privacy aware interaction between users and services. Developers program in JavaScript and get access to both local and remote services. Under the hood, the webinos runtime uses XMPP to do service discovery. This talk highlights some unique features of webinos and investigates the role of XMPP.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="4091">Victor Klos</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="344">
+      <start>15:00</start>
+      <duration>00:25</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>Replication features of 2011: what they were, how to get and how to use them</title>
+      <subtitle></subtitle>
+      <track>MySQL and Friends Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The year 2011 saw a lot of work being done on replication in MySQL world. Different implementations of the same feature were produced, compared, and put into releases.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;This talk present an easy-to-understand summary of the results: - What exactly are the new features - Where they have/will be released - What are the differences between implementations in various MySQL branches&lt;/p&gt;&#xA;&#xA;&lt;p&gt;We will also discuss how the new improvements relate to alternative replication solutions like Galera or Tungsten.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="3441">Sergey Petrunya</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

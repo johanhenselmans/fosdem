@@ -1,0 +1,19 @@
+  <event id="271">
+      <start>12:00</start>
+      <duration>00:30</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>Developing Web applications with Wt::Ruby</title>
+      <subtitle></subtitle>
+      <track>Ruby and Rails</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The Wt toolkit allows programmers to develop web applications in C++. It abstracts away the details of coding in HTML, JavaScript and CSS so that the developer can just work with widgets in a similar manner to the Qt library for desktop applications. When Wt is combined with Ruby via the Wt::Ruby bindings, it offers a very different approach to the more traditional Rails or ASP style approach based on web pages, where program code is embedded into HTML.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;The talk will discuss how Wt::Ruby works, give an overview of the api and how it can be used with FastCGI in an Apache server. There are many interesting possibilities to combine Rails technology, such as ActiveRecord or the ActiveSupport Ruby extensions, with Wt::Ruby and the talk would hope to inspire people to start experimenting. &#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2711">Richard Dale</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="29">
+      <start>17:15</start>
+      <duration>00:45</duration>
+      <room>Janson</room>
+      <slug></slug>
+      <title>Donators Return</title>
+      <subtitle></subtitle>
+      <track>Opening/Closing talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Giveaways for the people who donated.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Prizes and giveaways announcement session for &lt;a href=&#34;http://fosdem.org/2007/support/donate&#34;&gt;people who donated&lt;/a&gt;.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="291">FOSDEM</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

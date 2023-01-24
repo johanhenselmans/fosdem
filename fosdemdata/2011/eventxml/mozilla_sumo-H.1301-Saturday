@@ -1,0 +1,19 @@
+  <event id="215">
+      <start>16:30</start>
+      <duration>00:45</duration>
+      <room>H.1301</room>
+      <slug></slug>
+      <title>SUMO -- How Mozilla supports 400 Million users with 4 employees</title>
+      <subtitle></subtitle>
+      <track>Mozilla devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk will be about how we support 400 Million users with 4 employees, by including our community contributors and giving them the right tools on hand.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;It will give a high level overview of how support is handled by one big open source project, featuring our own tailormade software Kitsune, and covering the four pillars, written docs, public questions&amp;amp;answers, personal problem solving, and outreach.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2151">Abdulkadir Topal</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="37">
+      <start>16:30</start>
+      <duration>00:30</duration>
+      <room>UA2.114</room>
+      <slug></slug>
+      <title>Use of FreeBSD system calls</title>
+      <subtitle></subtitle>
+      <track>BSD + PostgreSQL</track>
+      <type></type>
+      <language></language>
+      <abstract></abstract>
+      <description></description>
+      <persons>
+          <person id="371">Gregory Holland</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

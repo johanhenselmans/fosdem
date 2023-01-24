@@ -1,0 +1,19 @@
+  <event id="268">
+      <start>14:15</start>
+      <duration>00:45</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>A rubyist&#39;s naive comparison of some database systems and toolkits</title>
+      <subtitle></subtitle>
+      <track>Ruby + Rails</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk will be a quick comparison of some of the many relational and non relational database systems that can be used with ruby.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;I will focus on features, syntax and performance. This is not a talk by a database expert but simply a modest attempt to show the differences between some of the possibilities offered and clear things up a bit.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2681">Marc Lainez</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

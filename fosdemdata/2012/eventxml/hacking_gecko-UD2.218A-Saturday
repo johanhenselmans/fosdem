@@ -1,0 +1,21 @@
+  <event id="144">
+      <start>12:00</start>
+      <duration>00:30</duration>
+      <room>UD2.218A</room>
+      <slug></slug>
+      <title>Hacking Gecko</title>
+      <subtitle></subtitle>
+      <track>Mozilla Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Know some C++? Hacking on the Mozilla platform is a great way to fight for the future of the Web. Talk includes development mechanics, architectural overview, and strategies for keeping things manageable. Some C++ knowledge recommended.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="1441">Bobby Holley</person>
+      </persons>
+      <links>
+          <link href="http://people.mozilla.com/~bholley/hacking-gecko-fosdem2012/hacking-gecko.html">Slides</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

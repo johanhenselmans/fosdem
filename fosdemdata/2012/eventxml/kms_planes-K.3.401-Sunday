@@ -1,0 +1,19 @@
+  <event id="181">
+      <start>10:00</start>
+      <duration>01:00</duration>
+      <room>K.3.401</room>
+      <slug></slug>
+      <title>KMS plane support in Wayland</title>
+      <subtitle></subtitle>
+      <track>X.org+OpenICC Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Now that DRM KMS plane support has landed upstream, it&amp;#39;s time to start using it in higher level projects.  This talk will focus on how overlay planes will be incorporated into the Weston compositor design (Weston is the open source project implementing a Wayland compositor).  It will review the motivations for the work, current status, and hopefully a demo.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="1811">Jesse Barnes</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

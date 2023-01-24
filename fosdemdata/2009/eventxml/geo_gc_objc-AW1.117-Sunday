@@ -1,0 +1,19 @@
+  <event id="107">
+      <start>09:00</start>
+      <duration>01:00</duration>
+      <room>AW1.117</room>
+      <slug></slug>
+      <title>Garbage collection with Objective-C</title>
+      <subtitle></subtitle>
+      <track>GNUstep + OpenGroupware + Etoile</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The history of GC in Objective-C, how to develop garbage collected applications, and a review of how the venerable GNUstep implementation is going to be compatibile with the new Apple garbage collection implementation for MacOS-X/Cocoa.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="1071">Richard Frith-Macdonald</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

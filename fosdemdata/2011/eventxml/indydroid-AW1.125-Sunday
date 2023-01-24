@@ -1,0 +1,19 @@
+  <event id="147">
+      <start>12:30</start>
+      <duration>00:30</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>IndyDroid</title>
+      <subtitle> JSR 292 on Android</subtitle>
+      <track>Free Java devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;IndyDroid is an experimental project aiming to implement JSR 292 on top of Android&amp;#39;s Dalvik VM.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;JSR 292 introduces new bytecodes and a new API to ease the implementation of dynamic languages (Ruby, Python, Groovy, etc) on top of the JVM. IndyDroid is an experimental project aiming to implement JSR 292 on top of Android&amp;#39;s Dalvik VM.  This talk will first present the concepts introduced by JSR 292 from a VM developer point of view and then how these concepts are/will be implemented in IndyDroid.&lt;/p&gt;      </description>
+      <persons>
+          <person id="1471">Rémi Forax</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

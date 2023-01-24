@@ -1,0 +1,19 @@
+  <event id="318">
+      <start>13:00</start>
+      <duration>00:10</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>Welcome to Java Sans Frontières</title>
+      <subtitle></subtitle>
+      <track>Free Java devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Introduction to the Free Java devroom.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Welcome to the Free Java devroom with a brief overview of the upcoming talks.&lt;/p&gt;      </description>
+      <persons>
+          <person id="3181">Tom Marble</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

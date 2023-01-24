@@ -1,0 +1,19 @@
+  <event id="18">
+      <start>17:00</start>
+      <duration>01:00</duration>
+      <room>AW1.124</room>
+      <slug></slug>
+      <title>Ada Annex E - Distributed Systems</title>
+      <subtitle></subtitle>
+      <track>Ada</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The &lt;a href=&#34;http://www.adaic.com/standards/05rm/html/RM-E.html&#34;&gt;Distributed Systems Annex&lt;/a&gt; is an optional part of the Ada language that allows writing programs that are distributed across several computers.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Each &amp;#34;partition&amp;#34; of the program, running on one machine, communicates with the others by means of remote procedure calls and shared data structures.  Ada provides facilities to make this communication completely transparent to the programmer. Thanks to it, writing a distributed program is no more complex than writing a monolithic one. Indeed, it is possible to recompile a distributed program to make it either distributed or monolithic with no changes to the program source. There are two Free Software implementations of Annex E for GNAT, the GNU Ada compiler: GLADE and its successor &lt;a href=&#34;https://libre.adacore.com/polyorb&#34;&gt;PolyORB&lt;/a&gt;, both licensed under terms of the GPL.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="181">Thomas Quinot</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

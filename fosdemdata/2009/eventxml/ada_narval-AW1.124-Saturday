@@ -1,0 +1,19 @@
+  <event id="29">
+      <start>18:00</start>
+      <duration>01:00</duration>
+      <room>AW1.124</room>
+      <slug></slug>
+      <title>NARVAL - Distributed Data Acquisition from Particle</title>
+      <subtitle></subtitle>
+      <track>Ada</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;NARVAL stands for &amp;#34;Nouvelle Acquisition temps Reel Version 1.6 Avec Linux&amp;#34;. It is a distributed data acquisition software system that collects and processes data from nuclear and particles physics detectors.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;NARVAL replaces an older system based on C, Fortran and proprietary technologies with Ada and Debian GNU/Linux and is itself Free Software.  In order to ensure maximum data safety most of the program is written in Ada with heavy use of Annex E, the Distributed Systems Annex.  Software engineers and physicists from several countries use this system for fundamental research. The talk will present the NARVAL architecture in detail with some focus on the multi-tasking dataflow core and the configuration done through Annex E.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="291">Xavier Grave</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

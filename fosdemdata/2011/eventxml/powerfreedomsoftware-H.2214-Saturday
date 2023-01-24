@@ -1,0 +1,19 @@
+  <event id="261">
+      <start>17:00</start>
+      <duration>00:30</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>Power, Freedom, Software</title>
+      <subtitle>Why we need to divide and re-conquer our systems.</subtitle>
+      <track>GNU devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;How to win back our freedom in systems controlled by someone else?&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;The GNU project to create a Free Software operating system has been a resounding success, giving millions of people around the world the freedom to use, study, share and improve the programs on their computers. &amp;#34;Cloud computing&amp;#34; and software as a service present new challenges for the Free Software movement. As more people every day use computers controlled by someone else, how do we win back our freedom? How do we translate the ideals behind the GNU project into this changing world?&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Instead of giving all the answers, the goal of this talk is to get you asking the right questions.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2611">Karsten Gerloff</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

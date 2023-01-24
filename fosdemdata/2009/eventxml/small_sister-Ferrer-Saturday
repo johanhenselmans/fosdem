@@ -1,0 +1,19 @@
+  <event id="276">
+      <start>14:40</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>SmallMail, or how to keep your email private in an era of Data Retention</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;When the European data retention directive becomes law in all member nations governments will store who&amp;#39;s e-mailing whom and who&amp;#39;s phoning whom. This is bad news for citizens and has a devastating effect journalists and bloggers who need to protect their sources, especially whistleblowers. &#xA;&lt;/p&gt;&#xA;&lt;p&gt;The Small Sister Project created a tool, SmallMail. It adds anonimity to e-mail even when data retention is in effect. So SmallMail delivers e-mail privacy as it was meant to be: you decide what happens with your data.  When needed and allowed people can deliver a message totally anonymous.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The talk highlights the tools and then deals with the technical details of getting from A to B. Privacy and anonymity are complicated, but the tool is not. We build on the strong foundation laid by the Tor Project. The SmallMail engine is technically interesting, but quite easy to understand. In 15 minutes you can learn how simplicity and free software solve the problems posed by complex systems.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;The Small Sister Project tries to create a digital environment for all users to have a privacy-friendly system where personal data is properly secured&#xA;&lt;/p&gt;&#xA;&lt;p&gt;So we try to create:&#xA;    * A toolkit that is very simple to install and acts like a flushot for a computer to add privacy/security&#xA;    * Sufficient information for people to empower themselves to secure systems and are aware of privacy-issues&#xA;    * Software that is the missing glue for what already exists and helps us reach our goals&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2761">Peter Roozemaal</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

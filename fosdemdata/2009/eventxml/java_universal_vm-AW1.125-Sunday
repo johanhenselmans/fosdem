@@ -1,0 +1,19 @@
+  <event id="162">
+      <start>12:15</start>
+      <duration>00:30</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>Towards a Universal VM</title>
+      <subtitle></subtitle>
+      <track>Free Java</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The Java Virtual Machine is often assumed to  be tied to the Java programming language, but the success of Groovy, JRuby, and Jython shows there is more to the JVM than meets the eye.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;This talk will look at aspects of the design of the JVM that make it suitable (or not) for non-Java languages, and explains how JSR 292 is designing new abstractions that can help the implementation of all languages.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;These include the &amp;#34;invokedynamic&amp;#34; instruction, interface injection, and lightweight methods. Ultimately, they might enable non-Java languages to run even faster on the JVM than Java itself.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1621">Alex Buckley</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="186">
+      <start>13:45</start>
+      <duration>00:30</duration>
+      <room>AW1.124</room>
+      <slug></slug>
+      <title>Introduction to Clustering with Mahout</title>
+      <subtitle></subtitle>
+      <track>Data Analytics devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Analyze and understand large corpora of text data using Apache Hadoop for distributed computation and Mahout as distributed machine learning toolkit.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Clustering is a popular technique to analyze and understand large corpora and is a key feature of for instance Google News text. Google News automatically clusters news articles in distinct clusters so visitors can quickly find what they&amp;#39;re looking for. This technique is also one of the key features in Apache Mahout, an Open Source framework for scalable data analysis intended to run on Hadoop. This talk introduces you to clustering, how it&amp;#39;s implemented in Mahout and it will show you step-by-step, how to cluster text documents using Mahout&amp;#39;s command line interface. Additionally, this talk explains how to tweak the clustering process and how this affects the generated set of clusters. This will be a beginner talk to introduce people to clustering in general and Mahout in particular.&lt;/p&gt;      </description>
+      <persons>
+          <person id="1861">Frank Scholten</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

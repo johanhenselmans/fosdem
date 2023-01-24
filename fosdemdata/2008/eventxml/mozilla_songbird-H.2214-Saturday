@@ -1,0 +1,19 @@
+  <event id="187">
+      <start>18:15</start>
+      <duration>00:45</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>Songbird</title>
+      <subtitle></subtitle>
+      <track>Mozilla</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Got a website?  Want richer media-interaction experiences with your end users?  Or do you just want to create the next cool media web mashup? Songbird, a desktop media player powered by Mozilla&amp;#39;s XULRunner platform, makes connecting any device to any website as simple as HTML &amp;amp; Javascript.&#xA;Develop either server side webapps, or client side extensions (like Firefox!) to create media web mashups.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Yawn... another day, another media player.  Yes and no.  Songbird is a web player, integrating a media player with all the goodness of Mozilla browser technology.  Songbird has an entirely new and unique set of features and APIs that support the burdgeoning movement to free up media on the web,  eliminating those annoying vertical media silos and allowing users to have more interactive and rich media experiences with the web.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;This session will explore Songbird, its APIs, and existing cool media web mashups that break out beyond the traditional media player fold. We&amp;#39;ll show how simple it is to start developing a website to utilize Songbird&amp;#39;s API to dynamically interact with a user&amp;#39;s media library.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;By building on top of one of the best and most extensible open source web browsers out there, Songbird has made it easy for web developers to easily integrate their sites into an end user&amp;#39;s desktop media player experience.  By leveraging extensions or Songbird Widgets composed of simple plain old HTML and Javascript, developers can create awesome media web mashups that extend the user&amp;#39;s media player beyond just the desktop.  Websites (such as, but not limited to music stores and music blogs) can take advantage of Songbird&amp;#39;s remote Webpage API to allow for seamless integration all the way from the website to the desktop media &#xA;player to the portable music device.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1871">Stephen Lau</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

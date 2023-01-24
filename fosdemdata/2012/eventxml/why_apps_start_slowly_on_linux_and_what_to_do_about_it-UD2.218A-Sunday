@@ -1,0 +1,19 @@
+  <event id="417">
+      <start>09:30</start>
+      <duration>00:30</duration>
+      <room>UD2.218A</room>
+      <slug></slug>
+      <title>Why apps start slowly on Linux and what to do about it</title>
+      <subtitle></subtitle>
+      <track>Mozilla Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Linker, compiler, runtime linker and the kernel can be improved to start applications significantly faster.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Optimizing application startup is hard, even measuring how long an application takes to start is a non-trivial problem.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;This talk will consist of 3 main parts:&#xA;1. Ways of measuring IO patterns [on startup] using systemtap, gdb, valgrind&#xA;2. How to optimize IO patterns on startup given the limitations in existing tools&#xA;3. A list of proposed changes in the kernel, ld, ld.so, gcc that could significantly speed up application startup on Linux.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Additionally, the talk will compare application startup on Linux against other major platforms.&lt;/p&gt;      </description>
+      <persons>
+          <person id="4171">Taras Glek</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,22 @@
+  <event id="398">
+      <start>15:00</start>
+      <duration>00:50</duration>
+      <room>Janson</room>
+      <slug></slug>
+      <title>Virtualization with KVM: bottom to top, past to future</title>
+      <subtitle></subtitle>
+      <track>Hypervisors Track</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The KVM hypervisor entered the Linux kernel at the beginning of 2007 and, since then, it has progressed a lot in terms of scalability, performance and features.  Together with it, an entirely open-source stack of user-mode virtualization tools has come into existence and seen vigorous development.  Its components include management tools (libvirt, oVirt), guest rescue and inspection tools (guestfish), desktop virtualization (spice), user interfaces (virt-manager and now Boxes).  The stability of the hypervisor and the fast-paced development of the tools created a virtuous circle that is quickly bridging the gap between proprietary and open-source virtualization.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;In this talk, I will highlight the recent additions to KVM and the accompanying tools, and present features that are new or in the works.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="3981">Paolo Bonzini</person>
+      </persons>
+      <links>
+          <link href="444/82_fosdem12.pdf">fosdem12.pdf (slides)</link>
+          <link href="http://video.fosdem.org/2012/maintracks/janson/Virtualization_with_KVM.webm">Video recording</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

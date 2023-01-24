@@ -1,0 +1,20 @@
+  <event id="402">
+      <start>09:00</start>
+      <duration>01:00</duration>
+      <room>K.3.401</room>
+      <slug></slug>
+      <title>Writing a Wayland Compositor</title>
+      <subtitle></subtitle>
+      <track>X.org+OpenICC Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Neil and Robert will discuss their own experience of writing a Wayland compositor, where they have been adaping the Gnome Mutter compositor&#xA;into a hybrid X and Wayland compositor. The talk aims to provide general guidance on writing a hybrid X and Wayland compositor without&#xA;going into many Mutter specifics.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="4021">Robert Bragg</person>
+          <person id="4022">Neil Roberts</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

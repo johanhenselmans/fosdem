@@ -1,0 +1,19 @@
+  <event id="270">
+      <start>16:30</start>
+      <duration>00:45</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>25 good practices in Ruby on Rails development</title>
+      <subtitle></subtitle>
+      <track>Ruby + Rails</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This is a collection of small tips and tricks related to developing web applications using the Ruby on Rails framework, gathered from my personal experience of more than 2 years of work at &lt;a href=&#34;http://www.belighted.com/&#34;&gt;Belighted&lt;/a&gt;.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;For each tip, we will have a look at the underlying motivation and provide code examples to better understand how to apply it to your own applications.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2701">Nicolas Jacobeus</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

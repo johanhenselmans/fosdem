@@ -1,0 +1,19 @@
+  <event id="109">
+      <start>14:00</start>
+      <duration>00:45</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>Systems Life Cycle Management with Foreman  </title>
+      <subtitle></subtitle>
+      <track>Configuration &amp; Systems Management devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Foreman is a web based management tool, which aims to automate everything you happen to do manually.&#xA;Its goal is to provide an easy to use interface, where everyone could provision, configure, query and audit their hosts.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="1091">Ohad Levy</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

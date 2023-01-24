@@ -1,0 +1,19 @@
+  <event id="248">
+      <start>11:30</start>
+      <duration>00:30</duration>
+      <room>AW1.124</room>
+      <slug></slug>
+      <title>hackable:1, a Debian/Gnome distribution for hackable devices</title>
+      <subtitle></subtitle>
+      <track>Openmoko</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;hackable:1 intends to implement the Gnome Mobile platform with a Debian base on embedded phones.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;The Openmoko is the currently the most open phone and  therefore the first platform hackable:1 runs on.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2481">David Wagner</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

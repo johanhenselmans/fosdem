@@ -1,0 +1,20 @@
+  <event id="175">
+      <start>11:30</start>
+      <duration>00:30</duration>
+      <room>K.4.401</room>
+      <slug></slug>
+      <title>JDK 7 Updates in OpenJDK </title>
+      <subtitle></subtitle>
+      <track>Free Java Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;In this talk you&amp;#39;ll learn how the JDK 7 Updates Project in OpenJDK works,&#xA;and how to work within it, how to track changes, get your fixes in, and follow along&#xA;as for example the Mac OS X Port gets integrated into future JDK 7 update releases.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="1751">Dalibor Topić</person>
+          <person id="1752">Edvard Wendelin</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

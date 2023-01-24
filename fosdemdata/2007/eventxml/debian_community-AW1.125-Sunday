@@ -1,0 +1,25 @@
+  <event id="18">
+      <start>17:00</start>
+      <duration>01:00</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>Debian-Community.org (pre)launch</title>
+      <subtitle></subtitle>
+      <track>Debian</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk will explain what &lt;a href=&#34;http://www.debian-community.org/&#34;&gt;www.debian-community.org&lt;/a&gt; tries to achieve, why and how, also looking for feedback and actual participation in this project!&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Join the party!&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;&lt;a href=&#34;http://www.debian-community.org/&#34;&gt;debian-community.org&lt;/a&gt; is an effort to give back to the community that has a great share in making debian the universal OS that it is. Many people contribute to Debian: obviously the developers and package maintainers, but also translators and artists and everybody who files bugs or helps someone else on a mailing list. If you want to be part of the debian-community, but dont want to become a developer or maintainer, Debian didn&amp;#39;t, so far, offer you much in reward.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;So this (still somewhat whacky :) idea was born, to offer a nice email-address to anybody who wants one (and did at least a little for debian) and to setup planet(s), which will aggregate more than just the developers and wannabe-developers. And, of course, we want to promote (&amp;#34;sell&amp;#34;) t-shirts, because everybody loves t-shirts and they are an excellent way to show about what you care!&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Other ideas how to improve the community, so that more people have fun contributing to the universal OS, are very welcome!&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="181">Holger Levsen</person>
+      </persons>
+      <links>
+          <link href="http://meetings-archive.debian.net/pub/debian-meetings/2007/fosdem/slides/Debian-Community.org_pre-launch-Holger_Levsen/20070225-debian-community.org-prelaunch.pdf">Slides (PDF)</link>
+          <link href="http://meetings-archive.debian.net/pub/debian-meetings/2007/fosdem/slides/Debian-Community.org_pre-launch-Holger_Levsen/20070225-debian-community.org-prelaunch.odp">Slides (OOo)</link>
+          <link href="http://meetings-archive.debian.net/pub/debian-meetings/2007/fosdem/ogg_theora/720x576/Debian-Community.org_pre-launch-Holger_Levsen.ogg">Video (Ogg/Theora)</link>
+          <link href="http://meetings-archive.debian.net/pub/debian-meetings/2007/fosdem/xvid/Debian-Community.org_pre-launch-Holger_Levsen_xvid.avi">Video (DIVX)</link>
+          <link href="http://meetings-archive.debian.net/pub/debian-meetings/2007/fosdem/ogg_theora/360x288/Debian-Community.org_pre-launch-Holger_Levsen.ogg">Video (Ogg/Theora/Low quality)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

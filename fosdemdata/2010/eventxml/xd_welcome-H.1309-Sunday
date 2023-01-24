@@ -1,0 +1,20 @@
+  <event id="294">
+      <start>10:00</start>
+      <duration>00:15</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>Welcome to the CrossDesktop developer room</title>
+      <subtitle></subtitle>
+      <track>CrossDesktop</track>
+      <type></type>
+      <language></language>
+      <abstract></abstract>
+      <description></description>
+      <persons>
+          <person id="2941">Bart Coppens</person>
+          <person id="2942">Christophe Fergeau</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

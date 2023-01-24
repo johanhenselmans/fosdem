@@ -1,0 +1,19 @@
+  <event id="124">
+      <start>17:15</start>
+      <duration>01:15</duration>
+      <room>Janson</room>
+      <slug></slug>
+      <title>The Endgame</title>
+      <subtitle></subtitle>
+      <track>Opening/Closing Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Description will come soon...&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description></description>
+      <persons>
+          <person id="1241">FOSDEM Staff</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,21 @@
+  <event id="316">
+      <start>15:30</start>
+      <duration>00:30</duration>
+      <room>K.3.401</room>
+      <slug></slug>
+      <title>Cross Platform Colour Management with Oyranos</title>
+      <subtitle></subtitle>
+      <track>X.org+OpenICC Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The Colour Management System exists since 2004 with a long history of new ideas for Linux ICC style Colour Management. Find out what it does and what is hot.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="3161">Kai-Uwe Behrmann</person>
+      </persons>
+      <links>
+          <link href="http://www.oyranos.org/">Oyranos CMS</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

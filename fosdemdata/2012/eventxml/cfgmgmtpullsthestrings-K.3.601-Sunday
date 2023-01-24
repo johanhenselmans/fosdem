@@ -1,0 +1,24 @@
+  <event id="51">
+      <start>15:00</start>
+      <duration>00:45</duration>
+      <room>K.3.601</room>
+      <slug></slug>
+      <title>Who Pulls the Strings?  Integrating OpenNMS with Modern Configuration Management</title>
+      <subtitle></subtitle>
+      <track>Configuration and Systems Management Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk considers the two most common user stories for OpenNMS integration with modern, conventions-centric configuration management platforms.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;As organizations of all sizes provision and run servers at larger&#xA;scale and in ever more agile ways, the platforms used to monitor and&#xA;manage those servers&amp;#39; performance often become a liability.  The&#xA;best-known free software tools in this space tend to make compromises&#xA;between scalability and ease of automation, while proprietary&#xA;platforms are prohibitively expensive and inflexible.  Enter OpenNMS,&#xA;the world&amp;#39;s first enterprise-grade network management application&#xA;platform that is fully free software.  Massive scalability has always&#xA;been the principal design goal of OpenNMS, and recent feature&#xA;additions including a dynamic provisioning subsystem and ReST API&#xA;offer a path for easy integration with modern, conventions-centric&#xA;configuration management platforms.  This talk considers the two&#xA;commonest user stories for such integration, from concept through&#xA;working code.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Organizations already on the DevOps train almost certainly use a&#xA;modern configuration management platform, such as Puppet or Chef, to&#xA;provision and run their physical servers and cloud machine instances.&#xA; For this use case, it makes sense for the configuration management&#xA;platform to act as the “driver” for the systems management platform.&#xA;To service users in this situation, we will explore what it takes to&#xA;build a working integration where OpenNMS automatically takes its&#xA;service-assurance and performance-management orders from Puppet.  Of&#xA;course, plenty of organizations are still running alongside the train,&#xA;just starting to move server provisioning and configuration management&#xA;to an automation platform.  Since we want to leave nobody behind, we&#xA;will also evaluate the approach of using the work already put into&#xA;populating an OpenNMS instance to help bring configuration management&#xA;religion to all those lovingly hand-built servers.  The development&#xA;part in this talk will show which steps are necessary to create your&#xA;own provisioning adapter in OpenNMS. As a practical example we will&#xA;show how you can create a Puppet URL handler and a Puppet provisioning&#xA;adapter. With this adapter it is possible to pull node information&#xA;from a Puppet master into OpenNMS. If you want to have Puppet as your&#xA;master database for nodes, we will give examples how is it possible to&#xA;use the OpenNMS ReST API to push nodes from a Puppet master into OpenNMS.&lt;/p&gt;      </description>
+      <persons>
+          <person id="511">Jeffrey Gehlbach</person>
+          <person id="512">Ronny Trommer</person>
+          <person id="513">Jason Aras</person>
+      </persons>
+      <links>
+          <link href="651/125_puppet_opennms.pdf">puppet_opennms.pdf (slides)</link>
+          <link href="http://www.opennms.org/">OpenNMS Project</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

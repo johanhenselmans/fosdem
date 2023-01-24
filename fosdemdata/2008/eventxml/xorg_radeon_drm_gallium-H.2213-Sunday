@@ -1,0 +1,19 @@
+  <event id="261">
+      <start>16:00</start>
+      <duration>01:00</duration>
+      <room>H.2213</room>
+      <slug></slug>
+      <title>Radeon, from DRM to Gallium</title>
+      <subtitle></subtitle>
+      <track>X.org</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The talk will cover each part of the graphic pipeline under Linux as it is now and as it will likely be in the future.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;It can be considered as a tutorial to the graphic pipeline viewed through the radeon driver work that Jerome is currently working on.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="2611">Jerome Glisse</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,21 @@
+  <event id="128">
+      <start>15:00</start>
+      <duration>00:45</duration>
+      <room>H.1301</room>
+      <slug></slug>
+      <title>Gnuk - OpenPGP USB Token implementation</title>
+      <subtitle></subtitle>
+      <track>CrossDistribution Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Gnuk is software implementation of a USB token for GNU Privacy Guard.&#xA;Gnuk supports OpenPGP card protocol version 2, and it runs on STM32F103 processor.&#xA;Gnuk supports RSA 2048-bit key and it takes a second and a half for computation of digital signing.&#xA;Gnuk Token is useful for GnuPG users and Debian developers.&#xA;The talk explains current status of Gnuk and its future, supported boards, and how to use Gnuk with GnuPG and OpenSSH.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="1281">Niibe Yutaka</person>
+      </persons>
+      <links>
+          <link href="http://video.fosdem.org/2012/crossdistro/Gnuk.webm">Video recording</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

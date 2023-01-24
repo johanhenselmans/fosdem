@@ -1,0 +1,20 @@
+  <event id="237">
+      <start>17:00</start>
+      <duration>00:45</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>Creating customized openSUSE versions with SUSE Studio</title>
+      <subtitle></subtitle>
+      <track>openSUSE</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;SUSE Studio is a new web application to build openSUSE based appliances. It provides an easy to use interface to quickly create images for live CDs, &#xA;bootable USB sticks and VMware. It&amp;#39;s also possible to conveniently customize software selection, configuration and theming of the appliances. Third party software may be integrated through coupling with the openSUSE Build Service.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Studio&amp;#39;s testdrive feature allows users to run the appliance via the web interface for testing and further configuration.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;We will present the concepts behind SUSE Studio and demonstrate how to easily create a customized openSUSE version in five minutes.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2371">Daniel Bornkessel</person>
+          <person id="2372">Cornelius Schumacher</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

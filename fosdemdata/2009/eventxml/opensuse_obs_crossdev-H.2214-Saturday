@@ -1,0 +1,19 @@
+  <event id="234">
+      <start>15:30</start>
+      <duration>00:45</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>Putting Cross Development Support into OBS</title>
+      <subtitle></subtitle>
+      <track>openSUSE</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The Cross Development in OBS feature is now integrated into normal OBS development. It allows you to build, test, run applications for other processor architectures using a combination of emulators and crossbuild.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Emulators are already a normal part of OBS. An analysis has been made of the different ways to implement Cross Build to result in better interoperability with existing linux distributions for other architectures. The goal was to implement Cross Development as an orthogonal feature, and to glueless implement openSUSE, Fedora, Debian, Ubuntu for embedded architektures like ARM, sh4, mips in the same way as is done already by OBS for x86 and powerpc architectures.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2341">Martin Mohring</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

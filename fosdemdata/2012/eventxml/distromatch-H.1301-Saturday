@@ -1,0 +1,22 @@
+  <event id="86">
+      <start>18:15</start>
+      <duration>00:45</duration>
+      <room>H.1301</room>
+      <slug></slug>
+      <title>I wrote Distromatch, shall we use it?</title>
+      <subtitle></subtitle>
+      <track>CrossDistribution Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;At the &lt;a href=&#34;http://distributions.freedesktop.org/wiki/Meetings/AppInstaller2011&#34;&gt;AppInstaller2011&lt;/a&gt; meeting I started writing &lt;a href=&#34;http://www.enricozini.org/2011/debian/distromatch/&#34;&gt;Distromatch&lt;/a&gt; which is able to map binary package names across different distribution using a wide set of euristics.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Distromatch has the potential of being a radical change in cross-distro cooperation, enabling exchange of package screenshots, categories, ratings, reviews and many other interesting kinds of metadata.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Since distromatch has existed for almost a year and (afaik) so far none of this has happened, I am taking advantage of the cross-distro room to show how it works and discuss how to move on from here.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="861">Enrico Zini</person>
+      </persons>
+      <links>
+          <link href="http://www.enricozini.org/2011/debian/distromatch/">Distromatch site</link>
+          <link href="http://www.enricozini.org/2011/debian/distromatch-deploy/">Deploy Distromatch</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

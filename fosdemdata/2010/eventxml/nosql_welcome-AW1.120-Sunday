@@ -1,0 +1,19 @@
+  <event id="235">
+      <start>09:00</start>
+      <duration>00:15</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>Welcome to the NoSQL developer room</title>
+      <subtitle></subtitle>
+      <track>NoSQL</track>
+      <type></type>
+      <language></language>
+      <abstract></abstract>
+      <description></description>
+      <persons>
+          <person id="2351">Steven Noels</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

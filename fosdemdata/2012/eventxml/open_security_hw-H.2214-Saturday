@@ -1,0 +1,21 @@
+  <event id="283">
+      <start>11:00</start>
+      <duration>00:30</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>Open Security Hardware</title>
+      <subtitle></subtitle>
+      <track>Hardware Cryptography Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;An Open Source / Open Hardware scheme for making security hardware as easy to deploy as passwords.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="2831">Anders Rundgren</person>
+      </persons>
+      <links>
+          <link href="http://webpki.org/papers/keygen2/sks-keygen2-exec-level-presentation.pdf">High level presentation</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

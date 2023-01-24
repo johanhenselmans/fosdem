@@ -1,0 +1,21 @@
+  <event id="273">
+      <start>12:00</start>
+      <duration>00:30</duration>
+      <room>Janson</room>
+      <slug></slug>
+      <title>A New OSI For A New Decade</title>
+      <subtitle></subtitle>
+      <track>Keynotes</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The OSI (Open Source Initiative) is reorganizing its governance from a board-only organization into a member-based structure in 2012.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Simon will give us a brief explanation of what that is, what it means, and how to join.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="2731">Simon Phipps</person>
+      </persons>
+      <links>
+          <link href="http://video.fosdem.org/2012/maintracks/janson/A_New_OSI_for_A_New_Decade.webm">Video recording</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

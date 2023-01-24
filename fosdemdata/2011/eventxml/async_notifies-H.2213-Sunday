@@ -1,0 +1,19 @@
+  <event id="15">
+      <start>10:00</start>
+      <duration>00:45</duration>
+      <room>H.2213</room>
+      <slug></slug>
+      <title>Asynchronous Notifications for Fun and Profit</title>
+      <subtitle></subtitle>
+      <track>PostgreSQL devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Asynchronous notifications are a messaging mechanism built into PostgreSQL to allow it to be used as a message broker in distributed environments.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;This talks sheds some light on asynchronous notifications and shows how they can be used from various programming languages and how distributed programs can be decoupled from each other.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;If you want to now how the object oriented MVC paradigm or the Observer design pattern can be applied to the PostgreSQL database, this talk is for you.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="151">Marc Balmer</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

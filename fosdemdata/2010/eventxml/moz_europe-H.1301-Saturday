@@ -1,0 +1,19 @@
+  <event id="195">
+      <start>13:15</start>
+      <duration>00:30</duration>
+      <room>H.1301</room>
+      <slug></slug>
+      <title>Mozilla Europe</title>
+      <subtitle></subtitle>
+      <track>Mozilla</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;General Introduction followed by an update on the work of Mozilla in Europe.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="1951">Tristan Nitot</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="219">
+      <start>17:30</start>
+      <duration>00:25</duration>
+      <room>H.2213</room>
+      <slug></slug>
+      <title>Multimaster MySQL failover</title>
+      <subtitle></subtitle>
+      <track>MySQL &amp; friends devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;I propose the algorithm and proof of concept tool which solve one of key aspects of scaling mysql read load with multiple read slaves: failover in case of master failure.&#xA;Algorithm works in common configuration with master serving writes and one or more slaves serving reads and replicating from master.&#xA;The algorithm allows any of read slaves to become new master and guarantees full consistency of all the slaves which were available during its work.&#xA;In short: algorithm allows the same degree of consistency as a popular dual master (master-master) mysql replication scheme adding the ability to use a number of slaves for read load and failover as compared to one in the dual master replication scheme.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;I propose the algorithm and proof of concept tool which solve one of key aspects of scaling mysql read load with multiple read slaves: failover in case of master failure.&#xA;Algorithm works in common configuration with master serving writes and one or more slaves serving reads and replicating from master.&#xA;The algorithm allows any of read slaves to become new master and guarantees full consistency of all the slaves which were available during its work.&#xA;In short: algorithm allows the same degree of consistency as a popular dual master (master-master) mysql replication scheme adding the ability to use a number of slaves for read load and failover as compared to one in the dual master replication scheme.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2191">Petya Kohts</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

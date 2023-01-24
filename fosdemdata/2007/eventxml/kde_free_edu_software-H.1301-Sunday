@@ -1,0 +1,19 @@
+  <event id="109">
+      <start>09:00</start>
+      <duration>03:00</duration>
+      <room>H.1301</room>
+      <slug></slug>
+      <title>Free Educational Software: working together</title>
+      <subtitle></subtitle>
+      <track>KDE</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;With the emergence of educational Linux distributions, Free Educational Software begins to reach schools. This BoF aims to make all people involved&#xA;in Edutainment (packagers, developers, ...) meet together and present their work in order to start collaborating better.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description></description>
+      <persons>
+          <person id="1091">Anne-Marie Mahfouf</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

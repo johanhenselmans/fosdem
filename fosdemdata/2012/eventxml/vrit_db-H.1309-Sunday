@@ -1,0 +1,19 @@
+  <event id="400">
+      <start>15:30</start>
+      <duration>00:25</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>Virtualized Databases</title>
+      <subtitle></subtitle>
+      <track>MySQL and Friends Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Let&amp;#39;s have a look at the why and how of virtualization and see how it impacts applications with a big hunger for resources. We will run through the different layers of a virtualized environment and examine their impact. Can we tune MySQL to be better adapted to a virtual environment?&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="4001">Liz van Dijk</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

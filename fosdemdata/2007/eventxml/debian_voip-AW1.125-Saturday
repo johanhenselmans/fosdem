@@ -1,0 +1,24 @@
+  <event id="28">
+      <start>18:00</start>
+      <duration>01:00</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>Open Source VoIP with Debian</title>
+      <subtitle></subtitle>
+      <track>Debian</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Companies are seeking to rip out their proprietary phone systems and looking to VoIP to provide an all-in-one, open standards/open source solution.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Of course, for those who don&amp;#39;t want a blue screen of death appearing on their telephone display in the middle of an important sales call, Debian (should be) the platform of choice.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;During this session, Pocock will discuss some practical examples of building VoIP solutions on Debian, will look at the reSIProcate stack as a way to integrate SIP features into existing Linux desktop and server applications (with an example that developers can take away and use in their existing&#xA;applications), and will happily take questions on other topics including QoS, Asterisk, SER, Codecs/bandwidth requirements and ENUM.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Depending upon the availability of time and equipment, there may be some practical, hands on experiments/demonstrations of SIP technology.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="281">Daniel Pocock</person>
+      </persons>
+      <links>
+          <link href="http://meetings-archive.debian.net/pub/debian-meetings/2007/fosdem/slides/Open_Source_VoIP_with_Debian-Daniel_Pocock/fosdem-2007.pdf">Slides (PDF)</link>
+          <link href="http://meetings-archive.debian.net/pub/debian-meetings/2007/fosdem/ogg_theora/720x576/Open_Source_VoIP_with_Debian-Daniel_Pocock.ogg">Video (Ogg/Theora)</link>
+          <link href="http://meetings-archive.debian.net/pub/debian-meetings/2007/fosdem/xvid/Open_Source_VoIP_with_Debian-Daniel_Pocock_xvid.avi">Video (DIVX)</link>
+          <link href="http://meetings-archive.debian.net/pub/debian-meetings/2007/fosdem/ogg_theora/360x288/Open_Source_VoIP_with_Debian-Daniel_Pocock.ogg">Video (Ogg/Theora/Low quality)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

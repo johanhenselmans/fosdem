@@ -1,0 +1,19 @@
+  <event id="287">
+      <start>10:45</start>
+      <duration>00:45</duration>
+      <room>Janson</room>
+      <slug></slug>
+      <title>Why Political Liberty Depends on Software Freedom More Than Ever </title>
+      <subtitle></subtitle>
+      <track>Keynotes</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;We have come a very long way since the beginning of free software. GNU, Android, Linux, Open Solaris, X, Apache, Perl &amp;amp; other free software have changed &amp;amp; are changing the world.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;But events happening now, like the Wikileaks investigation, and technologies of spying and control, like Facebook and iPad, are reminding us just how politically and socially unfree computers can make us if we&amp;#39;re not careful. In this talk, I consider where we are now, and where we need to go next.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2871">Eben Moglen</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

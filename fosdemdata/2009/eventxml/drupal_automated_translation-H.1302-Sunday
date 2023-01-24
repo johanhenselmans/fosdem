@@ -1,0 +1,19 @@
+  <event id="67">
+      <start>15:30</start>
+      <duration>00:45</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>Automated Web Translation Workflow for Multilingual Drupal Sites</title>
+      <subtitle></subtitle>
+      <track>Drupal</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;A non-technical presentation on how to automate the web translation process with Drupal.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Many organizations operating across the borders are reluctant to localize their (Drupal) web site content because of cost and time constraints. They are aware though that, just as print marketing, e-marketing also needs to use the business language of the local markets in order to be successful.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Find out about how you can automate the web translation process and dramatically cut budget and deadlines, with the AWTW module for Drupal (available in the Drupal community for about a year now). And see how large organisations have been making use of this efficient solution.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;This presentation will be non-technical and given by a non-developer.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="671">Stany van Gelder</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

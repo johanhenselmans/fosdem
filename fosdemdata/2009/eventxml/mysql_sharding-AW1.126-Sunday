@@ -1,0 +1,19 @@
+  <event id="209">
+      <start>16:00</start>
+      <duration>01:00</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>Database Sharding</title>
+      <subtitle></subtitle>
+      <track>MySQL</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Database sharding is an approach to horizontally scale databases by federating data over different servers. The talk will give an overview of the different approaches we have had and still have at Netlog, and how we came to the current solution.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Experiences, tips and remarks from having worked on the Netlog implementation of sharding with mySQL and PHP, in a high availability and high performance focused environment, will be shared in this session. Related technologies include memcached and the Sphinx search engine, that are being used to tackle some of sharding&amp;#39;s difficulties.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2091">Jurriaan Persyn</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

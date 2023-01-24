@@ -1,0 +1,19 @@
+  <event id="364">
+      <start>11:05</start>
+      <duration>00:25</duration>
+      <room>K.4.401</room>
+      <slug></slug>
+      <title>The state of OpenJDK</title>
+      <subtitle></subtitle>
+      <track>Free Java Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;A review of the recent past, a summary of current work on JDK 7 and JDK 8, and a look ahead to upcoming improvements in both governance and infrastructure.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="3641">Mark Reinhold</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

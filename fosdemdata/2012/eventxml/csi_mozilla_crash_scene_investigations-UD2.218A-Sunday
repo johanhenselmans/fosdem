@@ -1,0 +1,19 @@
+  <event id="73">
+      <start>13:00</start>
+      <duration>00:30</duration>
+      <room>UD2.218A</room>
+      <slug></slug>
+      <title>CSI:Mozilla - Crash Scene Investigations</title>
+      <subtitle></subtitle>
+      <track>Mozilla Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;When Firefox crashes, it sends a report of that crash to Mozilla by default. This talk will look at what that data tells us and how the CrashKill team is working on improving stability based on analysis of those crash reports.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="731">Robert Kaiser</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

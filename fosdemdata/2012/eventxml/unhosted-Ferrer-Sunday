@@ -1,0 +1,23 @@
+  <event id="391">
+      <start>16:40</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Unhosted</title>
+      <subtitle>separating web apps from data storage – truly free web software</subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Unhosted is a non-profit project defining a standard to separate web applications from data storage.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;The web apps are pure client-side Javascript, fully inspectable and thus enable truly free software on the web. It also allows app developers to enter the web market a lot faster by not needing to care for any data storage. At the same time, users have their data in one place and can use all the apps with just one account and data storage.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Usually, web applications always come with storage attached to it. You can not choose where an app stores the files you use, it’s just their server. Put plainly: You get their app, they get your data. We want to improve the web infrastructure by separating web applications from your data.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;You have one remote storage where your data and user account resides. In apps, you identify with your user address which then connects to your remote storage and loads your data locally in the app – nothing leaking to the app server. This makes it easier for users because they only need one account and place to have their data – a &amp;#34;My Documents&amp;#34; for the web.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;App developers don’t need to bother about storing user data or scaling their applications – because it all runs in the user’s web browser. The applications can be Javascript apps using localStorage, like many web apps already. Just include the remoteStorage.js library and search/replace localStorage with remoteStorage – and the app enables people to use their own remote storage for it.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;To act as a remote storage, a platform needs to provide WebFinger for discovery, OAuth for authorization and Cross-Origin Resource Sharing (CORS) for cross-domain AJAX calls: ownCloud is already compatible and we work on making CouchDB, Wordpress and Google Drive compatible.&lt;/p&gt;      </description>
+      <persons>
+          <person id="3911">Michiel de Jong</person>
+      </persons>
+      <links>
+          <link href="http://unhosted.org/">Unhosted website</link>
+          <link href="http://www.w3.org/community/unhosted/wiki/RemoteStorage">remoteStorage specification</link>
+          <link href="http://video.fosdem.org/2012/lightningtalks/Unhosted.webm">Video recording</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

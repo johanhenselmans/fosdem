@@ -1,0 +1,19 @@
+  <event id="304">
+      <start>15:20</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>UC Engine: a real time collaboration application framework</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk will be an overview of the UC Engine open-source project. It will highlight the key features of the framework, what applications can be built with it, how the community will benefit from the open source project and what UC Engine could be in future years...&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;UC Engine (Unified Collaboration Engine) provides developers with the tools to help them build real-time applications or integrate real-time features to existing applications. UC Engine enables the development of a huge variety of collaboration applications: web meetings, webcasts, e-learning, brainstorming, project management and many others?&lt;/p&gt;      </description>
+      <persons>
+          <person id="3041">Romain Gauthier</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

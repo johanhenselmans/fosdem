@@ -1,0 +1,20 @@
+  <event id="116">
+      <start>13:30</start>
+      <duration>00:45</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>The People Framework</title>
+      <subtitle></subtitle>
+      <track>GNOME</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The People framework provides an unified way for applications to access and gather contact information from disconnected sources (local address-book, social network, web service, mobile phone...). It&amp;#39;s been presented during last GUADEC in Istanbul and we would like to update the community on progress made, presenting demos such as experimental integration within Empathy.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="1161">Johann Prieur</person>
+          <person id="1162">Ali Sabil</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

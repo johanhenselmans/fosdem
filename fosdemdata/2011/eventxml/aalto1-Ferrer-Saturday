@@ -1,0 +1,19 @@
+  <event id="2">
+      <start>18:00</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Aalto-1: A nanosatellite using open source</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;In this talk we will present the system design and the software architecture that is going to be used in Aalto-1, the first Finnish nanosatellite project. The system is completely thought to use open source technologies, even  in terms of hardware. This talk is a nice example about how creative, technology and open source philosophy can be combined to get complex artifact as a nanosatellite.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;In order to promote technological sciences and engineering careers among the young generation, Aalto University Department of Radio Science and Engineering has initiated a student satellite project. When launched, Aalto-1 will be the first Finnish satellite. The satellite project is a motivating and demanding goal for students and a highly visible project to promote technological sciences and Aalto University. This effort will join the forces of the university, from electronics to financial management, in a truly multidisciplinary manner.&#xA;The Aalto-1 project started in the beginning of 2010, when a group of students made a feasibility study of the first Finnish satellite in the framework of the Space Technology special assignment course. Since then the project has created significant excitement among students and teachers alike. New teaching methods have been applied and a significant interdisciplinary co-operation network inside Aalto University has been created. This autumn, the student satellite team grew by 10 newcomers and has now members from five different departments of Aalto University, including arts and design. Additionally, a consortium of Finnish universities and space industry has been formed to support the satellite project and international relations with several foreign universities have been created.&#xA;The first Finnish satellite project has already received media attention. The project has been cited in several television shows, including YLE science magazine &amp;#34;Prisma Studio&amp;#34;, where the project was explored in detail.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;The satellite project is coordinated by Department of Radio Science and Engineering and supported by Space Technology teaching. In the project participate also Aalto University Department of Automation and Systems Technology, Department of Communications and Networking, Department of Applied Mechanics and addittionally Department of  Physics of University of Helsinki (HY), Department of Physics and Astronomy of University of Turku (UTU), VTT, Finnish Meteorological Institute, Aboa Space Research Oy, Oxford Instruments Analytical Oy and other Finnish companies. The consortium will expand  in the future.&lt;/p&gt;      </description>
+      <persons>
+          <person id="21">Adrian Yanes</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

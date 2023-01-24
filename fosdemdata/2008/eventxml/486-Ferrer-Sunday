@@ -1,0 +1,22 @@
+  <event id="52">
+      <start>17:00</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>GGZ Gaming Zone: Multiplayer gaming framework</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Contents of the talk: «Multiplayer gaming through GGZ»&#xA;While many games make use of 3D engines, sound libraries or physics &#xA;simulators, programmers are often wasting time by writing all the networking &#xA;aspects of games by themselves. The GGZ Gaming Zone, which was founded in the &#xA;year 2000 initially to offer a few games for online play, has since turned &#xA;into a provider of powerful libraries which relieve the programmers of those &#xA;tasks. Integrating GGZ into games is easier than ever thanks to the new &#xA;toolkit-aware integration libraries. The talk will highlight some examples &#xA;and also of the challenges of expanding free gaming on the internet.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;GGZ Gaming Zone unifies multiplayer capabilities of free games at the &#xA;technical level, while diversifying it on the level of experience by offering &#xA;many cool add-ons to the core game server infrastructure. GGZ powers the KDE &#xA;and GNOME multiplayer frameworks, and is used by Freeciv and other games as &#xA;well.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="521">Josef Spillner</person>
+      </persons>
+      <links>
+          <link href="http://fosdem.org/2008/slides/lightningtalks/fosdem08_ltalk_ggz.pdf">Slides (PDF)</link>
+          <link href="http://video.fosdem.org/2008/lightningtalks/FOSDEM2008-ggz-gaming-zone.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

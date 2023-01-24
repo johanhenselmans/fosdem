@@ -1,0 +1,19 @@
+  <event id="20">
+      <start>16:00</start>
+      <duration>00:30</duration>
+      <room>K.4.201</room>
+      <slug></slug>
+      <title>Automated package building</title>
+      <subtitle></subtitle>
+      <track>BSD Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;With binary package management tools such as pkgin or nih, building sets of packages and maintaining a repository becomes a need, mostly when managing multiple servers. This talk presents the setup of different bulk build solutions in pkgsrc.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="201">Nicolas Thauvin</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

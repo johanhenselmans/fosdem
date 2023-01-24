@@ -1,0 +1,19 @@
+  <event id="259">
+      <start>14:15</start>
+      <duration>00:45</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>Streaming replication under the hood</title>
+      <subtitle></subtitle>
+      <track>PostgreSQL</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;In this talk, we&amp;#39;re going to peek under the hood of the new Streaming Replication feature.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;I am going to introduce the concepts of WAL receiver and sender, how they communicate over the network, how they interact with the rest of the server etc. I&amp;#39;m also going to cover advanced setups like multiple slaves, cascading slaves, and WAL archiving from a slave.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2591">Heikki Linnakangas</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

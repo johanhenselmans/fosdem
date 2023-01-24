@@ -1,0 +1,19 @@
+  <event id="139">
+      <start>16:30</start>
+      <duration>00:30</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>What in the World Is This &#39;IcedTea-Web&#39; Project?</title>
+      <subtitle></subtitle>
+      <track>Free Java devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk will cover the new !Icedtea-Web project -- what it is, its current status, and the future direction for it.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;ul&gt;&#xA;&lt;li&gt;What is IcedTea-Web, and why the need for it?&lt;/li&gt;&#xA;&lt;li&gt;The current status of IcedTea-Web&#xA;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Info on the included items (Plugin, NetX, ControlPanel)&lt;/li&gt;&#xA;&lt;li&gt;Synopsis of the new features in Plugin and NetX&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;The future goals of the project&lt;/li&gt;&#xA;&lt;li&gt;Some demos&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&#xA;&lt;p&gt;By the end of the talk, you will:&lt;/p&gt;&#xA;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Never again wonder what the heck IcedTea-Web is&lt;/li&gt;&#xA;&lt;li&gt;Be well refreshed after the nap you took 5 minutes after the talk started :)&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;      </description>
+      <persons>
+          <person id="1391">Deepak Bhole</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="373">
+      <start>16:30</start>
+      <duration>00:30</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>The (possible) decline of the GPL, and what to do about it</title>
+      <subtitle></subtitle>
+      <track>Legal Issues Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Discussion of the possible decline of copyleft licensing.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;During the past few years some have asserted that the use of&#xA;copyleft licenses, particularly the GPL, is in decline among&#xA;FLOSS projects. While the data that is said to support this&#xA;contention may be suspect, it matches my own observations and&#xA;experience.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;I examine why the GPL may really be experiencing some decline&#xA;relative to noncopyleft licensing. Many factors are likely to&#xA;have played a part, sometimes in contradictory or nonobvious&#xA;ways, including the evolution of open source &amp;#34;business models&amp;#34;,&#xA;the nature of GPL enforcement and nonenforcement, the drafting of&#xA;GPLv3 and its aftermath, changes in moral and legal authority&#xA;surrounding the GPL, and general technological, cultural and&#xA;economic developments affecting free software hackers.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;If it is real, the GPL&amp;#39;s decline is a problematic development for&#xA;free software culture. I propose ways in which the trajectory of&#xA;relevance and influence of strong copyleft can be turned around.&lt;/p&gt;      </description>
+      <persons>
+          <person id="3731">Richard Fontana</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

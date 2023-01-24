@@ -1,0 +1,21 @@
+  <event id="116">
+      <start>14:45</start>
+      <duration>00:45</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>Gallium state trackers applied to 2D rendering libraries</title>
+      <subtitle></subtitle>
+      <track>Crossdesktop devroom</track>
+      <type></type>
+      <language></language>
+      <abstract></abstract>
+      <description>&#xA;&lt;p&gt;Gallium offers a simplified approach for developing multi-platform device drivers by splitting some steps in modules that can be shared. A state tracker is a layer between the Graphics API and rendering done by the Pipe Driver, being responsible for translating graphics primitives. Currently the following state trackers are available: OpenVG, OpenGL/ES, Xorg, Direct X and EGL.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;The purpose of this talk is to explain what a Gallium state tracker should implement, offer a glimpse into current trackers and present an example of a simple state tracker implementing 2D operations commonly used by libraries (e.g. Cairo, Qt, SKIA): paint, stroke, drawing paths, clipping, blending, etc.&lt;/p&gt;      </description>
+      <persons>
+          <person id="1161">Bruno Abinader</person>
+          <person id="1162">Igor Trindade Oliveira</person>
+          <person id="1163">Adenilson  Cavalcanti</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

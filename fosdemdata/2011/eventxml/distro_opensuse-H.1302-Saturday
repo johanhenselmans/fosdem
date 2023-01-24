@@ -1,0 +1,19 @@
+  <event id="76">
+      <start>15:00</start>
+      <duration>01:00</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>Amazing openSUSE</title>
+      <subtitle></subtitle>
+      <track>CrossDistro devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;openSUSE has developed both great infrastructure technology and a powerful enduser product; where is it going now?&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Over 5 years ago Novell decided to turn their new asset, SuSE Linux into a community distribution. It was a long and laborious process but since almost 2 years now the development processes have been opened up to the community. We now speak of openSUSE, a community which is now searching for it&amp;#39;s direction. The project has state-of-the-art infrastructure at its disposal and develops a modern, stable and powerful linux distribution. Meanwhile, communication and marketing are it&amp;#39;s weak points - innovative technologies like the openSUSE Build Service and SUSE Studio do not get the exposure they deserve. In this talk an overview is given of openSUSE&amp;#39;s history, the developments in the community and the latest openSUSE technology is presented.&lt;/p&gt;      </description>
+      <persons>
+          <person id="761">Jos Poortvliet</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

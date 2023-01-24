@@ -1,0 +1,19 @@
+  <event id="328">
+      <start>13:00</start>
+      <duration>00:50</duration>
+      <room>K.4.201</room>
+      <slug></slug>
+      <title>PostgreSQL Clustering with Red Hat Cluster Suite</title>
+      <subtitle></subtitle>
+      <track>PostgreSQL Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Red Hat Cluster Suite is a robust technology that is used at many areas.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;PostgreSQL can be directly used with Red Hat Cluster Suite, in order to create an active-passive clustering environment.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;In this session, we will setup a two-node cluster, learn how to configure it, also talk about some more details.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="3281">Devrim Gündüz</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

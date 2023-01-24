@@ -1,0 +1,19 @@
+  <event id="31">
+      <start>11:40</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>CAcert: Client-certificates and SSO - the old-new thing</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;(or, now we have the chicken, let&amp;#39;s lay some eggs!)&#xA;&lt;/p&gt;&#xA;&lt;p&gt;By one means or another CAcert is now ploughing the ground for Single-Sign-On with browser-installed client certificates.  This talk will point to experiences, traps &amp;amp; traumas, and conclude that actually, it&amp;#39;s well worth while and does actually give benefits.  Once you have a chicken, you can lay some eggs.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;The community CA -- with a network of 3000+ assurers, we provide one of the largest webs of trust around the world, dedicated to something or other about security.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="311">Ian Grigg</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

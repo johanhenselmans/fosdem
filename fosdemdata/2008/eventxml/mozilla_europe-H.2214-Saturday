@@ -1,0 +1,20 @@
+  <event id="181">
+      <start>14:00</start>
+      <duration>00:45</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>Mozilla Europe</title>
+      <subtitle></subtitle>
+      <track>Mozilla</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;General Introductions followed by an update on the work of &lt;a href=&#34;http://www.mozilla-europe.org/&#34;&gt;Mozilla Europe&lt;/a&gt;.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Introduction to the Mozilla meeting at Fosdem, &amp;#39;08 and general Mozilla update.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1811">Brian King</person>
+          <person id="1812">Tristan Nitot</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

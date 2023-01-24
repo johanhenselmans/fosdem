@@ -1,0 +1,19 @@
+  <event id="77">
+      <start>10:00</start>
+      <duration>00:45</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>AHAH crash course</title>
+      <subtitle></subtitle>
+      <track>Drupal</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Implementing AHAH (Asynchronous HTML and HTTP) requires some Form API voodoo to get it done right. At first instance it can be hard to get a grasp at the concepts of AHAH. If you&amp;#39;re a novice to AHAH, it&amp;#39;s really easy to implement it wrong and hurt the Form API.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Wim Leers&amp;#39; AHAH helper module simplifies the implementation and with his Hierarchical Select module AHAH can be taken even further. This presentation wraps up everything AHAH.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="771">Matthias Vandermaesen</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

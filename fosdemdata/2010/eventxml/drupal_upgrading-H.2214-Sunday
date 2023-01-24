@@ -1,0 +1,19 @@
+  <event id="85">
+      <start>15:45</start>
+      <duration>00:45</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>Upgrading</title>
+      <subtitle></subtitle>
+      <track>Drupal</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Where do you start when upgrading a website with an active community&#xA;around it? How do you preserve the data for thousands of users and&#xA;nodes? How do you move away from obsolete modules? How do you limit&#xA;downtime to a few hours?&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;These are common questions we have to answer&#xA;when upgrading websites from Drupal 5 to Drupal 6 and adding new&#xA;functionality on top of it!&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="851">Florian Lorétan</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

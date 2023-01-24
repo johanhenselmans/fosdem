@@ -1,0 +1,22 @@
+  <event id="111">
+      <start>10:55</start>
+      <duration>00:45</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>Data-Driven and Component-Based Game-Entities </title>
+      <subtitle></subtitle>
+      <track>Open Source Game Development Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Game architectures used to be designed in an inheritance-based approach, which has proven to be difficult. The current state-of-the-art is a component-based architecture that allows loading all game entities from a separate data source. This enables easier testing and modularization of the code.&#xA;It is also beneficial for the game designer as it weakens the game designer&amp;#39;s dependency on the programmer. This is important for content creators of open-source games, so they can easily add their new content to the game, without relying on somebody else to help them.&#xA;This talk will outline the reasons to use a data-driven and component-based architecture, give examples of architectures used in popular open-source games (Wesnoth, MegaGlest, 0AD and Unknown Horizons) and explain how Unknown Horizons moved from an inheritance-based approach to the new component-based architecture.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="1111">Thomas Kinnen</person>
+      </persons>
+      <links>
+          <link href="536/104_Thomas_Kinnen_-_Data-Driven_and_Component-Based_Game-Entities_-_Slides.pdf">Data-Driven and Component-Based Game-Entities (slides)</link>
+          <link href="http://video.fosdem.org/2012/devrooms/open_source_game_development/Thomas_Kinnen_-_Data-Driven_and_Component-Based_Game-Entities.mp3">Data-Driven and Component-Based Game-Entities (audio recording)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

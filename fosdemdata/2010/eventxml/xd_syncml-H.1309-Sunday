@@ -1,0 +1,19 @@
+  <event id="293">
+      <start>15:15</start>
+      <duration>00:45</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>SyncML</title>
+      <subtitle></subtitle>
+      <track>CrossDesktop</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;From the SyncML Protocol to Free and Open Implementations&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Data synchronization is still mostly a missing piece in the free desktop puzzle: solutions that are reliable and ready for the mythical Average User just aren&amp;#39;t available. This talk presents the SyncML protocol, introduces the Synthesis SyncML engine (developed since 2000, open sourced 2009) and outlines how SyncEvolution is used as the synchronization solution in Moblin, GNOME and other Linux desktop systems. This is intended to be a technical talk with time for discussion. For a more end-user oriented project presentation, attend the Lightning Talk on Saturday, 18h00.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2931">Patrick Ohly</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

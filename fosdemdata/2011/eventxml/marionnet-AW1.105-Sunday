@@ -1,0 +1,19 @@
+  <event id="188">
+      <start>10:40</start>
+      <duration>00:20</duration>
+      <room>AW1.105</room>
+      <slug></slug>
+      <title>Marionnet, a virtual network laboratory</title>
+      <subtitle></subtitle>
+      <track>New challenges in Virtualization devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Marionnet is a high-level simulation tool allowing to accurately reproduce the behavior of physical computer networks made by computers, hubs, switches and routers; virtual machines run unmodified GNU/Linux binaries for the x86 architecture at nearly native speed.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Individual virtual devices can be dynamically created, destroyed or modified while the rest of the virtual network is running, providing many opportunities for experimentation without any need for clumsy hardware setup.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Marionnet has a very intuitive graphical user interface also suitable to inexperienced users, and is already being used with success for teaching computer networks in several universities all over the world.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="1881">Luca Saiu</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

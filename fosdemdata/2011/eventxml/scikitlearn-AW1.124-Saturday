@@ -1,0 +1,19 @@
+  <event id="280">
+      <start>16:00</start>
+      <duration>00:15</duration>
+      <room>AW1.124</room>
+      <slug></slug>
+      <title>scikits.learn, machine learning in Python</title>
+      <subtitle></subtitle>
+      <track>Data Analytics devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;scikits.learn is a machine learning library for the python language. Its goal is to implement simple, efficient algorithms for machine learning while providing clean APIs and outstanding documentation.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;scikits.learn is a machine learning library for the python language. Its goal is to implement simple, efficient algorithms for machine learning while providing clean APIs and outstanding documentation.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;After introducing general concepts of machine learning such as supervised and unsupervised learning, classification, regression and clustering, we will motivate the technical choices behind this project (Python, C/C++/Cython), give a brief overview of the API and the main algorithms implemented.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;In the second part of the talk we will showcase applications of the toolkit to real world problems, such as classification of text documents by topic, geographical density estimation of animal species, face recognition in pictures, clustering of temporal stock options or classification of genetic data.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Target audience: some familiarity with principles of machine learning is required.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2801">Fabian Pedregosa</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,21 @@
+  <event id="180">
+      <start>15:00</start>
+      <duration>00:45</duration>
+      <room>Chavanne</room>
+      <slug></slug>
+      <title>MariaDB: extra features that make it a better branch of MySQL</title>
+      <subtitle></subtitle>
+      <track>Database</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;MariaDB is an independent branch of MySQL with additional features and patches. This talk will give a technical overview of MariaDB.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;MariaDB is an independent branch of MySQL with additional features and &#xA;patches. This talk will give a technical overview of MariaDB, including:&#xA;&lt;/p&gt;&#xA;&lt;ul&gt;&lt;li&gt; A walkthrough of extra features available in MariaDB 5.1:&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;ul&gt;&lt;li&gt; Extra storage engines (XtraDB, PBXT, Maria, FederatedX)&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Community patches integrated into MariaDB&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Additional features and optimizations&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt; Compatibility policy between mainline MySQL and MariaDB&#xA;&lt;/li&gt;&#xA;&lt;li&gt; MariaDB&amp;#39;s approach to accepting external contributions&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Further technical directions of MariaDB project&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;  </description>
+      <persons>
+          <person id="1801">Sergey Petrunya</person>
+      </persons>
+      <links>
+          <link href="http://video.fosdem.org/2010/maintracks/mariadb.xvid.avi">Video (DIVX)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

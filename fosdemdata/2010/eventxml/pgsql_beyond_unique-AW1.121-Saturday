@@ -1,0 +1,19 @@
+  <event id="256">
+      <start>16:15</start>
+      <duration>00:45</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>Beyond UNIQUE: Exclusion constraints in PostgreSQL 9.0</title>
+      <subtitle></subtitle>
+      <track>PostgreSQL</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;PostgreSQL 9.0 introduces the feature Exclusion Constraints, and this talk will present this feature and how to use it to solve this type of problem with a declarative constraint - while maintaining performance and concurrency in the system.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;A core feature of a relational database is being able to define constraints on the data, and have the database enforce those constraints. Today, there exists only one kind of constraint that will look at a combination of more than one row in a table - the UNIQUE constraint, often used as a tables PRIMARY KEY. This constraint makes sure no two rows have the same combination of values in the specified columns. But many datamodels contain completely different constraints, such as requiring non-overlapping ranges. For example, the requirement that a resource such as a conference room is not double booked.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2561">Magnus Hagander</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

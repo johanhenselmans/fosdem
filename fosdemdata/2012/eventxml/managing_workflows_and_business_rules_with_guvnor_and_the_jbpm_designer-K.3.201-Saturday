@@ -1,0 +1,20 @@
+  <event id="226">
+      <start>18:00</start>
+      <duration>00:55</duration>
+      <room>K.3.201</room>
+      <slug></slug>
+      <title>Guvnor/jBPM: Managing workflows and business rules with Guvnor and the jBPM designer</title>
+      <subtitle></subtitle>
+      <track>JBoss.org Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The jBPM workflow engine and the Drools rule engine and the help you extract your business logic in workflows and rules, so you don’t need to hard code it in Java.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;For example, suppose your application handles mortgage approval and you have a team of business experts at your disposal that can’t program. What happens if your business experts want to add a workflow action to send a mail upon each mortgage approval above 100 000 € with an applicant below age 30? How long does it take to hit production? Can the business experts easily read the changes before they hit production?&lt;/p&gt;&#xA;&#xA;&lt;p&gt;With Guvnor and the jBPM designer, those business experts can write and edit the workflows and business rules themselves. They can verify them and put them in poduction.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;The jBPM workflow engine and the Drools rule engine and the help you extract your business logic in workflows and rules, so you don’t need to hard code it in Java.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;For example, suppose your application handles mortgage approval and you have a team of business experts at your disposal that can’t program. What happens if your business experts want to add a workflow action to send a mail upon each mortgage approval above 100 000 € with an applicant below age 30? How long does it take to hit production? Can the business experts easily read the changes before they hit production?&lt;/p&gt;&#xA;&#xA;&lt;p&gt;With Guvnor and the jBPM designer, those business experts can write and edit the workflows and business rules themselves. They can verify them and put them in production.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Ref : http://www.jboss.org/jbpm&#xA;Ref : http://www.jboss.org/guvnor&lt;/p&gt;      </description>
+      <persons>
+          <person id="2261">Geoffrey De Smet</person>
+          <person id="2262">Marco Rietveld</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

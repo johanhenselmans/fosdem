@@ -1,0 +1,23 @@
+  <event id="387">
+      <start>17:40</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Transifex: Localizing your application</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Transifex is an open-source localization platform. It helps developers manage the localization process for their software. Especially in the open-source world, localizing the software is very important. This talk will explain briefly what localization is, what are the issues that arise and how Transifex can help projects manage the translation workflow.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Transifex is an open-source localization platform. It is already used by a lot of open-source projects, including fedora and meego, with great success.&#xA;The talk will focus on explaining what localization is and why it is important. It will also describe how Transifex works and how it can help the developers integrate translations in their workflow and the translators to cooperate better to help with the translations.&lt;/p&gt;      </description>
+      <persons>
+          <person id="3871">Apostolos Bessas</person>
+      </persons>
+      <links>
+          <link href="468/28_transifex.pdf">Transifex (slides)</link>
+          <link href="http://bitbucket.org/indifex/transifex/">http://bitbucket.org/indifex/transifex/</link>
+          <link href="http://video.fosdem.org/2012/lightningtalks/Transifex.webm">Video recording</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

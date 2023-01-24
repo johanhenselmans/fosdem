@@ -1,0 +1,19 @@
+  <event id="117">
+      <start>14:00</start>
+      <duration>00:20</duration>
+      <room>AW1.105</room>
+      <slug></slug>
+      <title>Ganeti 2.4 and beyond: new challenges in virtualization at the cluster level</title>
+      <subtitle></subtitle>
+      <track>New challenges in Virtualization devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Ganeti is a cluster virtualization tool developed at Google. The talk will introduce its basics, and have a look at the future challenges and directions it&amp;#39;s taking, both from the original team and the community which has formed around it, with a look towards integration and future development in coexistance with the movements in the virtualization ecosystem.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="1171">Guido Trotter</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

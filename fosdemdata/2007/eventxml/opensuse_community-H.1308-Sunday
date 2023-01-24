@@ -1,0 +1,23 @@
+  <event id="172">
+      <start>12:00</start>
+      <duration>00:45</duration>
+      <room>H.1308</room>
+      <slug></slug>
+      <title>openSUSE Community</title>
+      <subtitle></subtitle>
+      <track>openSUSE</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;A talk from an openSUSE Community member on Community history, ongoings, problems, challenges, and plans for the future.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;openSUSE, since SUSE Linux 10.0, is open up to the public with beta-testing; development and the release process is no longer all in-house. This talk will cover some thoughts on the response of such a change, other problems and challenges that the community is facing, as well as exciting projects made by the community.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1721">Francis Giannaros</person>
+      </persons>
+      <links>
+          <link href="http://files.opensuse.org/opensuse/en/6/64/Community.pdf">Slides (PDF)</link>
+          <link href="http://ftp5.gwdg.de/pub/opensuse/FOSDEM/2007/fosdem2007-12_openSUSE_Community-1200.ogg">Video (Ogg/Theora)</link>
+          <link href="http://ftp5.gwdg.de/pub/opensuse/FOSDEM/2007/fosdem2007-12_openSUSE_Community-320.ogg">Video (Ogg/Theora/Low quality)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,21 @@
+  <event id="266">
+      <start>13:00</start>
+      <duration>00:30</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>Compiling Smalltalk to fast native Code</title>
+      <subtitle></subtitle>
+      <track>Smalltalk Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Compiling Smalltalk to fast native Code&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="2661">David Chisnall</person>
+      </persons>
+      <links>
+          <link href="886/109_Smalltalk.pdf">Smalltalk.pdf (slides)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

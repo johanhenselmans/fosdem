@@ -1,0 +1,19 @@
+  <event id="296">
+      <start>14:00</start>
+      <duration>01:00</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>r600_demo: Programming the New GPU Generations from AMD</title>
+      <subtitle></subtitle>
+      <track>X.org</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;By allowing the release of r600_demo AMD has carried out a first step of their promise to release enough information for open source DRI driver development.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;As the initial, to be released documentation will be very register centric there is hardly enough information about how the chips are actually working. This talk will give an overview over how the r6xx and r7xx chip families are to be programmed, and in which pit falls one might stumble.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2961">Matthias Hopf</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

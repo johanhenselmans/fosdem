@@ -1,0 +1,19 @@
+  <event id="48">
+      <start>13:00</start>
+      <duration>01:00</duration>
+      <room>H.2213</room>
+      <slug></slug>
+      <title>Securing CentOS with SELinux</title>
+      <subtitle></subtitle>
+      <track>Fedora + CentOS</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;drwxr-x--x is still the normal means of security under linux, giving access rights to data to users, groups and anyone else. This method isn&amp;#39;t very flexible, so access rights are either given for larger groups of people or the administrator is tearing out his hair because he is lost in a maze of user, file and directory structures, which make working more than complex, but don&amp;#39;t make the system more secure. Enter SELinux, a security infrastructure which is integrated into the kernel and promises to make securing your system more flexible.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;SELinux is a security framework which is included in the kernel of the Linux operating system. Under SELinux files don&amp;#39;t only have the normal access rights or ACLs, but also have a context. You as a user or a program have to be able to use that context to get access - even if normal access rights would allow you to change the file. This talk gives a short overview of SELinux and talks about the tools in CentOS 5 (and Fedora) which enable you to change the behaviour of SELinux. In the second part we will secure a small daemon with the tools we learned about in part 1.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="481">Ralph Angenendt</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

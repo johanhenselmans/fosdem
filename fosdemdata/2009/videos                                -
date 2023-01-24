@@ -1,0 +1,124 @@
+#lightning
+for i in 
+apache_felix.xvid.avi
+bazaar.xvid.avi
+bug.xvid.avi
+camelot.xvid.avi
+custom_opensolaris.xvid.avi           
+ez_find.xvid.avi                      
+flossmetrics.xvid.avi                 
+freedroidrpg.xvid.avi                 
+games_engines_done_good.xvid.avi      
+gemvid.xvid.avi                       
+hyves_puppet.xvid.avi                 
+jtr.xvid.avi                          
+linux_defenders.xvid.avi              
+lxde.xvid.avi                         
+marionnet.xvid.avi                    
+mobile_development.xvid.avi           
+modularit.xvid.avi                    
+muse_score.xvid.avi                   
+opsview.xvid.avi                      
+osi.xvid.avi                          
+pyroom.xvid.avi                       
+renew_berkeley_sockets_api.xvid.avi   
+secure_list_server.xvid.avi           
+smallmail.xvid.avi                    
+tikiwiki.xvid.avi                     
+tls.xvid.avi                          
+usbpicprog.xvid.avi                   
+xwiki.xvid.avi                        
+;do 
+grep $i xmldata2009wv.xml;
+done
+
+exit
+
+#maintracks
+for i in
+caldav.xvid.avi             
+cobbler.xvid.avi            
+debian.xvid.avi             
+exherbo.xvid.avi            
+ext4.xvid.avi               
+fedora.xvid.avi             
+freeipa.xvid.avi            
+freeopenfuture.xvid.avi     
+fusil.xvid.avi              
+google_soc.xvid.avi         
+mediawiki.xvid.avi          
+my_system_is_slow.xvid.avi  
+mysql_ha.xvid.avi           
+openamq.xvid.avi            
+owasp.xvid.avi              
+reverse.xvid.avi            
+scala.xvid.avi              
+syslinux.xvid.avi           
+upstart.xvid.avi            
+welcome.xvid.avi            
+zarafa.xvid.avi             
+;do 
+grep $i xmldata2009wv.xml;
+done
+
+#debian  
+for i in
+DebConf_video_team_and_DVswitch.ogg                
+Debian_Font_Task_Force.ogg                         
+Debian_and_Google_Summer_of_Code_2008.ogg          
+Debian_on_Openmoko.ogg                             
+Debian_on_inexpensive_NAS_devices.ogg              
+Grid_Computing_with_Debian_Globus_and_ARC.ogg      
+Internationalization_in_Debian.ogg                 
+Introducing_DDE_Debian_Data_Export.ogg             
+Lenny_the_road_to_release.ogg                      
+Release_management_in_Debian_can_we_do_better.ogg  
+TDebs_draft_specification.ogg                      
+The_Common_Debian_Build_System_CDBS.ogg            
+The_long_road_to_KDE4_in_Debian.ogg                
+Ultimate_Debian_Database.ogg                       
+What_does_the_DPL_do.ogg                           
+;do 
+grep $i xmldata2009wv.xml;
+done
+
+
+#gnustep 
+for i in
+"01.Theming in GNUstep - Richard Frith-Macdonald - FOSDEM 2009.mov"
+"02.ScalableOGo - Helge Hess - FOSDEM 2009.mov"            
+"03.Cross-Platform Objective-C Development using GNUstep - Nicola Pero - FOSDEM 2009.mov"
+"04.Web Services in Objective-C - Richard Frith-Macdonald & Riccardo Mottola - FOSDEM 2009.mov"
+"05.Etoile - David Chisnall (via iChat) & Damien Pollet - FOSDEM 2009.mov"                 
+"06.Garbage collection with Objective-C - Richard Frith-Macdonald - FOSDEM 2009.mov"
+"07.GAP Applications + PRICE - Riccardo Mottola - FOSDEM 2009.mov"                                    
+"08.Pragmatic Smalltalk - Damien Pollet (prepared by Nicolas Roard) - FOSDEM 2009.mov"                
+"09.Building Server Applications using Objective-C and GNUstep - Nicola Pero - FOSDEM 2009.mov"       
+"11.Building a Database Application with (almost) no Code - Lars Sonchocky-Helldorf - FOSDEM 2009.mov"
+;do 
+grep "$i" xmldata2009wv.xml;
+done
+
+#opensuse
+for i in
+fosdem09_day1_01-welcome.ogg           
+fosdem09_day1_03-openSUSE_community.ogg
+fosdem09_day1_05-collaboration.ogg     
+fosdem09_day1_06-cross_build.ogg       
+fosdem09_day1_07-kiwi.ogg              
+fosdem09_day1_08-studio.ogg            
+fosdem09_day1_09-legal.ogg             
+fosdem09_day1_10-apport.ogg            
+fosdem09_day2_01-education.ogg         
+fosdem09_day2_02-zypper.ogg            
+fosdem09_day2_03-wine.ogg              
+fosdem09_day2_04-cdn.ogg               
+fosdem09_day2_05-netbooks.ogg          
+fosdem09_day2_06-yast.ogg              
+fosdem09_day2_07-openfate.ogg          
+fosdem09_day2_08-collaboration.ogg     
+fosdem09_day2_09-gnome.ogg             
+fosdem09_day2_10-kde.ogg
+;do 
+grep $i xmldata2009wv.xml;
+done

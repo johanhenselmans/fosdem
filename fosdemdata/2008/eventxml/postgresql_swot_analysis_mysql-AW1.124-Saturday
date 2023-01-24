@@ -1,0 +1,19 @@
+  <event id="235">
+      <start>17:00</start>
+      <duration>01:00</duration>
+      <room>AW1.124</room>
+      <slug></slug>
+      <title>SWOT analysis between MySQL and PostgreSQL</title>
+      <subtitle></subtitle>
+      <track>BSD + PostgreSQL</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;n/a&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description></description>
+      <persons>
+          <person id="2351">Guido Barosio</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

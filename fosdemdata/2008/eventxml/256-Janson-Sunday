@@ -1,0 +1,21 @@
+  <event id="16">
+      <start>15:00</start>
+      <duration>00:45</duration>
+      <room>Janson</room>
+      <slug></slug>
+      <title>PackageKit</title>
+      <subtitle></subtitle>
+      <track>Packaging</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The presentation will give a complete overview of &lt;a href=&#34;http://www.packagekit.org/&#34;&gt;PackageKit&lt;/a&gt; along with background material.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;The presentation will first highlight the issues that need solving, and expose the problems we have in the current suite of tools.&#xA;It will examine other update solutions such as Microsoft Windows Vista (tm), Apple Mac OS X (tm) and also what has been done with some Linux distributions.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The main section of the talk will introduce &lt;a href=&#34;http://www.packagekit.org/&#34;&gt;PackageKit&lt;/a&gt;, expose the internal design and explain any important ideas and design choices.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Finally, ways to use PackageKit are discussed, along with screenshots of all the latest GUI tools. Time will remain for questions and discussion&#xA;about PackageKit at the end.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;PackageKit is a system designed to make installing and updating software on your computer easier. The primary design goal is to unify all the&#xA;software graphical tools used in different distributions, and use some of the latest technology like &lt;a href=&#34;http://hal.freedesktop.org/docs/PolicyKit/&#34;&gt;PolicyKit&lt;/a&gt; to make the process suck less.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Use cases for PackageKit exist for the following scenarios:&#xA;&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Boot time security updates&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Installing files automatically, e.g. openoffice-clipart&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Installing software required for new hardware, e.g. smart-card readers&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Allowing unprivileged users to install software in a corporate build&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Opening unknown file formats&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;Formally, &lt;a href=&#34;http://www.packagekit.org/&#34;&gt;PackageKit&lt;/a&gt; is a &lt;a href=&#34;http://dbus.freedesktop.org/&#34;&gt;D-Bus&lt;/a&gt; abstraction layer that allows the session user to manage packages in a secure way using a cross-distro, cross-architecture API.&#xA;&#xA; </description>
+      <persons>
+          <person id="161">Richard Hughes</person>
+      </persons>
+      <links>
+          <link href="http://video.fosdem.org/2008/maintracks/FOSDEM2008-packagekit.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

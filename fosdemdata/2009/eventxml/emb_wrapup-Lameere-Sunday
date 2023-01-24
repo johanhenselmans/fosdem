@@ -1,0 +1,19 @@
+  <event id="86">
+      <start>16:30</start>
+      <duration>00:30</duration>
+      <room>Lameere</room>
+      <slug></slug>
+      <title>Embedded Devroom wrap-up &amp; feedback session</title>
+      <subtitle></subtitle>
+      <track>Embedded</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Wrap-up and feedback session in the Embedded developer room.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="861">Philippe De Swert</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,23 @@
+  <event id="63">
+      <start>10:00</start>
+      <duration>00:50</duration>
+      <room>Janson</room>
+      <slug></slug>
+      <title>CoApp: Packaging Open Source software for Windows</title>
+      <subtitle></subtitle>
+      <track>System Track</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Open Source Software has long enjoyed the ability to be trivially acquired, installed and maintained on Linux via packages, where each package contains within it all the information required to find and configure the necessary dependencies.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;However, in many situations there is a strong need to install OSS on Windows,where traditional package management systems like RPM and DPKG are not only unavailable--but couldn&amp;#39;t support the platform in a manner consistent with the other software.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;This presentation looks into the technical details of CoApp, a new fully-open source package management system fills this gap by providing all the tools to easily create, publish, discover, and install software packages, including automatically handling dependencies, managing updates and providing a frictionless end-user experience, all in a method that is well supported by the platform.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="631">Garrett Serack</person>
+      </persons>
+      <links>
+          <link href="http://coapp.org/">CoApp Project Website</link>
+          <link href="http://github.com/coapp">CoApp Github repository</link>
+          <link href="http://video.fosdem.org/2012/maintracks/janson/coapp.webm">Video recording</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

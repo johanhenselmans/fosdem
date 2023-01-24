@@ -1,0 +1,19 @@
+  <event id="255">
+      <start>14:30</start>
+      <duration>00:30</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>PHP.reboot</title>
+      <subtitle>A dynamic language as fast as Java (almost!)</subtitle>
+      <track>Free Java devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk introduces PHP.reboot is a new dynamic language running on top of any JVMs with JSR 292 support.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;After a short presentation of the language, I will present the key components of the runtime of PHP.reboot and how they interact to deliver awesome performance. This talk target runtime language developers and all people that want to know how a runtime language is implemented on top of the JVM.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2551">Rémi Forax</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

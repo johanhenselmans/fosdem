@@ -1,0 +1,20 @@
+  <event id="155">
+      <start>11:30</start>
+      <duration>00:40</duration>
+      <room>AW1.124</room>
+      <slug></slug>
+      <title>Scaling Location Services in Large SIP Networks with Kamailio</title>
+      <subtitle></subtitle>
+      <track>Open Source Telephony devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Scaling SIP location services with Kamailio&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;In this presentation, we&amp;#39;ll discuss a new strategy for scaling the SIP location service in large SIP networks, as implemented in the Kamailio project. The logic is implemented with a new module &amp;#34;p_usrloc&amp;#34;, named after the strategy of a partitioned user location service. The new component provides several benefits over the classical SIP location service in SER/Kamailio : load-balancing, redundancy of data and failover.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;The presentation contains of the following topics: a short overview of the Kamailio usage at 1&amp;amp;1, the motivation for a new location service and an introduction into Kamailio/SER location service. Furthermore we describe the design of the new module and give some usage scenarios and an overview over the interaction with other SER/Kamailio modules. Finally we&amp;#39;ll present some guidelines on getting the code from the upstream repository and how to setup your own test environment.&lt;/p&gt;      </description>
+      <persons>
+          <person id="1551">Henning Westerholt</person>
+          <person id="1552">Marius Zbihlei</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="165">
+      <start>17:30</start>
+      <duration>00:45</duration>
+      <room>H.1301</room>
+      <slug></slug>
+      <title>KDE on Windows</title>
+      <subtitle></subtitle>
+      <track>KDE</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk will give an overview about what has been achieved wrt. KDE on Windows and what can be expected in the future. It will also explain how we &#xA;do the developments under Windows, which things are similar to Unix, which things are different, and how people can start to hack on KDE on Windows.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;In the talk you will see how simple it is for end-users to install KDE on Windows. Some known KDE programs will be shown in action and compared to &#xA;their windows counterparts. Then we will look at our development process, and how we had to adapt that to the new Windows platform.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;We will see which major problems we were facing, and how they were solved, and we will have a look at the remaining problems, which still have to be fixed.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;In the last part we will explain how our staging and distribution infrastructure for the KDE binary packages under Windows works, and we will give a hands-on introduction into compiling KDE programs on windows by your own.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1651">Holger Schröder</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

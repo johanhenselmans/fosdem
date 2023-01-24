@@ -1,0 +1,19 @@
+  <event id="295">
+      <start>16:45</start>
+      <duration>00:15</duration>
+      <room>AW1.124</room>
+      <slug></slug>
+      <title>Open Source Telephony Devroom Closing</title>
+      <subtitle></subtitle>
+      <track>Open Source Telephony devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Closing Remarks&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Closing Remarks in the Open Source Telephony Devroom&lt;/p&gt;      </description>
+      <persons>
+          <person id="2951">Russell Bryant</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

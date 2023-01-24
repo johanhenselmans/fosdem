@@ -1,0 +1,19 @@
+  <event id="74">
+      <start>16:45</start>
+      <duration>00:45</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>Developing GNOME through marketing and outreach</title>
+      <subtitle></subtitle>
+      <track>GNOME</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Developing GNOME through marketing and outreach.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description></description>
+      <persons>
+          <person id="741">Dave Neary</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

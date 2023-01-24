@@ -1,0 +1,19 @@
+  <event id="3">
+      <start>10:15</start>
+      <duration>00:30</duration>
+      <room>H.1301</room>
+      <slug></slug>
+      <title>about:volunteers </title>
+      <subtitle></subtitle>
+      <track>Mozilla devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;A talk about Mozilla&amp;#39;s awesome community of volunteers and how to become one today!&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;It&amp;#39;s not a secret that most of contributors to the Mozilla projects are volunteers.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;So do I.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;I am working almost every days on different tasks as L20n, QA, Mozmill, Marketing, Army of Awesome, SUMO, writing e-mail, engaging the community in my country and in Europe, responding to blog post, writing articles, etc.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Why I am doing that and how everyone can do the same(from my point of view).&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Yes, there are a lot of websites and resources that can show people how to do that and probably why to do that, but I think an opinion from a community member can be the most important prove for our marketing strategy - to engage people and to help them to be a part from an open community like Mozilla. How easy is to start contributing to Mozilla?&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Building the Community.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;The other thing I will share is how being part of several (open) communities can be useful and even more than welcome. I think FOSSDEM is the place we (I) can show that everyone can be part of Mozilla, because we (all) are Mozilla.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Top of the cream&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Since being part of community is to find and test some nice features,I will show how I can control Firefox with my voice using simon-listens project and a Firefox add on.&lt;/p&gt;      </description>
+      <persons>
+          <person id="31">Bogomil Shopov</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,22 @@
+  <event id="32">
+      <start>18:20</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>OpenAFS: cross-platform enterprise class distributed filesystem</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk will present a developers view of OpenAFS. It will briefly detail why OpenAFS is still a compelling filesystem for today&amp;#39;s enterprise users, examine the challenges of maintaining an old code base across a wide range of operating systems, and discuss the opportunities that this stable base presents for future development work.  In particular we&amp;#39;ll look at my ongoing work to reintroduce disconnected operation.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;OpenAFS is a cross-platform enterprise class distributed filesystem. AFS started life at Carnegie Mellon University and was then marketed as a commercial product by Transarc, and later by IBM. In 2000 IBM open-sourced the codebase, creating the OpenAFS project. OpenAFS continues to maintain and enhance this code, producing file system modules for Linux, AIX, HPUX, Irix, Solaris and Mac OS X from a common source tree. Microsoft Windows support is also provided.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="321">Simon Wilkinson</person>
+      </persons>
+      <links>
+          <link href="http://fosdem.org/2008/slides/lightningtalks/fosdem08_ltalk_openafs.pdf">Slides (PDF)</link>
+          <link href="http://video.fosdem.org/2008/lightningtalks/FOSDEM2008-openafs.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

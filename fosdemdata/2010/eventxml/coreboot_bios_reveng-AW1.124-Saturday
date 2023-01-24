@@ -1,0 +1,19 @@
+  <event id="37">
+      <start>18:00</start>
+      <duration>01:00</duration>
+      <room>AW1.124</room>
+      <slug></slug>
+      <title>Flash enable BIOS reverse engineering</title>
+      <subtitle></subtitle>
+      <track>Coreboot</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Many board makers provide extra write protection for their BIOS chips. The developers at the flashrom project have to devote part of their time on finding out what protection is present and how this can be disabled.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Some of this information comes from the BIOS itself, and the procedures for some common BIOSes, and the tools involved will be introduced in this talk. Part of the time will be spent on digging through an actual BIOS with a crude tool like ndisasm.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="371">Luc Verhaegen</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

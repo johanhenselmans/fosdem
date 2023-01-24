@@ -1,0 +1,23 @@
+  <event id="174">
+      <start>12:45</start>
+      <duration>00:45</duration>
+      <room>H.1308</room>
+      <slug></slug>
+      <title>Documentation: Lessons for Lizards</title>
+      <subtitle></subtitle>
+      <track>openSUSE</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;A New Open Source Documentation Project: Lessons for Lizards&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Lessons for Lizards (LfL) is a community cookbook-style book project for the openSUSE distribution licensed under the GFDL.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;This talk will introduce the Lessons for Lizards project, show how to participate in this project, and present the tools available.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Lessons for Lizards will ship with upcoming openSUSE releases on an equal footing with internally produced documentation. It covers more specific or exotic topics than the internally produced manuals (such as experimental software or complex setups).&#xA;&lt;/p&gt;&#xA;&lt;p&gt;One aim of the LfL project is to enable the openSUSE community to actively participate in the openSUSE documentation. The other aim is to provide a cookbook for beginners and experts with step-by-step recipes and hands-on guides for topics not covered in the present documentation.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The book should be easy to write. To make this possible, SUSE provides a technical environment (SVN server, wiki), software (tools and scripts) and support (documentation, mailinglist).&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1741">Frank Sundermeyer</person>
+      </persons>
+      <links>
+          <link href="http://files.opensuse.org/opensuse/en/4/41/LfL_FOSDEM2007_presentation.pdf">Slides (PDF)</link>
+          <link href="http://ftp5.gwdg.de/pub/opensuse/FOSDEM/2007/fosdem2007-13_Documentation_Lessons_for_Lizards-1200.ogg">Video (Ogg/Theora)</link>
+          <link href="http://ftp5.gwdg.de/pub/opensuse/FOSDEM/2007/fosdem2007-13_Documentation_Lessons_for_Lizards-320.ogg">Video (Ogg/Theora/Low quality)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

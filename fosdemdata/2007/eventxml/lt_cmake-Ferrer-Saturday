@@ -1,0 +1,21 @@
+  <event id="127">
+      <start>14:20</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>CMake</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;A lightning talk that will quickly introduce the software development process with &#xA;CMake, CTest, Dart and CPack.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;CMake is a cross platform buildsystem for Linux, *BSD, QNX, Windows, OS X and &#xA;others, featuring system introspection, support for Makefiles and project &#xA;files e.g. for KDevelop and Xcode and of course building apps and libs.&#xA;CMake features tight integration with CTest and Dart, which form together a &#xA;powerful and easy-to-use software quality system. Dart is a central server &#xA;which collects the results from Nightly and Continuous builds, including &#xA;regular unit tests and more. &#xA;Newly introduced is CPack, a tool for generating distribution packages for all &#xA;supported platforms.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1271">Alexander Neundorf</person>
+      </persons>
+      <links>
+          <link href="../../slides/lightningtalks/CMake.pdf">Slides (PDF)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

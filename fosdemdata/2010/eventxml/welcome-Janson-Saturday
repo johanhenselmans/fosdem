@@ -1,0 +1,21 @@
+  <event id="284">
+      <start>10:00</start>
+      <duration>00:45</duration>
+      <room>Janson</room>
+      <slug></slug>
+      <title>Welcome</title>
+      <subtitle></subtitle>
+      <track>Keynotes</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;FOSDEM Opening Talk&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;FOSDEM was started under the name OSDEM (Open Source Developers of Europe Meeting) by Raphael Bauduin. Raphael says that, since he felt he lacked the brains to properly contribute to the open source community, he wanted to contribute by launching a European event in Brussels. It was an immediate success, with speakers coming from all over.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The FOSDEM conference is coming to its tenth birthday. We will quickly go over the history and present.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2841">FOSDEM Staff</person>
+      </persons>
+      <links>
+          <link href="http://video.fosdem.org/2010/maintracks/intro.xvid.avi">Video (DIVX)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

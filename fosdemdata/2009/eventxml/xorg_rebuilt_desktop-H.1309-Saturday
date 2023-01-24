@@ -1,0 +1,19 @@
+  <event id="298">
+      <start>15:00</start>
+      <duration>01:00</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>The Rebuilt Linux Desktop</title>
+      <subtitle></subtitle>
+      <track>X.org</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Graphics drivers under Linux have seen the most significant changes since X was first ported in the last year. The X server can now run as an unprivileged process; kernel panic messages can be displayed while graphics are active; graphics applications can use virtual memory to store GPU data.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;In the kernel, these changes include the new Graphics Execution Manager (GEM) and kernel-based video mode setting (KMS). Beyond the kernel, the second version of the Direct Rendering Interface X extension (DRI2) unifies the X and OpenGL image storage space.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;This talk will describe the kernel and user-space changes along with the other kernel changes necessary to support the new code. Finally, the audience will be encouraged to participate in a discussion about future plans in this area.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2981">Keith Packard</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="256">
+      <start>15:30</start>
+      <duration>00:30</duration>
+      <room>UD2.218A</room>
+      <slug></slug>
+      <title>Mozilla in your Language in 2012</title>
+      <subtitle></subtitle>
+      <track>Mozilla Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Mozilla looks forward to grow both in scope of projects, back-end technologies and languages in 2012. Chris and the l10n team are going to give a sneek peak on how they&amp;#39;ll make existing tasks easier and answer new challenges this year.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="2561">Chris Hofmann</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

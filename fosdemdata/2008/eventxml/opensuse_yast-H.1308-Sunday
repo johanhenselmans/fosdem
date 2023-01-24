@@ -1,0 +1,19 @@
+  <event id="218">
+      <start>13:30</start>
+      <duration>00:30</duration>
+      <room>H.1308</room>
+      <slug></slug>
+      <title>What nobody knows about YaST</title>
+      <subtitle></subtitle>
+      <track>openSUSE</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Useful not well-known features, development tricks, debugging tips and roadmap.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description></description>
+      <persons>
+          <person id="2181">Duncan Mac-Vicar Prett</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

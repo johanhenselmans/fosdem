@@ -1,0 +1,19 @@
+  <event id="240">
+      <start>13:30</start>
+      <duration>00:45</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>YaST2 - Future Roadmap</title>
+      <subtitle></subtitle>
+      <track>openSUSE</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;On openSUSE 11.0, YaST came out with new features like a themable look and a robust &amp;amp; fast package manager.&#xA;11.1 came out with more robust solving and various minor features.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;In this talk we will present all the features that have high priority for the next openSUSE release and areas where we are doing research that will eventually be features in future versions.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2401">Duncan Mac-Vicar Prett</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="117">
+      <start>15:00</start>
+      <duration>00:15</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>Multimedia in WebKitGTK+</title>
+      <subtitle></subtitle>
+      <track>GNOME</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk would give an outline of the status of multimedia support in WebKitGTK+ thanks to GStreamer. How it was done until recently, what we improved and what we plan to work on during 2010.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="1171">Philippe Normand</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

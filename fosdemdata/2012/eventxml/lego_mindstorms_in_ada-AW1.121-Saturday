@@ -1,0 +1,19 @@
+  <event id="185">
+      <start>16:00</start>
+      <duration>00:50</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>Programming LEGO MINDSTORMS robots in Ada </title>
+      <subtitle></subtitle>
+      <track>Ada Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This presentation explains and demonstrates how Ada is effectively used to control a Segway-like self-balancing robot.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;LEGO MINDSTORMS are affordable and attractive robotics kits that can be used as teaching material, or as funny and interesting hobby. We have used this kit to design a Segway-like robot, where the control system is written in Ada and built with the GNAT compiler. The concurrency and real-time capabilities of the Ada Ravenscar profile are used to implement the dynamic interaction with the physical environment, respecting very stringent timing constraints.&lt;/p&gt;      </description>
+      <persons>
+          <person id="1851">José F. Ruiz</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="14">
+      <start>11:30</start>
+      <duration>00:45</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>Telepathy</title>
+      <subtitle></subtitle>
+      <track>CrossDesktop</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The &lt;a href=&#34;http://telepathy.freedesktop.org/&#34;&gt;Telepathy project&lt;/a&gt; aims to make real time communications, such as instant messaging and voice/video calls, a better experience for both developers and users. It makes it easy to build protocol-agnostic clients and allows code to be reused between desktops.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;This talk will cover what we in the project have done up to now, and also future directions for Telepathy.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="141">Dafydd Harries</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

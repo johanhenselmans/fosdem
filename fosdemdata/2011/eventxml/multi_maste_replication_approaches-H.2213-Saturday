@@ -1,0 +1,19 @@
+  <event id="217">
+      <start>18:00</start>
+      <duration>00:25</duration>
+      <room>H.2213</room>
+      <slug></slug>
+      <title>Multi-Master Replication Approaches</title>
+      <subtitle></subtitle>
+      <track>MySQL &amp; friends devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Aside from traditional master-slave setup used mostly for HA and read scale-out, there is an established history of attempts at multi-master replication with MySQL. In the presentation, we discuss the use cases for multi-master replication:&lt;/p&gt;&#xA;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;write scaling&lt;/li&gt;&#xA;&lt;li&gt;simplified load balancing&lt;/li&gt;&#xA;&lt;li&gt;latency reduction by moving server closer to clients (a case for WAN multi-master)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&#xA;&lt;p&gt;The presentation will compare how various multi-master replication approaches like MMM, DRDB, NDB and Galera fare with regards to scalability, high-availability and transparency for application. How these solutions detect conflicts and resolve them. And how much application should be involved in resolving or avoiding multi-master conflicts.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Aside from traditional master-slave setup used mostly for HA and read scale-out, there is an established history of attempts at multi-master replication with MySQL. In the presentation, we discuss the use cases for multi-master replication:&lt;/p&gt;&#xA;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;write scaling&lt;/li&gt;&#xA;&lt;li&gt;simplified load balancing&lt;/li&gt;&#xA;&lt;li&gt;latency reduction by moving server closer to clients (a case for WAN multi-master)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&#xA;&lt;p&gt;The presentation will compare how various multi-master replication approaches like MMM, DRDB, NDB and Galera fare with regards to scalability, high-availability and transparency for application. How these solutions detect conflicts and resolve them. And how much application should be involved in resolving or avoiding multi-master conflicts.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2171">Seppo Jaakola</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="4">
+      <start>09:00</start>
+      <duration>00:30</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>Accessible Authoring with LibreOffice</title>
+      <subtitle>helping everyone interact with documents</subtitle>
+      <track>LibreOffice devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Presenting odt2daisy and odt2braille extensions for LibreOffice.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;The odt2daisy and odt2braille extensions for LibreOffice Writer enable authors to export content to formats for specific needs: digital talking books in the DAISY format and Braille, respectively. These formats are aimed at &amp;#34;print-impaired&amp;#34; users, which includes both people with visual impairments and people with certain cognitive limitations (e.g. dyslexia). Both odt2daisy and odt2braille are being developed as part of the AEGIS project and are available on SourceForge.&#xA;LibreOffice Writer also enables authors to make word processing documents accessible, which is an essential requirement before exporting to any other format. The tutorial and demonstrations will introduce attendees to accessible authoring with LibreOffice Writer and to the extensions for creating DAISY books and Braille. Accessible authoring covers topics such as images, document structure, tables, list, language identification and the use of fonts and colours.&lt;/p&gt;      </description>
+      <persons>
+          <person id="41">Christophe Strobbe</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

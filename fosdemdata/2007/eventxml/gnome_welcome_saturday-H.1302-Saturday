@@ -1,0 +1,19 @@
+  <event id="76">
+      <start>14:15</start>
+      <duration>00:15</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>Welcome</title>
+      <subtitle></subtitle>
+      <track>GNOME</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Welcome to the GNOME developer room&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description></description>
+      <persons>
+          <person id="761">Christophe Fergeau</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

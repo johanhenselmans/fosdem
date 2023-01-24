@@ -1,0 +1,21 @@
+  <event id="34">
+      <start>14:00</start>
+      <duration>01:00</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>Linux for embedding network devices</title>
+      <subtitle></subtitle>
+      <track>Embedded</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Overview of design and implementation methodology to embed Linux based network devices.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;The embedded boards are emerging as the next generation of advanced communication computers.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Linux and standard embedded networking hardware allows technology integrators to produce better solutions.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The objective of this presentation is to give an overview of design and implementation methodology to embed Linux based network devices. The steps are illustrated by embedding a network security product (e.g. VPN) on Soekris net4521 and RouterBOARD 230, to create linux-based Embedded Network Device. &#xA;&lt;/p&gt;&#xA;&lt;p&gt;Other topics that will be discussed are our experience while porting device drivers among Linux kernel versions and building toolchains to prepare distribution for target embedded platform. It also throws light on the impact of embedded hardware on the performance of linux-based VPN application.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="341">Bhagyashri Katole</person>
+      </persons>
+      <links>
+          <link href="../../slides/devrooms/embedded/Bhagyashri_Katole_no_show.pdf">Slides (PDF)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

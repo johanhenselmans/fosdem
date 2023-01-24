@@ -1,0 +1,19 @@
+  <event id="161">
+      <start>13:45</start>
+      <duration>00:15</duration>
+      <room>H.1301</room>
+      <slug></slug>
+      <title>KDE Group Photo</title>
+      <subtitle></subtitle>
+      <track>KDE</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Group photo of the KDE and GNOME people.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;There will be a group photo of the KDE people before the actual devroom talks start. Weather permitting, we&amp;#39;ll try to take the picture outside, next to the KDE room. In case of rain, we&amp;#39;ll try to find some other location in the neighbourhood. Be on time near the devroom and follow us to whatever location we&amp;#39;ll use. After the KDE photo, we&amp;#39;ll also take a group photo together with the GNOME people.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1611">Bart Coppens</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

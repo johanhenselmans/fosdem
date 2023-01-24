@@ -1,0 +1,19 @@
+  <event id="0">
+      <start>13:30</start>
+      <duration>00:30</duration>
+      <room>UD2.218A</room>
+      <slug></slug>
+      <title>2012: New perspectives for Mozilla</title>
+      <subtitle></subtitle>
+      <track>Mozilla Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Tons of things are changing around Internet users: the rise of mobile and tablets, appstores, and social networks, the adoption of the cloud. How is users&amp;#39; freedom protected in such an environment? What are Mozilla&amp;#39;s initiatives to help?&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="1">Tristan Nitot</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

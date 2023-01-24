@@ -1,0 +1,19 @@
+  <event id="241">
+      <start>10:45</start>
+      <duration>00:30</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>Zypper - openSUSE&#39;s command line software manager</title>
+      <subtitle></subtitle>
+      <track>openSUSE</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Zypper is a command line software management tool using the ZYpp library. It can be used to manage repositories, search for packages, install them, keep them up to date and more.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;This talk will highlight it&amp;#39;s most interesting features, tips &amp;amp; tricks, and future plans.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2411">Ján Kupec</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

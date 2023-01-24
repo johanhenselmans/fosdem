@@ -1,0 +1,19 @@
+  <event id="240">
+      <start>13:45</start>
+      <duration>00:45</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>New docking windows for a better UI &amp; extension integration</title>
+      <subtitle></subtitle>
+      <track>OpenOffice.org</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The main goal of the framework project is to provide low-level functions (like loading/storing documents, generic UI, OLE, filter management) to the application modules. As the generic OpenOffice.org UI is mainly based on framework code many aspects of the Project Renaissance must be implement there. This presentation wants to provide an overview about our latest plans to provide new and powerful docking window functions.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;The presentation is split up into four different parts:&#xA;&lt;/p&gt;&lt;ol&gt;&lt;li&gt; The current state of docking window design&#xA;&lt;/li&gt;&#xA;&lt;li&gt; The new docking window design&#xA;&lt;/li&gt;&#xA;&lt;li&gt; How can extensions profit from the new design&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Future outlook&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;  </description>
+      <persons>
+          <person id="2401">Carsten Driesner</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

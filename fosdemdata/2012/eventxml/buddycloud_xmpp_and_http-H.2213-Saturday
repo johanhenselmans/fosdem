@@ -1,0 +1,19 @@
+  <event id="28">
+      <start>15:00</start>
+      <duration>00:30</duration>
+      <room>H.2213</room>
+      <slug></slug>
+      <title>Social Networking: buddycloud, XMPP, and HTTP</title>
+      <subtitle></subtitle>
+      <track>Jabber and XMPP Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The buddycloud codebase provides an XMPP-based platform for federated social networking. In this talk, Simon Tennant will introduce buddycloud and explore the intersection of XMPP and HTTP.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="281">Simon Tennant</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

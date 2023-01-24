@@ -1,0 +1,19 @@
+  <event id="3">
+      <start>13:00</start>
+      <duration>00:25</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>Ada in the on-line multi-user game Crimeville</title>
+      <subtitle></subtitle>
+      <track>Ada Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Using Ada to provide business logic, and glue existing applications together.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;The children&amp;#39;s game universe &amp;#34;Crimeville&amp;#34; from the game developers Art of Crime challenges the players to solve detective riddles cooperatively. In the on-line version of the game this means that the players in each session of the game can chat with each other. To help the children write better - and to limit them being naughty - the chat is going through a language server written in Ada.&#xA;The language server uses pre-existing Open Source spell-checking components glued together with application logic written in Ada. The application is a nice example of a small network server and of using parts of the POSIX Ada API (FLORIST).&#xA;The presentation will cover the requirements from Art of Crime in broad terms, describe how this was achieved using publicly available Open Source components, and how using Ada helped convincing the customer that the system actually does its job.&lt;/p&gt;      </description>
+      <persons>
+          <person id="31">Jacob Sparre Andersen</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

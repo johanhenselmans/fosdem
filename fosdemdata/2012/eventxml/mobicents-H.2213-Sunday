@@ -1,0 +1,19 @@
+  <event id="241">
+      <start>10:30</start>
+      <duration>00:40</duration>
+      <room>H.2213</room>
+      <slug></slug>
+      <title>Mobicents TelScale and RestComm</title>
+      <subtitle></subtitle>
+      <track>Telephony and Communications Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;RestComm and TelScale make it possible for application developers to easily connect voice applications to Web 2.0 services and networks.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;The evolution of cloud computing has given birth to new incredibly successful applications. Cloud based voice and media services can create similar opportunities and add tremendous value to existing web applications. Traditionally voice and media services require capabilities that are well beyond the scope of typical IT department, but Telecom engineers are no longer needed to make enticing value-added services. Any web developer can make telecom apps in minutes and integrate them with Web 2.0 and social networks. This session will explore how this can be made possible through the use of RestComm for adding voice and text to current cloud-based applications and services and explain how RestComm is backed by a powerful and autoscalable PaaS based on Mobicents.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2411">Jean Deruelle</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

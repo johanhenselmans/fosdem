@@ -1,0 +1,19 @@
+  <event id="49">
+      <start>14:30</start>
+      <duration>00:45</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>The next desktop is the browser!</title>
+      <subtitle></subtitle>
+      <track>Crossdesktop devroom</track>
+      <type></type>
+      <language></language>
+      <abstract></abstract>
+      <description>&#xA;&lt;p&gt;In this talk we discuss the possibilities offered by browsers these days, including HTML5, WebSockets, NaCL, and give an overview of approaches to target the browser as platform for typical desktop applications. In the last years, several interesting attempts were made to explore possibilities to port GTK or Qt-based software to the browser, targeting either HTML5 as a low-level canvas, or using more building blocks of HTML5. We will discuss the various possibilities and also future developments. We discuss distinct properties of a browser that affect user experience, including hyperlinking, bookmarks and forward/back buttons. We will also discuss performance implications of different approaches, taking into account network latency, rendering efficiency, and where applicable, deployment scalability&lt;/p&gt;      </description>
+      <persons>
+          <person id="491">Koen Deforche</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

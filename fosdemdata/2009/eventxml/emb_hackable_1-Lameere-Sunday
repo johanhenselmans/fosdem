@@ -1,0 +1,19 @@
+  <event id="79">
+      <start>09:00</start>
+      <duration>01:00</duration>
+      <room>Lameere</room>
+      <slug></slug>
+      <title>Development on the Openmoko with hackable:1</title>
+      <subtitle></subtitle>
+      <track>Embedded</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;&lt;a href=&#34;http://www.hackable1.org/&#34;&gt;Hackable:1&lt;/a&gt; is a community distribution for hackable devices like the Openmoko Neo Freerunner. &#xA;It is based on Debian and implements the GNOME Mobile platform.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;This workshop introduces development for the Freerunner using the hackable:1 software distribution.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="791">Pierre Pronchery</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

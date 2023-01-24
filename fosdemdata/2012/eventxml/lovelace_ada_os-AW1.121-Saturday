@@ -1,0 +1,19 @@
+  <event id="213">
+      <start>15:00</start>
+      <duration>00:25</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>Lovelace: towards a full Ada OS</title>
+      <subtitle></subtitle>
+      <track>Ada Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;OS Lovelace: a distributed operating system in Ada, or how to have fun with both Ada and Operating System Development at the same time.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;OS Lovelace already implements the basics of system programming and Ada run-time: interrupts (x86 and ARM), virtual memory management (x86 and ARM), elf module loading (x86 and ARM), context switching (x86), Ada exception in kernel (x86), Ada tasking in kernel (x86), Object Oriented programming in kernel (x86).&#xA;The final proposed architecture for a real OS based on these trial developments will also be presented and so the method to obtain a distributed OS that support Ada Annex E natively.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2131">Xavier Grave</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

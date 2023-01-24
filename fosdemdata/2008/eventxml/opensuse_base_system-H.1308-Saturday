@@ -1,0 +1,19 @@
+  <event id="203">
+      <start>17:45</start>
+      <duration>00:30</duration>
+      <room>H.1308</room>
+      <slug></slug>
+      <title>The openSUSE Base System</title>
+      <subtitle></subtitle>
+      <track>openSUSE</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Stripping openSUSE down to a bare minimal system for bootstrapping, cross-building and fast deployment on small systems.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description></description>
+      <persons>
+          <person id="2031">Richard Guenther</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

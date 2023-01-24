@@ -1,0 +1,22 @@
+  <event id="179">
+      <start>11:00</start>
+      <duration>00:50</duration>
+      <room>Janson</room>
+      <slug></slug>
+      <title>Free Software: A viable model for Commercial Success</title>
+      <subtitle></subtitle>
+      <track>Keynotes</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk will discuss our experience at &lt;a href=&#34;http://www.adacore.com/&#34;&gt;AdaCore&lt;/a&gt;, one of only a handful of 100% Free Software companies. All of our commercial products are licensed under the GPL and other Free Software Licenses.&#xA;People often assume that there is a conflict between the use of such licenses and the needs of a commercial software company. Our experience at AdaCore shows that on the contrary, the Free Software model can be very successful both for us as a company and for our customers.&#xA;We think this model can be used in many other circumstances, and want to encourage free software enthusiasts to consider this model in other circumstances.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="1791">Robert Dewar</person>
+      </persons>
+      <links>
+          <link href="http://www.adacore.com/">AdaCore</link>
+          <link href="http://video.fosdem.org/2012/maintracks/janson/Free_Software__A_Viable_Model_for_Commercial_Success.webm">Video recording</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

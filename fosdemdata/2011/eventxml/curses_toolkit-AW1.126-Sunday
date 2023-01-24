@@ -1,0 +1,19 @@
+  <event id="39">
+      <start>09:40</start>
+      <duration>00:20</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>Curses::Toolkit - modern toolkit for old-school GUIs </title>
+      <subtitle></subtitle>
+      <track>Perl devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Curses - GUI in the Terminal&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;For us hackers, developers, IT geeks, sysadmins, or enlightened citizens, the holy Terminal is the best and only acceptable mean of interaction with the computer.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Curses is powerful but very low-level. Sadly, there are only few CPAN modules to abstract a bit Curses and try to provide a better way of creating curses GUIs.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Enter Curses::Toolkit, the new modern toolkit to write old-school terminal based GUIs ! It&amp;#39;s not 100% complete, but provides a lot of features you&amp;#39;ll find nowhere else, like GTK-like boxing and packing, mouse support, asynchronous animation, and so on. Oh and it&amp;#39;s full of fun, as this talk will be, hopefully.&lt;/p&gt;      </description>
+      <persons>
+          <person id="391">Damien Krotkine</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

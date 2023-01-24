@@ -1,0 +1,28 @@
+  <event id="239">
+      <start>16:00</start>
+      <duration>01:00</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>Contributions presentations (1)</title>
+      <subtitle></subtitle>
+      <track>Research Room</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;ul&gt;&lt;li&gt; Research Ethics for studying Open Source, by Cristopher Oezbek&#xA;&lt;/li&gt;&#xA;&lt;li&gt; What is openness and how to measure it, by Jan Suhr&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Quality and libre software: a theoretical and practical approach, by Andres Estevez, Javier Estevez, Pedro A.Gonzalez, Adrian Lema, Andres Maneiro, Pablo J. Sangiao, Juan Ignacio Varela and Roberto Vieito&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA; </abstract>
+      <description></description>
+      <persons>
+          <person id="2391">Javier Estevez</person>
+          <person id="2392">Andres Estevez</person>
+          <person id="2393">Juan Ignacio Varela</person>
+          <person id="2394">Jan Suhr</person>
+          <person id="2395">Cristopher Oezbek</person>
+          <person id="2396">Pablo J. Sangiao</person>
+          <person id="2397">Andres Maneiro</person>
+          <person id="2398">Adrian Lema</person>
+          <person id="2399">Pedro A. Gonzalez</person>
+          <person id="2400">Roberto Vieito</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

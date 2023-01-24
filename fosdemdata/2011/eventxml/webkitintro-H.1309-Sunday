@@ -1,0 +1,19 @@
+  <event id="316">
+      <start>16:00</start>
+      <duration>00:45</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>Introduction to WebKit</title>
+      <subtitle></subtitle>
+      <track>Crossdesktop devroom</track>
+      <type></type>
+      <language></language>
+      <abstract></abstract>
+      <description>&#xA;&lt;p&gt;WebKit is a web engine developed conjointly by several companies. The objective of the project is to produce the best and the most compatible web engine.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;This talk is intended to introduce WebKit for both content developer, and C++ developers interested in web engine development. The first part introduces how WebKit is used by web applications nowadays. The second part presents how the WebKit project works and how to contribute.&lt;/p&gt;      </description>
+      <persons>
+          <person id="3161">Benjamin Poulain</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

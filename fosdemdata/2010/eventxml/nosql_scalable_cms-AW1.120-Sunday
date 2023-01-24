@@ -1,0 +1,19 @@
+  <event id="234">
+      <start>16:15</start>
+      <duration>00:30</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>Designing a scalable content management system on NoSQL technologies</title>
+      <subtitle></subtitle>
+      <track>NoSQL</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk discusses what it takes to design a scalable and searcheable content management system.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;ul&gt;&lt;li&gt; Which design decisions do we take?&#xA;&lt;/li&gt;&#xA;&lt;li&gt; What NoSQL technologies do we choose and why?&#xA;&lt;/li&gt;&#xA;&lt;li&gt; How do we model a CMS schema on top of them?&#xA;&lt;/li&gt;&#xA;&lt;li&gt; What are the challenges we face to provide CMS and search functionality in a scalable and highly available environment?&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;  </description>
+      <persons>
+          <person id="2341">Evert Arckens</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

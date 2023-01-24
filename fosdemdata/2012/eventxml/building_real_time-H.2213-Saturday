@@ -1,0 +1,19 @@
+  <event id="31">
+      <start>14:00</start>
+      <duration>00:30</duration>
+      <room>H.2213</room>
+      <slug></slug>
+      <title>WebApps: Building Real-time in the Web with XMPP</title>
+      <subtitle></subtitle>
+      <track>Jabber and XMPP Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;In this talk, I will share my experience of building a real-time WebApp using XMPP on server side.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="311">Dodo Griffiths</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

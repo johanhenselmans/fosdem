@@ -1,0 +1,21 @@
+  <event id="346">
+      <start>12:30</start>
+      <duration>00:50</duration>
+      <room>Janson</room>
+      <slug></slug>
+      <title>Re-thinking system and distro development</title>
+      <subtitle></subtitle>
+      <track>Keynotes</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;We believe system (and distribution) development needs to be&#xA;re-thought from the basic concepts upwards. We&amp;#39;ve implemented some&#xA;ideas for streamlining development, reducing development friction,&#xA;speeding up system upgrades and adding support for downgrades and&#xA;rollbacks, and generally making development of entire systems faster&#xA;and more fun.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;At the level of individual, atomic projects, several great tools and&#xA;development methods have been developed over the past decade or so.&#xA;Few of them are applied at the system or distribution level. The Linux&#xA;kernel development, for example, greatly benefits from the ease of&#xA;branching and merging that git provides, but it is not possible to branch&#xA;and merge the whole system, or distribution, consisting of hundreds&#xA;or tens of thousands of individual projects.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;From the agile development worlds, automated testing, test driven&#xA;development, and continuous integration are common-place for individual&#xA;projects, but not so much for complete systems development. Would it not&#xA;be nice to have them?&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Packages have been the darling child of Linux distribution development&#xA;since the early days. They are a natural, modular concept, and have been&#xA;one of the key factors behind the success of the distribution concept.&#xA;Package managers have made it easy to install and remove and upgrade&#xA;each piece of software separately, and to upgrade the whole system by&#xA;upgrading each installed package. However, a modern distribution consists&#xA;of tens of thousands of packages, and the combinatorial explosion of&#xA;dependencies and interaction may be getting out of hand. In this talk&#xA;we explore another way of approaching the packaging problem.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;We believe these and other changes are useful for bridging the current&#xA;gap between upstream development and end users, to speed up system&#xA;and distribution development, and to let system builders bravely&#xA;hack what no-one has hacked before.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="3461">Lars Wirzenius</person>
+      </persons>
+      <links>
+          <link href="http://video.fosdem.org/2012/maintracks/janson/Re_thinking_system_and_distro_development.webm">Video recording</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

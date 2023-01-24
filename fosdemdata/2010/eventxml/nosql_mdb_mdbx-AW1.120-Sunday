@@ -1,0 +1,19 @@
+  <event id="232">
+      <start>14:00</start>
+      <duration>00:45</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>MDB and MDBX: Open Source SimpleDB Projects based on GTM</title>
+      <subtitle></subtitle>
+      <track>NoSQL</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;M/DB is an Open Source emulation of Amazon SimpleDB, whilst M/DBX is an Open Source Native XML Database based around the SimpleDB HTTP-based API model. Both projects have been built on top of the GT.M NoSQL database.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;This talk will briefly summarise the capabilities of these two databases and typical use-cases for which they are designed.  It will also examine why GT.M was chosen as the underlying NoSQL database technology on which they were built.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2321">Rob Tweed</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

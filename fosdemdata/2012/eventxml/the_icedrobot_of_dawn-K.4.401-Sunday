@@ -1,0 +1,20 @@
+  <event id="375">
+      <start>14:30</start>
+      <duration>00:30</duration>
+      <room>K.4.401</room>
+      <slug></slug>
+      <title>The IcedRobot of Dawn, a one year long Free Sofware journey</title>
+      <subtitle></subtitle>
+      <track>Free Java Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;IcedRobot is an attempt to bring the Android API on OpenJDK.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;It was first announced at Fosdem 2011, and after only two months of development and a team assembled during the customary Fosdem Free Java Hackers dinner, it was already able to translate most Android bytecode format to Java.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;This presentation will review the last year of development and will explain future direction and plans for the project.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="3751">Mario Torre</person>
+          <person id="3752">Roman Kennke</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

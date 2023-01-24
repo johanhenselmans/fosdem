@@ -1,0 +1,19 @@
+  <event id="137">
+      <start>12:00</start>
+      <duration>00:35</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>Works with persistent graphs using OrientDB </title>
+      <subtitle></subtitle>
+      <track>Graph Processing Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk will present OrientDB open source project and its capability to handle persistent graphs in different ways.&#xA;OrientDB presentation&#xA;Java Graph Native API&#xA;SQL+graph extensions&#xA;HTTP API&#xA;Blueprints API&#xA;Gremlin usage&#xA;Console tool&#xA;Studio web tool&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="1371">Luca Molino</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

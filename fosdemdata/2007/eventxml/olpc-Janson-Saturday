@@ -1,0 +1,21 @@
+  <event id="166">
+      <start>11:00</start>
+      <duration>00:45</duration>
+      <room>Janson</room>
+      <slug></slug>
+      <title>Keynote: OLPC</title>
+      <subtitle></subtitle>
+      <track>Opening/Closing talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Opening keynote about the &lt;a href=&#34;http://laptop.org/&#34;&gt;One Laptop Per Child&lt;/a&gt; project.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Introducing the children&amp;#39;s laptop from One Laptop per Child—a potent learning tool created expressly for the world&amp;#39;s poorest children living in its most remote environments.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The laptop was designed collaboratively by experts from both academia and industry, bringing to bear both extraordinary talent and many decades of collective field experience in every aspect of this non-profit humanitarian project. The result is a unique harmony of form and function; a flexible, ultra low-cost, power-efficient, responsive, and durable machine with which nations of the emerging world can leapfrog decades of development—immediately transforming the content and quality of their children&amp;#39;s learning.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The mission of this non-profit association is to develop a low-cost laptop—the &amp;#34;$100 Laptop&amp;#34;—a technology that could revolutionize how we educate the world&amp;#39;s children. Our goal is to provide children around the world with new opportunities to explore, experiment, and express themselves.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Why do children in developing nations need laptops? Laptops are both a window and a tool: a window into the world and a tool with which to think. They are a wonderful way for all children to learn learning through independent interaction and exploration.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1661">Jim Gettys</person>
+      </persons>
+      <links>
+          <link href="http://video.fosdem.org/2007/FOSDEM2007-OLPC.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

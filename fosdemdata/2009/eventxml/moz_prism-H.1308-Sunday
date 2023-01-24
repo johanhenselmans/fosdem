@@ -1,0 +1,19 @@
+  <event id="195">
+      <start>14:00</start>
+      <duration>00:45</duration>
+      <room>H.1308</room>
+      <slug></slug>
+      <title>Prism</title>
+      <subtitle></subtitle>
+      <track>Mozilla</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;As Prism approaches its 1.0 release, we will discuss the current state of the project and future plans.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;We will look at a demo of how web applications can deploy desktop integration features using Prism, including tray icons, dock/tray menus, protocol handlers, sound and bubble notifications.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Future plans that will be covered include Greasemonkey support, icon/user script repository, user interface improvements and tighter integration with Firefox.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1951">Matthew Gertner</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

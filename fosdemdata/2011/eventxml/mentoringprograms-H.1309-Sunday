@@ -1,0 +1,19 @@
+  <event id="192">
+      <start>15:15</start>
+      <duration>00:45</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>Let me teach you how to fish!</title>
+      <subtitle></subtitle>
+      <track>Crossdesktop devroom</track>
+      <type></type>
+      <language></language>
+      <abstract></abstract>
+      <description>&#xA;&lt;p&gt;Mentoring new contributors is an essential part of growing a community around a Free Software project. This talk offers a look at three successful mentoring programs: Google Summer of Code, Season of KDEand Google Code-in. These three programs are extremely successful both in terms of code, artwork, etc produced as well as contributors gained through them. They are running in their 6th, 4th and 1st year respectively now and help students make their first real contributions to Free Software in a structured way and with a mentor to guide them by their side.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;What lessons have been learned? Why are the programs so incredibly successful? What does it take to run your own? This session will answer all those questions and let you take a look behind the scenes.&lt;/p&gt;      </description>
+      <persons>
+          <person id="1921">Lydia Pintscher</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

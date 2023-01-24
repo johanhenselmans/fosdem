@@ -1,0 +1,25 @@
+  <event id="183">
+      <start>11:15</start>
+      <duration>00:45</duration>
+      <room>H.1308</room>
+      <slug></slug>
+      <title>ThinkFinger</title>
+      <subtitle></subtitle>
+      <track>openSUSE</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;ThinkFinger - Don&amp;#39;t bother if you lose your password, but please keep your finger safe.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Introduction on ThinkFinger, a driver for the UPEK/STM fingerprint reader. The device is being found either as a standalone USB device, built into USB keyboards or built into laptops (Dell, IBM/Lenovo, Toshiba).&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;ThinkFinger is a driver for the UPEK/SGS Thomson Microelectronics fingerprint reader (USB ID 0483:2016).&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The device is being found either as a standalone USB device, built into USB keyboards or built into laptops.&#xA;The following laptop vendors are using the device:&#xA;&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Dell&#xA;&lt;/li&gt;&#xA;&lt;li&gt; IBM/Lenovo&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Toshiba&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;Toshiba is shipping their laptops either with the UPEK/SGS Thomson Microelectronics fingerprint reader or with a fingerprint reader built by AuthenTec. The AuthenTec fingerprint reader is *not* supported by ThinkFinger.&#xA;SONY laptops with the UPEK/SGS Thomson Microelectronics fingerprint reader are not supported.&#xA;&#xA;ThinkFinger is devided into two parts: libthinkfinger and pam_thinkfinger. libthinkfinger is a library to be used in order to communicate with the fingerprint reader.&#xA;&#xA;The talk will give insights about the low-level engineering (usbmon), the library as well as the PAM module.&#xA;&#xA; </description>
+      <persons>
+          <person id="1831">Pavel Machek</person>
+          <person id="1832">Timo Hoenig</person>
+      </persons>
+      <links>
+          <link href="http://files.opensuse.org/opensuse/en/c/cd/ThinkFinger-Talk-FOSDEM_2007.pdf">Slides (PDF)</link>
+          <link href="http://atrey.karlin.mff.cuni.cz/~pavel/swsusp/thinkfinger.odp">Slides (OOo)</link>
+          <link href="http://ftp5.gwdg.de/pub/opensuse/FOSDEM/2007/fosdem2007-11_ThinkFinger-1200.ogg">Video (Ogg/Theora)</link>
+          <link href="http://ftp5.gwdg.de/pub/opensuse/FOSDEM/2007/fosdem2007-11_ThinkFinger-320.ogg">Video (Ogg/Theora/Low quality)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

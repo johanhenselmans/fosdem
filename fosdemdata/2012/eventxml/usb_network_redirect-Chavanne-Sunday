@@ -1,0 +1,19 @@
+  <event id="394">
+      <start>09:30</start>
+      <duration>00:25</duration>
+      <room>Chavanne</room>
+      <slug></slug>
+      <title>USB redirection over the network</title>
+      <subtitle></subtitle>
+      <track>Virtualization and Cloud Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;USB redirection is using USB devices attached to a real machine inside a virtual machine (guest).&#xA;The focus of the talk will be the special case where the USB device being redirected is not attached&#xA;to the physical machine hosting the virtual machine, but to some other machine. The talk will present&#xA;and discuss the ongoing work to create an FOSS solution for this, getting this merged into upstream&#xA;qemu, as well is integrating this into Spice and the Spice-client.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;The intended audience are people who are interested in usb in virtual machines (vusb) both&#xA;developers and users. The audience is expected to be familiar with generic virtualization concepts,&#xA;but no deep technical knowledge is required.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;The purposes of this talk are:&#xA;* To inform people about the new USB redirection support in qemu and Spice&#xA;* Get feedback for future versions&#xA;* Hopefully get people to use Spice and maybe even become contributors&lt;/p&gt;&#xA;&#xA;&lt;p&gt;I gave the same talk last year, but quite a few things have changed:&#xA;* USB-2.0 support&#xA;* Integrated into Spice&lt;/p&gt;      </description>
+      <persons>
+          <person id="3941">Hans de Goede</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

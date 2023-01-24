@@ -1,0 +1,19 @@
+  <event id="19">
+      <start>12:00</start>
+      <duration>01:00</duration>
+      <room>AW1.124</room>
+      <slug></slug>
+      <title>Ast2Cfg - A Framework for CFG-Based Analysis and Visualisation of Ada Programs</title>
+      <subtitle></subtitle>
+      <track>Ada</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The control flow graph is the basis for many code optimisation and analysis techniques. &lt;a href=&#34;http://cfg.w3x.org/ast2cfg/ast2cfg.html&#34;&gt;Ast2Cfg&lt;/a&gt; is a Free Software framework for the construction of powerful CFG-based representations of arbitrary Ada programs.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;The generated data holds extensive information about the original Ada source, such as visibility, package structure and type definitions and provides means for complete interprocedural analysis.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Ast2Cfg was developed exclusively with Free Software like GNAT, the GNU Ada Compiler, and ASIS-for-GNAT.  This presentation gives an overview on how to use the Ast2Cfg framework, and includes basics on the used data structures, an introduction to the architecture and a thorough coverage of the programming interface with numerous examples.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="191">Georg Kienesberger</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,20 @@
+  <event id="26">
+      <start>15:00</start>
+      <duration>00:45</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>Configuration management for developers </title>
+      <subtitle>with puppet and some application specific scripting</subtitle>
+      <track>Configuration &amp; Systems Management devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;We created a server environment so a small startup could deploy its web application with all the services it needs. Well, environment is a big word... bootstrapped startups don&amp;#39;t have money to manage redundant servers, so we set up just one production server. Still, when disaster strikes, we want to be able to have another server up and running within thirty minutes.&#xA;For developers laziness is a virtue. Therefore we want to apply DRY (don&amp;#39;t repeat yourself) to systems administration. So for this project we considered each time we log in to the production server a &amp;#39;systems administration smell&amp;#39;. Attend our case study to see how we used a configuration managent system (puppet), application specific scripts and a few practices to keep us sane. See how far we have gotten towards our goal of DRYness and fast recovery, and learn from our mistakes.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="261">Stephan Eggermont</person>
+          <person id="262">Willem van den Ende</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

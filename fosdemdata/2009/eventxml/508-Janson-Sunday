@@ -1,0 +1,19 @@
+  <event id="14">
+      <start>16:00</start>
+      <duration>01:00</duration>
+      <room>Janson</room>
+      <slug></slug>
+      <title>Help my system is slow...</title>
+      <subtitle></subtitle>
+      <track>Kernel</track>
+      <type></type>
+      <language></language>
+      <abstract></abstract>
+      <description>&#xA;&lt;p&gt;An understanding of the nature of your system workload is an important &#xA;step in optimizing it for maximum performance on your hardware.  I will &#xA;discuss some useful tools and techniques for evaluating the workload of &#xA;your FreeBSD system, and identifying the bottlenecks that are limiting &#xA;performance.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="141">Kris Kennaway</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

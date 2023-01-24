@@ -1,0 +1,19 @@
+  <event id="102">
+      <start>13:00</start>
+      <duration>00:30</duration>
+      <room>Lameere</room>
+      <slug></slug>
+      <title>Rich Mobile UI Designs: do&#39;s and don&#39;t</title>
+      <subtitle></subtitle>
+      <track>Embedded</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This presentation will give an overview of the available technologies/platforms with focus on the open source technologies and their adoption.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Also highlighting the open source projects supporting development for these platforms (with a focus on support for multiple platform development.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1021">Stijn Beauprez</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="16">
+      <start>09:00</start>
+      <duration>00:15</duration>
+      <room>AW1.105</room>
+      <slug></slug>
+      <title>Welcome to the Alt-OS devroom</title>
+      <subtitle></subtitle>
+      <track>Alt-OS</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Welcome to the Alt-OS developer room at FOSDEM 2010.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="161">François Revol</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

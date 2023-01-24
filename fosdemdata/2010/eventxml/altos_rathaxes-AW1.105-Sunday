@@ -1,0 +1,19 @@
+  <event id="13">
+      <start>14:30</start>
+      <duration>00:30</duration>
+      <room>AW1.105</room>
+      <slug></slug>
+      <title>Generating Driver Source Code with Rathaxes</title>
+      <subtitle></subtitle>
+      <track>Alt-OS</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;tba&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="131">François Revol</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

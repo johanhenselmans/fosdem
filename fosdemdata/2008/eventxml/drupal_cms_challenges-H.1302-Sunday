@@ -1,0 +1,20 @@
+  <event id="104">
+      <start>15:30</start>
+      <duration>01:00</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>Challenges for the CMS of Tomorrow and its Developers</title>
+      <subtitle></subtitle>
+      <track>Drupal</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Social Networking Systems in the Professional Arena and Digital Business Ecosystems:The Challenges for the CMS of Tomorrow and its Developers.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;One cannot fail to spot the rising success of social networking systems, such as Facebook and Myspace. Millions of users worldwide use these applications to identify themselves on the web, connect and interact with others around them.&#xA;Therefore it is understandable that businesses, organizations and governments alike are increasingly interested in similar applications in order to support their operations.&#xA;However, quite a number of challenges remain as the requirements of these organizations are quite different from youngsters interacting with each other.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;In this talk we identify what our own and other research has shown to be a number of major issues remaining which remain to be addressed before social networking systems can come closer to live up to their true potential in this area.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Why should people within or between companies connect, interact and share knowledge and ideas after all ? Are current systems ready to handle sensitive corporate information ? These are just two of many questions.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1041">Wouter Van den Bosch</person>
+          <person id="1042">Tanguy Coenen</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

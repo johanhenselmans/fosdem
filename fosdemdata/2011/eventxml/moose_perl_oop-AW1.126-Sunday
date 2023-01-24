@@ -1,0 +1,19 @@
+  <event id="209">
+      <start>12:10</start>
+      <duration>00:40</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>Moose - A Postmodern Object System for Perl 5</title>
+      <subtitle></subtitle>
+      <track>Perl devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Moose, the post-modern kick-ass object system for Perl 5&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;If you haven&amp;#39;t tried playing with the Moose by now, you should start!&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Moose is a feature-rich completely-kickass object system for Perl 5 that provides the&#xA;best object framework one might ever need.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;We&amp;#39;ll start by drooling over all the things Moose provides that Perl 5 - and most other&#xA;languages - do not provide.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;A sense of accomplishment is guaranteed!&lt;/p&gt;      </description>
+      <persons>
+          <person id="2091">SawyerX</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,20 @@
+  <event id="107">
+      <start>10:30</start>
+      <duration>01:00</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>Drupal Theming</title>
+      <subtitle></subtitle>
+      <track>Drupal</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Getting started with Theming + advanced theming concepts and tricks.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;ul&gt;&lt;li&gt; Introduction in Drupal theming:&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt; * What can it do for you?&#xA; * How and when do you use it?&#xA;&#xA;&lt;ul&gt;&lt;li&gt; Introducing the differences between Drupal 5 theming and 6.&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Hands-on example of a theme override.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA; </description>
+      <persons>
+          <person id="1071">Morten Heide</person>
+          <person id="1072">Bèr Kessel</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

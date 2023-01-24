@@ -1,0 +1,17 @@
+  <event id="130">
+      <start>11:00</start>
+      <duration>00:15</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>GNUstep Developer&#39;s Meeting</title>
+      <subtitle>Meet the GNUstep developers face to face</subtitle>
+      <track>GNUstep Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Meet the GNUstep developers face to face, discuss current afairs of GNUstep, share news about the latest development and plans on GNUstep, improve collaboration between the several GNUstep related projects&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons></persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

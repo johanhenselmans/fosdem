@@ -1,0 +1,19 @@
+  <event id="219">
+      <start>13:45</start>
+      <duration>00:30</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>10x performance improvements - A case study</title>
+      <subtitle></subtitle>
+      <track>MySQL</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Taking a client from a 700ms (at times 1-2 seconds) page load time to a consistent 60ms is a great success story for improvement in database performance. In this presentation we will outline the steps taken and what can be applied to any website as one model to use in evaluation of your website.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;While part of a longer talk, we will be reviewing the highlights including:&#xA;&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Identify what is truly slow and high volume queries&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Choosing the right indexes including unique indexes, concatenated and partical indexes&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Choosing the right storage engines (MyISAM, InnoDB and Memory)&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Removing load including synchronous/real-time queries, master load, locking and sharding&#xA;&lt;/li&gt;&#xA;&lt;li&gt; The best performance improvement for a SQL statement is to eliminate it&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Quantifying improvements made &#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;The 10 Points are:&#xA;&lt;ol&gt;&lt;li&gt; Monitor, Monitor, Monitor&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Identify problem SQL&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Analyze problem SQL&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Indexes&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Offloading master load&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Improving SQL&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Storage engines&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Caching&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Sharding&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Handling database maintenance &#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;Bonus: Front end improvements&#xA;&#xA;  </description>
+      <persons>
+          <person id="2191">Ronald Bradford</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

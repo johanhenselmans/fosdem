@@ -1,0 +1,19 @@
+  <event id="82">
+      <start>14:00</start>
+      <duration>01:00</duration>
+      <room>Lameere</room>
+      <slug></slug>
+      <title>Advanced powermanagement for OMAP3</title>
+      <subtitle></subtitle>
+      <track>Embedded</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;As ASIC technology progresses to smaller technology nodes (63nm and and lower), leakage currents become increasingly important. This means that just stopping clocks isn&amp;#39;t enough to save enough power to obtain the desired device use times. &#xA;We need to shut off inactive parts of the ASIC depending on the actual usage. Eg. turn off the camera functionality or the GPU when not in use. We call this dynamic power switching (DPS).&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;This talk will show how TI, Nokia and the community implemented DPS in the linux kernel. We will also discuss other power saving features of OMAP3 and how they are used in the linux kernel.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="821">Peter De Schrijver</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

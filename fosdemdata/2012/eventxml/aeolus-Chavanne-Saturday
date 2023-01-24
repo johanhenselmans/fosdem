@@ -1,0 +1,19 @@
+  <event id="7">
+      <start>14:00</start>
+      <duration>00:25</duration>
+      <room>Chavanne</room>
+      <slug></slug>
+      <title>The Aeolus Project</title>
+      <subtitle></subtitle>
+      <track>Virtualization and Cloud Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Aeolus Project is a Red Hat sponsored project released under Apache License. It&amp;#39;s purpose is to help people to have their own solution to manage and create cloud system hybrid and then run their instances on their own in-house infrastructure (VMware vSphere, RHEV, IBM&amp;#39;s Smart Business Cloud, Eucalyptus) and also copy/run/manage their instances in multiple public cloud places (Amazon EC2, Rackspace, GOGrid,etc)&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Aeolus does all of the image conversion/transfer/etc automatically, handling everything properly. Aeolus is a single, consistent set of tools to build and manage organized groups of virtual machines across clouds.&lt;/p&gt;      </description>
+      <persons>
+          <person id="71">Francesco Vollero</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

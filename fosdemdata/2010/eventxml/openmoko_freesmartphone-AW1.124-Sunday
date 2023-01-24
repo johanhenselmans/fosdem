@@ -1,0 +1,19 @@
+  <event id="247">
+      <start>10:15</start>
+      <duration>00:45</duration>
+      <room>AW1.124</room>
+      <slug></slug>
+      <title>Freesmartphone.org: DBus-Middleware for mobile devices</title>
+      <subtitle></subtitle>
+      <track>Openmoko</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This presentation gives a look about the freesmartphone.org mobile device middleware, its services, its target platforms, and how it can be used easily on the command line.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="2471">Michael Lauer</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

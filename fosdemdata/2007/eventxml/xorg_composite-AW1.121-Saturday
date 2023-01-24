@@ -1,0 +1,19 @@
+  <event id="211">
+      <start>18:00</start>
+      <duration>01:00</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>Let&#39;s finish COMPOSITE</title>
+      <subtitle></subtitle>
+      <track>X.org</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Brainstorming/hacking session where we try to get an overview of what we need to do to finish COMPOSITE.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;E.g. how to implement redirected Xv and OpenGL, how to hook up damage for AIGLX, what about input redirection, etc.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="2111">Kristian Høgsberg</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

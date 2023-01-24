@@ -1,0 +1,19 @@
+  <event id="88">
+      <start>15:30</start>
+      <duration>00:25</duration>
+      <room>Chavanne</room>
+      <slug></slug>
+      <title>DMTF CIMI and Apache Deltacloud</title>
+      <subtitle></subtitle>
+      <track>Virtualization and Cloud Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The DMTF CIMI specification describes the model and protocol for management interactions between a cloud Infrastructure as a Service (IaaS) provider and the consumers of an IaaS service. The basic entities of IaaS (machines, storage, and networks) are modeled with the goal of providing consumer management access to an implementation of IaaS and facilitating portability between cloud implementations that support the specification. This talk will introduce the current work-in-progress CIMI specification and the initial implementation of that spec. as part of the Apache Deltacloud project.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Deltacloud exposes the CIMI API to HTTP clients and then facilitates management of IaaS resources across a number of heterogeneous cloud providers, even when those providers are non-conformant with respect to the CIMI specification.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;The DMTF Cloud Management Working Group is a collaboration between a number of prominent participants, including Red Hat, VMware Inc., Oracle, IBM, Microsoft Corporation, Huawei, Fujitsu, Dell, Telefonica, Telecom Italia, France Telecom Group and others.&lt;/p&gt;      </description>
+      <persons>
+          <person id="881">Marios Andreou</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

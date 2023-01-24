@@ -1,0 +1,19 @@
+  <event id="120">
+      <start>14:00</start>
+      <duration>01:00</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>Design a Linux robot companion with 8 bits microcontrollers</title>
+      <subtitle></subtitle>
+      <track>Embedded</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Ever got tempted to program those small 8 bits microcontrollers but were afraid at the first glance of a schematic?&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;David will be talking about his experience in designing and programming 8 bits embedded platforms with Open Source tools. He will attempt to demystify the electronic side of embedded projects by adopting a software developer approach. The Tux Droid Open Source robot will be used as an example.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;A broad look at embedded design will be presented, from hardware design and realization to embedded programming and computer interfaces.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;A more detailed walk-through will cover how to choose a microcontroller, peripherals, interfaces with various hardware blocks, major communication  &#xA;bus, development toolchain, JTAG or other in-circuit debugging techniques and interfacing your MCU with a computer.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;David will finish with an overview of some end-user applications developed for the robot. These are good examples of how you could expand the power of small microcontrollers with the technology available from your computer.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1201">David Bourgeois</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

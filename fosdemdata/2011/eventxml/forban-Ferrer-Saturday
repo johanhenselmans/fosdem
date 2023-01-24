@@ -1,0 +1,19 @@
+  <event id="108">
+      <start>16:40</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Forban: a simple link-local opportunistic p2p free software</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;An introduction to the Forban free software and its epidemic protocol in less than 14 minutes. 1 minute about the &amp;#34;abuse&amp;#34; of p2p epidemic protocols for fun and freedom.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Forban is a kind of p2p (peer2peer) filesharing application for link-local and local area network written in Python. Forban works independently from Internet and use only the local area capabilities to announce, discover, search or share files. Forban relies on HTTP and he is opportunistic (meaning replicating any files seen in his proximity or interest). The name took his origins from the old French word (a forban is a kind of pirate). &amp;#34;Forban&amp;#34; can be also a play word in English at a time where government or corporate want to ban access to the Internet.&lt;/p&gt;      </description>
+      <persons>
+          <person id="1081">Alexandre Dulaunoy</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

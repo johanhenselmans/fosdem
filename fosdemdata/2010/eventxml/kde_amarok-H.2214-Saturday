@@ -1,0 +1,19 @@
+  <event id="162">
+      <start>17:30</start>
+      <duration>00:45</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>Amarok 2.2 Rocking</title>
+      <subtitle></subtitle>
+      <track>KDE</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Amarok rediscovers your music. It sorts and searchs through your collections, music devices and internet music services.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Sven will take us through the latest features in this rocking application.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1621">Sven Krohlas</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

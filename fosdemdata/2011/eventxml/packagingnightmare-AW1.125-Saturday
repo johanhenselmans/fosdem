@@ -1,0 +1,19 @@
+  <event id="244">
+      <start>15:20</start>
+      <duration>00:20</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>The Java Packaging Nightmare</title>
+      <subtitle></subtitle>
+      <track>Free Java devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The talk shows the problems of packaging Java code in a way that the result conforms to minimal packaging standards.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Sometimes code does not get build completely from source, sometimes non-free software gets used and sometimes the license terms are not correct. Ways to improve that situation will be shown on the example of Maven.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;The number of source packages maintained by the Debian Java packaging team has increased a lot during the last few years to about 500 but important packages like the popular JBoss application server are still missing. Compared to Java the Perl group is maintaining about 1600 source packages. This talk won&amp;#39;t cover JDKs like OpenJDK and it won&amp;#39;t criticize the Java programming language.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2441">Torsten Werner</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="158">
+      <start>15:45</start>
+      <duration>00:15</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>Recruiting people to FOSS Java projects</title>
+      <subtitle></subtitle>
+      <track>Free Java</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The talk will focus on experiences gathered during my time as the Gentoo Recruiters lead.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;The aim is to share how we at the Gentoo Java project have succeeded or not in getting new people involved.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1581">Petteri Räty</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

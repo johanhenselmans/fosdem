@@ -1,0 +1,19 @@
+  <event id="131">
+      <start>10:30</start>
+      <duration>00:45</duration>
+      <room>AW1.117</room>
+      <slug></slug>
+      <title>Towards GNUstep GUI 1.0: what we need to get there and how to achieve this within the next year</title>
+      <subtitle></subtitle>
+      <track>GNUstep</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The GNUstep project has existed for 15 years now, still there was no 1.0 release of the graphical framework. This may change within the current year.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;This discussion will focus on the outstanding tasks for a 1.0 release of GNUstep gui and how they can be achieved.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1311">Fred Kiefer</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

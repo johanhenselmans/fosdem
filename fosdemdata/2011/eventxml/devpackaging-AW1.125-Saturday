@@ -1,0 +1,19 @@
+  <event id="51">
+      <start>15:40</start>
+      <duration>00:20</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>Guide to Packaging for Developers</title>
+      <subtitle>Get Someone to Package Your (Java) Application</subtitle>
+      <track>Free Java devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Application developers should try to reach as many users as possible, yet it seems there is a shortage of Java applications packaged in Linux distributions.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;This is partially due to Java ecosystem and what is common in Java world.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Different Linux distributions have different packaging guidelines, but they all require certain prerequisites from packages. These mostly include: source releases, no bundled libraries and few other things. Talk will cover two most widely used Java build tools: Ant and Maven and how to set them up so that your application will be easier to package. Developers wishing to improve their chances of getting their application into distributions are the target audience.&lt;/p&gt;      </description>
+      <persons>
+          <person id="511">Stanislav Ochotnicky</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

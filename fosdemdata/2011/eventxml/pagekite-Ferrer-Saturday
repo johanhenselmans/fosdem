@@ -1,0 +1,19 @@
+  <event id="245">
+      <start>16:00</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>PageKite: Making The Web 1000x Bigger</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk briefly discusses the motivation behind the PageKite project, introduces the software itself and touches on some of the possible use cases for it.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;PageKite makes it very easy to run a publicly accessible Web server on any device, including mobile devices such as laptops or Android phones. Instead of relying on traditional dynamic DNS and manual port forwarding, Pagekite creates a zero configuration tunnel between your Web server and a remote front-end. Only the front-end has to have a route-able IP address; the server itself can reside on a heavily firewalled computer, a mobile device, or even an anonymous node on the Tor network.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2451">Bjarni Runar Einarsson</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

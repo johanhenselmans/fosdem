@@ -1,0 +1,19 @@
+  <event id="150">
+      <start>13:45</start>
+      <duration>00:30</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>Project Jigsaw</title>
+      <subtitle></subtitle>
+      <track>Free Java</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;One of the most significant changes in JDK 7 will be to modularize the code base, to modularize the platform, and to enable the modularization of applications, all via &lt;a href=&#34;http://blogs.sun.com/mr/entry/jigsaw&#34;&gt;Project Jigsaw&lt;/a&gt;.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Mark will discuss how the introduction of language-level modules, in concert with corresponding updates to the tool chain and the runtime environment, should to allow applications and libraries written in Java to be distributed as sensible and familiar &lt;a href=&#34;http://blogs.sun.com/mr/entry/packaging_java_code&#34;&gt;distro-specific packages&lt;/a&gt;.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1501">Mark Reinhold</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

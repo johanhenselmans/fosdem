@@ -1,0 +1,19 @@
+  <event id="117">
+      <start>15:00</start>
+      <duration>00:45</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>The Sugar platform</title>
+      <subtitle></subtitle>
+      <track>GNOME</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This session will consist of a presentation of the &lt;a href=&#34;http://sugarlabs.org/go/Supported_systems&#34;&gt;Sugar platform&lt;/a&gt;, the &lt;a href=&#34;http://sugarlabs.org/&#34;&gt;SugarLabs organization&lt;/a&gt;, its relationship with GNOME Mobile and points that might interest mainstream GNOME development.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="1171">Tomeu Vizoso</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

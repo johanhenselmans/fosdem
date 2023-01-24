@@ -1,0 +1,19 @@
+  <event id="276">
+      <start>10:30</start>
+      <duration>01:00</duration>
+      <room>H.1301</room>
+      <slug></slug>
+      <title>OBS Cross Build</title>
+      <subtitle></subtitle>
+      <track>CrossDistribution Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;How to build a distribution on foreign hardware without to add support cross compile support in each package.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="2761">Adrian Schröter</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

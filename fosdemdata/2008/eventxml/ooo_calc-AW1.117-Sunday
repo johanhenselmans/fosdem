@@ -1,0 +1,19 @@
+  <event id="193">
+      <start>11:00</start>
+      <duration>01:30</duration>
+      <room>AW1.117</room>
+      <slug></slug>
+      <title>OOoCalc Formula Compiler and Expression Interpreter Workshop</title>
+      <subtitle></subtitle>
+      <track>OpenOffice.org</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The workshop will give an overview and some in-depth knowledge of how the spreadsheet formula parser/compiler and interpreter work, the concept behind it, the files and classes they use and how those interact with each other.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Focus will be on the changes that they are currently undergoing, why they are needed, what is missing and how developers could help to implement new spreadsheet functions or rework already existing functions. This on the background of the work of the OASIS OpenDocument Format Formula (ODFF aka OpenFormula) subcommittee (members being implementors of OOoCalc, Gnumeric, KSpread and others) that drafted a specification of functions and operators used in spreadsheet formulas.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1931">Eike Rathke</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

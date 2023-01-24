@@ -1,0 +1,20 @@
+  <event id="200">
+      <start>15:30</start>
+      <duration>01:00</duration>
+      <room>H.1301</room>
+      <slug></slug>
+      <title>HTML 5</title>
+      <subtitle></subtitle>
+      <track>Mozilla</track>
+      <type></type>
+      <language></language>
+      <abstract></abstract>
+      <description></description>
+      <persons>
+          <person id="2001">Paul Rouget</person>
+          <person id="2002">Christopher Blizzard</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

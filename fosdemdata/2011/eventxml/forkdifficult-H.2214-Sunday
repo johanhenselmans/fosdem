@@ -1,0 +1,20 @@
+  <event id="110">
+      <start>16:30</start>
+      <duration>00:30</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>the difficulty of forking</title>
+      <subtitle>how to prepare for it</subtitle>
+      <track>LibreOffice devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The difficulty of forking, and why you should not do it, yet prepare for it&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Forking a project is never an easy task both on social and technical level. Mageia, like Libreoffice, is a big project born from a fork, and faced several issues regarding community and infrastructure. The lessons learned from forking can be generalized to any software project. The talk will explain the difficulty of forking a big project (namely a linux distribution), the hurdles and problems that the project will face, and how you can fix them, and plan to prevent them if the need to fork appear again in the future.&lt;/p&gt;      </description>
+      <persons>
+          <person id="1101">Anne Nicolas</person>
+          <person id="1102">Michael Scherer</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

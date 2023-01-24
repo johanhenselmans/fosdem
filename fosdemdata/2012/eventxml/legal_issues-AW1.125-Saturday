@@ -1,0 +1,24 @@
+  <event id="184">
+      <start>11:00</start>
+      <duration>00:05</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>Welcome to the Legal Issues DevRoom</title>
+      <subtitle></subtitle>
+      <track>Legal Issues Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Brief Welcome to the new Legal Issues DevRoom&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="1841">Tom Marble</person>
+          <person id="1842">Bradley M. Kuhn</person>
+          <person id="1843">Karen Sandler</person>
+          <person id="1844">Richard Fontana</person>
+      </persons>
+      <links>
+          <link href="http://info9.net/wiki/fosdem/LegalIssuesDevRoom/">Legal Issues DevRoom Wiki</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,21 @@
+  <event id="15">
+      <start>15:00</start>
+      <duration>01:00</duration>
+      <room>H.1301</room>
+      <slug></slug>
+      <title>ARM BoF</title>
+      <subtitle></subtitle>
+      <track>CrossDistribution Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;More and more distributions are porting their software to run on ARM CPUs. This is a session for people working on or otherwise interested in those ports to share progress reports, problems and ideas.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Steve will start the discussion with the current status of the two ARM ports in Debian (&amp;#34;armel&amp;#34; and &amp;#34;armhf&amp;#34;), but is not planning on spending the whole session on that!&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="151">Steve McIntyre</person>
+      </persons>
+      <links>
+          <link href="http://video.fosdem.org/2012/crossdistro/ARM_BoF.webm">Video recording</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

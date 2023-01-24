@@ -1,0 +1,19 @@
+  <event id="171">
+      <start>15:00</start>
+      <duration>00:45</duration>
+      <room>H.1301</room>
+      <slug></slug>
+      <title>KOffice 2.0: KOffice coming to KDE4</title>
+      <subtitle></subtitle>
+      <track>KDE</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;KOffice is in the final stages of creating it&amp;#39;s 2.0 version, which is based on Qt4 and KDE4 technologies. These new technologies have opened many doors, such as being able to run KOffice on more diverse systems than was possible before, such as OS X, and the N810.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Marijn will show some of the new features KOffice has acquired, and how all the components in KOffice interact.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1711">Marijn Kruisselbrink</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

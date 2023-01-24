@@ -1,0 +1,22 @@
+  <event id="365">
+      <start>15:45</start>
+      <duration>00:45</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>Succeeding in the Google Summer of Code as a large project</title>
+      <subtitle></subtitle>
+      <track>CrossDistribution Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The Google Summer of Code (GSoC) has been a huge boon to the world of free and open-source software, and to Gentoo Linux in particular. In this talk, I&amp;#39;m going to share some of our successes, like how we manage 15–20 simultaneous internships and how we recruit a very large proportion of our students to continue as Gentoo developers.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="3651">Donnie Berkholz</person>
+      </persons>
+      <links>
+          <link href="https://code.google.com/soc/">Google Summer of Code</link>
+          <link href="http://video.fosdem.org/2012/crossdistro/Succeeding_in_the_Google_Summer_of_Code_as_a_large_project.webm">Video recording</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

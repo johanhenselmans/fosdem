@@ -1,0 +1,19 @@
+  <event id="283">
+      <start>16:00</start>
+      <duration>00:45</duration>
+      <room>H.1301</room>
+      <slug></slug>
+      <title>at-spi2</title>
+      <subtitle></subtitle>
+      <track>CrossDesktop</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The Project is converting the AT-SPI accessibility protocol to D-Bus and has the lofty goals of providing cross desktop accessibility for GNOME and KDE.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="2831">Mark Doffman</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,20 @@
+  <event id="65">
+      <start>13:00</start>
+      <duration>01:00</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>Outside broadcast on a budget - the DebConf video team and DVswitch</title>
+      <subtitle></subtitle>
+      <track>Debian</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;We discuss the provisions of video coverage of &lt;a href=&#34;http://www.debconf.org/&#34;&gt;DebConf&lt;/a&gt; and Debian mini-conferences, starting in 2005. In particular, we describe the development of supporting software from simple scripts to a software video mixer and database of recordings with a web front-end.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="651">Ben Hutchings</person>
+          <person id="652">Holger Levsen</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

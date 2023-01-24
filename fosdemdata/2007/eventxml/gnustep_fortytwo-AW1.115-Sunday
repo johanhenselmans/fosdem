@@ -1,0 +1,19 @@
+  <event id="82">
+      <start>10:00</start>
+      <duration>01:00</duration>
+      <room>AW1.115</room>
+      <slug></slug>
+      <title>FortyTwo Semistructured DB</title>
+      <subtitle></subtitle>
+      <track>OpenGroupware + GNUstep</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;&lt;a href=&#34;http://www.sourceforge.net/projects/fortytwo&#34;&gt;FortyTwo&lt;/a&gt; – Towards a Semistructured Database System&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Agenda:&#xA;&lt;/p&gt;&lt;ul&gt;&lt;li&gt; About the Project&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;ul&gt;&lt;li&gt; Motivation&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Theoretical Background&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt; Architecture&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;ul&gt;&lt;li&gt; Data- and Servicemodel&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Architectural Overview of FortyTwo&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt; Positioning&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;ul&gt;&lt;li&gt; Comparison with other semistructured database systems, with Coredata etc.&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt; Showtime&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;ul&gt;&lt;li&gt; Demonstration&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Current State&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt; Summary and future Directions&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA; </description>
+      <persons>
+          <person id="821">Oliver Langer</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,21 @@
+  <event id="148">
+      <start>14:20</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>SIP Communicator</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;A lightning talk about SIP Communicator, an audi/video softphone and IM client.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;The talk would first go over major features of SIP Communicator and describe what sets it apart from a user point of view.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;It would then describe aspects of the project that might be of interest to FOSS developers. One of the key characteristics of SIP Communicator is its flexibility and easy to use API. The client is built around an OSGi (www.osgi.org) core. All its functionalities are implemented as independent modules that also export services for use by plugin developers. This part of the talk would try to show how easy it is to use these services and create plugins for SIP Communicator or directly get involved and contribute to its development. &#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;i&gt;About SIP Communicator:&lt;/i&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;SIP Communicator is an open source (LGPL) audio/video Internet phone and instant messenger that supports    some of the most popular instant messaging and telephony protocols such as SIP, Jabber, AIM/ICQ, MSN and soon others like Yahoo and IRC.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1481">Emil Ivov</person>
+      </persons>
+      <links>
+          <link href="../../slides/lightningtalks/SIPcommunicator.pdf">Slides (PDF)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

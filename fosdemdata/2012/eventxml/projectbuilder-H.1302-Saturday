@@ -1,0 +1,21 @@
+  <event id="338">
+      <start>14:00</start>
+      <duration>01:00</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>Multi-OS Continuous Packaging with Project-Builder.org</title>
+      <subtitle></subtitle>
+      <track>CrossDistribution Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Project-Builder.org is a GPL v2 tool designed to help projects developers producing easily packages for multiple OS and architectures, on a regular basis, from&#xA;+a single source repository.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;The various aspects covered by the tool are:&#xA;- only produce software packages (ease integration in deployment servers, provide inheritance mecanisms, ...)&#xA;- ease the various steps of solution life cycle (controlled impact of installation/uninstallation, dependencies management, identical deliveries up to customer,&#xA;+announce management, web site delivery, metadata management)&#xA;- help projects packages provisioning (templates/skeletons, generated structure)&#xA;- Avoid code/metadata duplication (macro system, separate repository)&#xA;- Neutral (repository, system, package type agnostic)&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Reduces cost by providing process, method and tools to realize continuous packaging during the whole project life cycle.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Today the tool supports:&#xA;- Muliple repository (tarballs, SVN, CVS, Git, Mercurial, SVK...)&#xA;- Multiple systems ((RPM Linux, deb Linux, ebuild , Solaris pkg)&#xA;- Multiple build environments (local, VM, VE)&#xA;- Multiple repository manager (yum, urpmi, apt)&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Used by MondoRescue, LinuxCOE, itself, referenced by vcs-pkg.org&lt;/p&gt;      </description>
+      <persons>
+          <person id="3381">Bruno Cornec</person>
+      </persons>
+      <links>
+          <link href="http://video.fosdem.org/2012/crossdistro/Multi_OS_Continuous_Packaging_with_Project_Builder.org.webm">Video recording</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="377">
+      <start>17:30</start>
+      <duration>00:30</duration>
+      <room>UD2.218A</room>
+      <slug></slug>
+      <title>The state of new CSS features in the CSSWG and in Mozilla</title>
+      <subtitle></subtitle>
+      <track>Mozilla Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;A brief overview of, first, what CSS features have been implemented recently in Firefox, second, what new CSS features are in development in the CSS Working Group at W3C, how far along they are, and when they&amp;#39;re likely to come to browsers.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="3771">David Baron</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

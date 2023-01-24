@@ -1,0 +1,21 @@
+  <event id="8">
+      <start>16:30</start>
+      <duration>00:30</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>OpenVZ virtualization on CentOS</title>
+      <subtitle></subtitle>
+      <track>CentOS + Fedora</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;As server consolidation becomes more and more important in the IT workplace, virtualization becomes more and more important. OpenVZ is operating system-level virtualization technology that can deliver this virtualization need on CentOS.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;This presentation will layout the major differences between OpenVZ and other better known virtualization solutions like Xen, KVM, Qemu, VMWare, ...&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="81">Frederik Kaputa</person>
+      </persons>
+      <links>
+          <link href="http://wiki.centos.org/Events/Fosdem2007?action=AttachFile&amp;do=get&amp;target=openvz-centos.pdf">Slides (PDF)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

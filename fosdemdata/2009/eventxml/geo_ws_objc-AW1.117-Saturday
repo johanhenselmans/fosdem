@@ -1,0 +1,20 @@
+  <event id="111">
+      <start>16:00</start>
+      <duration>01:00</duration>
+      <room>AW1.117</room>
+      <slug></slug>
+      <title>Web Services in Objective-C</title>
+      <subtitle></subtitle>
+      <track>GNUstep + OpenGroupware + Etoile</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;An overview of web services and a free software implementation to make them easy Objective-C programmers (GNUstep and MacOS-X/Cocoa).&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;No need to resort to Java or C# frameworks now that we can use web services directly from a language we love.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1111">Riccardo Mottola</person>
+          <person id="1112">Richard Frith-Macdonald</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

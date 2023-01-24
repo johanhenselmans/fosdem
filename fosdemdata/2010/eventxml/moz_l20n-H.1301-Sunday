@@ -1,0 +1,19 @@
+  <event id="202">
+      <start>10:30</start>
+      <duration>00:45</duration>
+      <room>H.1301</room>
+      <slug></slug>
+      <title>L20n</title>
+      <subtitle></subtitle>
+      <track>Mozilla</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;L20n is the codename for a localization architecture taking existing approaches one step further.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;The name stands for l10n 2. This sesion will be targeted at tool authors and their users, localizers, on how we can keep simple things simple and expose the power of l20n at the same time.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2021">Axel Hecht</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

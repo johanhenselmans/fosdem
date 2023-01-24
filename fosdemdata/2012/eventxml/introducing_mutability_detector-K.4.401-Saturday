@@ -1,0 +1,19 @@
+  <event id="165">
+      <start>16:00</start>
+      <duration>00:30</duration>
+      <room>K.4.401</room>
+      <slug></slug>
+      <title>Introducing Mutability Detector</title>
+      <subtitle></subtitle>
+      <track>Free Java Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Mutability Detector is a lightweight static analysis tool for Java which&#xA;allows you to unit test for immutability. Using immutable objects is regarded as&#xA;improving readability of your Java code, and greatly simplifying multithreaded&#xA;code. However, without language support, it&amp;#39;s all to easy to render classes&#xA;mutable, and introduce the potential for subtle, hard to detect bugs. Mutability&#xA;Detector gives developers a way to write immutable classes, and help keep them&#xA;immutable.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;  Mutability Detector uses and depends on several free, open-source Java&#xA;libraries, such as Objectweb ASM. Also, being able to look at the source of the&#xA;JDK, has greatly helped in improving the analysis.&lt;/p&gt;&#xA;&#xA;&lt;p&gt; The audience will learn of a simple little utility that may just help them in&#xA;their day-to-day development of Java. People can help out in the usual FLOSS way&#xA;- using it, reporting bugs, giving feedback (especially the ways in which I&#xA;suck).&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="1651">Graham Allan</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

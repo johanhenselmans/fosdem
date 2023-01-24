@@ -1,0 +1,19 @@
+  <event id="270">
+      <start>09:00</start>
+      <duration>00:15</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>Welcome to the Ruby and Rails devroom</title>
+      <subtitle></subtitle>
+      <track>Ruby and Rails</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Welcome to the Ruby and Rails developer room at FOSDEM 2009.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="2701">Peter Vandenabeele</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

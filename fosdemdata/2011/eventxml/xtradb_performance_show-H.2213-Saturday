@@ -1,0 +1,19 @@
+  <event id="331">
+      <start>14:30</start>
+      <duration>00:25</duration>
+      <room>H.2213</room>
+      <slug></slug>
+      <title>Over 20,000QPS, XtraDB performance show</title>
+      <subtitle></subtitle>
+      <track>MySQL &amp; friends devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;In this short 20 minute talk I would like to give you a quick look into the process I&amp;#39;ve optimized read-slaves for a high traffic website (Alexa top500) using xtradb. When I started to work on this project the slaves were able to serve like 5-8k QPS with a basically default configuration. When I was done, in peak times we goes over 20,000QPS having a low load. I would like to use my 20 minutes to show how I optimized the mysql server and show what effects each optimization had and how we tuned a standard mysql replica slave to a beast. In this presentation I don&amp;#39;t want to mention query tuning.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;In this short 20 minute talk I would like to give you a quick look into the process I&amp;#39;ve optimized read-slaves for a high traffic website (Alexa top500) using xtradb. When I started to work on this project the slaves were able to serve like 5-8k QPS with a basically default configuration. When I was done, in peak times we goes over 20,000QPS having a low load. I would like to use my 20 minutes to show how I optimized the mysql server and show what effects each optimization had and how we tuned a standard mysql replica slave to a beast. In this presentation I don&amp;#39;t want to mention query tuning.&lt;/p&gt;      </description>
+      <persons>
+          <person id="3311">Istvan Podor</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="320">
+      <start>10:05</start>
+      <duration>00:40</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>Perlude: a taste of Haskell in Perl</title>
+      <subtitle></subtitle>
+      <track>Perl Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Perlude (formaly Lazyness) steal haskell prelude keywords to give perl a convenient way to deal with generators the way haskell uses monad. It actually adds a pipe feature to perl. Lot of problems can be solved with smaller, more reusable and easier to maintain code.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="3201">Marc Chantreux</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

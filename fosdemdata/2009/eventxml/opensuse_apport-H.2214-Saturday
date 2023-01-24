@@ -1,0 +1,19 @@
+  <event id="222">
+      <start>18:15</start>
+      <duration>00:45</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>Apport - Automatic Application Crash Reporting for openSUSE</title>
+      <subtitle></subtitle>
+      <track>openSUSE</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Apport for automatic crash reporting on openSUSE.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Many application crashes remain unreported due to different reasons: &#xA;&lt;/p&gt;&lt;ul&gt;&lt;li&gt; the crash is silently ignored since no core file is produced &#xA;&lt;/li&gt;&#xA;&lt;li&gt; existing crash handlers like bug-buddy or Dr. Konqi are desktop application specific &#xA;&lt;/li&gt;&#xA;&lt;li&gt; the crash is not easy to reproduce &#xA;&lt;/li&gt;&#xA;&lt;li&gt; the location to report the crash is unknown&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;Apport gives you an easy way to solve these problems.&#xA;&#xA;  </description>
+      <persons>
+          <person id="2221">Jan Blunck</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

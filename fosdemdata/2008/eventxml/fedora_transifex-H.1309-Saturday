@@ -1,0 +1,19 @@
+  <event id="129">
+      <start>17:00</start>
+      <duration>01:00</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>Transifex: A new perspective in translation management</title>
+      <subtitle></subtitle>
+      <track>CentOS + Fedora</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;During the past months, Fedora is investing heavily in re-engineering its translation workflow. By supporting more than 5 different version control systems for source development and having more than 2000 translators, challenges surface all the time. A coherent plan is needed to allow translators to conveniently contribute to many upstream projects by hiding the technical details of low-level tools, to give to newly created projects the ability to easily locate prospective translators, and to remove the necessity for maintainers to continually keep their translations in sync with upstream&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;To ease the process of translation contributions, a novel tool called &lt;a href=&#34;https://hosted.fedoraproject.org/transifex&#34;&gt;&amp;#34;Transifex&amp;#34;&lt;/a&gt; was developed, promising to solve the above problems. It provides translators with a generic interface to remote version control systems, blending nicely with their existing workflow. With &lt;a href=&#34;https://hosted.fedoraproject.org/transifex&#34;&gt;Transifex,&lt;/a&gt; a translation community is able to contribute directly to many upstream projects, without the need to create new accounts or learn the tricks of new versioning systems. At the same time, project maintainers can easily reach out and receive contributions from thousands of translators spanning many established communities, without being required to relocate their code, or manage accounts and bug reports for translations.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;This talk will present this new vision in translation workflows, and explain how it fundamentally changes the way translations are contributed to open source projects. It will base its examples on the challenging landscape of the Fedora Translation Project, feature a live demo of the system, and lay down a long list of exciting future plans.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1291">Dimitris Glezos</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

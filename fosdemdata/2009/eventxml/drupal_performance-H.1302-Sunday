@@ -1,0 +1,19 @@
+  <event id="71">
+      <start>10:15</start>
+      <duration>00:45</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>Improving Drupal&#39;s page loading performance</title>
+      <subtitle></subtitle>
+      <track>Drupal</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;As many already know by now, 80 to 90% of the response time of a web page is dependent on the page loading performance (the fetching of the HTML and all files referenced). This is different from the page rendering performance, which is just the time it takes to generate the HTML.&#xA;Drupal already tackles several issues pretty well. But there&amp;#39;s more we can do!&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;You can solve several additional problems today, just by installing extra modules (such as &lt;a href=&#34;http://drupal.org/project/sf_cache&#34;&gt;Support file Cache&lt;/a&gt;), by configuring Apache (e.g. gzipped output), or by configuring some shell scripts (e.g. to optimize image files). I&amp;#39;ll explain you how to apply these solutions.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;For most Drupal sites, CDN integration and putting JS at the bottom of the page have the biggest impact. However, these two techniques are currently very hard to apply properly to Drupal: both require hacks to Drupal core.&#xA;My aim is to solve both of these problems as part of my bachelor thesis. I&amp;#39;ll explain how I expect to solve this and the impact of both issues on your site.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="711">Wim Leers</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

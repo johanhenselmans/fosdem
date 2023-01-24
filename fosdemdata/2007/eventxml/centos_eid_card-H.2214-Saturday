@@ -1,0 +1,21 @@
+  <event id="5">
+      <start>16:00</start>
+      <duration>00:30</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>Belgian eID card on CentOS</title>
+      <subtitle></subtitle>
+      <track>CentOS + Fedora</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Explanations about and How to use the belgian eID card under CentOS Linux&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;The Belgian government decided some years ago to release newer identity cards for Belgian citizens in an electronic format (eID cards). What can we do with these cards on CentOS Linux ? This little presentation will cover first an introduction about the eID card and possible eID readers available on the market. Which software is needed to recognize the card/reader and how to use it with opensource programs like Firefox and Thunderbird to authenticate (in a web session) or sign (a mail) with the certificates sitting on the card.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="51">Fabian Arrotin</person>
+      </persons>
+      <links>
+          <link href="http://wiki.centos.org/Events/Fosdem2007?action=AttachFile&amp;do=get&amp;target=eid-card-centos-fosdem07.pdf">Slides (PDF)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

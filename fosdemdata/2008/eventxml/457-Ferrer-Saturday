@@ -1,0 +1,22 @@
+  <event id="25">
+      <start>16:00</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Dacco: open source dictionaries</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This lightning talk will provide a quick overview of a different type of&#xA;open source project: an English-Catalan Dictionary. We will give a short&#xA;explanation about how it is being implemented, which methods and tools&#xA;are used, its history and future direction.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;We will also explain what Catalan is, why an open source approach is&#xA;important and how people can contribute.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;We will introduce Dacco&amp;#39;s tools and features including qdacco (a GPLv3&#xA;desktop application which allows users to query the dictionary and,&#xA;through integration with Festival, hear how words are pronounced), an&#xA;HTML search engine, PDF files and an iGoogle gadget. &#xA;&lt;/p&gt;&#xA;&lt;p&gt;The main goal of this talk is to introduce people to the concept of Open&#xA;Source Dictionaries and encourage them to develop their own.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Dacco (Diccionari Anglès-Català de Codi Obert - Open Source&#xA;English-Catalan Dictionary). The project hosts two dictionaries: an&#xA;English-Catalan dictionary and a Catalan-English dictionary. The project&#xA;is trying to fill the gap in the world of dictionaries: there aren&amp;#39;t any&#xA;free (as freedom) Catalan-English dictionaries and there isn&amp;#39;t any good&#xA;Catalan dictionary for English speaking people because of the lack of&#xA;potential buyers.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The Dacco project is developing a dictionary through regular&#xA;international contributors who add, change and improve the word&#xA;descriptions constantly. Nowadays Dacco has aproximately 15000 entries.&#xA;We also use internet resources like photo links when a description isn&amp;#39;t&#xA;just enough, dictionary is oftenly updated, etc. There are versions for&#xA;Catalan speakers and for English speakers with different notes and&#xA;examples.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Dacco base files (XML) have GPL license and we also provide PDF files&#xA;(under Creative Commons license), Firefox search plugins, qdacco&#xA;software, HTML standard form search tool, etc.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The Dacco project was formally started on May 2003, though Linda Oxnard&#xA;(the founder) started working on it on 2001.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="251">Carles Pina i Estany</person>
+      </persons>
+      <links>
+          <link href="http://fosdem.org/2008/slides/lightningtalks/fosdem08_ltalk_dacco.pdf">Slides (PDF)</link>
+          <link href="http://video.fosdem.org/2008/lightningtalks/FOSDEM2008-dacco.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

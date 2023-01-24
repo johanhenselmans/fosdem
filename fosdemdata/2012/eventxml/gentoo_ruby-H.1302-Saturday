@@ -1,0 +1,21 @@
+  <event id="120">
+      <start>16:30</start>
+      <duration>00:30</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>Gentoo ruby packaging</title>
+      <subtitle></subtitle>
+      <track>CrossDistribution Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Gentoo currently has 400+ natively packaged ruby packages for 5 different ruby implementations. We&amp;#39;d like to share some of the unique things we did to bring ruby code and applications to our users in a true Gentoo fashion.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="1201">Hans de Graaff</person>
+      </persons>
+      <links>
+          <link href="http://video.fosdem.org/2012/crossdistro/Gentoo_ruby_packaging.webm">Video recording</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

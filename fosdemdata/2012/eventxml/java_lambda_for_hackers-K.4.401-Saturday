@@ -1,0 +1,19 @@
+  <event id="172">
+      <start>12:30</start>
+      <duration>00:30</duration>
+      <room>K.4.401</room>
+      <slug></slug>
+      <title>Java Lambda for Hackers </title>
+      <subtitle></subtitle>
+      <track>Free Java Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Lambdas in Java 8 will be the first major addition to the Java language since the Generics in Java 5,&#xA;while programming with a language that support lambdas/closures is way cool,&#xA;there are several traps and pitfalls to their introduction in Java.&#xA;This talk will explain the VM modifications already done and that will be done to support lambda in the JDK 8.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="1721">Rémi Forax</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

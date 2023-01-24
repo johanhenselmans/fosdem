@@ -1,0 +1,21 @@
+  <event id="354">
+      <start>14:00</start>
+      <duration>01:00</duration>
+      <room>K.3.401</room>
+      <slug></slug>
+      <title>Scribus</title>
+      <subtitle>Colour Management in Scribus</subtitle>
+      <track>X.org+OpenICC Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract></abstract>
+      <description></description>
+      <persons>
+          <person id="3541">Peter Linnell</person>
+      </persons>
+      <links>
+          <link href="http://www.scribus.net/">http://www.scribus.net</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,21 @@
+  <event id="136">
+      <start>16:20</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Mozart-Oz</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;A lightning talk about Mozart-Oz: a multi-paradigm programming language.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;This talk will introduce Mozart-Oz, a multi-paradigm programming language supporting functional, concurrent, object-oriented, logic and constraint programming paradigms, offering transparent support for distributed programming. Recently, the project has moved from a Consortium of Universities to a more open governance model in order to welcome new developers. This programming language is being used for development in some European projects and for teaching at universities in Belgium, Sweden, Poland, Colombia and USA, using the book &amp;#34;Concepts, Techniques, and Models of Computer Programming&amp;#34;. Unfortunately, it is not well known out of the academia and we would like to present it to the FOSDEM community.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1361">Boriss Mejias</person>
+      </persons>
+      <links>
+          <link href="../../slides/lightningtalks/MozartOz.pdf">Slides (PDF)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

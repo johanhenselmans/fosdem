@@ -1,0 +1,19 @@
+  <event id="104">
+      <start>16:00</start>
+      <duration>01:00</duration>
+      <room>H.2213</room>
+      <slug></slug>
+      <title>GNU Classpath Last Year &amp; Next Year</title>
+      <subtitle></subtitle>
+      <track>GNU Classpath + OpenJDK DevJam</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Open session giving an overview of last years work on the &lt;a href=&#34;http://www.gnu.org/software/classpath/&#34;&gt;GNU Classpath&lt;/a&gt; library (and given time some demos).&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;After a short overview of the various free stacks, libraries, compilers, tools and runtimes this session is mostly open discussion about what work remains to be done and how to integrate the various efforts better.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;GNU Classpath hackers will tell about their current work, their plans and priorities for the next year, and how others can help. We will have a discussion on how to maintain our core values (freedom, coverage, fun &amp;amp; innovation). Our commitment to our community, users and projects and how to make it easy to adopt and collaborate together with GNU Classpath and OpenJDK and how to help also the smaller projects with less resources to adopt the new innovation (coordinating new VM and Platform interfaces, etc.)&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Since this is an open session &lt;a href=&#34;mailto:mark@klomp.org&#34;&gt;ideas for other work items are welcome&lt;/a&gt;.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1041">Mark Wielaard</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

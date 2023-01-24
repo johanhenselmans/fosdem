@@ -1,0 +1,19 @@
+  <event id="300">
+      <start>15:40</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>The XWiki Wysiwyg Editor: Rich Cross-Browser Editing, Take Two</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The new wysiwyg editor developed by the XWiki team is a cross-browser, GWT-based, stand-alone editing tool that solves a number of known problems in other editors, and brings exciting new features such as concurrent realtime editing. Currently in a beta stage, it was bundled in XWiki Enterprise 1.7 and will become the default editor in the next XWiki release.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;XWiki is a platform for developing collaborative web applications using the wiki paradigm.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="3001">Anca Luca</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

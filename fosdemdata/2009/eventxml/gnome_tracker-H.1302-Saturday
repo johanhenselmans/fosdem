@@ -1,0 +1,19 @@
+  <event id="118">
+      <start>17:45</start>
+      <duration>00:45</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>Tracker</title>
+      <subtitle></subtitle>
+      <track>GNOME</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;tbd.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="1181">Philip Van Hoof</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="112">
+      <start>15:00</start>
+      <duration>01:00</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>Bringing OMAP3 into the FreeBSD Tree</title>
+      <subtitle></subtitle>
+      <track>BSD devroom</track>
+      <type></type>
+      <language></language>
+      <abstract></abstract>
+      <description>&#xA;&lt;p&gt;FreeBSD works on many types of processors. One of them is OMAP3 which is one of the ARM11 processor family. Major steps have been completed for ARM11 on FreeBSD 8.0. This talk will give a brief overview of the current work in FreeBSD.&lt;/p&gt;      </description>
+      <persons>
+          <person id="1121">Mohammed Farrag</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

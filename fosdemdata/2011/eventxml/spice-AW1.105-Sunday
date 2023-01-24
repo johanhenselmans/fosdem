@@ -1,0 +1,19 @@
+  <event id="288">
+      <start>14:20</start>
+      <duration>00:20</duration>
+      <room>AW1.105</room>
+      <slug></slug>
+      <title>A presentation of SPICE an opensource remote virtual desktop protocol</title>
+      <subtitle></subtitle>
+      <track>New challenges in Virtualization devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Quoting from the spice home-page: http://spice-space.org/&#xA;&amp;#34;The Spice project aims to provide a complete open source solution for interaction with virtualized desktop devices.&amp;#34;&#xA;During this talk I would like to give a short overview of what spice is, how spice works and future features, followed by a short demo and hopefully some questions and discussion.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;The main motivation for giving a talk on Spice is that it is relatively unknown, thus the purposes of this talk are:&#xA;* To inform people about the Spice protocol and the Spice project&#xA;* Get feedback for future versions&#xA;* Hopefully get people to use Spice and maybe even become contributors&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="2881">Hans de Goede</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

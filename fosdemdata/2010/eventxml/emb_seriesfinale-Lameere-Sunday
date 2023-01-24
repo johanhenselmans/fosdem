@@ -1,0 +1,19 @@
+  <event id="104">
+      <start>10:30</start>
+      <duration>00:30</duration>
+      <room>Lameere</room>
+      <slug></slug>
+      <title>SeriesFinale, a TV shows&#39; tracker for Maemo 5</title>
+      <subtitle></subtitle>
+      <track>Embedded</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;SeriesFinale is a TV series browser and tracker application for Maemo 5. Its goal is to help you manage the TV shows you watch regularly and keep track of the episodes you have seen so far.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;The shows and episodes listings can be retrieved automatically from the web presenting you with information about the subject of the show/episode, director, actors, guest stars, etc. Episodes are presented in a check list view to allow checking and keeping track of the ones that have been already seen.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1041">Joaquim Rocha</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

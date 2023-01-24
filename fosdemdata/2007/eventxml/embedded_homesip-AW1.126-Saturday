@@ -1,0 +1,22 @@
+  <event id="33">
+      <start>15:00</start>
+      <duration>01:00</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>HomeSIP</title>
+      <subtitle></subtitle>
+      <track>Embedded</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The &lt;a href=&#34;http://www.enseirb.fr/cosynux/HomeSIP/&#34;&gt;HomeSIP Project&lt;/a&gt;: Using open source SIP stack for Home Automation&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;For the next decade, we‘ll witness the convergence between 3 sciences: computer science, telecommunications and microelectronics.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Many communicating embedded systems are around us. More and more of them will be present at home for home automation.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The HomeSIP project consists to develop an open platform for Home Automation using SIP (Session Initiation Protocol) protocol. The SIP protocol is a well known protocol for VoIP (Voice Over IP). This talk will present the HomeSIP project. The SIP protocol will be described in a Home Automation point of view and compared to other protocols like SNMP, HTTP used for controlling embedded systems.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The HomeSIP infrastructure will be presented: choice of an open source SIP stack (GNU oSIP/eXoSIP), developed Linux based SIP gateways, sensors networks...&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Finally, we’ll present a new DSL (Domain Specific Language) language for developing new services for Home Automation.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="331">Patrice Kadionik</person>
+      </persons>
+      <links>
+          <link href="../../slides/devrooms/embedded/fosdem2007_kadionik.pdf">Slides (PDF)</link>
+          <link href="../../slides/devrooms/embedded/fosdem2007_kadionik.odp">Slides (OOo)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

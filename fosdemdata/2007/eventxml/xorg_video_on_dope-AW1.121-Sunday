@@ -1,0 +1,19 @@
+  <event id="218">
+      <start>15:00</start>
+      <duration>01:00</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>Video on Dope</title>
+      <subtitle></subtitle>
+      <track>X.org</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Video on Dope - Different Techniques to Accelerate XVideo Display with OpenGL&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/X_video_extension&#34;&gt;XVideo&lt;/a&gt; with color keying has been notoriously problematic in the past (multiple heads, size restrictions, etc.), and it doesn&amp;#39;t work well with composited desktops.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;For OpenGL-based compositing window managers like &lt;a href=&#34;http://www.go-compiz.org/&#34;&gt;compiz&lt;/a&gt; and for OpenGL-based Xservers like &lt;a href=&#34;http://www.freedesktop.org/wiki/Software_2fXgl&#34;&gt;Xgl&lt;/a&gt; the most straight-forward solution is to use OpenGL for doing the color conversion and scaling on-the-fly. On the other hand, OpenGL is so flexible that there is more than a single way to implement this - and all techniques have their advantages and drawbacks.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="2181">Matthias Hopf</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

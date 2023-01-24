@@ -1,0 +1,20 @@
+  <event id="332">
+      <start>09:30</start>
+      <duration>00:45</duration>
+      <room>H.1301</room>
+      <slug></slug>
+      <title>XULRunner Applications </title>
+      <subtitle>Instantbird and Conkeror — A view from the authors </subtitle>
+      <track>Mozilla devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Instantbird and Conkeror.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Instantbird and Conkeror — A view from the authors.&lt;/p&gt;      </description>
+      <persons>
+          <person id="3321">Florian Quèze</person>
+          <person id="3322">Axel Beckert</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

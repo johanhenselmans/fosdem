@@ -1,0 +1,21 @@
+  <event id="135">
+      <start>17:40</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>MoulinWiki</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;A lightning talk on Moulin, an offline version of Wikipedia.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;A short description of what your lightning talk will be about:&#xA;I&amp;#39;d like to explain the life-cycle of a project – specifically, the&#xA;moulin project – from its conception, through its planning, financing,&#xA;and development, up to its release into the community (local and&#xA;global), through an NGO such as Geekcorps&amp;#39; perpective.&#xA;I&amp;#39;d also like to add how an organization such as Geekcorps designs and&#xA;delivers its projects for communities in the developing world. &#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;i&gt;About MoulinWiki:&lt;/i&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;moulin is a standalone (and live CD), offline version of the Wikipedia&#xA;encyclopaedia specifically tailored for developing world.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1351">Renaud Gaudin</person>
+      </persons>
+      <links>
+          <link href="../../slides/lightningtalks/MoulinWiki.pdf">Slides (PDF)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

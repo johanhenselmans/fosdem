@@ -1,0 +1,19 @@
+  <event id="196">
+      <start>17:00</start>
+      <duration>01:00</duration>
+      <room>AW1.117</room>
+      <slug></slug>
+      <title>OOo/ODF Integration using the OO.org SDK</title>
+      <subtitle></subtitle>
+      <track>OpenOffice.org</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;OO.o/ODF Integration into other productivity application&amp;#39;s by using the OO.org SDK.&#xA;The interest in &lt;a href=&#34;http://www.openoffice.org/&#34;&gt;OpenOffice.org&lt;/a&gt; and its file format, called &lt;a href=&#34;http://www.oasis-open.org/home/index.php&#34;&gt;Open Document Format (ODF)&lt;/a&gt;, has been growing in the past few years. This has resulted in increased demand to integrate productivity applications into OpenOffice.org and support for ODF.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;The presenter is going to share his experiences that he has acquired in migration and integration projects at customers of Sun Microsystems during the past 11 years. The presentation will show the necessary steps the developer has to make for achieving the required integration by using a project that the presenter has supported. After the presentation the attendee is able to provide the appropriate infrastructure to enable the user to use the functions of other productivity applications in Openoffice.org.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1961">Michael Bohn</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

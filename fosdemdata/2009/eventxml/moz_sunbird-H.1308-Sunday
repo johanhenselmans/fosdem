@@ -1,0 +1,19 @@
+  <event id="198">
+      <start>11:15</start>
+      <duration>00:45</duration>
+      <room>H.1308</room>
+      <slug></slug>
+      <title>Rising to the Sun(bird)</title>
+      <subtitle></subtitle>
+      <track>Mozilla</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;How to get involved with the &lt;a href=&#34;http://www.mozilla.org/projects/calendar/sunbird/&#34;&gt;Calendar&lt;/a&gt; Project and where we are heading.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;This presentation is a call to everyone to get involved. No matter if you prefer testing software (QA), designing interfaces or developing extensions or core code: We need you!&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The goal of this presentation is to show some interesting experiments you might be interested in developing, how you can use &lt;a href=&#34;https://addons.mozilla.org/firefox/addon/9018&#34;&gt;mozmill&lt;/a&gt; to easily record tests that help improve the software quality or what you can do as a designer if you have ideas on how to improve Calendar&amp;#39;s visual appearance.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1981">Philipp Kewisch</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

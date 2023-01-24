@@ -1,0 +1,21 @@
+  <event id="180">
+      <start>10:30</start>
+      <duration>00:45</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>EU Community Survey</title>
+      <subtitle></subtitle>
+      <track>Mozilla</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Seth Bindernagel, Pascal Chevrel, Stas Malolepszy will present results from two surveys conducted with the Mozilla European community.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Stas and Pascal created an online survey tool and Seth and Stas constructed two surveys that were sent out for response. The surveys relate to the overall health of the Mozilla community and Mozilla community&amp;#39;s efforts at &amp;#34;customer support&amp;#34;. Stas and Seth then analyzed all data and will present findings.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1801">Stanislaw Malolepszy</person>
+          <person id="1802">Seth Bindernagel</person>
+          <person id="1803">Pascal Chevrel</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

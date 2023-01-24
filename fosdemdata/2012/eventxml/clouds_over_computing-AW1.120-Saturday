@@ -1,0 +1,19 @@
+  <event id="59">
+      <start>18:00</start>
+      <duration>00:30</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>Clouds over computing</title>
+      <subtitle></subtitle>
+      <track>Open Mobile Linux Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This will be a talk about the future of computing and how we can push networked solutions that&#xA;are just as much under your own control as your desktop computer.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="591">Jens Wiik</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

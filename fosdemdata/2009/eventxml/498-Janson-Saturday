@@ -1,0 +1,19 @@
+  <event id="7">
+      <start>15:00</start>
+      <duration>01:00</duration>
+      <room>Janson</room>
+      <slug></slug>
+      <title>The Fedora Project</title>
+      <subtitle></subtitle>
+      <track>Distributions</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The talk will take a look at the current roadmap for the Fedora Project, &#xA;from a technical and community-building point of view.  The discussion &#xA;will focus on the recently-released Fedora 10 as well as the &#xA;in-development Fedora 11, as well as other Fedora projects such as &#xA;infrastructure, websites, translation, etc.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="71">Max Spevack</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="206">
+      <start>15:00</start>
+      <duration>01:00</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>Boost performance with MySQL 5.1 partitions</title>
+      <subtitle></subtitle>
+      <track>MySQL</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;MySQL 5.1 introduces partitioning – a very useful feature for databases with large tables. This session explains the benefits of partitioning and shows in practice how to take advantage of its features.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Topics include:&#xA;&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Benefits and limits of partitioning&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Understanding the partitioning types (RANGE, LIST, HASH and KEY)&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Partitioning pruning and EXPLAIN additions&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Benchmarking partitions&#xA;&lt;/li&gt;&#xA;&lt;li&gt; How to partition by dates&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Partitioning with MyISAM tables&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Partitioning with InnoDB tables&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Partitioning with Archive tables&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Use cases&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Partition maintenance:&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;ul&gt;&lt;li&gt; converting partitioned tables to normal ones;&#xA;&lt;/li&gt;&#xA;&lt;li&gt; adding and dropping partitions&#xA;&lt;/li&gt;&#xA;&lt;li&gt; reorganizing partitions&#xA;&lt;/li&gt;&#xA;&lt;li&gt; checking and repairing partitions&lt;/li&gt;&#xA;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&#xA;  </description>
+      <persons>
+          <person id="2061">Giuseppe Maxia</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

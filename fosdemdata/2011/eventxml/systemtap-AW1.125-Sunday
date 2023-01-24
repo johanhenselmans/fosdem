@@ -1,0 +1,19 @@
+  <event id="292">
+      <start>11:30</start>
+      <duration>00:30</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>Observing HotSpot with SystemTap</title>
+      <subtitle></subtitle>
+      <track>Free Java devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk will describe how support has been added to the HotSpot runtime engine to make your Java programs more observable.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;With SystemTap you can observe your system on multiple levels, from kernel, libraries, applications to java programs. This talk will describe how support has been added to the HotSpot runtime engine to make your java programs more observable. This has been done in a way that is fully compatible with dtrace (to make our solaris hacker friends happy). We will discuss the various probes and information that can be retrieved through SystemTap. How the probes and the associated tapset were implemented. The limitation of such probes. And some ideas for the future to make java more observable.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2921">Mark Wielaard</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

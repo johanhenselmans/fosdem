@@ -1,0 +1,19 @@
+  <event id="21">
+      <start>14:45</start>
+      <duration>00:45</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>Helping out in the calc core</title>
+      <subtitle>be part of the future of the spreadsheet</subtitle>
+      <track>LibreOffice devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Hear how calc works, how it needs to work, and how you can help.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;There are many areas of Calc that need improvement. But before we get to that, let&amp;#39;s reflect on what improvement we have made in Calc in the past prior to LibreOffice launch, what we have done and are working on after the launch, and what we plan to do going forward. Main focus areas are: re-work of the formula interpreter via Ixion, performance enhancement in Calc core as well as file format filters, and improve testability of the code in general.&lt;/p&gt;      </description>
+      <persons>
+          <person id="211">Kohei Yoshida</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

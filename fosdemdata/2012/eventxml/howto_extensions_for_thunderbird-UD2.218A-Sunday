@@ -1,0 +1,21 @@
+  <event id="148">
+      <start>12:30</start>
+      <duration>00:30</duration>
+      <room>UD2.218A</room>
+      <slug></slug>
+      <title>Howto: Extensions for Thunderbird</title>
+      <subtitle></subtitle>
+      <track>Mozilla Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This is a hands-on talk that will tell you how to do cool stuff with Thunderbird. There will be a demo addon so that you can play with the various snippets I explain; I will also cover some tips and tricks, as well as specific advice so that your addon gets accepted on AMO.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="1481">Jonathan Protzenko</person>
+      </persons>
+      <links>
+          <link href="http://xulforum.org/fosdem2012/">Demo Material</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

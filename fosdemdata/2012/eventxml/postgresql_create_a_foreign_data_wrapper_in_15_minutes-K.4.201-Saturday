@@ -1,0 +1,19 @@
+  <event id="329">
+      <start>12:00</start>
+      <duration>00:50</duration>
+      <room>K.4.201</room>
+      <slug></slug>
+      <title>Create a Foreign Data Wrapper in 15 minutes</title>
+      <subtitle></subtitle>
+      <track>PostgreSQL Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;SQL/MED is the new frontier of PostgreSQL !&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Since the release of PostgreSQL 9.1, we see lots of Foreign Data Wrappers (FDW) coming out, giving you the ability to connect your database with multiple data sources : local files, other RDMS, NoSQL stores, webservices, etc.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;The primary language to write a FDW is C. But a recent extension called &amp;#34;Multicorn&amp;#34; makes Foreign Data Wrapper development easy, by allowing the programmer to use the Python programming language.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;This talks will :&lt;/p&gt;&#xA;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Explain the basics of SQL/MED&lt;/li&gt;&#xA;&lt;li&gt;Give an overview of the various existing Foreign Data Wrappers&lt;/li&gt;&#xA;&lt;li&gt;Show how to code a wrapper in a blink of en eye with multicorn&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;      </abstract>
+      <description></description>
+      <persons>
+          <person id="3291">Damien Clochard</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

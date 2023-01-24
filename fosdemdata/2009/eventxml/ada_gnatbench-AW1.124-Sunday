@@ -1,0 +1,19 @@
+  <event id="22">
+      <start>15:00</start>
+      <duration>01:00</duration>
+      <room>AW1.124</room>
+      <slug></slug>
+      <title>GNATBench: Ada programming with Eclipse</title>
+      <subtitle></subtitle>
+      <track>Ada</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The &lt;a href=&#34;https://libre.adacore.com/GNATbench&#34;&gt;GNATbench plug-in for Eclipse&lt;/a&gt; brings the advantages of AdaCore&amp;#39;s GNAT toolset to Wind River&amp;#39;s Workbench integrated development environment for embedded systems running VxWorks.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="221">Vincent Celier</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

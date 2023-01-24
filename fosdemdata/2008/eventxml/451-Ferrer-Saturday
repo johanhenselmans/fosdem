@@ -1,0 +1,21 @@
+  <event id="20">
+      <start>14:00</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Lightning Opening Talk</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The main goal is to buffer the time between the opening of the room, and the first real lightning talk. If time permits, there will be a lightning talk about the lightning talks: with statistics about the proposals and acceptances, and the story of how these lightning talks are organized.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;The FOSDEM Lightning Talks are organized by Mattias &amp;#39;Tias&amp;#39; Guns since 2007, to allow smaller projects to expose themselves to the large developer audience of FOSDEM.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The Lightning Talks can be described as the 15 minutes of frame for all small to medium sized open source projects. During exactly 15 minutes, one person gets to present his project or an aspect of it. All Lightning Talks happen in a large room that can host up to 300 people.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="201">Mattias Guns</person>
+      </persons>
+      <links>
+          <link href="http://fosdem.org/2008/slides/lightningtalks/fosdem08_ltalk_opening.pdf">Slides (PDF)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

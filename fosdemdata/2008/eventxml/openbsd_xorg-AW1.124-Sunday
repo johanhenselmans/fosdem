@@ -1,0 +1,19 @@
+  <event id="199">
+      <start>10:00</start>
+      <duration>00:30</duration>
+      <room>AW1.124</room>
+      <slug></slug>
+      <title>X.org and BSD, changes ahead</title>
+      <subtitle></subtitle>
+      <track>BSD + PostgreSQL</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk is going to adress some of the on-going changes in the X server architecture, and how they will (or won&amp;#39;t) impact BSD systems.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description></description>
+      <persons>
+          <person id="1991">Matthieu Herrb</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

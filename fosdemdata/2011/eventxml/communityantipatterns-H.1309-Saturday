@@ -1,0 +1,19 @@
+  <event id="33">
+      <start>14:00</start>
+      <duration>00:45</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>Community Anti-patterns</title>
+      <subtitle></subtitle>
+      <track>Crossdesktop devroom</track>
+      <type></type>
+      <language></language>
+      <abstract></abstract>
+      <description>&#xA;&lt;p&gt;It may be hard to identify the magic that goes into a successful free software community project, but it is easy to identify patterns in unsuccessful community-building efforts.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;From the needy newbie who makes no effort to find out the answers, to the jaded old hacker who insists people read ten years of mailing list archives before answering a question; from the anti-conformist anarchists who refuse to have any rules to the manufactured community projects with burgeoning administrative overhead; from the obnoxious maintainer who has his fingers in every pie to the invisible Dark Hand that no-one ever sees, but who wields vast power; we will take you on a journey through the worst of the disruptive patterns which can be observed in free software projects.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Not content to point out what is bad about these things, we will also try to propose ways that community maintainers, sponsors and individual members can address these symptoms before they kill the community.&lt;/p&gt;      </description>
+      <persons>
+          <person id="331">Dave Neary</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

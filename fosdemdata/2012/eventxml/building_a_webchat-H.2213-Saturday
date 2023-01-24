@@ -1,0 +1,19 @@
+  <event id="29">
+      <start>12:00</start>
+      <duration>00:30</duration>
+      <room>H.2213</room>
+      <slug></slug>
+      <title>WebApps: Building a Webchat? DON&#39;T DO WHAT I DID! </title>
+      <subtitle></subtitle>
+      <track>Jabber and XMPP Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;With XMPP you can build a webchat in a breeze, so nothing can go wrong, right?&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;The HelpIM chat software is about 10 years old now. We have rewritten it three times and with each rewrite we managed to make some major screw-ups. Recurring issues are: &amp;#34;how to reliably deliver the chat over the web&amp;#34;, &amp;#34;how to route the messages within the server&amp;#34; and &amp;#34;how to authenticate over both HTTP and XMPP&amp;#34;. With this talk I will save you from making the same screw-ups as we did.&lt;/p&gt;      </description>
+      <persons>
+          <person id="291">Winfried Tilanus</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

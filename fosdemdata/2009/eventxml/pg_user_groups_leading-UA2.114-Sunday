@@ -1,0 +1,19 @@
+  <event id="257">
+      <start>13:30</start>
+      <duration>00:30</duration>
+      <room>UA2.114</room>
+      <slug></slug>
+      <title>User Groups: Leading without being in charge</title>
+      <subtitle></subtitle>
+      <track>BSD + PostgreSQL</track>
+      <type></type>
+      <language></language>
+      <abstract></abstract>
+      <description></description>
+      <persons>
+          <person id="2571">Selena Deckelmann</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

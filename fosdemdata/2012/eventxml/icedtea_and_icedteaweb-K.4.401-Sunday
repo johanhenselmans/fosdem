@@ -1,0 +1,19 @@
+  <event id="151">
+      <start>15:30</start>
+      <duration>00:30</duration>
+      <room>K.4.401</room>
+      <slug></slug>
+      <title>IcedTea and IcedTea-Web</title>
+      <subtitle></subtitle>
+      <track>Free Java Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;If you are using the default Java/Java plug-in on a major Linux distribution,&#xA;chances are, you are using IcedTea and IcedTea-Web. This talk will focus on&#xA;those projects. It will cover what IcedTea and IcedTea-Web are, the many&#xA;improvements have gone in over the past year, and where the two projects are&#xA;headed over the next year.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;In short:&#xA;* Want to know what IcedTea/IcedTea-Web are? Come to this talk!&#xA;* Wondering what we did over the past year? Come to this talk!&#xA;* Wondering where IcedTea/IcedTea-Web are headed? Come to this talk!&#xA;* Don&amp;#39;t care about Java and want to fall asleep? Come to this talk!&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Well maybe not the last one, but you will leave satisfied about #s 1, 2&#xA;and 3 :)&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="1511">Deepak Bhole</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="327">
+      <start>15:00</start>
+      <duration>00:40</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>POSIX::1003</title>
+      <subtitle></subtitle>
+      <track>Perl Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;&amp;#34;POSIX&amp;#34; stands for &amp;#34;Portable Operating System Interface&amp;#34;.  The POSIX module in &amp;#34;Perl core&amp;#34; is ancient, full of quirks and historical mistakes. However, for that same reason, it will not get fixed. The new &amp;#34;POSIX::1003&amp;#34; (living on CPAN) tries to be an alternative: same functionality (and more), more consistent, and documented by function group.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="3271">Mark Overmeer</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

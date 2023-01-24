@@ -1,0 +1,19 @@
+  <event id="79">
+      <start>13:00</start>
+      <duration>00:45</duration>
+      <room>H.1301</room>
+      <slug></slug>
+      <title>Farsight 2: Video conferencing made easy</title>
+      <subtitle></subtitle>
+      <track>CrossDesktop</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;&lt;a href=&#34;http://farsight.freedesktop.org/&#34;&gt;Farsight 2&lt;/a&gt; is a next-generation &lt;a href=&#34;http://gstreamer.freedesktop.org/&#34;&gt;GStreamer&lt;/a&gt; based videoconferencing framework, used in the &lt;a href=&#34;http://telepathy.freedesktop.org/&#34;&gt;Telepathy framework&lt;/a&gt;, Nokia Internet tablets, etc. It supports advanced features multi-party conferencing, lip-sync, etc.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Olivier will present a bit of the history of farsight, what it does, and show a nice cool demo and a three slide VoIP program.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="791">Olivier Crête</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

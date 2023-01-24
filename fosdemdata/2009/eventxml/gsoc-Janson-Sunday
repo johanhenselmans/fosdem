@@ -1,0 +1,19 @@
+  <event id="124">
+      <start>17:15</start>
+      <duration>01:00</duration>
+      <room>Janson</room>
+      <slug></slug>
+      <title>Google Summer of Code: A Behind the Scenes Look at Large Scale Community Management</title>
+      <subtitle></subtitle>
+      <track>Keynotes</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Ever wondered what it takes to make a community of more than 180 F/LOSS&#xA;projects and 5,000+ geeks create great software?&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;In this talk, Leslie Hawthorn will explore the successes and setbacks of &lt;a href=&#34;http://code.google.com/soc/&#34;&gt;Google Summer of Code&lt;/a&gt;, the first global program&#xA;designed to introduce University students to Free and Open Source software&#xA;development practices and methodologies. Leslie will discuss the program&amp;#39;s&#xA;inception, history, and impact, and the evolving requirements for managing a&#xA;large scale global community.  She will share lessons learned during the&#xA;past three years as the program&amp;#39;s Community Manager, with an eye to&#xA;providing audience members with strategies for organizing their own&#xA;community participation initiative, and provide attendees with an update on&#xA;&lt;a href=&#34;http://code.google.com/p/soc/&#34;&gt;Melange&lt;/a&gt;, the new work flow application&#xA;designed to manage *Google Summer of Code* - or similar programs - and&#xA;Google&amp;#39;s first Open Source project developed in the open from the first&#xA;commit.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1241">Leslie Hawthorn</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

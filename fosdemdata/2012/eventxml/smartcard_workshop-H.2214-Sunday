@@ -1,0 +1,19 @@
+  <event id="358">
+      <start>13:00</start>
+      <duration>02:00</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>Smart card workshop</title>
+      <subtitle></subtitle>
+      <track>Security Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Workshop on how to use smart cards with popular open source software.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="3581">Jean-Michel Pouré</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

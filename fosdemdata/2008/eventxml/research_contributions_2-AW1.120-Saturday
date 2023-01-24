@@ -1,0 +1,22 @@
+  <event id="240">
+      <start>17:15</start>
+      <duration>01:00</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>Contributions presentations (2)</title>
+      <subtitle></subtitle>
+      <track>Research Room</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;ul&gt;&lt;li&gt; The FOSSology project, by Bob Gobeille&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Hackademic 2009, by Tryggvi Bjorgvinsson and Helgi Thorbergsson&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Diffusion of the development tools and methods in Debian, by Martin F. Krafft&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA; </abstract>
+      <description></description>
+      <persons>
+          <person id="2401">Martin Krafft</person>
+          <person id="2402">Helgi Thorbergsson</person>
+          <person id="2403">Tryggvi Bjorgvinsson</person>
+          <person id="2404">Bob Gobeille</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

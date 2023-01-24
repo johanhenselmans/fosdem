@@ -1,0 +1,19 @@
+  <event id="112">
+      <start>09:00</start>
+      <duration>00:10</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>Welcome to the Games Devroom</title>
+      <subtitle></subtitle>
+      <track>Open Source Game Development Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;During this talk you will hear a short introduction what this room is about and which talks to expect during the day. In case there are any last minute changes you will hear about them during this talk.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="1121">Nils Kneuper</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

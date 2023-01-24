@@ -1,0 +1,20 @@
+  <event id="106">
+      <start>14:30</start>
+      <duration>01:00</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>Implementing Drupal for the Public Sector</title>
+      <subtitle></subtitle>
+      <track>Drupal</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Lessons Learned from Implementing Drupal in the Dutch Municipality of Vughten, followed by a Techal Case Study.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Frank will talk about politics and motivation while Michel will discuss some technical issues, illustrated by 3 custom modules&#x9;.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The municipality of Vught in the Netherlands will launch a new website based on Drupal in February. National government has implemented several programs to realize more online information, services and participation, both on a national as well as the local level. Traditional ICT structures struggle with these new demands. &#xA;&lt;/p&gt;&#xA;&lt;p&gt;This presentation will discuss the political, organisational and technical context and demands that have lead us to choose Drupal to build our closely integrated internet and intranet websites with. We will present the client&amp;#39;s view of the development process and discuss our plans for further development.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1061">Michel van de Ven</person>
+          <person id="1062">Frank Schaap</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

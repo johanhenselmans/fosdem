@@ -1,0 +1,19 @@
+  <event id="257">
+      <start>15:00</start>
+      <duration>01:00</duration>
+      <room>H.2213</room>
+      <slug></slug>
+      <title>Update on Gallium3D</title>
+      <subtitle></subtitle>
+      <track>X.org</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;&lt;a href=&#34;http://www.tungstengraphics.com/gallium3D.htm&#34;&gt;Gallium3D&lt;/a&gt; is a new architecture for building 3D graphics drivers. Supporting the future OpenGL 3.0 specification, but being API-neutral, it will model the programmable rendering pipelines of modern graphics hardware.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;This talk will give a status update on &lt;a href=&#34;http://www.tungstengraphics.com/gallium3D.htm&#34;&gt;Gallium3D&lt;/a&gt;, after its introduction at the X Developer Summit in september.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="2571">Keith Whitwell</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

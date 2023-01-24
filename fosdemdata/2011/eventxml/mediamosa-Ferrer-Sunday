@@ -1,0 +1,19 @@
+  <event id="190">
+      <start>10:00</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>MediaMosa: open source video backend</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;In this presentation you will hear about:&#xA;* The main ability of this platform&#xA;* Why it is a good solution for (educational) video sites&#xA;* You will see a demo video front end (WLE) for MediaMosa&#xA;* Introducion REST (Representational State Transfer) interface as a communication channel between the video frontend and backend&#xA;* How to: upload video, transcode video, create (multiple) still images&#xA;* How you can add and search metadatas (title, description, Dublin Core, Qualified Dublin Core) with CQL&#xA;* How you can increase the performance of MediaMosa using multiple servers&#xA;* Future developments&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;MediaMosa is a robust, flexible and highly scalable media management platform. It is already helping deliver rich content to educational organisations across the Netherlands.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Introducting video: http://mediamosa.org/content/introducing-mediamosa&#xA;About: http://mediamosa.org/about&#xA;Organization: http://mediamosa.org/content/organisation&#xA;Showcases: http://mediamosa.org/showcases&lt;/p&gt;      </description>
+      <persons>
+          <person id="1901">Peter Forgacs</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

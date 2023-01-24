@@ -1,0 +1,19 @@
+  <event id="69">
+      <start>16:00</start>
+      <duration>01:00</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>Gentoo&#39;s RelEng and catalyst use</title>
+      <subtitle></subtitle>
+      <track>CrossDistro devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;A short introduction to Gentoo&amp;#39;s Release Engineering[1] team and its current model to produce media to install Gentoo.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;An introduction to the the catalyst[2][3] tool and a description of the current configuration to produce our official stages and isos, specifically the weekly autobuilds.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;A short demonstration of how to configure and use catalyst to create stages and isos on one&amp;#39;s hardware.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;[1] - http://www.gentoo.org/proj/en/releng/&#xA;[2] - http://www.gentoo.org/proj/en/releng/catalyst/index.xml&#xA;[3] - http://git.overlays.gentoo.org/gitweb/?p=proj/catalyst.git;a=summary&lt;/p&gt;      </description>
+      <persons>
+          <person id="691">Jorge Manuel B. S. Vicetto</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

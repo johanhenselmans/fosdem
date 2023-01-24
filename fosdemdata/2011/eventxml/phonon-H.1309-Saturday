@@ -1,0 +1,19 @@
+  <event id="254">
+      <start>18:00</start>
+      <duration>00:45</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>&#34;KDE Abstracted My Abstraction Layer&#34; - Multimedia Style</title>
+      <subtitle></subtitle>
+      <track>Crossdesktop devroom</track>
+      <type></type>
+      <language></language>
+      <abstract></abstract>
+      <description>&#xA;&lt;p&gt;The KDE 4 platform is well known for its layers of abstraction, which enable it to run natively on a number of different platforms and form factors. One of those abstraction layers is Phonon. It stands at the heart of both KDE&amp;#39;s and Qt&amp;#39;s multimedia needs and powers mighty applications like Amarok as well as tiny ones such as KDE&amp;#39;s sound notification system. But what does it do, and how does it do it, and why is it awesome?&lt;/p&gt;      </description>
+      <persons>
+          <person id="2541">Harald Sitter</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

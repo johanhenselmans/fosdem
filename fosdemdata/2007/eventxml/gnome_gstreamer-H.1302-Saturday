@@ -1,0 +1,19 @@
+  <event id="71">
+      <start>15:15</start>
+      <duration>00:45</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>What&#39;s new in GStreamer</title>
+      <subtitle></subtitle>
+      <track>GNOME</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk will revolve around the new features and improvements that have appeared in &lt;a href=&#34;http://gstreamer.freedesktop.org/&#34;&gt;GStreamer&lt;/a&gt; over the past 6 months, and what new ideas are being currently discussed and designed.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;During the ongoing process of developing the &lt;a href=&#34;http://www.pitivi.org/&#34;&gt;PiTIVi&lt;/a&gt; video editor, Edward Hervey got to discover, love and finally hack on the &lt;a href=&#34;http://gstreamer.freedesktop.org/&#34;&gt;GStreamer multimedia framework&lt;/a&gt;. In fact he spends most of this time hacking in GStreamer, fixing core issues and bringing new functionalities.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="711">Edward Hervey</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

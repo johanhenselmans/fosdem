@@ -1,0 +1,19 @@
+  <event id="337">
+      <start>13:30</start>
+      <duration>00:25</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>Practical indexing guidelines</title>
+      <subtitle></subtitle>
+      <track>MySQL and Friends Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;In many production systems, indexes are designed empirically and without instrumentation to check their efficiency, resulting in poor performance and increased hardware needs. Learn in this talk the fundamental ideas behind indexing, the errors you should avoid and the tools that can help you harness the full power of indexes. The following topics will be covered: - strengths and limitations of indexes in MySQL - performance degradation caused by bad indexes - guidelines to design efficient indexes - tools and methods to identify and remove unnecessary indexes.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="3371">Stéphane Combaudon</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

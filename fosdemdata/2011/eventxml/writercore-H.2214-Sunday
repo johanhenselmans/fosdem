@@ -1,0 +1,19 @@
+  <event id="321">
+      <start>11:00</start>
+      <duration>00:45</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>Understanding the writer core</title>
+      <subtitle>how did it get that way</subtitle>
+      <track>LibreOffice devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;How to get stuck into the writer core and improve it.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;The writer core, has traditionally been a thing of magic and mystery. Come and understand how layout can tie you up in knots, and take forever to get right, experience the amusement of &amp;#39;loop free&amp;#39; layout, and get to grips with a key piece of the LibreOffice core.&lt;/p&gt;      </description>
+      <persons>
+          <person id="3211">Caolan McNamara</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

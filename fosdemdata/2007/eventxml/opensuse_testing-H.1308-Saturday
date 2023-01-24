@@ -1,0 +1,23 @@
+  <event id="182">
+      <start>18:30</start>
+      <duration>00:30</duration>
+      <room>H.1308</room>
+      <slug></slug>
+      <title>Testing the openSUSE distribution</title>
+      <subtitle></subtitle>
+      <track>openSUSE</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Testing of openSUSE from an internal perspective and how the community can engage.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;All interim openSUSE builds are tested by the SUSE QA Team. Of course the publicly released versions of openSUSE get a deeper look.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;This is an introduction to the testing that is done by SUSE and tools used. We&amp;#39;d like to discuss as well ideas how the openSUSE community can&#xA;engage better in this process.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1821">Holger Sickenberg</person>
+      </persons>
+      <links>
+          <link href="http://files.opensuse.org/opensuse/en/f/f6/FOSDEM2007TestingTheOpenSuseDistribution.pdf">Slides (PDF)</link>
+          <link href="http://ftp5.gwdg.de/pub/opensuse/FOSDEM/2007/fosdem2007-08_Testing_the_openSUSE_distribution-1200.ogg">Video (Ogg/Theora)</link>
+          <link href="http://ftp5.gwdg.de/pub/opensuse/FOSDEM/2007/fosdem2007-08_Testing_the_openSUSE_distribution-320.ogg">Video (Ogg/Theora/Low quality)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

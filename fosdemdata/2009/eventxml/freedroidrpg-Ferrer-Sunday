@@ -1,0 +1,19 @@
+  <event id="100">
+      <start>14:00</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Introducing FreedroidRPG, a great FOSS isometric RPG</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The talk introduces the game FreedroidRPG, insisting on it being mature and fully playable.&#xA;We will see what features FreedroidRPG provides, present a few screenshots, explain our&#xA;interest in having an immersive ambience through dialogs, music and graphics, and mention the&#xA;unusual history of the game (it started off as a 2D arcade game before evolving into a full featured&#xA;RPG similar to Diablo). We will explain where we need help from the community. A demo will not be&#xA;possible in the timeframe of a lightning talk, but a little video may be played.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;FreedroidRPG is a mature open source sci-fi isometric role playing game. It&#xA;strives at providing an immersive ambience backed by refined graphics and&#xA;music tracks. Besides the hack&amp;#39;n&amp;#39;slash action phases, dialogs with dozens of&#xA;NPCs take care of storytelling. The player can fight with melee or ranged&#xA;weapons, take control of his enemies by hacking, and remotely execute code on&#xA;enemy robots.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1001">Arthur Huillet</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

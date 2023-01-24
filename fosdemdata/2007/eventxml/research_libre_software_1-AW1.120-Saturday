@@ -1,0 +1,31 @@
+  <event id="199">
+      <start>16:00</start>
+      <duration>02:00</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>Research and Libre Software (I)</title>
+      <subtitle></subtitle>
+      <track>Research Room</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Presentation of reviewed short papers.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;ul&gt;&lt;li&gt; AdaCore Quality Procedures: Romain Berrendonner, Jose Ruiz&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Linux distribution testing and quality assurance: current developments of the &lt;a href=&#34;http://www.edos-project.org/&#34;&gt;EDOS project&lt;/a&gt; and open questions: Francois Dechelle&#xA;&lt;/li&gt;&#xA;&lt;li&gt; A reference model for F/OSS process management: Ciaran Bryce&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Use of grid computing for Debian Quality Assurance: Lucas Nussbaum&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA; </description>
+      <persons>
+          <person id="1991">Ciaran Bryce</person>
+          <person id="1992">Francois Déchelle</person>
+          <person id="1993">Romain Berrendonner</person>
+          <person id="1994">Lucas Nussbaum</person>
+          <person id="1995">Jose Ruiz</person>
+      </persons>
+      <links>
+          <link href="http://gsyc.escet.urjc.es/~herraiz/fosdem2007/papers/AdaCore_QA.pdf">Slides (PDF)</link>
+          <link href="http://gsyc.escet.urjc.es/~herraiz/fosdem2007/slides/edos-wp3-fosdem-research-workshop-presentation.pdf">Slides (PDF)</link>
+          <link href="http://gsyc.escet.urjc.es/~herraiz/fosdem2007/papers/edos-wp3-fosdem-research-workshop.pdf">Slides (PDF)</link>
+          <link href="http://gsyc.escet.urjc.es/~herraiz/fosdem2007/papers/pawlakbryce.pdf">Slides (PDF)</link>
+          <link href="http://gsyc.escet.urjc.es/~herraiz/fosdem2007/slides/gridqa.pdf">Slides (PDF)</link>
+          <link href="http://gsyc.escet.urjc.es/~herraiz/fosdem2007/papers/grid-qa.pdf">Slides (PDF)</link>
+          <link href="http://libresoft.urjc.es/videos/FOSDEM07/20070224_AdaCore_Berrendonner-Ruiz.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

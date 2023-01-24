@@ -1,0 +1,19 @@
+  <event id="92">
+      <start>16:20</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>EducOOo: OOo4Kids and OOoLight</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Present OOo4Kids idea&#xA;- Based on OpenOffice.org, without Java no&#xA;- new features, adapted to children&#xA;- how we work with teachers, schools and students (new features implementation)&#xA;- the future (OOoLight)&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;OOo4Kids is a 7-12 years software, based on OpenOffice.org source code, say, extremely simplified. Everything is made with the idea to contribute back to OpenOffice.org Project, through OpenOffice.org Education Project, and students projects, but not only (all sort of contributions are welcome, of course). Resources are managed by the EducOOo non profit association. The software OOo4Kids is released under LGPL V3 License&lt;/p&gt;      </description>
+      <persons>
+          <person id="921">Eric Bachard</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

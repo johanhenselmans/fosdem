@@ -1,0 +1,21 @@
+  <event id="144">
+      <start>16:00</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Parted</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;A lightning talk about Parted, its current and future features.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Discussion of current features in the 1.8.x release tree and plans for that branch&amp;#39;s future releases.  Cover the plans and goals for the parted 2.0 release, including filesystem VFS layer, improved exception handling, and other language bindings.  Explain how parted is used in various projects and how users can contribute. &#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;i&gt;About Parted:&lt;/i&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;GNU parted is an open source disk partitioning and filesystem creation utility.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1441">David Cantrell</person>
+      </persons>
+      <links>
+          <link href="../../slides/lightningtalks/Parted.pdf">Slides (PDF)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

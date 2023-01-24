@@ -1,0 +1,19 @@
+  <event id="269">
+      <start>15:00</start>
+      <duration>00:45</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>Persisting dynamic data with MongoMapper</title>
+      <subtitle></subtitle>
+      <track>Ruby + Rails</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;What is &lt;a href=&#34;http://www.mongodb.org/&#34;&gt;MongoDB&lt;/a&gt; and how can you use it in a Ruby project.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Introduction to &lt;a href=&#34;http://www.mongodb.org/&#34;&gt;MongoDB&lt;/a&gt;, &lt;a href=&#34;http://github.com/jnunemaker/mongomapper/&#34;&gt;MongoMapper&lt;/a&gt; and advanced usage of the tools given by MongoMapper. Short look at other Document Oriented Databases.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2691">Bernard Grymonpon</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

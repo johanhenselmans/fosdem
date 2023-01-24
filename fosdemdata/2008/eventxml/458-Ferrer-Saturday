@@ -1,0 +1,22 @@
+  <event id="26">
+      <start>16:20</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Indywiki: visually browsing wikipedia pages</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;In this&#xA;short talk I am willing to present indywiki, how one can use it to browse&#xA;Wikipedia and what advantages this might offer over a web browser, plus a&#xA;few thing about indywiki architecture and current work/research .&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Indywiki is an open source project&#xA;that aims to explore different ways of visually browsing wikipedia pages.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="261">Markos Gogoulos</person>
+      </persons>
+      <links>
+          <link href="http://fosdem.org/2008/slides/lightningtalks/fosdem08_ltalk_indywiki.pdf">Slides (PDF)</link>
+          <link href="http://video.fosdem.org/2008/lightningtalks/FOSDEM2008-indywiki.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

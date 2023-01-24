@@ -1,0 +1,19 @@
+  <event id="186">
+      <start>14:00</start>
+      <duration>01:00</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>Community Project Organisation and Seamonkey 2</title>
+      <subtitle></subtitle>
+      <track>Mozilla</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The talk will provide an overview of volunteer-driven community project organisation and specifically SeaMonkey 2 development.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Driving and organizing a volunteer project is challenging every day. Mozilla community projects have their own specific set of infrastructure that help ease part of those, but also their own difficulties. This talk will shed a light on those as well as other issues concerning SeaMonkey development (like web discrimination), with a short glimpse on what SeaMonkey 2 will bring to the world of the legendary Internet suite.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1861">Robert Kaiser</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

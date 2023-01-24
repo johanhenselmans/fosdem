@@ -1,0 +1,19 @@
+  <event id="287">
+      <start>11:00</start>
+      <duration>00:45</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>Coherence - the digital livingroom and beyond</title>
+      <subtitle></subtitle>
+      <track>CrossDesktop</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Coherence - The Digital Livingroom and beyond (sharing our media with UPnP/DLNA).&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;After quite some time, where our digital media was limited to dedicated devices - e.g. mp3 players - or spend an isolated life on the PCs of their owners, more and more consumer device appear on the market allowing to easily share these media files in an household (and beyond).&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The protocols behind UPnP A/V and DLNA are nowadays implemented in nearly every connected Consumer Electronics device. Being it some first simple clients years ago, continuing with consoles like the PS3 and the XBox 360, media clients like the !PopcornHour,... and now they can be found in amplifiers, TVs and even mobile phones from various vendors.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Using these UPnP A/V and DLNA on our computers and enabling our favourite applications to enter that world, creates a unique landscape where suddenly bridges appear between formerly isolated digital islands.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Coherence is a framework written in Python, that greatly simlifies the entry into the UPnP world. It provides numerous UPnP devices, that can instantly used to serve media-files, act as a gateway to online resources, or to expose the media-db of some application. Others enable controllable media playback for instance via GStreamer.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2871">Frank Scholz</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="113">
+      <start>14:15</start>
+      <duration>00:45</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>Linux on the PS3</title>
+      <subtitle></subtitle>
+      <track>Embedded</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Sony&amp;#39;s Playstation 3 is an interesting platform to run Linux on and start hacking: first it comes with a pre-installed Xen hypervisor to easily install&#xA;any OS without erasing the original gaming OS. Furthermore IBM provides a complete C/C++ SDK based on gcc to leverage the amazing Cell BE CPU.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;The Cell BE is an 8 cores chip of which 7 SPEs are optimised to perform Single Instruction Multiple Data processing and the remaining hyperthreaded PowerPC core (aka the PPE) plays the role of a conductor. For numerical applications a single Cell BE can run up to 200 GFLOPS where a typical Intel Core2Duo theoretically gives 30.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The talk will be organised as follows: we first introduce the general architecture of the PS3 system, then we focus on SIMD programming with sample&#xA;program written for both the PPE&amp;#39;s Altivec instruction set and the SPEs.&#xA;Then we will finally show how to use Direct Memory Access to feed the cores with data without stall by implementing double-buffering with the DMA API of libspe2.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1131">Olivier Grisel</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

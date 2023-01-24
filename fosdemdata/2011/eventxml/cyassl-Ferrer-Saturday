@@ -1,0 +1,19 @@
+  <event id="40">
+      <start>17:20</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>CyaSSL: All the fun stuff we&#39;re doing with CyaSSL</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;We&amp;#39;ll talk about the other projects and devices we&amp;#39;re adding security to with CyaSSL and show some benchmarks.  We&amp;#39;ll talk a bit about securing memcached, some of the embedded devices we&amp;#39;ve secured, integration with things like OpenWRT.  We&amp;#39;ll also cover our work in porting crypto functionality to GPU&amp;#39;s and Android.  And we&amp;#39;ll throw in a little discussion on using CyaSSL to secure MySQL.  It will be a buffet of tasty security software treats.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;CyaSSL is a lightweight yet fully functional embedded SSL implementation for programmers building security into applications and devices.&lt;/p&gt;      </description>
+      <persons>
+          <person id="401">Larry Stefonic</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

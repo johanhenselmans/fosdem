@@ -1,0 +1,19 @@
+  <event id="114">
+      <start>14:00</start>
+      <duration>01:00</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>GNOME Color Manager</title>
+      <subtitle></subtitle>
+      <track>GNOME</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;GNOME Color Manager: exploring the user experience and integration points for a 100% color managed desktop&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;GNOME Color Manager is a new project intending to make color management in the GNOME desktop &amp;#34;just work&amp;#34;. In this presentation I will quickly introduce why color management is required, and also the problems introducing a color management workflow. We will compare and contrast the frameworks commonly used in OSX and Windows 7. By discussing the integration points, we will be talking to application developers and platform maintainers in order to shape the future development of GNOME Color Manager. We will also spend some time exploring the intricacies of a color management framework best suitable for GNOME, and how GNOME Color Manager can start to provide this functionality.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;There will be time left for questions and discussion. It is expected the audience will be moderately technically skilled, and possess a basic understanding of color management.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1141">Richard Hughes</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="163">
+      <start>18:15</start>
+      <duration>00:45</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>KDE España</title>
+      <subtitle></subtitle>
+      <track>KDE</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;KDE España is the society for KDE developers in Spain.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Aleix will tell us what it does and why it exists.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1631">Aleix Pol</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

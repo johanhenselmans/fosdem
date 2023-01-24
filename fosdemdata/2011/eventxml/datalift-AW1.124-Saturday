@@ -1,0 +1,19 @@
+  <event id="47">
+      <start>15:00</start>
+      <duration>00:15</duration>
+      <room>AW1.124</room>
+      <slug></slug>
+      <title>Datalift, A catalyser for the Web of data</title>
+      <subtitle></subtitle>
+      <track>Data Analytics devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Datalift brings raw structured data coming from various formats (relational databases, CSV, XML, ...) to semantic data interlinked on the Web of Data.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Datalift brings raw structured data coming from various formats (relational databases, CSV, XML, ...) to semantic data interlinked on the Web of Data.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Datalift is an experimental research project funded by the French national research agency. Its goal is to develop a platform to publish and interlink datasets on the Web of data. Datalift will both publish datasets coming from a network of partners and data providers and propose a set of tools for easing the datasets publication process.&lt;/p&gt;      </description>
+      <persons>
+          <person id="471">François Sharffe</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

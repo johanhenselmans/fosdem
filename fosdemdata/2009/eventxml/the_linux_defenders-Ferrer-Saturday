@@ -1,0 +1,19 @@
+  <event id="278">
+      <start>14:20</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>The Linux Defenders: Stop the Trolls, Protect Linux, Further Innovation</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Open Invention Network (OIN), a collaborative enterprise that enables open source innovation and an increasingly vibrant ecosystem around Linux, has unveiled the Linux Defenders program, which is designed to make prior art more readily accessible to patent and trademark office examiners, increase the quality of granted patents and reduce the number of poor quality patents.  &#xA;&lt;/p&gt;&#xA; &#xA;&#xA;&lt;p&gt;Keith Bergelt will talk about how the open source community is leading the charge in market-based patent reform. Its Linux Defenders program offers the Linux and broader open source community a unique opportunity to harness its collaborative passion, intelligence, and ingenuity to ensure Linux’s natural migration to mobile devices and computing. He will also detail how this landmark program will benefit open source innovation by significantly reducing the number of poor quality patents that might otherwise be used by patent trolls or strategics whose behaviors and business models are antithetical to true innovation and are thus threatened by Linux.&#xA;&lt;/p&gt;&#xA; &#xA;&#xA;&lt;p&gt;The Linux Defenders website is located at http://www.linuxdefenders.org.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Co-sponsored by the Software Freedom Law Center and the Linux Foundation, Linux Defenders is a first-of-its-kind program which aims to reduce future intellectual property concerns about meritless patents for the Linux and open source community.  The program is designed to accomplish this by soliciting prior art to enable the rejection of poor quality patent applications; soliciting prior art to enable the invalidation of poor quality issued patents; and soliciting high quality inventions that can be prepared as patent applications or defensive publications.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2781">Keith Bergelt</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

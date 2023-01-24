@@ -1,0 +1,19 @@
+  <event id="10">
+      <start>11:00</start>
+      <duration>00:45</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>Application Deployment With Chef </title>
+      <subtitle></subtitle>
+      <track>Configuration &amp; Systems Management devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Chef is a flexible configuration management tool, library and system integration framework. This talk will cover how to use Chef to deploy applications with nothing but the source code repository and data about the application configuration. We&amp;#39;ll look at two deployment examples in Amazon EC2 with Ruby on Rails and Java with Tomcat including a real world use case for Ruby on Rails.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="101">Joshua Timberman</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

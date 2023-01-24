@@ -1,0 +1,19 @@
+  <event id="197">
+      <start>14:00</start>
+      <duration>00:30</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>Improving the Extensions and Template Center</title>
+      <subtitle>our beautiful new infrastructure</subtitle>
+      <track>LibreOffice Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Explaining the upcoming hacks / improvements in the extensions- and specially the template-center.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="1971">Andreas Mantke</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

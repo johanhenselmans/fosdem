@@ -1,0 +1,19 @@
+  <event id="234">
+      <start>13:00</start>
+      <duration>01:00</duration>
+      <room>Lameere</room>
+      <slug></slug>
+      <title>Introduction to OpenBricks, an Embedded Linux Framework</title>
+      <subtitle></subtitle>
+      <track>Embedded devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Whether it is for quick prototyping or designing a full blown system,&#xA;board bring-up and embedded OS definition, customization and&#xA;fine-tuning is a nightmare for each and every Linux embedded&#xA;developer.&#xA;This presentation will lighten up OpenBricks&#xA;(http://www.openbricks.org/), an enterprise-grade embedded Linux&#xA;framework that provides easy creation of custom Linux distributions&#xA;for industrial embedded devices.&#xA;It features a complete embedded development kit for rapid deployment&#xA;on x86, ARM, PowerPC and MIPS systems with support for industry&#xA;leaders.&#xA;One just has to pick his device, select his software bricks and cook&#xA;his product !&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Who is it for ? Individuals and companies that look for rapid board&#xA;bring-up with fine-grain embedded Linux distribution setup with&#xA;complete customization.&#xA;Ever had to care about BSP and toolchain ? That’s now long gone history.&#xA;OpenBricks either features supports for its own toolchain or allow you&#xA;to reuse CodeSourcery and Linaro ones.&#xA;If time to market means for you, OpenBricks will save your day.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Which hardware is supported ? OpenBricks supports a broad range of&#xA;embedded devices and SoCs (including but not limited to ones from&#xA;Intel, TI, nVidia, Freescale, Broadcom and Marvell), from low-end MIPS&#xA;to high-end ARM Cortex-A9 MP through Intel ATOM. Whether you’re&#xA;designing a smartphone, a SetTopBox, a NAS or a router, OpenBricks can&#xA;optimize your code for multi-cores SMP, multi-threaded SMT, hardware&#xA;cryptographic accelerators, various DSPs and SIMD extensions.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;What does the software offer ? OpenBricks reduces development efforts&#xA;by abstracting the low-level interface to your device. It supports all&#xA;Khronos industry standards (OpenGL|ES, OpenVG, OpenMAX …) and major&#xA;applicative frameworks (Qt, GTK, EFL, SDL) for you to only focus on&#xA;your end-user application.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="2341">Benjamin Zores</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="216">
+      <start>13:30</start>
+      <duration>00:30</duration>
+      <room>H.1301</room>
+      <slug></slug>
+      <title>Mozmill Crowd - A change in how we test Firefox </title>
+      <subtitle></subtitle>
+      <track>Mozilla devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Mozilla QA has created a new feature called the Mozmill Crowd Extension that allows any Firefox user to automatically and effortlessly run our set of basic Mozmill functional test cases against their installed Firefox browser and report the results to our central reporting server.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Any user in any locale can now participate in giving us valuable feedback on how their browser is operating in their environment. Mainly targeting the thousands of Firefox nightly testers, this extension will give Mozilla unprecedented insights on how a particular nightly build is working across the globe. In this session we will describe and demonstrate how the extension works, what data is collected from the tests and how the results are reported and analyzed&lt;/p&gt;      </description>
+      <persons>
+          <person id="2161">Henrik Skupin</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

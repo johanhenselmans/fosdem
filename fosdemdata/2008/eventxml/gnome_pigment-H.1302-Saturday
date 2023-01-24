@@ -1,0 +1,19 @@
+  <event id="151">
+      <start>16:00</start>
+      <duration>00:45</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>Pigment: Towards a desktop scene graph</title>
+      <subtitle></subtitle>
+      <track>GNOME</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk is about the &lt;a href=&#34;https://code.fluendo.com/pigment/trac&#34;&gt;Pigment library&lt;/a&gt;. The project has been initiated by &lt;a href=&#34;http://www.fluendo.com/&#34;&gt;Fluendo&lt;/a&gt; at the same time as the &lt;a href=&#34;http://elisa.fluendo.com/&#34;&gt;Elisa media center&lt;/a&gt;, from the observation that the GNOME desktop lacks a library for easily creating rich application user interfaces.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Pigment used to be linked to Elisa, but it is now evolving on its own trying to attract more developers. This talk will expose the current Pigment API, how it integrates in the desktop, and the plans for the upcoming/next versions.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1511">Loïc Molinari</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

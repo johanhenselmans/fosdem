@@ -1,0 +1,19 @@
+  <event id="60">
+      <start>12:00</start>
+      <duration>00:25</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>Cluster internals</title>
+      <subtitle></subtitle>
+      <track>MySQL and Friends Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk will go through the components of the MySQL Cluster architecture. How MySQL Cluster fits into the standard MySQL through the storage engine interface, as well as the different node types in the MySQL Cluster and how they work internally to guarantee high availability. We will also take a look at the resource utilisation within the nodes and how that is managed and configured.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="601">Ralf Gebhardt</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

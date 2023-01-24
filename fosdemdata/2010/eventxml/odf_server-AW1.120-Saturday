@@ -1,0 +1,19 @@
+  <event id="237">
+      <start>18:00</start>
+      <duration>00:30</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>ODF on the server - ODFDOM architecture</title>
+      <subtitle></subtitle>
+      <track>OpenOffice.org</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;ODFDOM is the name of the free OpenDocument framework, which was recently published in version 0.75 to support ODF 1.2.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Its overall purpose is to provide the ODF developer community a lightweight programming API in order to easily access and manipulate ODF documents. With its version 0.75, ODFDOM supports all ODF 1.2 elements and attributes, generated from the OpenDocument RelaxNG schema directly into the Java source code. The upcoming presentation will give an overview over the architecture, design ideas and in addition deliver insights about the roadmap and upcoming features.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2371">Svante Schubert</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

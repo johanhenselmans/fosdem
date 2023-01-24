@@ -1,0 +1,19 @@
+  <event id="218">
+      <start>14:00</start>
+      <duration>01:00</duration>
+      <room>Lameere</room>
+      <slug></slug>
+      <title>Advanced Experiments with XMOS Multicore Embedded Hardware.</title>
+      <subtitle></subtitle>
+      <track>Embedded devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Embedded systems handle signals from the outside world using either polling or interrupts.&#xA;While polling is resource consuming, interrupt-driven approaches can introduce bugs which are subtle and difficult to debug.&#xA;This talk discusses our experience on porting the Scheme programming language to a new event-driven architecture and programming style developed by the XMOS company.&#xA;The architecture&amp;#39;s hardware support for multithreading enables an event-driven style for programming embedded systems which does not suffer from the drawbacks associated with the use of polling and interrupts.&#xA;To accomplish this, the thread support is implemented in hardware.&#xA;Each thread has a dedicated set of registers and is assigned a guaranteed amount of CPU cycles.&#xA;We first describe how we ported a Scheme interpreter to this new architecture.&#xA;We exploit the multi-threaded nature of this architecture by running multiple interpreters in parallel, concretely one interpreter on each core.&#xA;In addition, we extended each interpreter with abstractions to manage this concurrency and to exploit features specific of the XMOS hardware.&#xA;Such abstractions include sending messages between interpreters over channels.&#xA;Concretely, our effort enables an event-driven style for programming multi-core embedded systems in Scheme.&#xA;We show how the XMOS architecture helps the programming in overcoming the difficulties associated with polling and interrupt-driven approaches.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="2181">Christophe Scholliers</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="245">
+      <start>13:30</start>
+      <duration>00:30</duration>
+      <room>UA2.114</room>
+      <slug></slug>
+      <title>What&#39;s coming in PostgreSQL 8.4 ?</title>
+      <subtitle></subtitle>
+      <track>BSD + PostgreSQL</track>
+      <type></type>
+      <language></language>
+      <abstract></abstract>
+      <description></description>
+      <persons>
+          <person id="2451">Magnus Hagander</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

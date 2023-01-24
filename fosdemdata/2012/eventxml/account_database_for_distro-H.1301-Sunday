@@ -1,0 +1,21 @@
+  <event id="2">
+      <start>14:00</start>
+      <duration>01:00</duration>
+      <room>H.1301</room>
+      <slug></slug>
+      <title>Adventure of setting common account database for a distribution infrastructure</title>
+      <subtitle></subtitle>
+      <track>CrossDistribution Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The talk will be a summary of the motivation and problem encountered while setting a global shared account database for the Mageia distribution infrastructure, focusing on LDAP and the issues around software integration, patches and directory synchronisation.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="21">Michael Scherer</person>
+      </persons>
+      <links>
+          <link href="http://video.fosdem.org/2012/crossdistro/Adventure_of_setting_common_account_database_for_a_distribution_infrastructure.webm">Video recording</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

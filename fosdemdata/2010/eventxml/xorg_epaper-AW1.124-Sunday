@@ -1,0 +1,19 @@
+  <event id="307">
+      <start>16:00</start>
+      <duration>00:45</duration>
+      <room>AW1.124</room>
+      <slug></slug>
+      <title>X on e-Paper</title>
+      <subtitle></subtitle>
+      <track>X.org</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;e-Paper is a relatively new display type with very unusual characteristics. Some of them, such as greyscale, bring back memories of the distant past, whereas others, like a 1Hz refresh rate, are completely unique.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;This talk will outline the special requirements that e-Paper imposes on X.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="3071">Mikhail Gusarov</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

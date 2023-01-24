@@ -1,0 +1,21 @@
+  <event id="390">
+      <start>15:40</start>
+      <duration>00:30</duration>
+      <room>H.1308</room>
+      <slug></slug>
+      <title>Tumbler - A Modern D-Bus Thumbnail Service</title>
+      <subtitle></subtitle>
+      <track>CrossDesktop Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Tumbler is a D-Bus service that generates thumbnails for various kinds&#xA;of applications. Clients can pick from several schedulers and thumbnail&#xA;flavors depending on their needs. Tumbler provides a plugin interface&#xA;via which the list of supported file types can be extended. It already&#xA;ships thumbnail plugins for videos, fonts, images, ODF documents,&#xA;PDF/PS documents and RAW images. Thanks to its support for delegating&#xA;thumbnail request to specialized third-party services, Tumbler can also&#xA;be used with closed source thumbnail generators.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Originally written for Xfce and its Thunar file manager, Tumbler was&#xA;later integrated in MeeGo and is now used on the N9 as well. In this&#xA;talk, I will explain the features, design, and usage of Tumbler as well&#xA;as its current limitations. The ultimate goal is to make application and&#xA;desktop developers aware of it and motivate them to adopt Tumbler in&#xA;their software. The talk will include a live demonstration.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="3901">Jannis Pohlmann</person>
+      </persons>
+      <links>
+          <link href="614/136_2012-fosdem-tumbler.pdf">2012-fosdem-tumbler.pdf (slides)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

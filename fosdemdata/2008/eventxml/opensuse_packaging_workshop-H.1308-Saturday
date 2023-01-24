@@ -1,0 +1,20 @@
+  <event id="214">
+      <start>17:00</start>
+      <duration>00:45</duration>
+      <room>H.1308</room>
+      <slug></slug>
+      <title>Build Service and Packaging Workshop</title>
+      <subtitle></subtitle>
+      <track>openSUSE</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Come with your application and help you packaging it in the &lt;a href=&#34;http://build.opensuse.org/&#34;&gt;openSUSE Build Service&lt;/a&gt;.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description></description>
+      <persons>
+          <person id="2141">Klaas Freitag</person>
+          <person id="2142">Adrian Schroeter</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="303">
+      <start>14:00</start>
+      <duration>00:30</duration>
+      <room>H.2213</room>
+      <slug></slug>
+      <title>Stump the XMPP Experts! Open Q&amp;A</title>
+      <subtitle></subtitle>
+      <track>Jabber + XMPP</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Open question and answers session with the XMPP Council and XMPP book authors.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="3031">Peter Saint-Andre</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="227">
+      <start>13:15</start>
+      <duration>00:45</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>CouchDB, a database designed for the web and more</title>
+      <subtitle></subtitle>
+      <track>NoSQL</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;&lt;a href=&#34;http://couchdb.apache.org/&#34;&gt;Apache CouchDB&lt;/a&gt; is a distributed, fault-tolerant and schema-free document-oriented database accessible via a RESTful HTTP/JSON API. CouchDB design and replication features solve  the problem of high-traffic websites, distributed peer-to-peer, and offline application, all in the same time.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;This talk  won&amp;#39;t be redundant with the main track. After a  really quick look on CouchDB it will show you how CouchDB uses the web standards to serve your data on the desktop or on the web and how the &lt;a href=&#34;http://benoitc.github.com/couchapp/&#34;&gt;Couch Apps&lt;/a&gt; can be used. Some real usages will be used as example.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2271">Benoit Chesneau</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

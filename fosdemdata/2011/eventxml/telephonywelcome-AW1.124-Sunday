@@ -1,0 +1,19 @@
+  <event id="296">
+      <start>09:00</start>
+      <duration>00:15</duration>
+      <room>AW1.124</room>
+      <slug></slug>
+      <title>Welcome to the Open Source Telephony Devroom</title>
+      <subtitle></subtitle>
+      <track>Open Source Telephony devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Welcome to the Open Source Telephony Devroom&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;This talk is an introduction to the Open Source Telephony Devroom.  We will welcome everyone and do a quick review of the day&amp;#39;s agenda.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2961">Russell Bryant</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

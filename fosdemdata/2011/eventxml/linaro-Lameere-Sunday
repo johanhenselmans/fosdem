@@ -1,0 +1,19 @@
+  <event id="172">
+      <start>10:00</start>
+      <duration>01:00</duration>
+      <room>Lameere</room>
+      <slug></slug>
+      <title>Linaro</title>
+      <subtitle></subtitle>
+      <track>Embedded devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Linaro is a not-for-profit organization funded by ARM, Texas&#xA; Instruments, Freescale, ST-Ericsson, Samsung and IBM for the success of&#xA; opensource on ARM.  With more than 90 full time engineers in areas as&#xA; diverse as toolchain, graphics, multimedia, kernel, power management,&#xA; platforms and many more, we aim at improving and consolidating the&#xA; lower levels of Linux based stacks in future products.&lt;/p&gt;&#xA;&#xA;&lt;p&gt; Come see all the good Linaro outputs you can take home, get a breath of&#xA; our freshest development plans, and a taste of how we work internally&#xA; and with upstreams and downstreams.  Discover some of the tools we&amp;#39;ve&#xA; improved or created, and the ones coming next.  Challenge your views of&#xA; what makes a modern Linux based OS now, and what it might be in the&#xA; future.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="1721">Loïc Minier</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

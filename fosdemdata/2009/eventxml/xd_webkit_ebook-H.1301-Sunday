@@ -1,0 +1,19 @@
+  <event id="287">
+      <start>13:45</start>
+      <duration>00:45</duration>
+      <room>H.1301</room>
+      <slug></slug>
+      <title>WebKit on ebook readers</title>
+      <subtitle></subtitle>
+      <track>CrossDesktop</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Marco will give a brief introduction on how WebKit GTK works and on how it can be easily embedded in applications.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;He will then explain what he did to adapt WebKit to electronic ink displays, reducing the number of refreshes, allowing a book-like page by page view of web pages and showing useful and meaningful placeholders instead of animated content.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2871">Marco Barisione</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

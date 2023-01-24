@@ -1,0 +1,19 @@
+  <event id="246">
+      <start>11:00</start>
+      <duration>00:45</duration>
+      <room>K.3.601</room>
+      <slug></slug>
+      <title>Enough Debian packaging knowledge to hurt yourselves slightly less than you do already</title>
+      <subtitle></subtitle>
+      <track>Mono Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;There are millions of users running a Debian-based Linux distribution. Increase distribution of your hottest Mono apps by making them available in .deb format. Learn the basics, caveats, gotchas, and fastest shortcuts involved in making distribution-integrated packages for Debian and Ubuntu&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="2461">Jo Shields</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

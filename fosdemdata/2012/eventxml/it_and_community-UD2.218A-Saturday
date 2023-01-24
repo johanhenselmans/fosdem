@@ -1,0 +1,19 @@
+  <event id="169">
+      <start>14:30</start>
+      <duration>00:30</duration>
+      <room>UD2.218A</room>
+      <slug></slug>
+      <title>IT and Community</title>
+      <subtitle></subtitle>
+      <track>Mozilla Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Mozilla IT has been managed for a too long time by paid-staff only. We are now moving toward opening it to the community, be as open as possible.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;This talk will be about how we&amp;#39;re doing it, but it is also an opportunity to gather feedback and exchange with the OSS projects that have always been working that way.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="1691">Arzhel Younsi</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

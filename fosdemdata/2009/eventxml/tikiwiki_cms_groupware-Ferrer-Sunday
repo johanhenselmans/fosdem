@@ -1,0 +1,19 @@
+  <event id="279">
+      <start>16:00</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>TikiWiki CMS/Groupware - When just a Wiki is Not Enough</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;TikiWiki is a powerful, multilingual Wiki, Content Management System (CMS) and Groupware. Translated to 35 languages, and with an install base of tens of thousands, over 200 people have contributed to the source code and it provides hundreds of built-in features to create all sorts of web sites, intranets and extranets, including support.mozilla.com.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The community eats its own DogFood and applies the &amp;#34;Wiki Way&amp;#34; to software development. Written in PHP, it is released as free software (LGPL). TikiWiki is at the crossroads between Wikis and CMS/Groupware. It is so much more than just a wiki. &#xA;&lt;/p&gt;&#xA;&lt;p&gt;Most wikis are pure wikis. However, is that sufficient? &amp;#34;He who is good with a hammer thinks the world is a nail&amp;#34;. While a wiki is a great tool, it is not optimal in many situations. For some things, forums, issue trackers, blogs, etc. are better. That&amp;#39;s why there are hundreds of Content Management Systems (CMS) out there. However, many CMS systems are focused on classic publishing, rather than community and collaboration. &#xA;&lt;/p&gt;&#xA;&lt;p&gt;In TikiWiki, the wiki way is found throughout the application. For example, the wiki syntax works in the forums, and in structured data trackers. Major features of TikiWiki include news articles, forums, newsletters, blogs, a file/image gallery, structured data trackers, translation, polls, calendar, Mobile Tiki (PDA and WAP access), RSS feeds, a category system, a theme control center, and more.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;When would you need a wiki that is bundled with other features? Find out for yourself in this session what makes TikiWiki unique.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;TikiWiki CMS/Groupware is a full-featured, tightly integrated, open source, multilingual, all-in-one Wiki-CMS-Groupware, written in PHP and actively developed by a very large international community. Major features include articles, forums, newsletters, blogs, a file/image gallery, a wiki, bug &amp;amp; issue tracker (form generator), a calendar, RSS feeds, a category system, tags, a workflow engine, an advanced user, group and permission system and more.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2791">Marc Laporte</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="183">
+      <start>14:45</start>
+      <duration>01:00</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>Mozilla Labs Weave</title>
+      <subtitle></subtitle>
+      <track>Mozilla</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Discussion around ideas and plans for building and scaling a community-based innovation lab; and details on major projects and initiatives such as &lt;a href=&#34;https://services.mozilla.com/&#34;&gt;Weave&lt;/a&gt;.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description></description>
+      <persons>
+          <person id="1831">Dan Mills</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

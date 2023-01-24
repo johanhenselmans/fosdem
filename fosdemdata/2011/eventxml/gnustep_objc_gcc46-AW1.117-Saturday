@@ -1,0 +1,19 @@
+  <event id="128">
+      <start>17:45</start>
+      <duration>00:30</duration>
+      <room>AW1.117</room>
+      <slug></slug>
+      <title>Objective-C support in GCC 4.6</title>
+      <subtitle></subtitle>
+      <track>World of GNUstep devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This presentation introduces the state of Objective-C support in GCC 4.6 and discusses the new Objective-C features available.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;This presentation introduces the state of Objective-C support in GCC 4.6 and discusses the new Objective-C features available.&lt;/p&gt;      </description>
+      <persons>
+          <person id="1281">Nicola Pero</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

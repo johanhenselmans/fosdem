@@ -1,0 +1,22 @@
+  <event id="106">
+      <start>14:00</start>
+      <duration>00:45</duration>
+      <room>Janson</room>
+      <slug></slug>
+      <title>JBoss BPM</title>
+      <subtitle></subtitle>
+      <track>Internet Services</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Open source moving up the stack to JBoss BPM: a deep look at BPM in the scope of JBoss jBPM, focusing on the benefits for the developers.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Open source moves up the stack. From OS, over application server and now to BPM.&#xA;BPM is typically associated with high level business analysis and not having to write code.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;This session will give a different perspective. In fact, there are many process languages: some targeted for business analysts, some targeted at specific aspects of software development. An example of the latter could be the overview of asynchronous architectures.&#xA;The focus will be on the benefits for the developers. Also we include a good description of how BPM is more about improving communication between business analysts and developers, rather then trying to avoid coding.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1061">Tom Baeyens</person>
+      </persons>
+      <links>
+          <link href="../../slides/maintracks/jboss_bpm.pdf">Slides (PDF)</link>
+          <link href="http://video.fosdem.org/2007/FOSDEM2007-JBoss.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

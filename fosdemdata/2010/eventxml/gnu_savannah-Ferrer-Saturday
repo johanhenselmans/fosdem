@@ -1,0 +1,19 @@
+  <event id="121">
+      <start>14:40</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>GNU Savannah: 100% free software mass-hosting</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;GNU Savannah helps thousands of teams to work collaboratively on free software and documentation.&#xA;We&amp;#39;ll present the software and hardware architecture, give an overview of the daily maintenance, and introduce the next-generation codebase of &amp;#39;Savane&amp;#39;, the piece of software that binds it all together.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;GNU Savannah is a hosting platform for free software projects, using free software technologies such as Git, Bzr, Mailman, OpenSSH, Apache...  It hosts &amp;gt; 3000 reviewed projects and is used by &amp;gt; 45K users.&#xA;The infrastructure relies on the Savane software project which is undergoing a full rewrite based on Python/Django.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1211">Sylvain Beucler</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

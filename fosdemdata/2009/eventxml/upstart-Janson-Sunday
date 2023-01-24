@@ -1,0 +1,19 @@
+  <event id="280">
+      <start>12:00</start>
+      <duration>01:00</duration>
+      <room>Janson</room>
+      <slug></slug>
+      <title>Upstart</title>
+      <subtitle></subtitle>
+      <track>Systems</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk takes a trip along the Roadmap for Upstart 1.0, introducing&#xA; what features will be available.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Linux has always traditionally lacked good service management&#xA; facilities, so much so that the typical daemon doesn&amp;#39;t use what ones we&#xA; have and instead relies on hokey shell scripts.&#xA;&lt;/p&gt;&#xA;&lt;p&gt; Upstart is being developed to not only solve this problem but also how&#xA; it, through integration with D-Bus, DeviceKit and similar frameworks,&#xA; allows service lifecycles to be tied to hardware and system state.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2801">Scott James Remnant</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

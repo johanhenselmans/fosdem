@@ -1,0 +1,19 @@
+  <event id="171">
+      <start>16:30</start>
+      <duration>01:30</duration>
+      <room>Guillissen</room>
+      <slug></slug>
+      <title>LPI exam session 2</title>
+      <subtitle></subtitle>
+      <track>LPI Certification</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;LPI exam session #2&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description></description>
+      <persons>
+          <person id="1711">Klaus Behrla</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

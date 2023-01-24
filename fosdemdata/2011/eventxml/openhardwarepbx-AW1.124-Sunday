@@ -1,0 +1,19 @@
+  <event id="236">
+      <start>13:00</start>
+      <duration>00:40</duration>
+      <room>AW1.124</room>
+      <slug></slug>
+      <title>XiVO IPPBX OpenHardware</title>
+      <subtitle></subtitle>
+      <track>Open Source Telephony devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;OpenHardware IPPBX&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;The XiVO IPBX OpenHardware aims at developing a VoIP appliance to serve telephony applications. The goal of the XiVO IPBX OpenHardware project is to to develop a open-specs, open-docs appliance from the design of the hardware project to the CAD files and production files underneath the project. The target of this appliance is a small IPBX appliance ideal for SOHO requirements in terms of IP-phone lines as well as analog connectivity for fax/analog lines. VoIP is definitely a growing field with the expand of the IP networks and software VoIP server such as Asterisk had been definitely mature nowadays to support large phone systems, thus this is important to insure OpenSource software (standards) and OpenHardware projects for the community in this field.&#xA;This talk will present the different hardware specifications of the appliance, the current project status (finalizing the prototyping and preparation for production) and the following steps in terms of files available and product availability.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;The project development steps can be followed on the project blog at http://hardware.xivo.fr&lt;/p&gt;      </description>
+      <persons>
+          <person id="2361">Xavier Carcelle</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

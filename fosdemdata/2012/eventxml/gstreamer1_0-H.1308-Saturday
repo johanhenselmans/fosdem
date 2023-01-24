@@ -1,0 +1,21 @@
+  <event id="143">
+      <start>11:20</start>
+      <duration>00:50</duration>
+      <room>H.1308</room>
+      <slug></slug>
+      <title>GStreamer 1.0 - the next generation of your favourite multimedia framework</title>
+      <subtitle></subtitle>
+      <track>CrossDesktop Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;GStreamer is a highly versatile plugin-based multimedia framework that&#xA;provides abstractions to cater for a whole range of multimedia needs,&#xA;whether desktop applications, streaming servers or multimedia&#xA;middleware; embedded systems, desktops or server farms.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;GStreamer 1.0 is the next generation of the successful GStreamer 0.10.x&#xA;API series where some of the core API has got a complete overhaul to&#xA;address many of the limitations we have run into over the years with the&#xA;old API. In many respects, 1.0 will be pretty much the same as 0.10, but&#xA;in others it will be radically different.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;This talk is a high-level overview of what&amp;#39;s been happening in the world&#xA;of GStreamer as of late, with a special focus on the status of GStreamer&#xA;1.0, highlighting some of the improvements it will bring.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="1431">Tim-Philipp Müller</person>
+      </persons>
+      <links>
+          <link href="609/135_gstreamer-1.0-fosdem-2012.pdf">gstreamer-1.0-fosdem-2012.pdf (slides)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

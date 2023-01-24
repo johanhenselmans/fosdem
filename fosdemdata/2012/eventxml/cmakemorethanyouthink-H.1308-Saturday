@@ -1,0 +1,20 @@
+  <event id="62">
+      <start>12:20</start>
+      <duration>00:40</duration>
+      <room>H.1308</room>
+      <slug></slug>
+      <title>CMake the build tool that does more than you think it can</title>
+      <subtitle></subtitle>
+      <track>CrossDesktop Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Bill Hoffman, the original CMake developer, and Alexander Neundorf the&#xA;architect of the KDE CMake Build system will talk about the full capabilities of CMake as a&#xA;build tool. They will cover both the basics of getting started with CMake, and some really cool&#xA;features that allow for the cross platform building of entire packages of software. This will be&#xA;demonstrated with example projects using the gtk as well as the Qt toolkit. They will also give&#xA;some interesting historical notes on CMake. Covered topics will include:&#xA;* The basics&#xA;* Debugging your CMake build system&#xA;* Integrating 3rd party packages in the build using ExternalProject&#xA;* Creating source and binary packages using CPack&#xA;* Continuous Integration testing with CDash/CTest and cdash@home&#xA;* Installing your CMake-based library - exporting and importing targets&#xA;* Cross-platform scripting with CMake (cmake -E, cmake -P, file(DOWNLOAD ...) )&#xA;* Lots of fun historical notes on the development of CMake and the KDE CMake build&#xA;system&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="621">Alexander Neundorf</person>
+          <person id="622">Bill Hoffman</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

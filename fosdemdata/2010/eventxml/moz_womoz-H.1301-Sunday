@@ -1,0 +1,19 @@
+  <event id="209">
+      <start>13:00</start>
+      <duration>00:15</duration>
+      <room>H.1301</room>
+      <slug></slug>
+      <title>Women and Mozilla (WoMoz)</title>
+      <subtitle></subtitle>
+      <track>Mozilla</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Summary of related FOSDEM events, roadmap for 2010, and reaching out to women developers present at FOSDEM.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="2091">Delphine Lebédel</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

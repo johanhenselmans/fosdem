@@ -1,0 +1,21 @@
+  <event id="19">
+      <start>14:00</start>
+      <duration>01:00</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>Automated Distribution Development and Maintenance</title>
+      <subtitle></subtitle>
+      <track>CrossDistribution Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Presenting tools and workflows used via Open Build Service by various distributions to develop the distribution. This includes automated source processing, validation, QA, automated and manual reviews.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Additional focus point on maintenance handling, means updates after a distribution is released which are usually done in a complete different way.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;I like to have a discussion about the question how distributions should validate trustable sources and how the trust can be increased by a common distro effort.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="191">Adrian Schröter</person>
+      </persons>
+      <links>
+          <link href="http://openbuildservice.org/">Open Build Service</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

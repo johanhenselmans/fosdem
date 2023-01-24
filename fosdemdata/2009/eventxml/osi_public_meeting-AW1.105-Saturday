@@ -1,0 +1,20 @@
+  <event id="244">
+      <start>14:00</start>
+      <duration>02:00</duration>
+      <room>AW1.105</room>
+      <slug></slug>
+      <title>Public Meeting of the Open Source Initiative (OSI)</title>
+      <subtitle></subtitle>
+      <track>Open Source Initiative</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The Open Source Initiative (OSI) will hold its public meeting at FOSDEM.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;This meeting is open to everyone and the agenda is very flexible. We can discuss recent activities of the OSI, the future&#xA;direction of OSI, and other topics of importance to the open source community.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2441">Michael Tiemann</person>
+          <person id="2442">Martin Michlmayr</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

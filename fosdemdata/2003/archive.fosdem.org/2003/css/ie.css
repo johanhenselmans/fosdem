@@ -1,0 +1,89 @@
+body		{	margin: 10px;
+			font: 10px/14px verdana;
+			font-weight: normal;
+			color: #000000;
+		}
+.submenu	{	font: 10px/14px verdana;
+			font-weight: bold;
+			color: #000000;
+		}
+.strike{ text-decoration: line-through; }
+TD { font : 10px/14px verdana ; }
+.tiny {font: 8px verdana ; }
+H1 { font : 12px verdana ; font-weight : bold; color : #707B92 ;}
+H2 { font : 10px verdana ; font-weight : bold; color : #707B92 ;}
+h3 { font-size : 12px; font-weight : bold; color : #707B92 ; border: 1px solid #707B92; margin-right: 10px; background-color: #D9D9E6; padding: 2px; }
+h4 { font-size : 10px; color : #000000 ; border: 1px solid #707B92; margin-right: 10px; background-color: #D9D9E6; padding: 2px; }
+h5 { font : 12px verdana ; font-weight : bold; color : #000000 ;}
+a:link { font : 10px/14px verdana ; text-decoration : underline; color : #000000 ;}
+a:active { font : 10px/14px verdana ; text-decoration : underline; color : #000000 ;}
+a:visited { font : 10px/14px verdana ; text-decoration : underline; color : #000000 ;}
+a:hover { font : 10px/14px verdana ; text-decoration : none; color : #8888CC ;}
+a.tiny:link { font : 8px verdana ; text-decoration : underline; color : #000000 ;}
+a.tiny:active { font : 8px verdana ; text-decoration : underline; color : #000000 ;}
+a.tiny:visited { font : 8px verdana ; text-decoration : underline; color : #000000 ;}
+a.tiny:hover { font : 8px verdana ; text-decoration : none; color : #8888CC ;}
+a.sub:link { font : 10px/14px verdana ; text-decoration : none; color : #584D99 ;}
+a.sub:active { font : 10px/14px verdana ; text-decoration : none; color : #584D99 ;}
+a.sub:visited { font : 10px/14px verdana ; text-decoration : none; color : #584D99 ;}
+a.sub:hover { font : 10px/14px verdana ; text-decoration : none; color : #8888CC ;}
+a.white:link { font : 10px/14px verdana ; font-weight : bold; text-decoration : none; color : #FFFFFF ;}
+a.white:active { font : 10px/14px verdana ; font-weight : bold; text-decoration : none; color : #FFFFFF ;}
+a.white:visited { font : 10px/14px verdana ; font-weight : bold; text-decoration : none; color : #FFFFFF ;}
+a.white:hover { font : 10px/14px verdana ; font-weight : bold; text-decoration : none; color : #B3B3CC ;}
+a.big:link { font : 10px/14px verdana ; font-weight : bold; text-decoration : none; color : #000000 ;}
+a.big:active { font : 10px/14px verdana ; font-weight : bold; text-decoration : none; color : #000000 ;}
+a.big:visited { font : 10px/14px verdana ; font-weight : bold; text-decoration : none; color : #000000 ;}
+a.big:hover { font : 10px/14px verdana ; font-weight : bold; text-decoration : none; color : #FFFFFF ;}
+a.big2:link { font : 12px verdana ; font-weight : bold; text-decoration : none; color : #707B92 ;}
+a.big2:active { font : 12px verdana ; font-weight : bold; text-decoration : none; color : #707B92 ;}
+a.big2:visited { font : 12px verdana ; font-weight : bold; text-decoration : none; color : #707B92 ;}
+a.big2:hover { font : 12px verdana ; font-weight : bold; text-decoration : none; color : #8888CC ;}
+.subhead { font-weight : bold; color : #CCCCCC ;}
+.grey { font : 10px/14px verdana ; color : #707B92}
+.error		{	font-size: 10px;
+			font-weight: bold;
+			color: #FF0000;
+		}
+.white		{	font-size: 10px;
+			font-weight: bold;
+			color: #FFFFFF;
+		}
+.textfield
+ {
+  BORDER-RIGHT: #B3B3CC 1px inset;
+  BORDER-TOP: #B3B3CC 1px inset;
+  FONT-WEIGHT: normal;
+  FONT-SIZE: 10px;
+  BACKGROUND: #D9D9E6;
+  BORDER-LEFT: #B3B3CC 1px inset;
+  WIDTH: 10em;
+  COLOR: #000000;
+  BORDER-BOTTOM: #B3B3CC 1px inset;
+  FONT-FAMILY: verdana;
+}
+
+.textfield2
+ {
+  BORDER-RIGHT: #B3B3CC 1px inset;
+  BORDER-TOP: #B3B3CC 1px inset;
+  FONT-WEIGHT: normal;
+  FONT-SIZE: 10px;
+  BACKGROUND: #D9D9E6;
+  BORDER-LEFT: #B3B3CC 1px inset;
+  WIDTH: 20em;
+  COLOR: #000000;
+  BORDER-BOTTOM: #B3B3CC 1px inset;
+  FONT-FAMILY: verdana;
+}
+
+INPUT[type="submit"] { font: 10px Helvetica, Arial, Geneva, Verdana, sans-serif; border: solid thin #000000; background: #707B92; color: #FFFFFF;  -moz-border-radius: 8px; }
+INPUT[type="submit"]:hover { font: 10px Helvetica, Arial, Geneva, Verdana, sans-serif; border: solid thin #707B92; background: #D9D9E6; color: #000000; -moz-border-radius: 8px; }
+input[type="submit"].enable { font: 10px helvetica; border: solid thin #000000; background: #008347; color: #FFFFFF;  -moz-border-radius: 8px; }
+input[type="submit"].enable:hover { font: 10px helvetica; border: solid thin #008347; background: #D9D9E6; color: #000000; -moz-border-radius: 8px; }
+input[type="submit"].disable { font: 10px helvetica; border: solid thin #000000; background: #FF0000; color: #000000;  -moz-border-radius: 8px; }
+input[type="submit"].disable:hover { font: 10px helvetica; border: solid thin #FF0000; background: #D9D9E6; color: #000000; -moz-border-radius: 8px; }
+INPUT[type="button"] { font: 10px Helvetica, Arial, Geneva, Verdana, sans-serif; border: solid thin #000000; background: #707B92; color: #FFFFFF;  -moz-border-radius: 8px; }
+INPUT[type="button"]:hover { font: 10px Helvetica, Arial, Geneva, Verdana, sans-serif; border: solid thin #707B92; background: #D9D9E6; color: #000000; -moz-border-radius: 8px; }
+INPUT[type="reset"] { font: 10px Helvetica, Arial, Geneva, Verdana, sans-serif; border: solid thin #000000; background: #707B92; color: #FFFFFF;  -moz-border-radius: 8px; }
+INPUT[type="reset"]:hover { font: 10px Helvetica, Arial, Geneva, Verdana, sans-serif; border: solid thin #707B92; background: #D9D9E6; color: #000000; -moz-border-radius: 8px; }

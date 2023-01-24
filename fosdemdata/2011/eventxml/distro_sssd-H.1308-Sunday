@@ -1,0 +1,19 @@
+  <event id="82">
+      <start>09:00</start>
+      <duration>00:30</duration>
+      <room>H.1308</room>
+      <slug></slug>
+      <title>Deploying sssd</title>
+      <subtitle></subtitle>
+      <track>CrossDistro devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The complexity of configuring client authentication with Kerberos or LDAP is well known. With sssd the whole process has been simplified. We are going to take a look at the framework and supported identity and authentication provides. Some examples will show the capability of sssd.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="821">Marcus Moeller</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

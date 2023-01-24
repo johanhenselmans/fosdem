@@ -1,0 +1,22 @@
+  <event id="30">
+      <start>17:40</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Bongo Project: simple e-mail and calendar server</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;I would like to present a talk to highlight the&#xA;project as we have not had much exposure to the great outdoors.  I would&#xA;like to show Bongo&amp;#39;s feature set and also try and grow the community&#xA;around the project.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Simple e-mail and calenda server.  Bongo emerged&#xA;from the Hula Project just as Novell sold the Hula business to Messaging&#xA;Architects.  The majority of the code has been re-written since then and&#xA;we aim to grow stronger.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="301">Andrew Wafaa</person>
+      </persons>
+      <links>
+          <link href="http://fosdem.org/2008/slides/lightningtalks/fosdem08_ltalk_bongo.pdf">Slides (PDF)</link>
+          <link href="http://video.fosdem.org/2008/lightningtalks/FOSDEM2008-bongo.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

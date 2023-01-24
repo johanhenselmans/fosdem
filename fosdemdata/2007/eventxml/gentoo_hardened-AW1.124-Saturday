@@ -1,0 +1,19 @@
+  <event id="59">
+      <start>14:30</start>
+      <duration>01:30</duration>
+      <room>AW1.124</room>
+      <slug></slug>
+      <title>Gentoo Hardened</title>
+      <subtitle></subtitle>
+      <track>Gentoo</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Gentoo Hardened - the hardened toolchain and the security perspective of the Gentoo Linux distribution.&#xA;The current status of security measures available to the Gentoo Linux distribution.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;The talk will describe and discuss the security measures available to users of the Gentoo Linux distribution and the work of the Gentoo developers to enhance and integrate the available solutions for the GNU/Linux operating system and userland.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="591">Alexander Gabert</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

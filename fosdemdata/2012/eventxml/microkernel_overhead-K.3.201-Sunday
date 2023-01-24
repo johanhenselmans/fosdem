@@ -1,0 +1,21 @@
+  <event id="237">
+      <start>13:00</start>
+      <duration>01:00</duration>
+      <room>K.3.201</room>
+      <slug></slug>
+      <title>The microkernel overhead</title>
+      <subtitle></subtitle>
+      <track>Microkernel OS Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Since the famous &lt;a href=&#34;http://en.wikipedia.org/wiki/Tanenbaum%E2%80%93Torvalds_debate&#34;&gt;Tanenbaum-Torvalds debate&lt;/a&gt; the general public sticks to the golden rule of thumb: Microkernel systems, while nice and elegant, are just academic toys. Due to the infamous communication overhead and other self-imposed limitations, they are never going to be as useful for the general use (in terms of performance) as the good old monolithic systems.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Since the 1990s many researchers (especially the people around L4) have struggled to lower the overhead using the most extraordinary tricks. Others have tried to apply the microkernel design to mission critical, safety critical and other niche targets, where the benefits of the microkernel design clearly outweights the drawbacks. And other folks spent years creating hybrid systems to get the best (and hopefully not the worst) of the both worlds.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;But are the drawbacks of the microkernels fundamental?&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;The way computers are designed, the way programmers think and the way the IT economy works have changed profoundly over the last 20 years. We no longer try hard to save every single CPU cycle and every single byte of RAM in every single routine. We acknowledge that spending 20 % more on a faster CPU and more RAM to run inteligebly designed software is a better idea than spending 20 % more each year on maintaing software with tons of ugly performance hacks and quirks. Our machines are massively concurrent and we tend to (or are forced to) think more in terms of effective parallel algorithms than just plain sequential throughput.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;So perhaps it is time to reconsider the true impact of the microkernel overhead given the present conditions and requirements.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Key topics:&lt;/p&gt;&#xA;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Reasons for the microkernel overhead&lt;/li&gt;&#xA;&lt;li&gt;Qualitative and quantitative analysis of the overhead&lt;/li&gt;&#xA;&lt;li&gt;Ways to minimize it&lt;/li&gt;&#xA;&lt;li&gt;Ways to live with it&lt;/li&gt;&#xA;&lt;li&gt;Ways to embrace it&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;      </description>
+      <persons>
+          <person id="2371">Martin Děcký</person>
+      </persons>
+      <links>
+          <link href="549/96_Martin_Decky-Microkernel_Overhead.pdf">Martin_Decky-Microkernel_Overhead.pdf (slides)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

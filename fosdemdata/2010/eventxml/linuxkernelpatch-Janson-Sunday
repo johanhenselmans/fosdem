@@ -1,0 +1,21 @@
+  <event id="173">
+      <start>17:15</start>
+      <duration>00:45</duration>
+      <room>Janson</room>
+      <slug></slug>
+      <title>Write and Submit your first Linux kernel Patch</title>
+      <subtitle></subtitle>
+      <track>Keynotes</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;As A core member of the Linux Kernel team, Greg will show us how to write a kernel patch.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;This talk will cover the steps necessary to properly compose, describe, and submit a Linux kernel patch.  It will cover the basic usage of git, and how that works with the Linux kernel development cycle.                                                                                                        &#xA;Attendees should have a solid grasp of the C language, and know how to build and install, a Linux kernel from scratch (if not,reading the book, Linux Kernel in a Nutshell, free online, ahead of time would be a very good idea.)&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1731">Greg Kroah-Hartman</person>
+      </persons>
+      <links>
+          <link href="http://video.fosdem.org/2010/maintracks/kernelpatch.xvid.avi">Video (DIVX)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

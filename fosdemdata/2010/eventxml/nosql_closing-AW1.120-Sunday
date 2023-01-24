@@ -1,0 +1,19 @@
+  <event id="226">
+      <start>16:45</start>
+      <duration>00:15</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>NoSQL closing</title>
+      <subtitle></subtitle>
+      <track>NoSQL</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Parting remarks, required reading list.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="2261">Steven Noels</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

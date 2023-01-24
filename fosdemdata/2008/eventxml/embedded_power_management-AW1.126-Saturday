@@ -1,0 +1,19 @@
+  <event id="118">
+      <start>16:00</start>
+      <duration>01:00</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>Building blocks for Embedded Power Management</title>
+      <subtitle></subtitle>
+      <track>Embedded</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The range of embedded devices, and the variety of their uses makes the design of embedded power management a complicated problem. This talk&#xA;will cover the basic building blocks of embedded power management which are common across a range of devices, and how they can be combined to construct a full power-management solution tailored to a specific platform.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;The talk will focus on the linux kernel and cover the steps required to implement/port the power management features to a new platform.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Topics covered:&#xA;&lt;/p&gt;&lt;ul&gt;&lt;li&gt; clock framework&#xA;&lt;/li&gt;&#xA;&lt;li&gt; suspend and resume&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Managing idle time&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt; * dynamic tick&#xA; * deferrable timers&#xA; * CPUidle&#xA; * PowerTOP&#xA;&lt;ul&gt;&lt;li&gt; Dynamic voltage and frequency scaling (DVFS)&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt; * CPUfreq&#xA;&#xA; </description>
+      <persons>
+          <person id="1181">Kevin Hilman</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

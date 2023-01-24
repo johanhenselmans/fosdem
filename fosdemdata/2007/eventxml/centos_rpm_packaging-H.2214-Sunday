@@ -1,0 +1,19 @@
+  <event id="10">
+      <start>12:00</start>
+      <duration>01:00</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>RPM Packaging</title>
+      <subtitle></subtitle>
+      <track>CentOS + Fedora</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Increasingly, managing collections of package metadata is more important than building packages. This presentation proposes several possible implementations in RPM development that may simplify creating collections.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Several RPM development topics will be discussed: &#xA;&lt;/p&gt;&lt;ul&gt;&lt;li&gt; using easily extracted XML or YAML markup to represent metadata in *.rpm packages. &#xA;&lt;/li&gt;&#xA;&lt;li&gt; generating Provides: dependencies during install, not during build. &#xA;&lt;/li&gt;&#xA;&lt;li&gt; adding user-definable extensible tags to rpm metadata. &#xA;&lt;/li&gt;&#xA;&lt;li&gt; automating package scriptlet actions through rule based triggers.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA; </description>
+      <persons>
+          <person id="101">Jeff Johnson</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

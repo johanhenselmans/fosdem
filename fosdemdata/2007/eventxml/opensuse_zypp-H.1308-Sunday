@@ -1,0 +1,23 @@
+  <event id="184">
+      <start>16:30</start>
+      <duration>01:00</duration>
+      <room>H.1308</room>
+      <slug></slug>
+      <title>Common package and patch management for SUSE Linux</title>
+      <subtitle></subtitle>
+      <track>openSUSE</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Zypp - SUSE package management&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Zypp is the integration of SUSE&amp;#39;s yast2 Package manager and Ximian&amp;#39;s libredcarpet. At Novell we used two solutions so far - Red Carpet and YaST &#xA;package manager - and decided to merge both in a best of breed approach. Zypp features brings SUSE package management technology to a world of new &#xA;possibilities like runtime dependencies on hardware, patterns, full-featured patches and Zenworks integration for a easy enterprise upgrade path.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;In this talk this technologies will be presented among the current integration of them into the products, the problems faced during the transition and the current roadmap for the future releases.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1841">Duncan Mac-Vicar Prett</person>
+      </persons>
+      <links>
+          <link href="http://files.opensuse.org/opensuse/en/b/bf/Zypp-fosdem-opensuse.pdf">Slides (PDF)</link>
+          <link href="http://ftp5.gwdg.de/pub/opensuse/FOSDEM/2007/fosdem2007-17_Common_package_and_patch_management_for_SUSE_Linux-1200.ogg">Video (Ogg/Theora)</link>
+          <link href="http://ftp5.gwdg.de/pub/opensuse/FOSDEM/2007/fosdem2007-17_Common_package_and_patch_management_for_SUSE_Linux-320.ogg">Video (Ogg/Theora/Low quality)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

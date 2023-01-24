@@ -1,0 +1,19 @@
+  <event id="56">
+      <start>14:15</start>
+      <duration>00:45</duration>
+      <room>H.1301</room>
+      <slug></slug>
+      <title>Amarok 2</title>
+      <subtitle></subtitle>
+      <track>KDE</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Amarok 2 – in the intersection of Free Software and Free Culture.&#xA;The Free Software and Free Culture movements have much in common, but used to scarcely interact. Amarok2 is bringing Creative Commons licensed content to more users by making it easy to discover new music, benefiting users and artists alike.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Expanding on the work started in &lt;a href=&#34;http://amarok.kde.org/&#34;&gt;Amarok 1.4.4&lt;/a&gt; with the integration of the &lt;a href=&#34;http://magnatune.com/&#34;&gt;Magnatune.com&lt;/a&gt; music store, Amarok 2 explores the possibilities for integrating and collaborating with online music services, in particular the ones who license their content under a Creative Commons license. This integration makes a lot of sense as it directly benefits both the users of Amarok as well as the online services, and hence their artists.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;This talk will cover some of the general ideas behind the integration, how it is being accomplished at a technical level, and what the future plans and possibilities are. Of course the talk will also include a live demo of the current state of Amarok 2.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="561">Nikolaj Hald Nielsen</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

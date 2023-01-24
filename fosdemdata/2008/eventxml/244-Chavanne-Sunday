@@ -1,0 +1,21 @@
+  <event id="6">
+      <start>11:00</start>
+      <duration>00:45</duration>
+      <room>Chavanne</room>
+      <slug></slug>
+      <title>VirtualBox</title>
+      <subtitle></subtitle>
+      <track>Virtualization</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;&lt;a href=&#34;http://www.virtualbox.org/&#34;&gt;VirtualBox&lt;/a&gt; is a feature rich and powerful virtualization platform available for Linux, Windows, Mac OS, Solaris and other platforms.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;This talk starts with an overview of the product and shows the architecture and how it compares to other commercial and open solutions on the market. &#xA;&lt;/p&gt;&#xA;&lt;p&gt;Advanced virtualization topics such as hardware extensions and future trends and development will also be discussed.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="61">Achim Hasenmueller</person>
+      </persons>
+      <links>
+          <link href="http://video.fosdem.org/2008/maintracks/FOSDEM2008-virtualbox.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

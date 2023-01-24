@@ -1,0 +1,19 @@
+  <event id="56">
+      <start>16:00</start>
+      <duration>01:00</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>Debian and Google Summer of Code 2008: wrap-up and insights</title>
+      <subtitle></subtitle>
+      <track>Debian</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Twelve Debian projects were funded this year ranging from network and package management to hardware support, QA and security.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Let&amp;#39;s have a look at the resulting software and give some insights for the next Summer of Code and student involvment.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="561">Obey Arthur Liu</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

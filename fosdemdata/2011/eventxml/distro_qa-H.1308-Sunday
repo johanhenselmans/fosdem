@@ -1,0 +1,19 @@
+  <event id="79">
+      <start>15:00</start>
+      <duration>01:00</duration>
+      <room>H.1308</room>
+      <slug></slug>
+      <title>How to make QA-engineers start drooling</title>
+      <subtitle>or, How automated testing can help distributions.</subtitle>
+      <track>CrossDistro devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Testing is an important task. But testing daily development-snapshots of a Linux-distribution would mean testing the same things every day, which would be pretty tiresome to testers. Yet, no one likes to break his system with untested code.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;This presentation will be about my solution to this problem, using automated testing with KVM for openQA.openSUSE.org to guarantee some minimum quality and about how the framework can be adapted to test other distributions like Fedora-Rawhide. It will also have installation videos which are cool, fun and useful.&lt;/p&gt;      </description>
+      <persons>
+          <person id="791">Bernhard M. Wiedemann</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

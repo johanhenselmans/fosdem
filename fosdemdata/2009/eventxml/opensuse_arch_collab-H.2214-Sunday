@@ -1,0 +1,19 @@
+  <event id="223">
+      <start>14:45</start>
+      <duration>00:45</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>Architecture of Collaboration</title>
+      <subtitle></subtitle>
+      <track>openSUSE</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This session will focus on the &amp;#34;Architecture of Collaboration&amp;#34; implemented in the &lt;a href=&#34;http://www.kablink.org/&#34;&gt;Kablink Open Collaboration project&lt;/a&gt;.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;See how the Kablink platform allows you to build applications that solve problems while encouraging collaboration among your team members. During this session an application will be developed that takes advantage of the social networking features of Kablink while solving a common teamworking problem.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2231">Brent McConnell</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

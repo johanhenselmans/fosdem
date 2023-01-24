@@ -1,0 +1,19 @@
+  <event id="148">
+      <start>16:45</start>
+      <duration>00:45</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>Elisa - Enjoy your multimedia world</title>
+      <subtitle></subtitle>
+      <track>GNOME</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The talk is about &lt;a href=&#34;http://elisa.fluendo.com/&#34;&gt;Elisa&lt;/a&gt;, the open source media center developed by &lt;a href=&#34;http://www.fluendo.com/&#34;&gt;Fluendo&lt;/a&gt;.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;In this talk Alessandro will highlight some of the new features that make &lt;a href=&#34;http://elisa.fluendo.com/&#34;&gt;Elisa&lt;/a&gt; one of the most appealing and easy to use media centers. I will focus particularly on the shiny new user interface and on online media browsing capabilities.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1481">Alessandro Decina</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="64">
+      <start>12:00</start>
+      <duration>01:00</duration>
+      <room>AW1.124</room>
+      <slug></slug>
+      <title>Release Engineering: Tinderbox testing</title>
+      <subtitle></subtitle>
+      <track>Gentoo</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Gentoo Release Engineering, Genkernel, and the Catalyst Release-building tool.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;The talk will cover the Gentoo Release Engineering release cycle, Gentoo hosted projects catalyst and genkernel, and also the release Engineering automated build scripts/system that is used to locate problems before the release cycle begins.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="641">Chris Gianelloni</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

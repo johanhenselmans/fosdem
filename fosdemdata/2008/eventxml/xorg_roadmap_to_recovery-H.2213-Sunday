@@ -1,0 +1,19 @@
+  <event id="263">
+      <start>17:00</start>
+      <duration>01:00</duration>
+      <room>H.2213</room>
+      <slug></slug>
+      <title>Roadmap to recovery - pain and redemption in X driver development</title>
+      <subtitle></subtitle>
+      <track>X.org</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk will showcase a driver that satisfies the requirements of the kernel, X and desktop communities and offers new levels of functionality and performance.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Over the last several years, we&amp;#39;ve proposed dozens of potential architectures for support of graphics devices in a Linux environment. They have ranged from utterly lame to completely impractical, with only a few showing any potential at all. While this has taken a huge amount of time and energy, it looks to be finally coming to some kind of reasonable resolution.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="2631">Keith Packard</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

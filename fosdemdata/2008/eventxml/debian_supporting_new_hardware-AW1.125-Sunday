@@ -1,0 +1,21 @@
+  <event id="97">
+      <start>12:00</start>
+      <duration>01:00</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>etch-n-half: Supporting new hardware within stable</title>
+      <subtitle></subtitle>
+      <track>Debian</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Debian Etch has been released a bit more than a year ago. Since then new hardware has appeared. We are about to release the first real &amp;#34;servicepack&amp;#34; to etch which adds support for e.g. newer graphic cards. This update will also contain other important improvements to stable.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description></description>
+      <persons>
+          <person id="971">Andreas Barth</person>
+      </persons>
+      <links>
+          <link href="http://meetings-archive.debian.net/pub/debian-meetings/2008/fosdem/ogg_theora/384x288/etch-n-half_-_Supporting_new_hardware_within_stable___Andreas_Barth.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

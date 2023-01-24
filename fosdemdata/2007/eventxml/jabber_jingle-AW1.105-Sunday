@@ -1,0 +1,20 @@
+  <event id="94">
+      <start>12:30</start>
+      <duration>00:45</duration>
+      <room>AW1.105</room>
+      <slug></slug>
+      <title>Give me a Jingle</title>
+      <subtitle></subtitle>
+      <track>Jabber</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The &lt;a href=&#34;http://www.xmpp.org/extensions/xep-0166.html&#34;&gt;Jingle XEPs&lt;/a&gt; add support to XMPP for session-based features such as voice, video and file transfer.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;This talk will discuss the justification for these extensions, what they are trying to achieve, and how they work, taking a look at the current state of the standards and their implementations.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="941">Robert McQueen</person>
+          <person id="942">Peter Saint-Andre</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

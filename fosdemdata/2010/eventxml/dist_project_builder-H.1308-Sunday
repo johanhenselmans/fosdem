@@ -1,0 +1,19 @@
+  <event id="67">
+      <start>15:30</start>
+      <duration>00:45</duration>
+      <room>H.1308</room>
+      <slug></slug>
+      <title>Continuous Packaging with Project-Builder.org</title>
+      <subtitle></subtitle>
+      <track>Distributions</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;With the increasing role of FLOSS in enterprise, some development techniques linked to it also know a momentum. Continuous integration (shared sources repository, automatic build, automatic test) is such an example. The new process called continuous packaging should still be promoted and developed as best practice for industry.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Project-Builder.org is a new GPL v2 tool designed to help projects developers producing easily packages for multiple OS and architectures, on a regular basis, from a single source repository.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;90% of users and admins prefer to install packages rather than tar files or content from a [D]VCS. But packages don&amp;#39;t necessarily follow the development stream of projects, to package alpha, beta. Giving the possibility for projects to distribute seamlessly packages for whatever step of their development is clearly a gain for the whole community.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The various aspects covered by the tool are:&#xA;&lt;/p&gt;&lt;ul&gt;&lt;li&gt; only produce software packages (ease integration in deployment severs, provide inheritance mecanisms, and Virtual Machines (VM) or Environments (VE))&#xA;&lt;/li&gt;&#xA;&lt;li&gt; ease the various steps of solution life cycle (controlled ipact of installation/uninstallation, dependencies management, identical deliveries up to the customer, announce management, web site delivery, metadata management)&#xA;&lt;/li&gt;&#xA;&lt;li&gt; help new projects in the provisioning of packages (templates and skeletons for the various supported OS, generated structure, help in VM/VE build)&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Avoid code or metadata duplication, as well as has no impact on the original project (macro system, separate repository)&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Neutral in term of Unix environment (repository, system, package type  agnostic)&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;These features help reducing the development cost by providing a process, method and tools to realize continuous packaging during the whole project life cycle.&#xA;Today the tool supports:&#xA;&lt;ul&gt;&lt;li&gt; Multiple repository (none - aka tar balls, SVN, CVS, Git, Mercurial, SVK...)&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Multiple systems ((RPM Linux - Red Hat, openSUSE, Mandriva, ..., deb Linux - Debian, Ubuntu, ..., ebuild - Gentoo, pkg Solaris/OpenSolaris, ...)&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Multiple build environments (local, VM - QEMU, KVM, ..., VE - mock, rinse, pbuilder, ...)&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Multiple repository manager (yum, urpmi, apt, ...)&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;and this at various phasis (development, test, integration, delivery)&#xA;&#xA;It aims at becoming a tools for the vcs-pkg.org initiative&#xA;It&amp;#39;s today used for projects as diverse as FOSSology, MondoRescue, LinuxCOE, GOsa², itself, ...&#xA;&#xA;The presentation will describe the needs of the various people around a FLOSS project (user, admin, developer, packager), how packaging is a must have in the project, why package early, package often is the right mantra, and how Project-Builder.org can help them all achieve those goals.&#xA;&#xA;  </description>
+      <persons>
+          <person id="671">Bruno Cornec</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

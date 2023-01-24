@@ -1,0 +1,23 @@
+  <event id="179">
+      <start>17:15</start>
+      <duration>00:45</duration>
+      <room>H.1308</room>
+      <slug></slug>
+      <title>Participating in creating the openSUSE distribution</title>
+      <subtitle></subtitle>
+      <track>openSUSE</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The talk will present the way how the openSUSE distribution will get opened for contributions. What requirements need to be fulfilled by the software and the packager.&#xA;The talk makes also a proposal about the used rules to identify software to become part of openSUSE Factory distribution.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;As of now the openSUSE distribution gets build in the internal AutoBuild system of SUSE. We will talk about how we think the distribution should get &#xA;created in future using the openSUSE build service.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Our goal is to make it transparent how we work and to make it easy to add all kind of contributions (from a small spelling fix up to complete new software) to the openSUSE distribution.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;We want to create a platform where all kind contributors can work on the openSUSE distribution. Starting with developers working on SLE products, general openSUSE maintainers and also direct participation of open source projects.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;We will show what does influence us, which resources we have and we will make a suggestion how we can decide which software will become part of the openSUSE Factory pool.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1791">Adrian Schroeter</person>
+          <person id="1792">Hendrik Vogelsang</person>
+      </persons>
+      <links>
+          <link href="http://ftp5.gwdg.de/pub/opensuse/FOSDEM/2007/fosdem2007-06_Participating_in_creating_the_openSUSE_distribution-1200.ogg">Video (Ogg/Theora)</link>
+          <link href="http://ftp5.gwdg.de/pub/opensuse/FOSDEM/2007/fosdem2007-06_Participating_in_creating_the_openSUSE_distribution-320.ogg">Video (Ogg/Theora/Low quality)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

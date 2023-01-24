@@ -1,0 +1,19 @@
+  <event id="268">
+      <start>14:45</start>
+      <duration>00:30</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>Ruby and Java: What are the differences?</title>
+      <subtitle></subtitle>
+      <track>Ruby and Rails</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Ruby is quite often presented as the Java successor. This is a highly controversial purpose. However, when you start a new project it can be important to know what are the advantages of these two great languages. In this talk, we will present their differences.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Java is a well-established and well-known language. In opposite, Ruby is a rising star which is not mastered by everybody yet. When you start to develop a new project you have to make a language choice. It is not always easy to choose between learning an exciting new language or relying on a popular highly-used one.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;In this talk, I will discuss the pros and cons of Ruby and Java, what are the best trade-offs for your application and what are the performance differences. I will show that it is not that complicated to learn Ruby coming from Java. From a business point of view, I will also explain why a good language choice can help you saving money.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Here is a brief talk summary :&#xA;&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Ruby vs. Java syntax&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Interpreted or compiled languages&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Dynamic typing&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Metaprogramation&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Language related philosophies&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Performance comparison&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;We will also have a quick peek at JRuby, the Ruby interpreter build upon JVM.&#xA;&#xA;  </description>
+      <persons>
+          <person id="2681">Jean-Baptiste Escoyez</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="54">
+      <start>09:30</start>
+      <duration>00:30</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>Debian Font Task Force: overview and impact on the open font community</title>
+      <subtitle></subtitle>
+      <track>Debian</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;A quick overview of the work done by the Debian Fonts task force.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;ul&gt;&lt;li&gt; the needs and challenges,&#xA;&lt;/li&gt;&#xA;&lt;li&gt; the growing body of open fonts available,&#xA;&lt;/li&gt;&#xA;&lt;li&gt; the impact on i18n,&#xA;&lt;/li&gt;&#xA;&lt;li&gt; some tips on finding/using/managing open fonts,&#xA;&lt;/li&gt;&#xA;&lt;li&gt; the toolkit for designing/contributing to existing projects and the wider open font community: OpenFontLibrary,&#xA;&lt;/li&gt;&#xA;&lt;li&gt; freedesktop.org,&#xA;&lt;/li&gt;&#xA;&lt;li&gt; cross-distro collaboration,&#xA;&lt;/li&gt;&#xA;&lt;li&gt; etc. &#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;And how you can help.&#xA;&#xA;  </description>
+      <persons>
+          <person id="541">Nicolas Spalinger</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

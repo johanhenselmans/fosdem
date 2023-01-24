@@ -1,0 +1,19 @@
+  <event id="268">
+      <start>14:00</start>
+      <duration>00:35</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>Cypher Query Language </title>
+      <subtitle></subtitle>
+      <track>Graph Processing Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Cypher is a declarative query language recently added to the Neo4j graph database. In this talk we explain the motivations for creating this language, describe its current features and design, and dive a little into its implementation. Finally, we discuss the future direction of how we expect the language to evolve.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="2681">Andrés Taylor</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="125">
+      <start>14:45</start>
+      <duration>00:30</duration>
+      <room>AW1.117</room>
+      <slug></slug>
+      <title>LanguageKit: Supporting other dynamic languages on the ObjC runtime</title>
+      <subtitle></subtitle>
+      <track>GNUstep</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The Objective-C runtime library provides a set of functions and data structures used to implement the dynamic behaviour of Objective-C. This is a Smalltalk-like object model, with dynamic message sending and introspection. LanguageKit is part of the Ètoilé project and provides an interpreter, just-in-time, and static compiler back end, using LLVM, for implementing dynamic languages.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;This talk will discuss the implementation of LanguageKit and cover some of its current and potential uses. LanguageKit is used to implement Ètoilé&amp;#39;s Pragmatic Smalltalk, which generates classes that are ABI-compatible with Objective-C, meaning that Objective-C and Smalltalk classes can subclass or extend each other, with no bridging overhead.  In common cases Smalltalk performance is similar to that of Objective-C.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1251">David Chisnall</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

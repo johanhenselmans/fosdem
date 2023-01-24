@@ -1,0 +1,19 @@
+  <event id="255">
+      <start>11:00</start>
+      <duration>00:30</duration>
+      <room>UD2.218A</room>
+      <slug></slug>
+      <title>Mozilla Communities - Agile approach, tools, patterns and metrics</title>
+      <subtitle></subtitle>
+      <track>Mozilla Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;We&amp;#39;re living in hard times right now. Most of the F(L)OSS projects suffers from lack of volunteers especially if they must donate a large amount of time to this project. My talk will show how you can plan better your community how to measure it, how to use tips and tricks from the commercial world and how to use some agile methods and tools to make you community kick-ass squad.&lt;/p&gt;&#xA;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;How to plan your community for next couple of months; (ex. We need 3 more people to join our translation effort) and Create the Flow – how a bug report goes from bugzilla to the the end of it’s life. (a.k.a kill the bug)&lt;/li&gt;&#xA;&lt;li&gt;Define how to do it (ex. Troll the forums, create twitter campaign, contact universities, or something else?)&lt;/li&gt;&#xA;&lt;li&gt;How to Measure it (How many retweets do you have, how many clicks, etc) and Why?&lt;/li&gt;&#xA;&lt;li&gt;How to find patterns into your community and how to use them. For example – Most of the answers I receive to my mailing comes during business hours OR Friday is not a good day to send emails&lt;/li&gt;&#xA;&lt;li&gt;What is Agile and how to use it to make my community life easier? ( Trello show-case )&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;      </abstract>
+      <description></description>
+      <persons>
+          <person id="2551">Bogomil Shopov</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

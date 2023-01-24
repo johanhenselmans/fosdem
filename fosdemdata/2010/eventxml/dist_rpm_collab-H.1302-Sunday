@@ -1,0 +1,19 @@
+  <event id="68">
+      <start>13:00</start>
+      <duration>00:45</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>RPM packaging collaboration</title>
+      <subtitle></subtitle>
+      <track>Distributions</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Fedora, Mandriva and openSUSE are the three largest distributions that use RPM as their package manager. Unfortunately, because of the non-coordinated decisions taken in the past, the packaging in these distributions has taken a slightly different form.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;As the result, the packages are not easily interchangeable among these distributions. We tried to identify the differences, the most obvious problems and to propose solutions how to improve this situation. Some of them can be achieved by changing the packaging guidelines and making them more consistent with the rest, the others need modifications in the RPM source code and implementation of its new features. The talk tries to summarize our ongoing efforts in bringing the packaging closer, describe what already has been done and what still needs to be worked on.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="681">Pavol Rusnak</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

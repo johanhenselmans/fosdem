@@ -1,0 +1,19 @@
+  <event id="230">
+      <start>11:00</start>
+      <duration>00:45</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>My life with HBase</title>
+      <subtitle></subtitle>
+      <track>NoSQL</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;HBase is an Open Source implementation of Google&amp;#39;s BigTable architecture. Its goal is the hosting of very large tables - billions of rows, millions of columns - atop clusters of &amp;#34;commodity&amp;#34; hardware.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;This talk reports on findings along the way of setting up HBase clusters of various size and use. It addresses technical challenges that were faced during the setup as well as best practices developed along the way. More in detail the talk will address:&#xA;&lt;/p&gt;&lt;ul&gt;&lt;li&gt; HBase - What is it? How does it compare?&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Cluster Requirements&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Design decisions&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Status Quo&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Future/Roadmap&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;Lars George is the CTO of &lt;a href=&#34;http://www.worldlingo.com/&#34;&gt;WorldLingo&lt;/a&gt; and uses HBase to host their Multilingual Archive. He also advises those who want to know more about HBase in his (self proclaimed) position as the &lt;a href=&#34;http://www.larsgeorge.com/2009/05/european-hbase-ambassador.html&#34;&gt;European HBase Ambassador&lt;/a&gt;.&#xA;&#xA;  </description>
+      <persons>
+          <person id="2301">Lars George</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

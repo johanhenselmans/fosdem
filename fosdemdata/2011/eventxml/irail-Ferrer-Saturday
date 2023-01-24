@@ -1,0 +1,19 @@
+  <event id="152">
+      <start>15:20</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>iRail: Creating a public transport API</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;What&amp;#39;s project iRail? What data can you use in your applications/websites? What will the future bring?&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;the iRail project wants to fight for open data in Europe. We&amp;#39;re doing this by scraping data* from public transport companies and putting those in a developer-friendly webservice. Apart from developing this webservice, we&amp;#39;re also developing clients ourself. We try to deliver features like check-in-on-a-train, scan-this-qr-code-for-train-info, etc in our smart-phone clients called BeTrains.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;*we&amp;#39;re not doing anything illegal according to European law&lt;/p&gt;      </description>
+      <persons>
+          <person id="1521">Pieter Colpaert</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="56">
+      <start>13:00</start>
+      <duration>00:45</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>Hermes Message Dispatching</title>
+      <subtitle></subtitle>
+      <track>Distributions</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Hermes is a message digesting and distribution system which is aimed to give back control to the user. Many already existing systems produce a lot of information for users, mostly by flooding with email. That was a very practical and quick solution in the past, but nowadays there are more elegant methods of notifying.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Hermes lets the user control, which information approaches him and how. It collects information from connected sources, manages user subscriptions to the various notification types and provides the user with a selection of the messages he wants to get, as mails, feeds or jabber messages and more.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;This talk is an introduction to Hermes and the way the openSUSE project uses it for all kinds of notifications about the distribution.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="561">Klaas Freitag</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

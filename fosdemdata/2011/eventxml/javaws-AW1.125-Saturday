@@ -1,0 +1,19 @@
+  <event id="153">
+      <start>17:00</start>
+      <duration>00:30</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>The Free JavaWS Implementation in IcedTea-Web</title>
+      <subtitle></subtitle>
+      <track>Free Java devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Ever wondered how IcedTea&amp;#39;s javaws works?&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;The javaws application implements the Java Network Launch Protocol (JNLP) and makes it easier to deploy applications. javaws supports running untrusted applications (within a sandbox) and trusted applications. It provides implementations of the JNLP API. Most importantly, it works with a large number of applications that have been released. So how does IcedTea pull all this off?&lt;/p&gt;&#xA;&#xA;&lt;p&gt;This talk will describe the JNLP implementation in IcedTea-Web (formerly IcedTea) with a focus on recent developments.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;After listening to this talk you should have a basic idea of&lt;/p&gt;&#xA;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;some of the things that JNLP applications can do&lt;/li&gt;&#xA;&lt;li&gt;how the JNLP implementation in IcedTea-Web works&lt;/li&gt;&#xA;&lt;li&gt;the various issues that affect the implementation&lt;/li&gt;&#xA;&lt;li&gt;what the future plans for the implementation are&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;      </description>
+      <persons>
+          <person id="1531">Omair Majid</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="24">
+      <start>13:00</start>
+      <duration>00:45</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>Debugging the FreeBSD kernel for dummies</title>
+      <subtitle></subtitle>
+      <track>BSD</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;FreeBSD aims to provide a high-quality modern operating system, however adding new features inevitably introduces bugs. Although several kernel debugging tools have been added and evolved in the last years, the quality of the kernel problem reports show that only a few FreeBSD users know how (or are willing) to take advantage of them.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;This talk will present the tools most commonly used when investigating problems in the kernel, some techniques to extact useful information, and the most commonly made mistakes to look for when inspecting the code. I will also give a few practical tips and examples on how not to turn kernel debugging into a frustrating experience.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="241">Shteryana Shopova</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

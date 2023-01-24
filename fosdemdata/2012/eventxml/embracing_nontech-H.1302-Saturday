@@ -1,0 +1,19 @@
+  <event id="98">
+      <start>11:00</start>
+      <duration>00:30</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>Embracing Non-Technical Users: Celebrations and Challenges</title>
+      <subtitle></subtitle>
+      <track>CrossDistribution Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;tba&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="981">Allison Randal</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

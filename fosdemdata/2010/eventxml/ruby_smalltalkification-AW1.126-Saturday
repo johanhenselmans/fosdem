@@ -1,0 +1,19 @@
+  <event id="271">
+      <start>16:00</start>
+      <duration>00:30</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>The Ruby Smalltalkification</title>
+      <subtitle></subtitle>
+      <track>Ruby + Rails</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Smalltalk can be considered as the grand father of many modern programming languages. It is also commonly agreed that it is dead; is it really the case?&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Ruby is explicitly inspired by Smalltalk (among others) and can be seen as a &amp;#39;Smalltalk dialect with files&amp;#39;. This short talk will walk through the fundamental differences and similarities between the two languages.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Do expect source code during this presentation.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2711">François Stephany</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

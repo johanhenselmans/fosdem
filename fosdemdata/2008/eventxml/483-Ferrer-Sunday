@@ -1,0 +1,22 @@
+  <event id="51">
+      <start>16:40</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Coherence: a DLNA/UPnP framework</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;So my talk would be about adding UPnP functionality to&#xA;Rhythmbox - what does this mean, what Rhythmbox can do more&#xA;after that. What we learned from the interaction with a&#xA;before &amp;#34;isolated&amp;#34; application.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;And what&amp;#39;s needed for other digital media related Linux&#xA;software to take part as a server and/or a client in the&#xA;UPnP world.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;UPnP A/V, and DLNA especially, is a set of specifications&#xA;to define interoperability between digital media sharing&#xA;devices, like MediaServers and MediaRenderers/-Players.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Coherence is used (embedded) in Elisa [elisa.fluendo.com] and&#xA;since a few months in Rhythmbox [www.rhythmbox.org] too.&#xA;On itself it can act as a standalone MediaServer or&#xA;a GStreamer based MediaRenderer.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;I&amp;#39;ve finished these days the next plugin for Rhythmbox,&#xA;let it now act as an UPnP MediaRenderer too, controlled&#xA;by an UPnP ControlPoint, e.g a Nokia N800 or a N95.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;http://netzflocken.de/2008/01/30/coherence-and-rhythmbox-upnp-interaction&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="511">Frank Scholz</person>
+      </persons>
+      <links>
+          <link href="http://fosdem.org/2008/slides/lightningtalks/fosdem08_ltalk_coherence.pdf">Slides (PDF)</link>
+          <link href="http://video.fosdem.org/2008/lightningtalks/FOSDEM2008-coherence.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

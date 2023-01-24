@@ -1,0 +1,22 @@
+  <event id="127">
+      <start>10:45</start>
+      <duration>00:30</duration>
+      <room>H.1308</room>
+      <slug></slug>
+      <title>Boxes, use other systems with ease</title>
+      <subtitle></subtitle>
+      <track>CrossDesktop Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Boxes is a new GNOME application to create and access local and&#xA;remote systems, such as virtual machines or remote desktop. A local&#xA;machine is powered by KVM &amp;amp; Spice, and you can access remote desktop&#xA;via libvirt, SPICE and VNC (and more coming). Boxes is made for you,&#xA;developers, contributors, and users of application running on other systems.&#xA;During this talk we will demo latest version and describe the design of&#xA;Boxes. We will discuss the importance of Boxes as part of the&#xA;GNOME project. Finally, a list of missing features and the roadmap&#xA;for the next cycle will be presented.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="1271">Zeeshan Ali (Khattak)</person>
+          <person id="1272">Marc-André Lureau</person>
+      </persons>
+      <links>
+          <link href="616/137_boxes.pdf">boxes.pdf (slides)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

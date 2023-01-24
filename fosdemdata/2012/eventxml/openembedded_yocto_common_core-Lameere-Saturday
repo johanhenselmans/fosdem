@@ -1,0 +1,21 @@
+  <event id="290">
+      <start>17:00</start>
+      <duration>01:00</duration>
+      <room>Lameere</room>
+      <slug></slug>
+      <title>OpenEmbedded and the Yocto Project - working together on a common Core</title>
+      <subtitle></subtitle>
+      <track>Embedded Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;OpenEmbedded and the Yocto Project have recently changed their structure&#xA;to collaborate around a common base: OpenEmbedded-Core, with additional&#xA;layers being developed to be used on top. Moving to a multi-layer structure&#xA;presents both organisational advantages and challenges.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;This presentation will cover both technical and community aspects and will&#xA;include recent developments in Yocto Project / OpenEmbedded structure, the&#xA;current layer landscape, best practices for developing new layers and growing&#xA;existing ones, and layer tooling enhancements developed as part of the Yocto&#xA;Project that will benefit the entire OE community, as well as future plans&#xA;along those lines.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="2901">Paul Eggleton</person>
+      </persons>
+      <links>
+          <link href="758/143_fosdem_2012_yocto_oe.pdf">fosdem_2012_yocto_oe.pdf (slides)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

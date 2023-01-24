@@ -1,0 +1,19 @@
+  <event id="260">
+      <start>12:00</start>
+      <duration>00:30</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>JamVM Gets a New Flavour</title>
+      <subtitle>Porting JamVM to OpenJDK</subtitle>
+      <track>Free Java devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk will discuss the port of JamVM to the OpenJDK library.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Many free Java VMs use GNU Classpath as their class library. With the release of OpenJDK these VMs have another free, and mature library alternative. Porting a GNU Classpath based VM to OpenJDK is, however, non-trivial as the VM interfaces of the libraries are substantially different.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;This talk will discuss the port of JamVM to the OpenJDK library. It will provide a brief overview of the library interfaces and will highlight several difficulties encountered due to mismatches in library/VM responsibilities.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;The talk will be of particular interest to other runtime engineers thinking about doing a port to OpenJDK. However, it should be of interest to anybody who wishes to learn more about Java runtime internals, and the roles that the VM and class libraries play.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2601">Robert Lougher</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="195">
+      <start>17:15</start>
+      <duration>00:15</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>LibreOffice debugging tips</title>
+      <subtitle>how to get the bonnet open while it&#39;s running</subtitle>
+      <track>LibreOffice Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;How to find your way through the complexities of LibreOffice, or any other large project; or &amp;#34;Find the needle in the haystack effectively&amp;#34;, hear about our sexy new python debugging tools and techniques.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="1951">Jan Holesovsky</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

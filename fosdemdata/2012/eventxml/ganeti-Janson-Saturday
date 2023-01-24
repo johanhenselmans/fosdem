@@ -1,0 +1,25 @@
+  <event id="113">
+      <start>14:00</start>
+      <duration>00:50</duration>
+      <room>Janson</room>
+      <slug></slug>
+      <title>Ganeti: &#34;how we did it&#34;</title>
+      <subtitle>A look inside the Virtualization Cluster Management system</subtitle>
+      <track>Hypervisors Track</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Ganeti is a sophisticated system (~60,000 lines of python code and ~6,000 lines of haskell code) for managing clusters of virtual machines (based on KVM, Xen or LXC). In this talk we&amp;#39;ll describe the internal subsystems and how they interact with the open source virtualization software it manages. Attendees will gain insights on how Ganeti works and how it can be customized to fit their environment.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;This talk will explore:&#xA;- Ganeti components and internals: dissecting what happens under the hood.&#xA;- Which open source virtualization components Ganeti manages and how&#xA;- Scaling limitations and plans for improvements.&#xA;- How to modify Ganeti and examples of the most common customizations.&#xA;- Future directions and the next year&amp;#39;s roadmap.&lt;/p&gt;      </description>
+      <persons>
+          <person id="1131">Guido Trotter</person>
+      </persons>
+      <links>
+          <link href="427/83_ganeti_internals.pdf">Slides for the Ganeti Internals talk (slides)</link>
+          <link href="http://code.google.com/p/ganeti">Ganeti</link>
+          <link href="http://docs.ganeti.org/ganeti/master/html/">Ganeti documentation</link>
+          <link href="http://git.ganeti.org/">Ganeti source code repository</link>
+          <link href="http://video.fosdem.org/2012/maintracks/janson/ganeti.webm">Video recording</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

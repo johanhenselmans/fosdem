@@ -1,0 +1,19 @@
+  <event id="2">
+      <start>11:00</start>
+      <duration>01:00</duration>
+      <room>Chavanne</room>
+      <slug></slug>
+      <title>FreeIPA, Identity Management</title>
+      <subtitle></subtitle>
+      <track>Security</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Free Software Identity Management challenges and technical details&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;The presentation will revolve around the problems of building a modern&#xA;Free Software based Identity Management Solution. The challenges we&#xA;faced in trying to combine security, ease of used, standards, features,&#xA;and interoperability with other solutions. The choices we have made for&#xA;the current code base, and the choices we are facing going forward.&#xA;The vision and future directions.&#xA;The presentation will introduce the public to the technologies used, the&#xA;modifications or additions we performed and will dive into technical&#xA;details about how we architect the server and the future client&#xA;components.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="21">Simo Sorce</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

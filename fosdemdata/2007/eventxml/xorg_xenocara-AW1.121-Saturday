@@ -1,0 +1,19 @@
+  <event id="219">
+      <start>16:00</start>
+      <duration>01:00</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>Xenocara: X.Org modular for OpenBSD</title>
+      <subtitle></subtitle>
+      <track>X.org</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Xenocara: adapting X.Org modular to OpenBSD&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;After a few short reminders on OpenBSD, this talk will show how the modular X.Org build system affected the integration of X in OpenBSD and the solutions that have been implemented. I&amp;#39;ll will also present some ideas about general portability and interoperability concerns in the context of non Linux platforms for future X developments.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="2191">Matthieu Herrb</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

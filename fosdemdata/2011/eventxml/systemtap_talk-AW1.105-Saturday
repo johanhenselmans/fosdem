@@ -1,0 +1,19 @@
+  <event id="293">
+      <start>17:00</start>
+      <duration>00:30</duration>
+      <room>AW1.105</room>
+      <slug></slug>
+      <title>BOFH meets SystemTap: rootkits made trivial</title>
+      <subtitle></subtitle>
+      <track>Security &amp; hardware crypto devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The Bastard Operator From Hell enjoys abusing his users. SystemTap allows for very easy dynamic code injection system-wide (kernel, libraries, applications).&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;This talk gives a brief overview of what is SystemTap and its capabilities.&#xA;We then demonstrate how it can be used to dynamically insert questionable&#xA;code at any level to spy on users and modify behaviours of applications and&#xA;system components very easily. This is not about novel techniques or&#xA;breaking trust boundaries (we assume you are root already). This is only&#xA;about making things easier for both the good and the bad guys.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2931">Adrien Kunysz</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

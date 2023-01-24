@@ -1,0 +1,19 @@
+  <event id="108">
+      <start>11:00</start>
+      <duration>01:00</duration>
+      <room>AW1.117</room>
+      <slug></slug>
+      <title>Pragmatic Smalltalk</title>
+      <subtitle></subtitle>
+      <track>GNUstep + OpenGroupware + Etoile</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Pragmatic Smalltalk is a new Smalltalk implementation for &lt;a href=&#34;http://etoileos.com/etoile/&#34;&gt;Etoile&lt;/a&gt;, allowing developers to combine the power and flexibility of Smalltalk with the Etoile and GNUstep frameworks.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;It is based on LLVM and the GNU Objective-C runtime, allowing programmers to freely mix Objective-C and Smalltalk in their program.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;I will present the current state of our implementation as well as the ongoing work on the development environment.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1081">Nicolas Roard</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

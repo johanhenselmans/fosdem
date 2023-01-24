@@ -1,0 +1,21 @@
+  <event id="282">
+      <start>12:40</start>
+      <duration>00:45</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>Pandora - a mobile Linux computer including gaming controls</title>
+      <subtitle>A short introduction and explanation of its long history and development</subtitle>
+      <track>Open Source Game Development Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The Pandora is a handheld produced to run Linux. It&amp;#39;s not only a gaming device (it features gaming controls), but basically a full Mini-Linux PC the size of a Nintendo DS. It has come a long ways and many many issues occurred during the production. The mass production will finally start in Germany in February, making it easily available for everyone. This talk will give a small introduction to those who don&amp;#39;t know what the Pandora is, explaining a bit about the history and the community behind it as well as showing what it can do.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="2821">Michael Mrozek</person>
+      </persons>
+      <links>
+          <link href="http://video.fosdem.org/2012/devrooms/open_source_game_development/Michael_Mrozek_-_Pandora_-_a_mobile_Linux_computer_including_gaming_controls.mp3">Pandora - a mobile Linux computer including gaming controls</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

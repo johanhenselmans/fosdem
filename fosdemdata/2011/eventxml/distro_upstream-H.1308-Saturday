@@ -1,0 +1,19 @@
+  <event id="83">
+      <start>14:00</start>
+      <duration>01:00</duration>
+      <room>H.1308</room>
+      <slug></slug>
+      <title>Swimming Upstream</title>
+      <subtitle>How Distributions Help Open Source Communities</subtitle>
+      <track>CrossDistro devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk will discuss the ways that distributions (such as Fedora) work collaboratively with upstream communities, and the value that distributions bring.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt; It will also explore ways that distributions can improve their communication and collaboration with upstream projects.&lt;/p&gt;      </description>
+      <persons>
+          <person id="831">Jared K. Smith</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="213">
+      <start>14:30</start>
+      <duration>00:30</duration>
+      <room>H.1308</room>
+      <slug></slug>
+      <title>One Click Install</title>
+      <subtitle></subtitle>
+      <track>openSUSE</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;One Click Install: What it is, How to Leverage it, and Future Improvements.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;A new feature known as &amp;#34;One Click Install&amp;#34; was introduced in openSUSE 10.3, this helped improve the user experience of locating and installing software. This talk will explain the reasons for the technology, how it works, and demonstrate some current and future uses within the openSUSE project. It will be shown how software vendors can utilise the technology to make it easier for users to install their software. Additionally some of the problems that have become apparent during the last few months, and their solutions will be explored.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="2131">Benjamin Weber</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

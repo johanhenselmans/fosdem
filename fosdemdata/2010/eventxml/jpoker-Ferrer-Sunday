@@ -1,0 +1,19 @@
+  <event id="159">
+      <start>16:20</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>jpoker: a pure javascript poker client</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;jpoker is a poker room client running in the web browser. Unlike its java or flash plugins, it is fully customizable using standard HTML, CSS and images. In less than 3,000 LOC, it provides a poker table, support for multi table tournaments, lobby, user login, user account registration and edition, tournament details and registration, server status and more.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;jpoker is a javascript client for playing online poker.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1591">Johan Euphrosine</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

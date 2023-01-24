@@ -1,0 +1,19 @@
+  <event id="169">
+      <start>13:00</start>
+      <duration>00:45</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>KDE SC 4.4 demo</title>
+      <subtitle></subtitle>
+      <track>KDE</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;KDE has just released the shinyest most complete version of its desktop yet. KDE Software Collection 4.4 uses the leading KDE Platform provided by KDE 4 to provide applications that cover the needs from netbooks to large desktop rollouts.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Jos takes us through the new features in its applications and the progress made by KDE 4 in the last year.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1691">Jos Poortvliet</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

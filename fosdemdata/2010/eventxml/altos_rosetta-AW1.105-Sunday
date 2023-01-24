@@ -1,0 +1,19 @@
+  <event id="14">
+      <start>09:15</start>
+      <duration>00:15</duration>
+      <room>AW1.105</room>
+      <slug></slug>
+      <title>Presentation of the Rosetta OS Project</title>
+      <subtitle></subtitle>
+      <track>Alt-OS</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The Rosetta OS project is a collaboration by numerous embedded, BSD, and other operating systems to build an OS-independent driver API.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;It aims at helping projects in sharing source code and drivers for better hardware support.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="141">François Revol</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

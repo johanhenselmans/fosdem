@@ -1,0 +1,19 @@
+  <event id="395">
+      <start>15:30</start>
+      <duration>00:30</duration>
+      <room>H.2213</room>
+      <slug></slug>
+      <title>Social Networking: User Address Ownership in the Federated Social Web</title>
+      <subtitle></subtitle>
+      <track>Jabber and XMPP Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Why Webfinger is so important, why BrowserId is so important, and how to combine the two.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;The federated social web needs to be a tool-agnostic web. A user should be able to interact with other users, regardless of whether the other user is using xmpp-based tools, or OStatus-based tools, even SMTP, and maybe even SMS. But there is one central corner stone of socializing: user addresses. These can be email addresses, Jabber ID&amp;#39;s, or webfinger account URIs.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;In this talk I&amp;#39;ll discuss some of the challenges of enabling people to own their user address. In particular, I will discuss our experiences in both the LibreDocs project and the Opentabs project, about why Webfinger is so important, why BrowserId is so important, and how to combine the two.&lt;/p&gt;      </description>
+      <persons>
+          <person id="3951">Michiel de Jong</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

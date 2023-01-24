@@ -1,0 +1,19 @@
+  <event id="60">
+      <start>17:00</start>
+      <duration>00:30</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>Running Debian on Inexpensive Network Storage Devices</title>
+      <subtitle></subtitle>
+      <track>Debian</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Network Storage Devices (NAS) are gaining popularity and are available quite inexpensively. For most customers, they are basically just a hard drive that you connect to the network for&#x9;file storage. In reality, these devices are complete, even if fairly low-end, computers - and Debian can be installed on some of them.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;This talk will discuss a number of devices that are currently supported and cover some platforms that may be supported in the future.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="601">Martin Michlmayr</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

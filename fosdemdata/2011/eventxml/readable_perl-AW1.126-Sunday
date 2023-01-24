@@ -1,0 +1,19 @@
+  <event id="273">
+      <start>12:50</start>
+      <duration>00:40</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>Introduction to writing readable and maintainable Perl</title>
+      <subtitle></subtitle>
+      <track>Perl devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Readable Perl code&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;An introduction to writing readable Perl code, for people who write&#xA;Perl that other people may want to read. Covers the most important&#xA;lessons from Perl Best Practices, and ends by showing how to use&#xA;Perl::Critic to test that you are meeting the standards set out.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2731">Alex Balhatchet</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

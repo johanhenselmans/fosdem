@@ -1,0 +1,19 @@
+  <event id="330">
+      <start>16:00</start>
+      <duration>00:30</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>Yate Client</title>
+      <subtitle></subtitle>
+      <track>Jabber &amp; XMPP devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Yate Client&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;XMPP and VOIP using the Yate Client&lt;/p&gt;      </description>
+      <persons>
+          <person id="3301">Diana Cionoiu</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="283">
+      <start>18:40</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Uzbl: A webbrowser which adheres to the unix philosophy</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;I will describe how the design ideas and implementation of Uzbl are radically different from other (even &amp;#34;lightweight&amp;#34;) browsers.  Why this is important and which advantages this brings for hackers and control freaks.  I will demonstrate how one can leverage these properties to integrate webbrowsing with other activities and vice versa, by using simple scripts and tools.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Uzbl is:&#xA;&lt;/p&gt;&lt;ul&gt;&lt;li&gt; uzbl-core: a small program providing a UI to interact with webpages, a means to report events and send commands&#xA;&lt;/li&gt;&#xA;&lt;li&gt; uzbl-browser: a complete browser implementation based on uzbl-core and various scripts providing commonly used features.&#xA;&lt;/li&gt;&#xA;&lt;li&gt; many more scripts providing tabs, download managers etc&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;  </description>
+      <persons>
+          <person id="2831">Dieter Plaetinck</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

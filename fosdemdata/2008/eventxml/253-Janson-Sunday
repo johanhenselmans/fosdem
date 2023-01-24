@@ -1,0 +1,21 @@
+  <event id="13">
+      <start>10:00</start>
+      <duration>00:45</duration>
+      <room>Janson</room>
+      <slug></slug>
+      <title>Hudson</title>
+      <subtitle></subtitle>
+      <track>Build Systems</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Kohsuke Kawaguchi talks about &lt;a href=&#34;https://hudson.dev.java.net/&#34;&gt;Hudson, a continuous integration system&lt;/a&gt; that he&amp;#39;s been developing for the last few years. It is a web application that continuously builds your project and keeps track of what&amp;#39;s happening.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;A part of the talk will be about the general introduction of it and what it can do.&#xA;A demo will be shown, and a highlight of most interesting technologies behind Hudson.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;These include the plugin system, the remoting infrastructure, the way distributed builds are handled, how installation is simplified, and the&#xA;avoidance of cryptic URLs in a very REST-full web application.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="131">Kohsuke Kawaguchi</person>
+      </persons>
+      <links>
+          <link href="http://video.fosdem.org/2008/maintracks/FOSDEM2008-hudson.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

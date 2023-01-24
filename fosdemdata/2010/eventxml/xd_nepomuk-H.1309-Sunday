@@ -1,0 +1,19 @@
+  <event id="290">
+      <start>14:30</start>
+      <duration>00:45</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>Nepomuk</title>
+      <subtitle></subtitle>
+      <track>CrossDesktop</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Nepomuk makes your desktop semantik. Using RDF is provides context to items in applications making searching and sorting easy and fast.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Sebastian will take us through how it works and what it adds for users.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2901">Sebastian Trüg</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

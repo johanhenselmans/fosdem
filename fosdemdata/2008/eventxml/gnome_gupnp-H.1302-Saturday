@@ -1,0 +1,19 @@
+  <event id="149">
+      <start>18:15</start>
+      <duration>00:30</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>GUPnP: UPnP made easy</title>
+      <subtitle></subtitle>
+      <track>GNOME</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Zeeshan will briefly explain what UPnP is all about, followed by an introduction to &lt;a href=&#34;http://www.gupnp.org/&#34;&gt;GUPnP API&lt;/a&gt; with special emphasis on the server-side API.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;He will also explain how it is so easy to implement your own UPnP devices using &lt;a href=&#34;http://www.gupnp.org/&#34;&gt;GUPnP&lt;/a&gt; with the help of an example Light Bulb device that implements two simple services. I will also explain why &lt;a href=&#34;http://www.gupnp.org/&#34;&gt;GUPnP&lt;/a&gt; deserves to be the default UPnP stack on maemo and GNOME platforms.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1491">Zeeshan Ali</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

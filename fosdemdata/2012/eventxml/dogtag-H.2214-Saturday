@@ -1,0 +1,19 @@
+  <event id="89">
+      <start>13:00</start>
+      <duration>00:45</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>Overview and a demo of  Dogtag Certificate system</title>
+      <subtitle></subtitle>
+      <track>Hardware Cryptography Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;An open source and open standards based PKI project. Overview of subsystems ((CA, OCSP, KRA[key-recovery-archival] )&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="891">Kashyap Chamarthy</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

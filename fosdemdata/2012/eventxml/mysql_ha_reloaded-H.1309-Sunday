@@ -1,0 +1,19 @@
+  <event id="262">
+      <start>10:00</start>
+      <duration>00:25</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>MySQL HA reloaded - old tricks and cool new tools to guarantee high availability to your MySQL Servers</title>
+      <subtitle></subtitle>
+      <track>MySQL and Friends Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Do you think that High Availability is all about MySQL Replication? Have you tried to alter your tables to NDB to drink at the holy grail of the shared nothing architectures? High Availability is #1 request for MySQL Servers, even more popular than scalability and performance. In this presentation we will talk about old and new tools to provide HA, automatic failover and disaster recovery for MySQL - there is a solution for every need.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="2621">Ivan Zoratti</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

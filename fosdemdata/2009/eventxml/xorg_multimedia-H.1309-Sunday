@@ -1,0 +1,19 @@
+  <event id="293">
+      <start>11:00</start>
+      <duration>01:00</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>Multimedia processing extensions for the X Window System</title>
+      <subtitle></subtitle>
+      <track>X.org</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk reports on experiences gained with a set of experimental extensions for multimedia processing in the X Window System. They allow to transmit compressed images and audio through the X protocol, and provide playback synchronization capabilities within the X server. This for example to build network-transparent media players and bring multimedia to classical thin clients.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="2931">Helge Bahmann</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

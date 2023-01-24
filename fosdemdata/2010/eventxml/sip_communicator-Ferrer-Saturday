@@ -1,0 +1,21 @@
+  <event id="275">
+      <start>16:00</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>SIP Communicator: Skype-like conf calls with SIP Communicator</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Most of us have probably seen at one point or another someone using Skype for a conference call. We all know how well it works and how good it looks. In the SIP Communicator project, we have recently implemented support for a similar feature. In addition to mixing audio streams from all participants and then sending it back to them, we also distribute member information and audio level analysis to all members. We even support distributed conferences where mixing resources are provided by several different clients, and yet, all members get to the same view of the call and who&amp;#39;s in it. &#xA;&lt;/p&gt;&#xA;&lt;p&gt;We believe that the various difficulties that we&amp;#39;ve faced along the way would be interesting to people working in the field of real-time communication and would therefore love to present them. The talk would be technical but would not require substantial technical background. In other words, if you are interested in VoIP then chances are you would like to see it.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;SIP Communicator is an open source (LGPL) audio/video Internet phone and instant messenger. It includes support for advanced telephony features such as conference calls, call transfer, and video calls with SIP. Jabber calls with jingle are also on the way. IM wise the application supports some of the most popular protocols such as SIP, Jabber, AIM/ICQ, MSN, Yahoo! Messenger and others.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2751">Emil Ivov</person>
+      </persons>
+      <links>
+          <link href="http://video.fosdem.org/2010/lightningtalks/saturday/09-sat-sipcommunicator.xvid.avi">Video (DIVX)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

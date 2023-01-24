@@ -1,0 +1,19 @@
+  <event id="130">
+      <start>11:30</start>
+      <duration>00:30</duration>
+      <room>AW1.117</room>
+      <slug></slug>
+      <title>Simple WebKit: a simplified WebKit compatible implementation in pure Objective-C 1.0</title>
+      <subtitle></subtitle>
+      <track>GNUstep</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Simple Webkit is a reimplementation of major parts of the WebKit Obj-C API (WebView, WebFrame etc.).&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Internally it uses pure Obj-C. This keeps requirements towards the compiler low (there isn&amp;#39;t Obj-C++ support for all embedded architectures). Another simplification is that it is completely based on the rendering engine of NSAttributedString and NSTextView instead of having its own. This keeps the code and binaries small for a full (X)HTML 4 compatible WebView (approx. 1 MByte). The presentation describes the internal architecture and the status of CSS and JavaScript integration.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1301">Nikolaus Schaller</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

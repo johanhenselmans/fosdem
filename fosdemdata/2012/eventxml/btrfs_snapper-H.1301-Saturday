@@ -1,0 +1,22 @@
+  <event id="27">
+      <start>17:30</start>
+      <duration>00:45</duration>
+      <room>H.1301</room>
+      <slug></slug>
+      <title>Btrfs and Snapper - Overview and Future</title>
+      <subtitle></subtitle>
+      <track>CrossDistribution Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Snapper is a new tool introduced first in openSUSE 12.1 to manage btrfs snapshots. It has received great attention from the press.&#xA;In this talk we will give an overview of btrfs capabilities and how snapper integrates btrfs snapshots into the system for easy use by the user. We will explain how other software can use the power of snapper. Finally we will give an outlook of future development.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="271">Arvin Schnell</person>
+      </persons>
+      <links>
+          <link href="http://en.opensuse.org/Portal:Snapper">Snapper wiki</link>
+          <link href="http://video.fosdem.org/2012/crossdistro/Btrfs_and_Snapper.webm">Video recording</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

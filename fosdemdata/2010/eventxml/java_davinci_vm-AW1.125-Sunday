@@ -1,0 +1,19 @@
+  <event id="143">
+      <start>15:00</start>
+      <duration>00:30</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>DaVinci VM: Where we are ? where we go ?</title>
+      <subtitle></subtitle>
+      <track>Free Java</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk will report progress of the OpenJDK&amp;#39;s project MLVM, features already implemented and available, feature that will be soon, and some that should be implemented if YOU contribute to the project.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Each feature will be followed by a small demo (I hope :).&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1431">Remi Forax</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

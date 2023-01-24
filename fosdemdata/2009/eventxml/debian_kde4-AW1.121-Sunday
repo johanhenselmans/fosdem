@@ -1,0 +1,19 @@
+  <event id="58">
+      <start>15:00</start>
+      <duration>01:00</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>The long road to KDE4 in Debian</title>
+      <subtitle></subtitle>
+      <track>Debian</track>
+      <type></type>
+      <language></language>
+      <abstract></abstract>
+      <description>&#xA;&lt;p&gt;This talk will handle a variety of topics, including but not limited to:&#xA;&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Packaging with cmake, and packaging KDE4 applications in general&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Distributions&amp;#39; adapations of KDE: merging in patches, fixing up build systems, backporting features, and other such things&#xA;&lt;/li&gt;&#xA;&lt;li&gt; New KDE4 technologies for stale Debian people: why you need Java and MySQL for a proper desktop&#xA;&lt;/li&gt;&#xA;&lt;li&gt; The road to KDE4 in testing&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;  </description>
+      <persons>
+          <person id="581">Sune Vuorela</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

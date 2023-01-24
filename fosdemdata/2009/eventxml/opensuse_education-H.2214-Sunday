@@ -1,0 +1,20 @@
+  <event id="228">
+      <start>10:00</start>
+      <duration>00:45</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>openSUSE education</title>
+      <subtitle></subtitle>
+      <track>openSUSE</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The openSUSE education project has the goal is to support schools using openSUSE, create and describe additional software-packages for educational projects and create an &amp;#34;add-on&amp;#34; CD for the regular openSUSE distribution.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;The talk gives you an overview about the project, where we are now and what has to be done.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2281">Lars Vogdt</person>
+          <person id="2282">Andrea Florio</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

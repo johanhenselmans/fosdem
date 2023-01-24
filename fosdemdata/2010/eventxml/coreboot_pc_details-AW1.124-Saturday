@@ -1,0 +1,19 @@
+  <event id="40">
+      <start>14:00</start>
+      <duration>01:00</duration>
+      <room>AW1.124</room>
+      <slug></slug>
+      <title>coreboot and PC technical details</title>
+      <subtitle></subtitle>
+      <track>Coreboot</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;A modern PC is quite different from the 1980s original, and while the BIOS still lingers after 30 years it must now solve many tricky problems.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;When the original PC with it&amp;#39;s pre-ISA expansion bus was powered on, it was almost immediately ready to run an application. Today&amp;#39;s PC can have several multicore CPUs interconnected by HyperTransport, Front Side Bus or QuickPath, DDR3 RAM on each CPU, and a large number of buses and peripherals. Many components require increasingly complex initialization to be implemented in software. This talk describes the technical challenges encountered by coreboot developers and their solutions.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="401">Peter Stuge</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

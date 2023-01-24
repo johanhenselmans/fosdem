@@ -1,0 +1,22 @@
+  <event id="203">
+      <start>15:30</start>
+      <duration>00:45</duration>
+      <room>H.1301</room>
+      <slug></slug>
+      <title>Mozilla Lightning Talks</title>
+      <subtitle></subtitle>
+      <track>Mozilla</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Lightning talks on the subject of Mozilla, by various speakers.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;==Digitally signing email, why and how ?==&#xA;Introduction on digitally signing emails. How does it work. Why Should People sign their emails. Howto sign emails, live demo on how to get started (Ludovic Hirlimann)&#xA;&lt;/p&gt;&#xA;&lt;p&gt;==Online Communication in the Mozilla Project==&#xA;In virtual teams (like Mozilla) communication is as important as it is challenging. This talk will be about the importance of informal communication and how some of the groups within Mozilla handle it (Kadir Topal)&#xA;&lt;/p&gt;&#xA;&lt;p&gt;==I see GECKO==&#xA;5 min talk about the &amp;#34;I See Gecko&amp;#34; project, becoming live during this presentation. It&amp;#39;s all about Open Web ... (Bogomil Shopov)&#xA;&lt;/p&gt;&#xA;&lt;p&gt;==The Bugzilla REST API==&#xA;How you can &lt;a href=&#34;https://wiki.mozilla.org/Bugzilla:REST_API&#34;&gt;use it&lt;/a&gt; to make your Mozilla life easier (Gerv Markham)&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2031">Gervase Markham</person>
+          <person id="2032">Kadir Topal</person>
+          <person id="2033">Bogomil Shopov</person>
+          <person id="2034">Ludovic Hirlimann</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

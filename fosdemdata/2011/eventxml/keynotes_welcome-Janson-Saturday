@@ -1,0 +1,19 @@
+  <event id="161">
+      <start>10:00</start>
+      <duration>00:30</duration>
+      <room>Janson</room>
+      <slug></slug>
+      <title>Welcome to FOSDEM 2011</title>
+      <subtitle></subtitle>
+      <track>Keynotes</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;FOSDEM welcome and opening talk.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="1611">FOSDEM Staff</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

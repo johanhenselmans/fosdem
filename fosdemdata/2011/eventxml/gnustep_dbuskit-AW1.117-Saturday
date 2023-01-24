@@ -1,0 +1,19 @@
+  <event id="125">
+      <start>17:15</start>
+      <duration>00:30</duration>
+      <room>AW1.117</room>
+      <slug></slug>
+      <title>DBusKit: Integrating GNUstep applications with &#34;foreign&#34; desktop environments.</title>
+      <subtitle></subtitle>
+      <track>World of GNUstep devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;GNUstep has always encouraged good integration between different applications and provides technologies like distributed objects or the services-mechanism to do achieve this in elegant ways. Since these technologies are limited to the Objective-C ecosystem, integration with other desktop and programming environments has been lagging behind comparatively. This talk examines the present status and future directions of DBusKit, an Objective-C framework that provides access to the D-Bus IPC system, allowing better integration of GNUstep applications into environments that rely on D-Bus for IPC.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;GNUstep has always encouraged good integration between different applications and provides technologies like distributed objects or the services-mechanism to do achieve this in elegant ways. Since these technologies are limited to the Objective-C ecosystem, integration with other desktop and programming environments has been lagging behind comparatively. This talk examines the present status and future directions of DBusKit, an Objective-C framework that provides access to the D-Bus IPC system, allowing better integration of GNUstep applications into environments that rely on D-Bus for IPC.&lt;/p&gt;      </description>
+      <persons>
+          <person id="1251">Niels Grewe</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

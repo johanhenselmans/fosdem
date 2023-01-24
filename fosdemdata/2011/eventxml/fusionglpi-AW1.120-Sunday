@@ -1,0 +1,20 @@
+  <event id="115">
+      <start>16:00</start>
+      <duration>00:45</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>FusionInventory and GLPI</title>
+      <subtitle></subtitle>
+      <track>Configuration &amp; Systems Management devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;FusionInventory is a set of tools to inventory assets on a network. Data is&#xA;collected by an agent written in perl for the agent part, and then sent to a&#xA;server written in PHP. With these tools you can get an inventory of hardware&#xA;and software, either locally or remotely with SNMP. The same agent is running&#xA;on all major OSes from Linux to commercial unices, through Windows.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;GLPI is an asset management tool, written in PHP, and it&amp;#39;s goal is to have&#xA;some persistance of the inventory data. With GLPI you can follow the full&#xA;lifecycle of your assets, including all administrative data that can be&#xA;harvested, and the history of incidents reported into the integrated helpdesk&#xA;solution.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Both projects have a french core of participants, and are now engaged in a&#xA;process of internationalisation of their team. They are widely used in France,&#xA;in administrations and small to big companies, and also wordwide.&lt;/p&gt;      </description>
+      <persons>
+          <person id="1151">Guillaume Rousse</person>
+          <person id="1152">Walid Nouh</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

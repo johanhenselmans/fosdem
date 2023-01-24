@@ -1,0 +1,19 @@
+  <event id="274">
+      <start>17:30</start>
+      <duration>00:30</duration>
+      <room>AW1.124</room>
+      <slug></slug>
+      <title>A real-time search engine with Lucene and S4</title>
+      <subtitle></subtitle>
+      <track>Data Analytics devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Introduction to the S4 data stream processing framework and application to real-time indexing for the Apache Lucene search engine.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Search engines have been around for a while, but only recently focus has been made on allowing search on real-time content. To enable such a thing, the whole indexing pipeline has to be made real-time : that is the data processing, and the insertion in the index itself. Lucene has been extended to allow the latter, but the former still has to be handled.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;S4 is an emerging technology from Yahoo that simplifies real-time distributed data processing. The goal of this presentation is to show how S4 can be used to enable some expensive pre-processing on a stream of incoming data, right before its indexing, thus bringing a powerful real-time search capability.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Level of experience of audience : Average knowledge of Lucene&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Additional note :&lt;/p&gt;&#xA;&#xA;&lt;p&gt;The talk will very quickly introduce the S4 philosophy. The rest of the presentation will be driven by a real world example of the development of a real-time search engine.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2741">Michaël Figuière</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

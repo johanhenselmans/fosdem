@@ -1,0 +1,19 @@
+  <event id="369">
+      <start>09:30</start>
+      <duration>00:30</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>Take a small REST, Simple approaches for REST in smalltalk</title>
+      <subtitle></subtitle>
+      <track>Smalltalk Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Showing simple ways to realize REST services in smalltalk. Combining routing, media type handling and meta tools to make REST an easy thing to do.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="3691">Norbert Hartl</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

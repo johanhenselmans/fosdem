@@ -1,0 +1,19 @@
+  <event id="223">
+      <start>12:15</start>
+      <duration>00:30</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>Sharding for the masses</title>
+      <subtitle></subtitle>
+      <track>MySQL</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The Spider storage engine, a plugin for MySQL 5.1 and later, is an extension of partitioning. Using this engine, the user can deal transparently with multiple backends in the server layer.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;This means that the data is accessible from any application without code changes. This lecture will briefly introduce MySQL partitioning, and then shows how to create and use the Spider engine, with some practical examples. This talk covers the latest version of the Spider and the Vertical Partition engines, including the related technology of UDFs that come with the engines. Practical instructions of how to install and use these technologies will be provided during the session.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2231">Giuseppe Maxia</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

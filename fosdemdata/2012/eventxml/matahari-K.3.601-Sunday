@@ -1,0 +1,22 @@
+  <event id="228">
+      <start>10:00</start>
+      <duration>00:45</duration>
+      <room>K.3.601</room>
+      <slug></slug>
+      <title>Systems Management with Matahari </title>
+      <subtitle></subtitle>
+      <track>Configuration and Systems Management Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;In this talk I will introduce the Matahari project, an interface for system management APIs of all kinds.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt; I will discuss the architecture of the Matahari ecosystem and how the use of AMQP as a transport layer allows it to scale to large collections of servers in the Cloud. I will also describe the ways in which developers and sysadmins can get involved in the Matahari ecosystem: by creating agents to provide access to existing APIs through Matahari; by creating their own APIs; by writing their own clients to interact with agents; and by interacting through a command line shell or script.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2281">Zane Bitter</person>
+      </persons>
+      <links>
+          <link href="647/117_matahari-fosdem2012.pdf">matahari-fosdem2012.pdf (slides)</link>
+          <link href="http://matahariproject.org/">Matahari Project</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

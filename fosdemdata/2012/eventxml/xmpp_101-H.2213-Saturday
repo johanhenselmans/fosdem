@@ -1,0 +1,21 @@
+  <event id="426">
+      <start>11:15</start>
+      <duration>00:45</duration>
+      <room>H.2213</room>
+      <slug></slug>
+      <title>Intro: XMPP 101 / Stump the Experts</title>
+      <subtitle></subtitle>
+      <track>Jabber and XMPP Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;A rapid-fire introduction to Jabber and XMPP, with plenty of opportunity to ask questions of the XMPP experts!&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="4261">Peter Saint-Andre</person>
+          <person id="4262">Remko Tronçon</person>
+          <person id="4263">Kevin Smith</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="262">
+      <start>12:00</start>
+      <duration>00:50</duration>
+      <room>Janson</room>
+      <slug></slug>
+      <title>Practical Go Programming</title>
+      <subtitle></subtitle>
+      <track>Languages Track</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Go is a new open-source programming language with an emphasis on simplicity,&#xA; comprehensibility, and efficiency. It has the speed and safety of a&#xA; statically-typed language and the lightweight feel of a scripting language.&#xA; It has a simple feature set that is easy to understand and powerful to use,&#xA; including a novel type system and concurrent programming primitives. This&#xA; talk will dive into some real-world Go programs and discuss the Go idiom used&#xA; in each.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="2621">Andrew Gerrand</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

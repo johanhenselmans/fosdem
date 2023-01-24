@@ -1,0 +1,19 @@
+  <event id="21">
+      <start>13:00</start>
+      <duration>01:00</duration>
+      <room>AW1.124</room>
+      <slug></slug>
+      <title>Ada informal discussions Lunch Time</title>
+      <subtitle></subtitle>
+      <track>Ada</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Adalog and AdaCore Stands&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="211">Valentine Reboul</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="299">
+      <start>16:00</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Thousand Parsec: create and conquer your own universe in 15 minutes</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;I&amp;#39;ll give a quick overview of what Thousand Parsec already is. I&amp;#39;ll introduce the protocol, the main server and client and show a few game modes. After that I&amp;#39;ll briefly say something about other servers and clients (including AI). I&amp;#39;ll highlight some of the future plans we have. Finally I hope to give some ideas about how this might project be fun for both game players and developers.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Thousand Parsec is a framework for creating space empire games (4X games), inspired by classics like Stars!, VGA Planets, Master of Orion and Galactic Civilizations.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2991">Vincent Verhoeven</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

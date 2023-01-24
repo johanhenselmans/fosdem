@@ -1,0 +1,19 @@
+  <event id="149">
+      <start>14:00</start>
+      <duration>00:15</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>JamVM</title>
+      <subtitle></subtitle>
+      <track>Free Java</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Over the past year JamVM has been reworked to make it smaller, faster and more reliable. This talk will give a brief overview of the changes that have been made, and will indicate future directions for the coming year.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="1491">Robert Lougher</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

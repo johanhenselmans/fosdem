@@ -1,0 +1,20 @@
+  <event id="68">
+      <start>16:15</start>
+      <duration>00:45</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>Overview of the Gnome Developer Platform</title>
+      <subtitle></subtitle>
+      <track>GNOME</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The talk will introduce the Gnome Development Platform to new developers.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;The talk will cover the components and technologies that are available, how they are related and how to get started using them.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The session will leave time for questions.&#xA;The goal is to use the feedback to improve the offered platform documentation.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="681">Marc-André Lureau</person>
+          <person id="682">Stefan Kost</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

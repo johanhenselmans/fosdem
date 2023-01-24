@@ -1,0 +1,19 @@
+  <event id="166">
+      <start>10:40</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>JTR Java Test Runner and Java Distributed Testing</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The talk will be focused on the main features delivered by the JTR Project that enable the seamless distribution of the full spectrum of test-suites that can be written to a set of JTR-enabled nodes making it easy performing distributed test sessions.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;The JTR Project is a Java distributed testing framework conceived to fill a gap existing today most notably in the open-source world that’s the lack of a single tool that could help in developing from simple to complex test suites in Java with particular emphasis on the stack of backend-technologies embraced by the JEE specification.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The JTR Framework is aimed at fastening the development of both functional and stress-test suites for verifying the requirements and robustness of both JSE and JEE projects. The JTR Framework supports you in writing components meant for testing:&#xA;•standard JSE components / applications&#xA;•EJBs conforming to both J2EE 2.x and JEE specifications&#xA;•MOM-based JSE and JEE systems (JMS)&#xA;•web-services (both document-based and rpc-like)&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1661">Francesco Russo</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

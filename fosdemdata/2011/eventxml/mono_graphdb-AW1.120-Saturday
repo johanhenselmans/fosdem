@@ -1,0 +1,19 @@
+  <event id="203">
+      <start>17:50</start>
+      <duration>00:30</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>A common graph database access layer for .NET/Mono</title>
+      <subtitle></subtitle>
+      <track>Mono devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;A common graph database access layer for .NET/Mono&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Within the NoSQL landscape graph database are becoming a more and more&#xA;considerable choice for managing complex interconnected data. Unfortunately there had not been very much vendor interoperability yet.&#xA;The Tinkerpop projects started to overcome these limitations and today&#xA;provide a common graphdb access layer and toolset within the Java world.&#xA;But Blueprints.NET, rexster.NET and pipes.NET are not only ports of these Java libraries to the .NET / Mono platform, they exceed them by making a heavy use of latest developments like the Dynamic Language Runtime and the Task Parallel Library. The talk will give a short overview on the basics of graph databases, the porting and developing efforts of the libraries and present several cool applications for graph databases based on these libraries.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2031">Achim Friedland</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

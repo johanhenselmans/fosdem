@@ -1,0 +1,19 @@
+  <event id="201">
+      <start>17:00</start>
+      <duration>02:00</duration>
+      <room>AW1.105</room>
+      <slug></slug>
+      <title>Building XUL Communities</title>
+      <subtitle></subtitle>
+      <track>Mozilla</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Open discussion with &lt;a href=&#34;http://www.mozilla.org/projects/xul/&#34;&gt;XUL&lt;/a&gt; communities.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="2011">Paul Rouget</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

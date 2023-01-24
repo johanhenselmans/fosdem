@@ -1,0 +1,21 @@
+  <event id="1">
+      <start>16:00</start>
+      <duration>00:45</duration>
+      <room>Janson</room>
+      <slug></slug>
+      <title>Inside StatusNet: How Identi.ca Works</title>
+      <subtitle></subtitle>
+      <track>Scalability</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The Open Source microblogging server, StatusNet, drives thousands of sites around the Web.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;The Open Source microblogging server, StatusNet, drives thousands of sites around the Web. One of the most popular is the original, Identi.ca, with over 120,000 users. Founder and lead developer of the StatusNet project and CEO of StatusNet, Inc., Evan Prodromou will discuss the deep internals of the StatusNet, tell stories about how the identi.ca site has scaled, and forecast the future of Open Source and distributed microblogging on the Web.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="11">Evan Prodromou</person>
+      </persons>
+      <links>
+          <link href="http://video.fosdem.org/2010/maintracks/identica.xvid.avi">Video (DIVX)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

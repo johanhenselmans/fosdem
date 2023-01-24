@@ -1,0 +1,19 @@
+  <event id="175">
+      <start>15:30</start>
+      <duration>00:30</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>Writing import filters for beginners</title>
+      <subtitle>see how easy it can be</subtitle>
+      <track>LibreOffice devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;see how simple it is to write a filter for your beloved legacy file format.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Come and find out how you can strike a blow for freedom, and also, simultaneously import all of your beautiful legacy documents into the sparkling world of ODF.&lt;/p&gt;      </description>
+      <persons>
+          <person id="1751">Fridrich Strba</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

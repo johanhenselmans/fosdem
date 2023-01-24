@@ -1,0 +1,19 @@
+  <event id="15">
+      <start>09:30</start>
+      <duration>00:30</duration>
+      <room>AW1.105</room>
+      <slug></slug>
+      <title>Introduction to RTEMS</title>
+      <subtitle></subtitle>
+      <track>Alt-OS</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Introduction to RTEMS: A Real-Time OS for Embedded Applications&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;This session gives an overview over the RTEMS project, its distinct features, goals, typical applications and current capabilities. It sketches general requirements for real-time applications, basic RTEMS features, the structural differences between a Linux based and an RTEMS based application, available APIs, available subsystems and the driver models.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The goal of this session is to emphasis the distinct requirements addressed in RTEMS compared to UNIX-like Operating Systems. This should be a good base for further discussions on collaboration with other projects.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="151">Thomas Doerfler</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

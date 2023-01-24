@@ -1,0 +1,19 @@
+  <event id="89">
+      <start>17:15</start>
+      <duration>00:45</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>Enlightenment: E17 is a fast, light and portable Modular Window Manager  </title>
+      <subtitle></subtitle>
+      <track>Crossdesktop devroom</track>
+      <type></type>
+      <language></language>
+      <abstract></abstract>
+      <description>&#xA;&lt;p&gt;E17 has been developed for the past ten years. As of today, it is about to reach 0.17.0 stable revision. As no more modification will be made after that on API and ABI, it is now time to reveal all the possibilities provided by this environment, named “Desktop Shelf” by Rasterman. The main objective of this window manager is to enable to run the same code, whatever the device used. The purpose of this presentation is to describe how to write a module, what is necessary to accomplish that work, and how to exploit the different layout possibilities.&lt;/p&gt;      </description>
+      <persons>
+          <person id="891">Michaël Bouchaud</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="250">
+      <start>11:00</start>
+      <duration>00:30</duration>
+      <room>AW1.124</room>
+      <slug></slug>
+      <title>SHR: A FSO based Openembedded distribution</title>
+      <subtitle></subtitle>
+      <track>Openmoko</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;SHR is currently the most popular distribution for the OpenMoko FreeRunner and intends to be successful on other devices too. SHR uses E17 as UI, is build around the telephone API of freesmartphone.org and is build with the build-framework from openembedded.org.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;SHR is a community driven GNU/Linux distribution for smartphones. It currently targets Openmoko models Neo 1973 and Neo FreeRunner, but is not designed for these only.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2501">Thomas Zimmermann</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="196">
+      <start>10:00</start>
+      <duration>00:30</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>The Modular Java Platform</title>
+      <subtitle></subtitle>
+      <track>Free Java devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;An update on Project Jigsaw, which aims to modularize the Java SE Platform, the JDK, and applications.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;An update on Project Jigsaw, which aims to modularize the Java SE Platform, the JDK, and applications, so as to reduce download times, improve startup performance, and -- most importantly -- make it easier to construct and maintain large Java programs in a way which integrates well with native packaging systems.&lt;/p&gt;      </description>
+      <persons>
+          <person id="1961">Mark Reinhold</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

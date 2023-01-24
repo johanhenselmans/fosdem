@@ -1,0 +1,19 @@
+  <event id="202">
+      <start>13:10</start>
+      <duration>00:40</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>Welcome F# to the MonoDevelop family</title>
+      <subtitle></subtitle>
+      <track>Mono devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Welcome F# to the MonoDevelop family&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;F# is a functional programming language for .NET and Mono that originates from Microsoft Research and has been recently released under the Apache 2.0 license. In this talk, I&amp;#39;ll present the open-source F# release as well as F# plugin for MonoDevelop that I created.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;We&amp;#39;ll look at a couple of examples in F# and I&amp;#39;ll try to answer questions such as &amp;#34;&amp;#34;What makes F# different from other languages that are available on Mono today?&amp;#34;&amp;#34;, &amp;#34;&amp;#34;In what areas should I use F#?&amp;#34;&amp;#34; and &amp;#34;&amp;#34;Why should I learn F# and what&amp;#39;s the easiest way to do that?&amp;#34;&amp;#34; Along the way, you&amp;#39;ll see some nice aspects of the F# language as well as features provided by the F# plugin for MonoDevelop, including autocompletion, information tool tips, background compilation and F# Interactive pad.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2021">Tomas Petricek</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

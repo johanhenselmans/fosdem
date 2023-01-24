@@ -1,0 +1,19 @@
+  <event id="186">
+      <start>16:45</start>
+      <duration>00:45</duration>
+      <room>H.1308</room>
+      <slug></slug>
+      <title>Community and Design</title>
+      <subtitle></subtitle>
+      <track>Mozilla</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;&amp;#34;Open Source Design, Mozilla and You&amp;#34; - A discussion about what open source design is, how Mozilla uses it to help spread Firefox, and the process of building up a worldwide design community (and how you can help!).&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="1861">John Slater</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

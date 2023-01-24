@@ -1,0 +1,19 @@
+  <event id="243">
+      <start>13:00</start>
+      <duration>01:00</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>OSI: Recent Activities and Future Directions</title>
+      <subtitle></subtitle>
+      <track>Open Source Initiative</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The Board of Directors of the Open Source Initiative (OSI) will cover recent activities of the organization in this presentation, talk about the adoption of open source throughout the whole world and discuss the future direction of the OSI, such as the introduction of a membership program.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;The Open Source Initiative (OSI) is the steward of the Open Source Definition (OSD) and is the community-recognized body for reviewing and approving licenses as OSD-conformant.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The OSI is actively involved in Open Source community-building and education. OSI Board members frequently travel the world to attend Open Source conferences and events, meet with open source developers and users, and to discuss with executives from the public and private sectors about how Open Source technologies, licenses, and models of development can provide economic and strategic advantages.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2431">Michael Tiemann</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

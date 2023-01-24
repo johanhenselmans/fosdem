@@ -1,0 +1,19 @@
+  <event id="335">
+      <start>13:00</start>
+      <duration>01:00</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>ZFS in Open Source Operating Systems</title>
+      <subtitle>zfs</subtitle>
+      <track>BSD devroom</track>
+      <type></type>
+      <language></language>
+      <abstract></abstract>
+      <description>&#xA;&lt;p&gt;The Zettabyte Filesystem (ZFS) is one of the most advanced open-source&#xA;filesystems available today. It comes from (Open-)Solaris and ships with&#xA;the FreeBSD operating system. This talk will give a short introduction&#xA;to ZFS, list supported operating systems, briefly explain legal and license&#xA;issues and give a look at its (possible) future.&lt;/p&gt;      </description>
+      <persons>
+          <person id="3351">Martin Matuska</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

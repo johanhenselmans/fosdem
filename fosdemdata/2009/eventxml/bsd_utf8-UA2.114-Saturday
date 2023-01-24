@@ -1,0 +1,19 @@
+  <event id="38">
+      <start>15:00</start>
+      <duration>01:00</duration>
+      <room>UA2.114</room>
+      <slug></slug>
+      <title>UTF-8 support for syscons, new TTY layer</title>
+      <subtitle></subtitle>
+      <track>BSD + PostgreSQL</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;During my internship for my B.ASc. degree, I was sponsored by a Dutch IT firm to improve the design of the TTY layer.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;After I committed this work to the source tree back in August, I moved my interest to the syscons driver. I&amp;#39;m currently working on adding support for Unicode font rendering. I will discuss the design of the new TTY layer, but also the changes I am planning to make to syscons.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="381">Ed Schouten</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

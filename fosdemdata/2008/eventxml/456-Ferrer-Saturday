@@ -1,0 +1,22 @@
+  <event id="24">
+      <start>15:40</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Terracotta: network attached memory for the JVM</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk will highlight the fundamentals and principles behind JVM-level clustering with Terracotta. A short code example will be evolved over several steps to provide a feel of Terracotta is used in practice.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Terracotta works like network attached memory and plugs into the Java Virtual Machine to transparently bring clustering, scalability and high availability to existing and new software.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="241">Geert Bevin</person>
+      </persons>
+      <links>
+          <link href="http://fosdem.org/2008/slides/lightningtalks/fosdem08_ltalk_terracotta.pdf">Slides (PDF)</link>
+          <link href="http://video.fosdem.org/2008/lightningtalks/FOSDEM2008-terracotta.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

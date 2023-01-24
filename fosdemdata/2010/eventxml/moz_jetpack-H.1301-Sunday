@@ -1,0 +1,19 @@
+  <event id="201">
+      <start>14:00</start>
+      <duration>00:30</duration>
+      <room>H.1301</room>
+      <slug></slug>
+      <title>Explore Jetpack</title>
+      <subtitle></subtitle>
+      <track>Mozilla</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Jetpack is one of the most dynamic project in Mozilla these days.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;The talk will be split into three pieces. First, I&amp;#39;ll present the concept and how the project is being developed. Then, I&amp;#39;ll make sure there&amp;#39;s time for your questions. Finally, I&amp;#39;ll try to make sure you know how to join us :)&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2011">Zbigniew Braniecki</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

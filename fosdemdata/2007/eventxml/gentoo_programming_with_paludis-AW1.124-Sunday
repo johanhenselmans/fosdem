@@ -1,0 +1,19 @@
+  <event id="62">
+      <start>10:00</start>
+      <duration>01:00</duration>
+      <room>AW1.124</room>
+      <slug></slug>
+      <title>Programing with Paludis</title>
+      <subtitle></subtitle>
+      <track>Gentoo</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Programing with Paludis&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Introductory talk in Paludis&amp;#39; paradigm and how to use its C++ and Ruby API.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="621">Danny van Dyk</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

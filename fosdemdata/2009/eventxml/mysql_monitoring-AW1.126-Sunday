@@ -1,0 +1,19 @@
+  <event id="205">
+      <start>10:00</start>
+      <duration>01:00</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>Monitoring MySQL</title>
+      <subtitle></subtitle>
+      <track>MySQL</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Over the past 18 months different open source monitoring solutions have popped up, some of them with a lot of potential. Zabbix, Zenoss and Hyperic are probably the most famous ones but other more specialized ones exist.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Last year we evaluated these Monitoring solutions and presented our findings at OLS. As we are MySQL users we obviously wanted to take a closer look at these tools regarding their integration with MySQL.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;This talk therefore will guide the MySQL users around in a selection of Open Source Monitoring tools that they could use to monitor MySQL as a part of a bigger infrastructure.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2051">Kris Buytaert</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="102">
+      <start>12:00</start>
+      <duration>01:00</duration>
+      <room>Chavanne</room>
+      <slug></slug>
+      <title>Fusil</title>
+      <subtitle></subtitle>
+      <track>Security</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The talk will present how a fuzzer is written and how it works. Then we will &#xA;analyze a crash. And finally we will see how to report it to the vendor and &#xA;typical vendor reactions.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Fusil the fuzzer is a Python library to write fuzzers and a collection of &#xA;twenty specific fuzzers: ClamAV, Firefox, mplayer, poppler (PDF), etc. A &#xA;simple fuzzer can crash most (all?) applications.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1021">Victor Stinner</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

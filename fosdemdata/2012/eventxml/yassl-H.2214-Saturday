@@ -1,0 +1,19 @@
+  <event id="440">
+      <start>15:00</start>
+      <duration>00:45</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>yaSSL - yet another (embedded) SSL library</title>
+      <subtitle></subtitle>
+      <track>Hardware Cryptography Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;yaSSL made some great progress in the past year with the CyaSSL embedded SSL library.  As such, this talk will provide an overview of technical and community progress in the last year and news on the current state of yaSSL.  Details on what&amp;#39;s new will include the addition of new cipher suites and cipher modes, better portability, new ports to software projects and operating systems, and community involvement.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="4401">Chris Conlon</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

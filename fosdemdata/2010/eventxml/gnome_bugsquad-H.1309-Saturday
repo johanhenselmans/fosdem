@@ -1,0 +1,19 @@
+  <event id="112">
+      <start>13:15</start>
+      <duration>00:45</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>GNOME Bugsquad</title>
+      <subtitle></subtitle>
+      <track>GNOME</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This Bugsquad session will be about statistics and people.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;While I&amp;#39;ll show, in what shape our bug database is, I&amp;#39;ll also explain, how to use the current infrastructure appropriately in order to manage our bugs. That includes how to use the bugtracker, the mailinglist and our IRC channel to successfully manage bugs.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;We&amp;#39;ll have a Q&amp;amp;A session afterwards, where we explicitly want to introduce new triagers which will be part of the new bugsquad :)&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1121">Tobias Mueller</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

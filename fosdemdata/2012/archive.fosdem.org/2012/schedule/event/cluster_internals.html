@@ -1,0 +1,674 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<!-- Mirrored from fosdem.org/2012/schedule/event/cluster_internals by HTTrack Website Copier/3.x [XR&CO'2010], Fri, 13 Apr 2012 16:00:09 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8"><!-- /Added by HTTrack -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>fosdem.org</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="../../sites/fosdem.org/themes/fosdem/favicon.ico" type="image/x-icon" />
+	<link type="text/css" rel="stylesheet" media="all" href="../../modules/node/node5dbc.css?S" />
+<link type="text/css" rel="stylesheet" media="all" href="../../modules/system/defaults5dbc.css?S" />
+<link type="text/css" rel="stylesheet" media="all" href="../../modules/system/system5dbc.css?S" />
+<link type="text/css" rel="stylesheet" media="all" href="../../modules/system/system-menus5dbc.css?S" />
+<link type="text/css" rel="stylesheet" media="all" href="../../modules/user/user5dbc.css?S" />
+<link type="text/css" rel="stylesheet" media="all" href="../../sites/all/modules/mollom/mollom5dbc.css?S" />
+<link type="text/css" rel="stylesheet" media="all" href="../../sites/all/modules/schedulep/schedulep5dbc.css?S" />
+<link type="text/css" rel="stylesheet" media="all" href="../../sites/fosdem.org/themes/fosdem/style5dbc.css?S" />
+		<link rel="stylesheet" href="../../sites/fosdem.org/themes/fosdem/print.css" type="text/css" media="print" />
+	<!--[if IE]><link rel="stylesheet" type="text/css" media="screen" href="/2012/sites/fosdem.org/themes/fosdem/ie.css" /><![endif]-->
+</head>
+<body  class="sidebar-left">
+	<div id="container">
+
+		<div id="header">
+			<div class="leftpart">
+				<div class="inner-leftpart">
+					<h1><a href="../../index.html" title="">fosdem.org</a></h1>
+				</div>
+			</div>
+			<div class="middlepart">
+				<div class="inner-middlepart"></div>
+			</div>
+			<div class="rightpart">
+				<div class="inner-rightpart">
+				<p></p>
+				</div>
+			</div>
+		</div><!-- #header -->
+
+		<div id="description">
+			<div class="leftpart"></div>
+			<div class="middlepart">
+				<div class="inner-middlepart">
+					<p>FOSDEM is the biggest free and non-commercial event organized by and for the community. Its goal is to provide Free and Open Source developers a place to meet. <u>No registration necessary.</u></p>
+				</div>
+			</div>
+			<div class="rightpart"></div>
+		</div><!-- #description -->
+
+
+
+
+		<div id="main" class="clearfix">
+
+			<div id="sidebar-left" class="sidebar">
+				<div id="sidebar-left-content">
+					<div class="block block-theme"><form action="http://fosdem.org/2012/schedule/event/cluster_internals"  accept-charset="UTF-8" method="post" id="search-theme-form">
+<div><div id="search" class="container-inline">
+  <div class="form-item" id="edit-search-theme-form-1-wrapper">
+ <label for="edit-search-theme-form-1">Search this site: </label>
+ <input type="text" maxlength="128" name="search_theme_form" id="edit-search-theme-form-1" size="15" value="" title="Enter the terms you wish to search for." class="form-text" />
+</div>
+<input type="submit" name="op" id="edit-submit-1" value="Search"  class="form-submit" />
+<input type="hidden" name="form_build_id" id="form-10921132a9c29a5ee874641440fc0af0" value="form-10921132a9c29a5ee874641440fc0af0"  />
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"  />
+</div>
+
+</div></form>
+</div>					<div id="block-menu-menu-links" class="clearfix block block-menu">
+
+
+  <div class="content"><ul class="menu"><li class="leaf first"><a href="../../index.html" title="go to the front page of the FOSDEM website">Front page</a></li>
+<li class="expanded"><a href="../../about/fosdem.html" title="">About</a><ul class="menu"><li class="leaf first"><a href="../../about/fosdem.html" title="">FOSDEM</a></li>
+<li class="leaf"><a href="../../sponsors.html" title="">Sponsors</a></li>
+<li class="leaf last"><a href="../../faq.html" title="Frequently Asked questions">FAQ</a></li>
+</ul></li>
+<li class="expanded"><a href="../../schedule.html" title="">Schedule</a><ul class="menu"><li class="leaf first"><a href="../schedule.pdf" title="">Printable schedule</a></li>
+<li class="leaf"><a href="../days/sat.html" title="">Grid Saturday</a></li>
+<li class="leaf"><a href="../days/sun.html" title="">Grid Sunday</a></li>
+<li class="expanded"><a href="../tracks.html" title="">Tracks</a><ul class="menu"><li class="leaf first"><a href="../track/keynotes.html" title="Schedule: keynotes">Keynotes</a></li>
+<li class="leaf"><a href="../main-tracks.html" title="">Main Tracks</a></li>
+<li class="leaf"><a href="../devrooms.html" title="">DevRooms</a></li>
+<li class="leaf last"><a href="../tracks/lightningtalks.html" title="">Lightning Talks</a></li>
+</ul></li>
+<li class="leaf"><a href="../../stands.html" title="Stands">Stands</a></li>
+<li class="leaf"><a href="../all-speakers.html" title="">All Speakers</a></li>
+<li class="leaf"><a href="../../booklet.html" title="Booklet">Printable Schedule</a></li>
+<li class="leaf last"><a href="../../mobile-schedule-apps.html" title="FOSDEM Schedule for Mobile devices">Mobile</a></li>
+</ul></li>
+<li class="leaf"><a href="../../contact.html" title="">Contact</a></li>
+<li class="expanded"><a href="../../transportation.html" title="">Practical information</a><ul class="menu"><li class="leaf first"><a href="../../transportation.html" title="Transportation">Venue &amp; travel</a></li>
+<li class="leaf"><a href="../../fosdem-venue-grows.html" title="The FOSDEM venue grows">The New Building</a></li>
+<li class="leaf"><a href="../../practical/catering.html" title="Catering">Catering</a></li>
+<li class="leaf"><a href="../../services-provided-during-event.html" title="Services provided during the event">During the event</a></li>
+<li class="leaf"><a href="../../news/video-streaming-urls.html" title="Video streaming URLs">Streaming Video</a></li>
+<li class="leaf"><a href="../../certification.html" title="Certification Exams">Certification Exams</a></li>
+<li class="leaf"><a href="../../job-corner.html" title="Job Corner">Job Corner</a></li>
+<li class="leaf"><a href="../../keysigning.html" title="Keysigning">Keysigning</a></li>
+<li class="leaf"><a href="../../practical/accommodation.html" title="Accomodation">Accommodation</a></li>
+<li class="leaf"><a href="../../beerevent.html" title="FOSDEM Beer Event">Friday Beer Event</a></li>
+<li class="leaf last"><a href="../../fosdem-spousespartners-tour-0.html" title="FOSDEM spouses/partner&#039;s tour">Spouses  / partners tour</a></li>
+</ul></li>
+<li class="leaf"><a href="../../support/promote.html" title="Press &amp; Promotion">Press &amp; Promotion</a></li>
+<li class="expanded last"><a href="../../media/video.html" title="">Media</a><ul class="menu"><li class="leaf first"><a href="../../interviews.html" title="Main Track Speaker Interviews">Speaker Interviews</a></li>
+<li class="leaf"><a href="../../media/video.html" title="FOSDEM Video Recordings">Videos</a></li>
+<li class="leaf last"><a href="../../archives.html" title="">Archives</a></li>
+</ul></li>
+</ul></div>
+</div>
+<div id="block-block-4" class="clearfix block block-block">
+
+
+  <div class="content"><ul class="menu">
+<li id="ical"><a href="http://fosdem.org/schedule/ical" title="the schedule as iCalendar">ical</a></li>
+<li id="xcal"><a href="http://fosdem.org/schedule/xcal" title="the schedule as xCalendar">xcal</a></li>
+<li id="xcal"><a href="http://fosdem.org/schedule/xml" title="the schedule as custom XML">xml</a></li>
+<li id="rss_feed"><a href="http://fosdem.org/rss.xml">RSS</a></li>
+<li id="identica"><a href="http://identi.ca/fosdem/all">Identi.ca</a></li>
+<li id="twitter"><a href="http://twitter.com/fosdem">Twitter</a></li>
+<li id="linkedin"><a href="http://linkedin.com/groupRegistration?gid=27213">LinkedIn</a></li>
+<li id="facebook"><a href="http://facebook.com/fosdem">Facebook</a></li>
+<li id="mailing_list_subscription"><a href="http://lists.fosdem.org/" title="FOSDEM Mailing Lists">Mailing list</a></li>
+</ul></div>
+</div>
+<div id="block-user-0" class="clearfix block block-user">
+
+  <h3>User login</h3>
+
+  <div class="content"><form action="http://fosdem.org/2012/schedule/event/cluster_internals?destination=schedule%2Fevent%2Fcluster_internals"  accept-charset="UTF-8" method="post" id="user-login-form">
+<div><div class="form-item" id="edit-name-wrapper">
+ <label for="edit-name">Username: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="60" name="name" id="edit-name" size="15" value="" class="form-text required" />
+</div>
+<div class="form-item" id="edit-pass-wrapper">
+ <label for="edit-pass">Password: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" name="pass" id="edit-pass"  maxlength="60"  size="15"  class="form-text required" />
+</div>
+<input type="submit" name="op" id="edit-submit" value="Log in"  class="form-submit" />
+<div class="item-list"><ul><li class="first"><a href="../../user/register.html" title="Create a new user account.">Create new account</a></li>
+<li class="last"><a href="../../user/password.html" title="Request new password via e-mail.">Request new password</a></li>
+</ul></div><input type="hidden" name="form_build_id" id="form-1a8a84c5119bd12e28e1b821b686958a" value="form-1a8a84c5119bd12e28e1b821b686958a"  />
+<input type="hidden" name="form_id" id="edit-user-login-block" value="user_login_block"  />
+
+</div></form>
+</div>
+</div>
+				</div>
+			</div>
+
+			<div id="content" class="clearfix">
+			<div id="content2" class="clearfix">
+				<div class="rctop">
+					<span class="rc-topleft">&nbsp;</span>
+					<span class="rc-topright">&nbsp;</span>
+				</div>
+				<div class="rccontent clearfix">
+					<div id="breadcrumb"><a href="../../index.html">Home</a> › <a href="../../schedule.html">Schedule</a> › <a href="../events.html">Events</a> › <a href="cluster_internals.html" class="active">Cluster internals</a></div>																														
+
+<!-- begin pentabarf schedule -->
+
+<div id="schedule">
+  <div class="section eventpage" id="event">
+<!-- event_id: 663 -->    <div id="event-meta">
+      <div id="infobox">
+        <table>
+          <tr>
+            <th colspan="2">Speakers</th>
+          </tr>
+          <tr>
+            <td>
+            </td>
+            <td>
+              <a href="../speaker/ralf_gebhardt_.html">Ralf Gebhardt </a>
+            </td>
+          </tr>
+          <tr>
+            <th colspan="2">Schedule</th>
+          </tr>
+          <tr>
+            <td class="keyword">Day</td>
+            <td class="value">
+              <a href="../day/sun.html">Sunday</a>
+            </td>
+          </tr>
+          <tr>
+            <td class="keyword">Room</td>
+            <td class="value">
+              <a href="../room/h1309.html">H.1309</a>
+            </td>
+          </tr>
+          <tr>
+            <td class="keyword">Capacity</td>
+            <td class="value">
+150            </td>
+          </tr>
+          <tr>
+            <td class="keyword">Start time</td>
+            <td class="value">12:00</td>
+          </tr>
+          <tr>
+            <td class="keyword">End time</td>
+            <td class="value">12:25</td>
+          </tr>
+          <tr>
+            <td class="keyword">Duration</td>
+            <td class="value">00:25</td>
+          </tr>
+          <tr>
+            <th colspan="2">Info</th>
+          </tr>
+          <tr>
+            <td class="keyword">Track</td>
+            <td class="value track-mysql_and_friends_devroom">
+              <a href="../track/mysql_and_friends_devroom.html">MySQL and Friends Devroom</a>
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div class="title">
+        <h1 class="title">Cluster internals</h1>
+      </div>
+      <div class="abstract">
+<p>This talk will go through the components of the MySQL Cluster architecture. How MySQL Cluster fits into the standard MySQL through the storage engine interface, as well as the different node types in the MySQL Cluster and how they work internally to guarantee high availability. We will also take a look at the resource utilisation within the nodes and how that is managed and configured.</p>      </div>
+    </div>
+    <div class="sametime" id="event-sametime">
+      <h2>Concurrent events:</h2>
+      <table>
+        <thead>
+          <tr>
+            <th class="start-time">When</th>
+            <th class="event">Event</th>
+            <th class="event">Track</th>
+            <th class="event">Where</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr class="even">
+            <td>
+10:30-12:15            </td>
+            <td>
+              <a href="lpi_3.html">LPI Exam Session 3</a>
+            </td>
+            <td class="track-certification">
+              <a href="../track/certification.html">Certification</a>
+            </td>
+            <td>
+              <a href="../room/guillissen.html">Guillissen</a>
+            </td>
+          </tr>
+          <tr class="odd">
+            <td>
+11:00-17:00            </td>
+            <td>
+              <a href="lpi_workshop.html">LPI Item Writing Workshop</a>
+            </td>
+            <td class="track-certification">
+              <a href="../track/certification.html">Certification</a>
+            </td>
+            <td>
+              <a href="../room/ua2114.html">UA2.114</a>
+            </td>
+          </tr>
+          <tr class="even">
+            <td>
+11:30-12:30            </td>
+            <td>
+              <a href="contributor_communities.html">Working with contributor communities (round table)</a>
+            </td>
+            <td class="track-crossdistribution_devroom">
+              <a href="../track/crossdistribution_devroom.html">CrossDistribution</a>
+            </td>
+            <td>
+              <a href="../room/h1301.html">H.1301</a>
+            </td>
+          </tr>
+          <tr class="odd">
+            <td>
+11:40-12:30            </td>
+            <td>
+              <a href="qtprojectorg.html">qt-project.org and Qt 5</a>
+            </td>
+            <td class="track-crossdesktop_devroom">
+              <a href="../track/crossdesktop_devroom.html">CrossDesktop</a>
+            </td>
+            <td>
+              <a href="../room/h1308.html">H.1308</a>
+            </td>
+          </tr>
+          <tr class="even">
+            <td>
+11:45-12:30            </td>
+            <td>
+              <a href="worldforge.html">The Dynamic Data Driven Worlds of WorldForge</a>
+            </td>
+            <td class="track-open_source_game_development_devroom">
+              <a href="../track/open_source_game_development_devroom.html">Open Source Game Development</a>
+            </td>
+            <td>
+              <a href="../room/aw1120.html">AW1.120</a>
+            </td>
+          </tr>
+          <tr class="odd">
+            <td>
+11:45-12:30            </td>
+            <td>
+              <a href="integrating_llvm_freebsd.html">Integrating LLVM into FreeBSD</a>
+            </td>
+            <td class="track-bsd_devroom">
+              <a href="../track/bsd_devroom.html">BSD</a>
+            </td>
+            <td>
+              <a href="../room/k4201.html">K.4.201</a>
+            </td>
+          </tr>
+          <tr class="even">
+            <td>
+11:55-12:15            </td>
+            <td>
+              <a href="lemonldapng.html">The LemonLDAP::NG Project</a>
+            </td>
+            <td class="track-perl_devroom">
+              <a href="../track/perl_devroom.html">Perl</a>
+            </td>
+            <td>
+              <a href="../room/aw1121.html">AW1.121</a>
+            </td>
+          </tr>
+          <tr class="odd">
+            <td>
+12:00-12:05            </td>
+            <td>
+              <a href="openpgp_keysigning.html">OpenPGP keysigning</a>
+            </td>
+            <td class="track-certification">
+              <a href="../track/certification.html">Certification</a>
+            </td>
+            <td>
+              <a href="../room/ferrer.html">Ferrer</a>
+            </td>
+          </tr>
+          <tr class="even">
+            <td>
+12:00-12:25            </td>
+            <td>
+              <a href="ovirt_vdsm.html">VDSM - The oVirt Node Management Agent</a>
+            </td>
+            <td class="track-virtualization_and_cloud_devroom">
+              <a href="../track/virtualization_and_cloud_devroom.html">Virtualization and Cloud</a>
+            </td>
+            <td>
+              <a href="../room/chavanne.html">Chavanne</a>
+            </td>
+          </tr>
+          <tr class="odd">
+            <td>
+12:00-12:30            </td>
+            <td>
+              <a href="continuous_integration_with_mozmill_for_firefox.html">Continuous integration with Mozmill for Firefox</a>
+            </td>
+            <td class="track-mozilla_devroom">
+              <a href="../track/mozilla_devroom.html">Mozilla</a>
+            </td>
+            <td>
+              <a href="../room/ud2218a.html">UD2.218A</a>
+            </td>
+          </tr>
+          <tr class="even">
+            <td>
+12:00-12:30            </td>
+            <td>
+              <a href="jquery_mobile.html">An introduction to jQuery Mobile</a>
+            </td>
+            <td class="track-smalltalk_devroom">
+              <a href="../track/smalltalk_devroom.html">Smalltalk</a>
+            </td>
+            <td>
+              <a href="../room/aw1126.html">AW1.126</a>
+            </td>
+          </tr>
+          <tr class="odd">
+            <td>
+12:00-12:30            </td>
+            <td>
+              <a href="how_eclipse_works.html">How Eclipse Works</a>
+            </td>
+            <td class="track-free_java_devroom">
+              <a href="../track/free_java_devroom.html">Free Java</a>
+            </td>
+            <td>
+              <a href="../room/k4401.html">K.4.401</a>
+            </td>
+          </tr>
+          <tr class="even">
+            <td>
+12:00-12:35            </td>
+            <td>
+              <a href="graphdb_orientdb.html">Works with persistent graphs using OrientDB </a>
+            </td>
+            <td class="track-graph_processing_devroom">
+              <a href="../track/graph_processing_devroom.html">Graph Processing</a>
+            </td>
+            <td>
+              <a href="../room/aw1125.html">AW1.125</a>
+            </td>
+          </tr>
+          <tr class="odd">
+            <td>
+12:00-12:50            </td>
+            <td>
+              <a href="coreboot_laptops.html">coreboot - The last frontier: Laptops</a>
+            </td>
+            <td class="track-system_track">
+              <a href="../track/system_track.html">System</a>
+            </td>
+            <td>
+              <a href="../room/janson.html">Janson</a>
+            </td>
+          </tr>
+          <tr class="even">
+            <td>
+12:00-12:50            </td>
+            <td>
+              <a href="unixio.html">The Wild West of UNIX I/O</a>
+            </td>
+            <td class="track-network_and_io_track">
+              <a href="../track/network_and_io_track.html">Network and IO</a>
+            </td>
+            <td>
+              <a href="../room/k1105.html">K.1.105</a>
+            </td>
+          </tr>
+          <tr class="odd">
+            <td>
+12:00-13:00            </td>
+            <td>
+              <a href="safe_upgrade_of_embedded_systems.html">Safe upgrade of embedded systems</a>
+            </td>
+            <td class="track-embedded_devroom">
+              <a href="../track/embedded_devroom.html">Embedded</a>
+            </td>
+            <td>
+              <a href="../room/lameere.html">Lameere</a>
+            </td>
+          </tr>
+          <tr class="even">
+            <td>
+12:00-13:00            </td>
+            <td>
+              <a href="cm_compositors.html">Colour Management in Compositors.</a>
+            </td>
+            <td class="track-xorgopenicc_devroom">
+              <a href="../track/xorgopenicc_devroom.html">X.org+OpenICC</a>
+            </td>
+            <td>
+              <a href="../room/k3401.html">K.3.401</a>
+            </td>
+          </tr>
+          <tr class="odd">
+            <td>
+12:05-14:00            </td>
+            <td>
+              <a href="cacert_party.html">CAcert Assurance Party</a>
+            </td>
+            <td class="track-cacert">
+              <a href="../track/cacert.html">CAcert</a>
+            </td>
+            <td>
+              <a href="../room/ferrer.html">Ferrer</a>
+            </td>
+          </tr>
+          <tr class="even">
+            <td>
+12:15-13:00            </td>
+            <td>
+              <a href="releasing_debian.html">29,000 packages in 24 hours - Releasing Debian</a>
+            </td>
+            <td class="track-crossdistribution_devroom">
+              <a href="../track/crossdistribution_devroom.html">CrossDistribution</a>
+            </td>
+            <td>
+              <a href="../room/h1302.html">H.1302</a>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="sameroom" id="event-sameroom">
+      <h2>Next (up to 3) talks in the same room (H.1309):</h2>
+      <table>
+        <thead>
+          <tr>
+            <th class="start-time">When</th>
+            <th class="event">Event</th>
+            <th class="event">Track</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr class="even">
+            <td>
+12:30-12:55            </td>
+            <td>
+              <a href="optimising_sql_applications_using_client_side_tools.html">Optimising SQL applications by using client side tools</a>
+            </td>
+            <td class="track-mysql_and_friends_devroom">
+              <a href="../track/mysql_and_friends_devroom.html">MySQL and Friends</a>
+            </td>
+          </tr>
+          <tr class="odd">
+            <td>
+13:00-13:25            </td>
+            <td>
+              <a href="mysql_synchronous_replication_galera.html">MySQL synchronous replication in practice with Galera</a>
+            </td>
+            <td class="track-mysql_and_friends_devroom">
+              <a href="../track/mysql_and_friends_devroom.html">MySQL and Friends</a>
+            </td>
+          </tr>
+          <tr class="even">
+            <td>
+13:30-13:55            </td>
+            <td>
+              <a href="pratical_indexing_guidelines.html">Practical indexing guidelines</a>
+            </td>
+            <td class="track-mysql_and_friends_devroom">
+              <a href="../track/mysql_and_friends_devroom.html">MySQL and Friends</a>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="upcoming" id="event-upcoming">
+      <h2>Events that start after this one (within 30 minutes):</h2>
+      <table>
+        <thead>
+          <tr>
+            <th class="start-time">When</th>
+            <th class="event">Event</th>
+            <th class="event">Track</th>
+            <th class="event">Where</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr class="even">
+            <td>
+12:25-12:45            </td>
+            <td>
+              <a href="ledgersmb_perl.html">LedgerSMB: Open source accounting running on Perl</a>
+            </td>
+            <td class="track-perl_devroom">
+              <a href="../track/perl_devroom.html">Perl</a>
+            </td>
+            <td>
+              <a href="../room/aw1121.html">AW1.121</a>
+            </td>
+          </tr>
+          <tr class="odd">
+            <td>
+12:30-12:55            </td>
+            <td>
+              <a href="optimising_sql_applications_using_client_side_tools.html">Optimising SQL applications by using client side tools</a>
+            </td>
+            <td class="track-mysql_and_friends_devroom">
+              <a href="../track/mysql_and_friends_devroom.html">MySQL and Friends</a>
+            </td>
+            <td>
+              <a href="../room/h1309.html">H.1309</a>
+            </td>
+          </tr>
+          <tr class="even">
+            <td>
+12:30-13:00            </td>
+            <td>
+              <a href="howto_extensions_for_thunderbird.html">Howto: Extensions for Thunderbird</a>
+            </td>
+            <td class="track-mozilla_devroom">
+              <a href="../track/mozilla_devroom.html">Mozilla</a>
+            </td>
+            <td>
+              <a href="../room/ud2218a.html">UD2.218A</a>
+            </td>
+          </tr>
+          <tr class="odd">
+            <td>
+12:30-13:00            </td>
+            <td>
+              <a href="openjdk_on_arm.html">OpenJDK on ARM: Quo vadis?</a>
+            </td>
+            <td class="track-free_java_devroom">
+              <a href="../track/free_java_devroom.html">Free Java</a>
+            </td>
+            <td>
+              <a href="../room/k4401.html">K.4.401</a>
+            </td>
+          </tr>
+          <tr class="even">
+            <td>
+12:30-13:00            </td>
+            <td>
+              <a href="roarvm.html">RoarVM, Sly</a>
+            </td>
+            <td class="track-smalltalk_devroom">
+              <a href="../track/smalltalk_devroom.html">Smalltalk</a>
+            </td>
+            <td>
+              <a href="../room/aw1126.html">AW1.126</a>
+            </td>
+          </tr>
+          <tr class="odd">
+            <td>
+12:35-13:15            </td>
+            <td>
+              <a href="sbc_sems.html">Session Border Control with SEMS</a>
+            </td>
+            <td class="track-telephony_and_communications_devroom">
+              <a href="../track/telephony_and_communications_devroom.html">Telephony and Communications</a>
+            </td>
+            <td>
+              <a href="../room/h2213.html">H.2213</a>
+            </td>
+          </tr>
+          <tr class="even">
+            <td>
+12:40-13:25            </td>
+            <td>
+              <a href="open_pandora.html">Pandora - a mobile Linux computer including gaming controls</a>
+            </td>
+            <td class="track-open_source_game_development_devroom">
+              <a href="../track/open_source_game_development_devroom.html">Open Source Game Development</a>
+            </td>
+            <td>
+              <a href="../room/aw1120.html">AW1.120</a>
+            </td>
+          </tr>
+          <tr class="odd">
+            <td>
+12:45-13:15            </td>
+            <td>
+              <a href="graphity_neo4j_social_nets.html">Graphity: an efficient neo4j based graph model for retrieving the top k news feeds for users in social networks </a>
+            </td>
+            <td class="track-graph_processing_devroom">
+              <a href="../track/graph_processing_devroom.html">Graph Processing</a>
+            </td>
+            <td>
+              <a href="../room/aw1125.html">AW1.125</a>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
+
+
+<!-- end pentabarf schedule -->
+
+					<span class="clear"></span>
+									</div>
+				<div class="rcbottom">
+					<span class="rc-bottomleft">&nbsp;</span>
+					<span class="rc-bottomright">&nbsp;</span>
+				</div>
+			</div><!-- #content2 -->
+			</div><!-- #content -->
+
+			
+		</div><!-- #main -->
+
+	</div><!-- #container -->
+		</body>
+
+<!-- Mirrored from fosdem.org/2012/schedule/event/cluster_internals by HTTrack Website Copier/3.x [XR&CO'2010], Fri, 13 Apr 2012 16:00:09 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8"><!-- /Added by HTTrack -->
+</html>

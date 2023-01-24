@@ -1,0 +1,19 @@
+  <event id="239">
+      <start>18:00</start>
+      <duration>00:15</duration>
+      <room>AW1.105</room>
+      <slug></slug>
+      <title>OpenSC in 2015</title>
+      <subtitle></subtitle>
+      <track>Security &amp; hardware crypto devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;How OpenSC could look like in 2015 and what we could do to make it happen.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="2391">Martin Paljak</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

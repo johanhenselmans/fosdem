@@ -1,0 +1,22 @@
+  <event id="22">
+      <start>14:40</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Open Trusted Computing: towards trusted and secure computing</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Trusted computing in open source world&#xA;&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Key concepts and definitions&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Trusted platform module&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Open source applications and libraries of trusted computing&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Status of TC components in Linux: Hardware and software support&#xA;&lt;/li&gt;&#xA;&lt;li&gt; DRM and Trusted Computing&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Future of Trusted Computing&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;The Open Trusted Computing (OpenTC) consortium is an Research &amp;amp; Development project focusing on the development of trusted and secure computing systems based on open source software. The project targets traditional computer platforms as well as embedded systems such as mobile phones. The suggested architecture is applicable to a wide range of platform types, e.g. servers, GRID technology, mobile phones and industrial automation. It provides basic building blocks for complex, distributed scenarios with inherent, multilateral trust and security capabilities. The framework will be built  around the &amp;#34;Trusted Platform Module&amp;#34; (TPM) specified by the Trusted Computing Group (TCG) and the new generation of x86 CPUs from Intel and AMD. To enable maximum community benefit, project results will be integrated in and distributed as Open Source software, supporting Linux in particular.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="221">Goerkem Cetin</person>
+      </persons>
+      <links>
+          <link href="http://fosdem.org/2008/slides/lightningtalks/fosdem08_ltalk_opentc.pdf">Slides (PDF)</link>
+          <link href="http://video.fosdem.org/2008/lightningtalks/FOSDEM2008-opentc.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="322">
+      <start>14:30</start>
+      <duration>00:45</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>Processing XML with dynamic languages/Perl</title>
+      <subtitle></subtitle>
+      <track>Perl devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;How XML processing can be implemented in other languages&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;It is much easier to process XML correctly in strictly typed languages; XML message structure is usually describe with &amp;#34;schema&amp;#39;s&amp;#34; which are strongly typed. Most implementations are either sloppy (guessing the data-types) or sloppy (ignoring the specification). Agnostic message readers are usable. To be able to write correct XML is much more difficult. Some modules implement an object based type system first, which the application writer needs to use for all values. XML::Compile on the other hand, really understands these schemas. It keeps perl-space typeless and simple, and XML space strongly typed and validated.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;This talk could be of interest for writers of XML related base modules in other languages than Perl, but will mainly demonstrate the simple usages of XML::Compile, its SOAP client and SOAP daemon implementation.&lt;/p&gt;      </description>
+      <persons>
+          <person id="3221">Mark Overmeer</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

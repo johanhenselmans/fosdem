@@ -1,0 +1,19 @@
+  <event id="138">
+      <start>16:25</start>
+      <duration>00:05</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>What Makes IcedTea Tick?</title>
+      <subtitle></subtitle>
+      <track>Free Java devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;An overview of the servers and services that keep &lt;a href=&#34;http://icedtea.classpath.org/&#34;&gt;IcedTea&lt;/a&gt; up and running.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Where are they? What do they do? What else should be done to facilitate the community?&lt;/p&gt;      </description>
+      <persons>
+          <person id="1381">Mark Wielaard</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="27">
+      <start>14:00</start>
+      <duration>00:45</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>Because the License Matters:  BSD as the Foundation for Commercial Point of Sale Applications</title>
+      <subtitle></subtitle>
+      <track>BSD</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;In his presentation Marc Balmer will show how and why his company micro systems choose BSD Unix and BSD licensed software as the foundation for a commercial point of sale application.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;He will address economic aspects of using BSD licensed software in commercial software as well as technical challenges that had to be solved to make a stock BSD operating system run on specialised point of sale hardware.  And last, but not least, he will talk about how the BSD community at large can profit from commercial developments and what a company that uses BSD software can do to support BSD in return.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="271">Marc Balmer</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

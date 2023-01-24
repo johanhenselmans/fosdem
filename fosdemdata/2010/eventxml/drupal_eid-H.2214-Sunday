@@ -1,0 +1,19 @@
+  <event id="79">
+      <start>11:30</start>
+      <duration>00:45</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>The eID module</title>
+      <subtitle></subtitle>
+      <track>Drupal</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The eID is the Belgian electronic identity card.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;The company Coworks&#xA;is currently building a module to register and login on a Drupal&#xA;environment with the eID card. There is still hard developing work to&#xA;be done and there is no release yet. (http://drupal.org/project/eid).&#xA;Dieter will give an overview of the module.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="791">Dieter de Waele</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

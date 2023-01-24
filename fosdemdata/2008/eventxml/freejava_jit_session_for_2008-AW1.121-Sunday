@@ -1,0 +1,20 @@
+  <event id="140">
+      <start>17:45</start>
+      <duration>00:15</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>JIT Session: Free Java plans for 2008</title>
+      <subtitle></subtitle>
+      <track>Free Java</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Setting the agenda for Free Java 2008: community objectives for the next year, optimized on the fly&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description></description>
+      <persons>
+          <person id="1401">Mark Wielaard</person>
+          <person id="1402">Tom Marble</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="59">
+      <start>14:00</start>
+      <duration>01:00</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>Lenny - the road to release</title>
+      <subtitle></subtitle>
+      <track>Debian</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;With the archive now frozen, the Lenny release isn&amp;#39;t far away. What does this mean for the average developer?&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;This talk introduces the Release Team, the policies behind freezes, removals, binNMUs, and general release management in Debian.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="591">Neil McGovern</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

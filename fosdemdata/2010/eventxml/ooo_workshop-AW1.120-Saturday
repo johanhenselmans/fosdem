@@ -1,0 +1,19 @@
+  <event id="244">
+      <start>16:00</start>
+      <duration>00:45</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>Show me YOUR code</title>
+      <subtitle></subtitle>
+      <track>OpenOffice.org</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Show me the code YOU have written and want to be integrated. Talk about, identify and hopefully clear obstacles. Let&amp;#39;s solve remaining problems together.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;The last two FOSDEMs I gave an overview of the Calc spreadsheet interpreter core, and showed how to debug and profile the beast. This year it is time YOU show me YOUR code. Go into details. Discuss your solution. Ask questions. If you would like to dive into your code at the workshop I&amp;#39;d appreciate if you made it available in advance so I can take a look. Send a mail to &lt;a href=&#34;mailto:erack@sun.com?subject=FOSDEM%20code&#34;&gt;me&lt;/a&gt;&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2441">Eike Rathke</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

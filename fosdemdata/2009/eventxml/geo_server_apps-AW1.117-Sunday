@@ -1,0 +1,19 @@
+  <event id="110">
+      <start>12:00</start>
+      <duration>01:00</duration>
+      <room>AW1.117</room>
+      <slug></slug>
+      <title>Building Server Applications using Objective-C and GNUstep</title>
+      <subtitle></subtitle>
+      <track>GNUstep + OpenGroupware + Etoile</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This presentation introduces server application development using Objective-C and GNUstep.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;GNUstep provides a full, mature environment for building large-scale &amp;#34;enterprise&amp;#34; server software in Objective-C.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The talk introduces the various components and discusses how to best take advantage of them in real-world projects.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1101">Nicola Pero</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

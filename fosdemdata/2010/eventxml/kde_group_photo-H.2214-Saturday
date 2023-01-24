@@ -1,0 +1,19 @@
+  <event id="164">
+      <start>14:30</start>
+      <duration>00:15</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>KDE Group Photo</title>
+      <subtitle></subtitle>
+      <track>KDE</track>
+      <type></type>
+      <language></language>
+      <abstract></abstract>
+      <description></description>
+      <persons>
+          <person id="1641">Bart Coppens</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

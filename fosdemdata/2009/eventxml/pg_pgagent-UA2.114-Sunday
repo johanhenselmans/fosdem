@@ -1,0 +1,19 @@
+  <event id="253">
+      <start>09:00</start>
+      <duration>00:30</duration>
+      <room>UA2.114</room>
+      <slug></slug>
+      <title>Job scheduling in PostgreSQL with pgAgent</title>
+      <subtitle></subtitle>
+      <track>BSD + PostgreSQL</track>
+      <type></type>
+      <language></language>
+      <abstract></abstract>
+      <description></description>
+      <persons>
+          <person id="2531">Dave Page</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

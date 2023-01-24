@@ -1,0 +1,19 @@
+  <event id="292">
+      <start>13:00</start>
+      <duration>00:45</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>PackageKit one year on</title>
+      <subtitle></subtitle>
+      <track>CrossDesktop</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;PackageKit one year on: what&amp;#39;s changed, and where are we heading&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;PackageKit is now an established project with a team of developers, and stable front-ends to KDE and GNOME. In this presentation I&amp;#39;ll explain what progress we&amp;#39;ve made in the last year, and what direction the projects are heading. This talk will focus on how application authors can leverage PackageKit, and what PackageKit is now allowing applications to do. We will talk about unresolved issues such as application installation, config file handling (during the transaction) and dealing with complex package management tasks in an abstract daemon.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;There will be time left for questions and discussion. It is expected the audience will be technically skilled, and possess a comprehensive understanding of package management.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2921">Richard Hughes</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

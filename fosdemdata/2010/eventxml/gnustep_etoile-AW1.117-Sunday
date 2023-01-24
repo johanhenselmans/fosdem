@@ -1,0 +1,20 @@
+  <event id="124">
+      <start>12:15</start>
+      <duration>00:30</duration>
+      <room>AW1.117</room>
+      <slug></slug>
+      <title>Étoilé: Where it is, where it&#39;s going, why it isn&#39;t there yet</title>
+      <subtitle></subtitle>
+      <track>GNUstep</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Étoilé is a Desktop Environment for Unix based on the GNUstep frameworks. It focuses on the notions of modularity and small components, collaboration, persistence and flexibility.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;In this presentation, we will take a look at the Étoilé history back to 2004 when the project started, and why we haven&amp;#39;t yet released a version aimed at end users.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Over the years we realized more experimentation time was needed to succeed. Which has gradually led the project to take a more radical and slow path. We will explain how and why we changed our priorities and expanded the scope of the project in several directions.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;We will also discuss the project status, our current work and what can be expected in 2010.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1241">David Chisnall</person>
+          <person id="1242">Quentin Mathé</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

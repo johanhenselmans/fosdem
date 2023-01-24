@@ -1,0 +1,19 @@
+  <event id="277">
+      <start>14:00</start>
+      <duration>01:00</duration>
+      <room>Janson</room>
+      <slug></slug>
+      <title>Syslinux and the dynamic x86 boot process</title>
+      <subtitle></subtitle>
+      <track>Kernel</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk will discuss the x86 boot process, how to make it work in a&#xA;dynamic system, and the tradeoffs between versatility and reliability.&#xA;It will also discuss the Syslinux modular interface and how to use it&#xA;to quickly add new features with a minimum of coding.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Originally written during an all-night hacking session in 1994 with&#xA;the intent to better support the then-ubiquitous install boot&#xA;floppies, Syslinux has evolved over the years into a widely used boot&#xA;loader suite with an advanced modular interface, with emphasis on ease&#xA;of use and reliability. It is now the most commonly used x86&#xA;bootloader for removable media, and is increasingly used for&#xA;conventional hard disk booting as well.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2771">H. Peter Anvin</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

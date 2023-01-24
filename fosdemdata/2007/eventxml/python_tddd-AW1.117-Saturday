@@ -1,0 +1,19 @@
+  <event id="194">
+      <start>14:30</start>
+      <duration>01:00</duration>
+      <room>AW1.117</room>
+      <slug></slug>
+      <title>Test and Documentation Driven Development</title>
+      <subtitle></subtitle>
+      <track>Python</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Test Driven Development using &lt;a href=&#34;http://docs.python.org/lib/module-unittest.html&#34;&gt;unittest&lt;/a&gt; and Documentation Driven Development using &lt;a href=&#34;http://docs.python.org/lib/module-doctest.html&#34;&gt;doctest&lt;/a&gt;.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;The first part of the presentation introduces Test Driven Development in Python with the &lt;a href=&#34;http://docs.python.org/lib/module-unittest.html&#34;&gt;unittest module&lt;/a&gt;. TDD is a common eXtreme Programming strategy to dramatically enhanced the QA of a Python project.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The second part of the presentation focuses on the Python specific &lt;a href=&#34;http://docs.python.org/lib/module-doctest.html&#34;&gt;doctest module&lt;/a&gt; that allows pushing TDD to the next level: Documentation Driven Development.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;We will show how to write runnable documentation that is used at all stages of the life of a python project:&#xA;&lt;/p&gt;&lt;ul&gt;&lt;li&gt; technical specifications drafting of new features&#xA;&lt;/li&gt;&#xA;&lt;li&gt; testing ongoing implementation&#xA;&lt;/li&gt;&#xA;&lt;li&gt; introducing living examples to new developers&#xA;&lt;/li&gt;&#xA;&lt;li&gt; ensuring the documentation stays up-to-date when refactoring&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA; </description>
+      <persons>
+          <person id="1941">Olivier Grisel</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

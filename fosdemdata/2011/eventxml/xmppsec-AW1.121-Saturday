@@ -1,0 +1,19 @@
+  <event id="328">
+      <start>14:00</start>
+      <duration>00:30</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>XMPP and Security</title>
+      <subtitle></subtitle>
+      <track>Jabber &amp; XMPP devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Everything the average XMPP user needs to know about security&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;A whistle stop tour of authentication and authorization technologies available, and why you should care about them&lt;/p&gt;      </description>
+      <persons>
+          <person id="3281">Dave Cridland</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

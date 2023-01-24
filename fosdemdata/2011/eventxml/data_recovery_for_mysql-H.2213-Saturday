@@ -1,0 +1,19 @@
+  <event id="44">
+      <start>15:00</start>
+      <duration>00:25</duration>
+      <room>H.2213</room>
+      <slug></slug>
+      <title>Data Recovery for MySQL</title>
+      <subtitle></subtitle>
+      <track>MySQL &amp; friends devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;MySQL is a modern stable database, however data can be lost for a number of reasons. This session discusses the different types of data loss and recovery techniques and how to use the Percona InnoDB Recovery Tool to recover your data.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;MySQL is a modern stable database, however data can be lost for a number of reasons. This session discusses the different types of data loss and recovery techniques and how to use the Percona InnoDB Recovery Tool to recover your data.&lt;/p&gt;      </description>
+      <persons>
+          <person id="441">Istvan Podor</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

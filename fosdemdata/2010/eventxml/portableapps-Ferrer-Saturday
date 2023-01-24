@@ -1,0 +1,19 @@
+  <event id="261">
+      <start>14:00</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>PortableApps.com: The PortableApps.com Platform, an Introduction and Overview</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This lightning talk will give a brief introduction and general overview of the PortableApps.com Platform. In particular it will look at how the platform is structured, why you should develop for it and how to become compatible with it.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;PortableApps.com is the world&amp;#39;s most popular portable software solution allowing you to take your favourite software with you. A fully open source and free platform, it works on any portable storage device (USB flash drive, iPod, memory card, portable hard drive, etc).&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2611">Steven Lamerton</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

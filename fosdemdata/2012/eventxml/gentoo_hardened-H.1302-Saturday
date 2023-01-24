@@ -1,0 +1,22 @@
+  <event id="119">
+      <start>17:00</start>
+      <duration>01:00</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>Introduction to hardening, the Gentoo Hardened approach</title>
+      <subtitle></subtitle>
+      <track>CrossDistribution Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;In this talk we will explain how some common attacks against vulnerable software work and will explain how the security measures used by the Gentoo Hardened project act against them along with the drawbacks they impose.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="1191">Francisco Blas Izquierdo Riera</person>
+      </persons>
+      <links>
+          <link href="http://www.gentoo.org/proj/en/hardened/">Gentoo Hardened project</link>
+          <link href="http://video.fosdem.org/2012/crossdistro/Introduction_to_hardening,_the_Gentoo_Hardened_approach.webm">Video recording</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

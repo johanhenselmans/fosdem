@@ -1,0 +1,19 @@
+  <event id="157">
+      <start>15:00</start>
+      <duration>01:00</duration>
+      <room>AW1.105</room>
+      <slug></slug>
+      <title>Systems management with RHQ and Jopr</title>
+      <subtitle></subtitle>
+      <track>JBoss</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Jopr is the open source systems management and monitoring platform from JBoss / Red Hat.  While it is specially tailored towards JBoss projects, it can be easily extended in various ways.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;This talk will present the Jopr / RHQ system and its architecture and then talk about the extension points and how to write extensions for monitoring, management and alerting.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;This presentation will also talk about the relation to RHQ-project.org, which used to be the upstream to Jopr and which now includes the Jopr bits.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1571">Heikko Rupp</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

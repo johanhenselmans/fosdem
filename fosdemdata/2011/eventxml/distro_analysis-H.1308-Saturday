@@ -1,0 +1,19 @@
+  <event id="53">
+      <start>17:00</start>
+      <duration>01:00</duration>
+      <room>H.1308</room>
+      <slug></slug>
+      <title>Towards the Comparative Analysis of Evolving Libre Software</title>
+      <subtitle></subtitle>
+      <track>CrossDistro devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Most empirical studies on the evolution and quality of libre software focus on &lt;em&gt;individual&lt;/em&gt; software projects. Instead, we aim to empirically study, analyse and compare software &lt;em&gt;distributions&lt;/em&gt;. We are interested in understanding how the environment that surrounds the considered systems affects their evolving quality. Therefore, we take into account different points of view from different stakeholders.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Our goals are:&#xA;&lt;em&gt;Help developers to asses, control and improve the quality of the project they work on (in this case, software distributions)&#xA;&lt;/em&gt;Advise users on quality criterion when choosing a software distribution&#xA;&lt;em&gt;Gain a better understanding of evolving software environments&lt;/em&gt;&lt;/p&gt;&#xA;&#xA;&lt;p&gt;As a pilot case, we use and analyse package-related metrics for Debian and Ubuntu using data extracted from the Ultimate Debian Database (UDD). We observed an increasing amount of sharing between both projects&amp;#39; communities since the establishment of the Ubuntu project, in 2004.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Even if the standard UDD has been our first choice as both data source and analysis tool, it has not been as effective as we first thought.  We are now looking for other data sources and (reusing existing and/or building new) analysis tools that allow us to extend this study to other distributions.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;*We define a project&amp;#39;s environment as the set of all possible artifacts, entities (communities, projects), processes (development and business models) and other aspects that might influence the system under study.&lt;/p&gt;      </description>
+      <persons>
+          <person id="531">Leandro Doctors</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

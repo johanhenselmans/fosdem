@@ -1,0 +1,19 @@
+  <event id="250">
+      <start>13:30</start>
+      <duration>00:30</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>Padre, the Perl IDE</title>
+      <subtitle></subtitle>
+      <track>Perl devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Padre is the Perl Application Development and Refactoring Environment, a text editor with an oversized ego&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;According to our own poll and to the recent&#xA;TPF survey only about half of the perl developers are using vi or emacs.&#xA;The rest are using either an IDE or a simple text editor.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Padre, the Perl IDE has gaing about 2-4% &amp;#34;market share&amp;#34; since we started to&#xA;develop it in 2008. This is surprisingly high given how much people are attached&#xA;to their editors.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;In this talk I am going to explain the philosophy behind Padre and show&#xA;the features that will make it interesting for anyone writing Perl to at least&#xA;give it a try.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;We don&amp;#39;t expect any vi or emacs use to swicth (immediately :) but as some&#xA;people already put it, you will see why it is good to recommend it to people&#xA;less familiar with the language.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2501">Gabor Szabo</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

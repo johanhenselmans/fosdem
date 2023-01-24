@@ -1,0 +1,19 @@
+  <event id="75">
+      <start>10:45</start>
+      <duration>00:45</duration>
+      <room>H.1308</room>
+      <slug></slug>
+      <title>The youri project</title>
+      <subtitle></subtitle>
+      <track>Distributions</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;YOURI stands for &amp;#34;Youri Offers an Upload &amp;amp; Repository Infrastucture&amp;#34;. It aims to build tools making management of a coherent set of packages easier.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Running a package distribution project involves a lot of tasks:&#xA;&lt;/p&gt;&lt;ul&gt;&lt;li&gt; allow individual maintainers to upload packages in a central repository&#xA;&lt;/li&gt;&#xA;&lt;li&gt; create packages index for packages managers such as urpmi or yum&#xA;&lt;/li&gt;&#xA;&lt;li&gt; synchronise developement resources such as CVS or bugzilla&#xA;&lt;/li&gt;&#xA;&lt;li&gt; advertise new packages&#xA;&lt;/li&gt;&#xA;&lt;li&gt; sign packages numerically&#xA;&lt;/li&gt;&#xA;&lt;li&gt; check individual packages consistency&#xA;&lt;/li&gt;&#xA;&lt;li&gt; check global repository consistency&#xA;&lt;/li&gt;&#xA;&lt;li&gt; etc...&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;The quick&amp;#39;n&amp;#39;dirty approach of using a pile of dedicated shell scripts, with hardcoded distributer-specific policies, generally results quickly in a maintainance nightmare for admins and a discrepancy nightmare for users. YOURI aims to leverage those issues by providing a generic package management framework, focused on code reusability and modularity.&#xA;&#xA;  </description>
+      <persons>
+          <person id="751">Guillaume Rousse</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

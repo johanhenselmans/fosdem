@@ -1,0 +1,19 @@
+  <event id="163">
+      <start>10:30</start>
+      <duration>00:30</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>Localisation for the next LibreOffice</title>
+      <subtitle>making everyone around the world happy</subtitle>
+      <track>LibreOffice devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;How we make l10n of LibreOffice easier and more fun.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;The plan is to make localization of LibreOffice easy to non-technical people (translators), but at the same time we should give the freedom to all translations teams to choose their preferred tool or method to translate. On the other hand ~110 languages need to be maintaned and managed while keeping the footprint and traffic in git as low as possible. We need to study best practices of other free software projects and adapt them to our specific needs.&lt;/p&gt;      </description>
+      <persons>
+          <person id="1631">Andras Timar</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

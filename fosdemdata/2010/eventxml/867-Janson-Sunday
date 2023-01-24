@@ -1,0 +1,21 @@
+  <event id="2">
+      <start>12:00</start>
+      <duration>00:45</duration>
+      <room>Janson</room>
+      <slug></slug>
+      <title>MINIX 3: a Modular, Self-Healing POSIX-compatible Operating System</title>
+      <subtitle></subtitle>
+      <track>Various</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;MINIX started in 1987 and led to several offshoots, the best known being Linux. MINIX 3 is the third major version of MINIX and is now focused on very high-reliability and security.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;MINIX started in 1987 and led to several offshoots, the best known being Linux. MINIX 3 is the third major version of MINIX and is now focused on very high-reliability and security. When you buy a TV set, you just plug it in and it works perfectly for the next 10 year. We are trying to make operating systems as good as that. The current version of MINIX 3 can detect device driver crashes and some server crashes and automatically replace the failed component without user intervention and without affecting running processes. The talk will discuss these aspects as well as new work.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="21">Andrew Tanenbaum</person>
+      </persons>
+      <links>
+          <link href="http://video.fosdem.org/2010/maintracks/minix3.xvid.avi">Video (DIVX)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

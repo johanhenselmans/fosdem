@@ -1,0 +1,19 @@
+  <event id="74">
+      <start>16:15</start>
+      <duration>00:45</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>Taxonomy: Drupals powerful classification system</title>
+      <subtitle></subtitle>
+      <track>Drupal</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Taxonomy is Drupal&amp;#39;s classification system. In this talk Bart explains how it differs from a regular categorisation system and what Drupal core and contributed modules offer to manipulate, browse and apply it.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;This talk gives a short explanation about what Taxonomy is and what it does in simple and clear terminology. Bart briefly describes the history of Taxonomy from Drupal 4 to Drupal 7. Finally he discusses when to use Book.module and when Taxonomy for arranging your content.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="741">Bart Feenstra</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

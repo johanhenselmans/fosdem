@@ -1,0 +1,19 @@
+  <event id="132">
+      <start>15:30</start>
+      <duration>00:30</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>Deploying Jingle</title>
+      <subtitle></subtitle>
+      <track>Jabber + XMPP</track>
+      <type></type>
+      <language></language>
+      <abstract></abstract>
+      <description></description>
+      <persons>
+          <person id="1321">Diana Cionoiu</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="146">
+      <start>14:15</start>
+      <duration>00:30</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>Porting a Java VM to a Hardware Accelerator</title>
+      <subtitle></subtitle>
+      <track>Free Java</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;We&amp;#39;d like to present a project porting a Java Virtual Machine to a hardware Java accelerator.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Specifically, we are trying to port JamVM to AVR32&amp;#39;s Java Extension Module. We&amp;#39;ll briefly explain how hardware Java accelerators work, give motivation for our choice of a specific JVM and CPU platform, describe specifics of this port, its current state and future plans.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1461">Guennadi Liakhovetski</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

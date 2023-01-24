@@ -1,0 +1,19 @@
+  <event id="88">
+      <start>17:30</start>
+      <duration>00:30</duration>
+      <room>AW1.105</room>
+      <slug></slug>
+      <title>Dynalogin</title>
+      <subtitle></subtitle>
+      <track>Security &amp; hardware crypto devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Dynalogin: two-factor authentication with HOTP, integrating with other products&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Dynalogin is a solution that can be deployed as a package&#xA;on Linux distributions and be instantly up and running, enabling almost&#xA;plug-and-play two-factor authentication for UNIX, RADIUS, OpenID and&#xA;other technologies.&lt;/p&gt;      </description>
+      <persons>
+          <person id="881">Daniel Pocock</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

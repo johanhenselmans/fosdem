@@ -1,0 +1,24 @@
+  <event id="103">
+      <start>14:00</start>
+      <duration>03:00</duration>
+      <room>H.2213</room>
+      <slug></slug>
+      <title>Distro DevJam</title>
+      <subtitle></subtitle>
+      <track>GNU Classpath + OpenJDK DevJam</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The goal of this session is to improve the distro packaging guidelines (filesystem layout, packaging inter-dependencies, browser integration, jpackage.org integration, developer guidelines, etc.) used across GNU/Linux distributions for Java libraries and programs.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Success for the DevJam would be demonstrated by community agreement towards cross-distro Java policy augmented by distro specific developer guidelines for implementing the policy.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1031">Thomas Fitzsimmons</person>
+          <person id="1032">Tom Marble</person>
+      </persons>
+      <links>
+          <link href="http://blogs.sun.com/tmarble/resource/FOSDEM-2007/FOSDEM-2007-RedHat.pdf">[PDF] Java and RedHat</link>
+          <link href="http://blogs.sun.com/tmarble/resource/FOSDEM-2007/FOSDEM-2007-Debian-Ubuntu.pdf">[PDF] Java in Debian and Ubuntu</link>
+          <link href="http://people.redhat.com/fitzsim/fosdem-2007/fosdem-2007.sxi">[OOo] Java and RedHat</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

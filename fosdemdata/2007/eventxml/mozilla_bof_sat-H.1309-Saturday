@@ -1,0 +1,19 @@
+  <event id="154">
+      <start>17:45</start>
+      <duration>01:15</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>Mozilla BOF</title>
+      <subtitle></subtitle>
+      <track>Mozilla</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;We&amp;#39;re having an open discussion on Mozilla related topics.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;This open discussion is a traditional Birds of a Feather for member of the Mozilla community and people merely interested. This informal discussion will either end when we&amp;#39;re running out of topics or when the room closes.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1541">Axel Hecht</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

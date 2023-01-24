@@ -1,0 +1,19 @@
+  <event id="81">
+      <start>10:15</start>
+      <duration>01:00</duration>
+      <room>H.1301</room>
+      <slug></slug>
+      <title>KDE 4</title>
+      <subtitle></subtitle>
+      <track>CrossDesktop</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The KDE 4 talk will be about the current status of KDE 4.0, outline some of its core technologies and talk about what is upcoming in the next versions.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description></description>
+      <persons>
+          <person id="811">Jos Poortvliet</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,21 @@
+  <event id="43">
+      <start>11:00</start>
+      <duration>01:00</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>XIP: past, present, future</title>
+      <subtitle></subtitle>
+      <track>Embedded</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;XIP: the past, the present and... the future ?&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;XIP stands for eXecute In Place. This technology allows the code to run directly from where it&amp;#39;s stored 9ie flash) instead of being copied to RAM first. It might be very useful in terms of boot time reduction and RAM usage optimization for Linux-powered embedded devices, especiallylow-end ones.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;This talk will give some brief XIP background, cover both Linux kernel XIP and application XIP, its objectives, pros and contras, as well as some measurement results on boot and execution time. Though XIP is currently known to be supported mostly on ARM, this talk will cover XIP implementation on other architectures, such as MIPS.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Some custom XIP modifications and areas for further XIP development will also be given.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="431">Vitaly Wool</person>
+      </persons>
+      <links>
+          <link href="../../slides/devrooms/embedded/Vitaly_Wool_XIP.pdf">Slides (PDF)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

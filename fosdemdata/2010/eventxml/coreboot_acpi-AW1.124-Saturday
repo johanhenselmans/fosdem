@@ -1,0 +1,19 @@
+  <event id="36">
+      <start>15:00</start>
+      <duration>01:00</duration>
+      <room>AW1.124</room>
+      <slug></slug>
+      <title>ACPI and Suspend/Resume under coreboot</title>
+      <subtitle></subtitle>
+      <track>Coreboot</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Ever wanted to know more about ACPI? This talk will introduce the software part of ACPI as well as provide the necessary hardware details to get the bigger picture.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;A tour through the Coreboot ACPI implementation will be given, and the nitty-gritty details of the suspend and resume procedure will be explained.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="361">Rudolf Marek</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

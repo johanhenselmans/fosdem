@@ -1,0 +1,19 @@
+  <event id="431">
+      <start>16:00</start>
+      <duration>00:30</duration>
+      <room>H.2213</room>
+      <slug></slug>
+      <title>Applications: PubSub in the Dutch Railways API </title>
+      <subtitle></subtitle>
+      <track>Jabber and XMPP Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Implementation of PubSub, Service Discovery and User Location on top&#xA;the Dutch Railways API.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Dutch Railways has opened up an API to their presentation layer. The&#xA;API hooks into the back office and contains similar data as can be&#xA;found on stations and their website. The system is pull based, and has&#xA;a limitation of 40k request per unique API key, the format: XML.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;The openOV project removed the requirement for the API key by acting&#xA;as open proxy, caching request and offering a PubSub allowing&#xA;subscriptions to specific stations. Upon changes any subscriber gets&#xA;informed, in realtime. Additional views in virtual nodes were made to&#xA;retrieve data of a single train passing by stations.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Some commercial partners popped up such as &lt;a href=&#34;http://42transit.com/&#34;&gt;http://42transit.com&lt;/a&gt;&#xA;doing BOSH, to our service.&lt;/p&gt;      </description>
+      <persons>
+          <person id="4311">Stefan de Konink</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

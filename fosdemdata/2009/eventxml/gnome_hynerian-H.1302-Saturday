@@ -1,0 +1,19 @@
+  <event id="114">
+      <start>14:15</start>
+      <duration>00:45</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>The Hynerian Empire</title>
+      <subtitle></subtitle>
+      <track>GNOME</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;&lt;a href=&#34;http://live.gnome.org/Rygel&#34;&gt;Rygel&lt;/a&gt; is an implementation of the UPnP MediaServer V 2.0 specification that is specifically designed for GNOME (Mobile). It is based on GUPnP and is written (mostly) in Vala language.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Zeeshan will start the presentation with information on the past, present and future of Rygel project.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;He will then introduce the plugin API with the help of a Sample plugin, followed by a demo and Q&amp;amp;A session in the end.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1141">Zeeshan Ali</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

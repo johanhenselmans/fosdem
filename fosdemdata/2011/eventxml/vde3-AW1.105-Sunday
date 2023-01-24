@@ -1,0 +1,20 @@
+  <event id="308">
+      <start>11:40</start>
+      <duration>00:20</duration>
+      <room>AW1.105</room>
+      <slug></slug>
+      <title>VDE 3, architecture overview</title>
+      <subtitle></subtitle>
+      <track>New challenges in Virtualization devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;An introduction to the proposed architecture for the next major VDE version. We&amp;#39;ll discuss the limitations of the current version, how the new architecture is overcoming them and we&amp;#39;ll have a look at the first implementation of the new framework.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="3081">Luca Bigliardi</person>
+          <person id="3082">Filippo Giunchedi</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

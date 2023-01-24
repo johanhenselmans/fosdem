@@ -1,0 +1,19 @@
+  <event id="41">
+      <start>14:45</start>
+      <duration>00:15</duration>
+      <room>AW1.105</room>
+      <slug></slug>
+      <title>CyaSSL</title>
+      <subtitle></subtitle>
+      <track>Security &amp; hardware crypto devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;CyaSSL and how it can be used to secure embedded devices.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="411">Larry Stefonic</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

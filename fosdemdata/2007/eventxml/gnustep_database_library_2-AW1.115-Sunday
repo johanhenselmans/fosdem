@@ -1,0 +1,19 @@
+  <event id="79">
+      <start>15:00</start>
+      <duration>01:00</duration>
+      <room>AW1.115</room>
+      <slug></slug>
+      <title>GNUstep Database Library 2</title>
+      <subtitle></subtitle>
+      <track>OpenGroupware + GNUstep</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;[[http://www.gnustep.org/resources/documentation/Developer/GDL2/GDL2.html] GNUstep Database Library 2]&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description></description>
+      <persons>
+          <person id="791">Matt Rice</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

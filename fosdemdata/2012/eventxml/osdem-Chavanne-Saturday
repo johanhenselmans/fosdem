@@ -1,0 +1,19 @@
+  <event id="311">
+      <start>18:00</start>
+      <duration>00:55</duration>
+      <room>Chavanne</room>
+      <slug></slug>
+      <title>OpenStack developers meeting &amp; Distribution panel</title>
+      <subtitle></subtitle>
+      <track>Virtualization and Cloud Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The OpenStack developers ecosystem consists of OpenStack core developers, but also upstream project developers and downstream distribution packagers, producers of compatible tools... In this town hall meeting, we will all gather for an informal workshop where we&amp;#39;ll openly discuss issues and how we can solve them as a community. In particular, we&amp;#39;ll have a panel discussion with packagers from various distributions, but we also expect themes like project policies, QA or governance to be addressed. Come and join us !&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="3111">Thierry Carrez</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

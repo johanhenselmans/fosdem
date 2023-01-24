@@ -1,0 +1,19 @@
+  <event id="95">
+      <start>18:00</start>
+      <duration>01:00</duration>
+      <room>Lameere</room>
+      <slug></slug>
+      <title>Iris, a new capability-based microkernel OS</title>
+      <subtitle></subtitle>
+      <track>Embedded</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Iris is a new capability-based microkernel operating system.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Being a microkernel system, it is easy to work on things which on other systems need kernel programming (and root priviledges).  Being a capability-based system, it allows transparent virtualization of everything.  This leads to improved security to such a degree, that the user can really trust the computer.  A capability-based system also allows easy monitoring of communication.  Another nice feature is that the user can swap target devices under a running program. I know we are in time to be very picky in the schedule, but should be cool if the speeches are made in different days&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="951">Bas Wijnen</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

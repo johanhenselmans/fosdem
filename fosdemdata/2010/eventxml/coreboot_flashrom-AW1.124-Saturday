@@ -1,0 +1,19 @@
+  <event id="38">
+      <start>17:00</start>
+      <duration>01:00</duration>
+      <room>AW1.124</room>
+      <slug></slug>
+      <title>Flashrom, the universal flash tool</title>
+      <subtitle></subtitle>
+      <track>Coreboot</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Flashrom is the open source utility of choice to identify, read, write, verify and erase flash chips.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;It is commonly used to flash BIOSes from under Linux, *BSD, OpenSolaris and Mac OS X, but it also has the ability to reflash graphics cards, SATA controllers, network cards and one game console. A wide variety of external programmers is supported as well, from ultra-cheap homemade setups to high end commercial machines.&#xA;Hotflashing and crossflashing complete the feature set.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;This talk introduces flashrom, and explains its structure and implementation. Common issues and future directions are explained, and even a demonstration will be given.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="381">Carl-Daniel Hailfinger</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

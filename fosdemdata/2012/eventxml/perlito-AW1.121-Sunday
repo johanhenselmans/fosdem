@@ -1,0 +1,19 @@
+  <event id="319">
+      <start>11:05</start>
+      <duration>00:40</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>Perlito</title>
+      <subtitle></subtitle>
+      <track>Perl Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;MiniPerl6 (&amp;#34;perlito&amp;#34;) is a subset of Perl 6, which was designed as a light bootstrapping language. MiniPerl6 is now self-hosted in Javascript, Lisp and in Perl 5.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="3191">Flávio Glock</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

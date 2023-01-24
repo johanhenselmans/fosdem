@@ -1,0 +1,19 @@
+  <event id="63">
+      <start>13:30</start>
+      <duration>00:45</duration>
+      <room>Decroly</room>
+      <slug></slug>
+      <title>About the BSDA certification</title>
+      <subtitle></subtitle>
+      <track>BSDA Certification</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;After the hype of the nineties, IT and IT knowledge became &amp;#34;common&amp;#34;: everybody could configure a web server, any home user can set up a firewall, and we got the impression that there was nothing difficult about the net and its applications.  Yet there is much more to it, and thus the BSD certification was created in order to separate the good from the bad, the people with the real knowledge from the masses who make the net an unsafe and badly maintained.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;ul&gt;&lt;li&gt; Why do we need yac (yet another certification)?&#xA;&lt;/li&gt;&#xA;&lt;li&gt; What are the different types of certification?  &#xA;&lt;/li&gt;&#xA;&lt;li&gt; Certifications from the point of view of employees and employers.&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Comparison between certifications.&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Progress report: where do we stand, available languages, can I do the exam in my country,&#xA;&lt;/li&gt;&#xA;&lt;li&gt; sponsors and the cost of developing exams, what certifications are available and which are planned?&#xA;&lt;/li&gt;&#xA;&lt;li&gt; What do you need to know? Who is the intended audience? An overview of the exam objectives in the categories of system administration, installing and upgrading, security, files and file systems, user account management, network administration and UNIX skills.&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Commitment to testing real-world skills, not just a paper exam. Who defined these objectives? An overview of the Task Survey Analysis.&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Study resources: where can you find training materials, how to prepare for the exam.&#xA;&lt;/li&gt;&#xA;&lt;li&gt; How will we test your knowledge: Testing methodology, the importance of using psychometrics.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA; </description>
+      <persons>
+          <person id="631">Machtelt Garrels</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

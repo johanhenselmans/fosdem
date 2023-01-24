@@ -1,0 +1,19 @@
+  <event id="178">
+      <start>10:30</start>
+      <duration>00:30</duration>
+      <room>K.4.401</room>
+      <slug></slug>
+      <title>JRuby</title>
+      <subtitle></subtitle>
+      <track>Free Java Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;JRuby is Ruby on the JVM, and the first mainstream JVM&#xA;language to make use of invokedynamic. We also have worked around&#xA;limitations in OpenJDK&amp;#39;s APIs (process mgmt, IO, native POSIX support)&#xA;in many clever ways. Lots to talk about here.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="1781">Charles Nutter</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

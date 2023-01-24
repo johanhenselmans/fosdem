@@ -1,0 +1,19 @@
+  <event id="34">
+      <start>12:00</start>
+      <duration>01:00</duration>
+      <room>UA2.114</room>
+      <slug></slug>
+      <title>FreeBSD and Dtrace</title>
+      <subtitle></subtitle>
+      <track>BSD + PostgreSQL</track>
+      <type></type>
+      <language></language>
+      <abstract></abstract>
+      <description></description>
+      <persons>
+          <person id="341">Marius Nünnerich</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

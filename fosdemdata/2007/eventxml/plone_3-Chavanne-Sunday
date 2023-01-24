@@ -1,0 +1,21 @@
+  <event id="185">
+      <start>10:00</start>
+      <duration>00:45</duration>
+      <room>Chavanne</room>
+      <slug></slug>
+      <title>Plone 3.0</title>
+      <subtitle></subtitle>
+      <track>Web</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Developer Preview of Plone 3.0&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;&lt;a href=&#34;http://www.plone.org/&#34;&gt;Plone&lt;/a&gt; has become a popular choice for managing content with security, workflow, translations, and other services.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;In this talk we preview the important changes planned in Plone 3.0 for developing add-ons and customized sites with Plone.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1851">Paul Everitt</person>
+      </persons>
+      <links>
+          <link href="http://video.fosdem.org/2007/FOSDEM2007-Plone.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

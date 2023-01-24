@@ -1,0 +1,19 @@
+  <event id="259">
+      <start>16:30</start>
+      <duration>01:00</duration>
+      <room>H.2213</room>
+      <slug></slug>
+      <title>Nouveau: Cooking an open source driver</title>
+      <subtitle></subtitle>
+      <track>X.org</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Cooking a graphics driver involves a complex recipe and a number of ingredients. This talk will detail the recipe used for &lt;a href=&#34;http://nouveau.freedesktop.org/wiki/&#34;&gt;Nouveau&lt;/a&gt;, an open source 2D/3D nVidia driver.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;We will focus on the required steps to get a nice meal, including 2D acceleration with EXA, 3D acceleration support using gallium, proper modesetting with dual head, improved Xv support, and what all this entails.&#xA;Less technical aspects like building a community around a driver will also be discussed.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;We will finish by discussing future cooking, including moving more of the driver components into the kernel and possible extensions like fb support.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="2591">Stéphane Marchesin</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

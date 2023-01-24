@@ -1,0 +1,20 @@
+  <event id="410">
+      <start>15:00</start>
+      <duration>00:40</duration>
+      <room>H.1308</room>
+      <slug></slug>
+      <title>WebKitGTK+ status and roadmap to WebKit2</title>
+      <subtitle></subtitle>
+      <track>CrossDesktop Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;In the talk we will talk about WebKitGTK+ [1] current status&#xA;and work done in the last months since last desktop summit. A&#xA;lot of things have happened in these months, we will summarize&#xA;the various WebKitGTK+ improvements in rendering (accelerated&#xA;compositing), accessibility, networking, etc. Also we will cover&#xA;WebKit2 architecture and initial version of the API, we will detail&#xA;the roadmap for WebKit2 support for WebKitGTK+. And or course some&#xA;nice demos :).&lt;/p&gt;&#xA;&#xA;&lt;p&gt;The talk should be interesting for embedders and those considering&#xA;integration of the web with the free desktop&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="4101">Mario Sánchez Prada</person>
+          <person id="4102">Philippe Normand</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

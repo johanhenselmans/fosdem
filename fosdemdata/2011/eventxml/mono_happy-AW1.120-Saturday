@@ -1,0 +1,19 @@
+  <event id="204">
+      <start>15:00</start>
+      <duration>00:20</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>Making happy developers</title>
+      <subtitle></subtitle>
+      <track>Mono devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Making happy developers&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Writing software that targets mono remains bumpy in many areas. There have been many strides into improving this situation but the job is far from done.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;The objective of this talk is to both show recent advances on this area and gather feedback on how can we make developer happier when developing with mono.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;We&amp;#39;ll try to come up with a clever hack to work during the mono hackathon.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2041">Rodrigo Kumpera</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

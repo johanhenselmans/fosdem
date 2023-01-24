@@ -1,0 +1,19 @@
+  <event id="45">
+      <start>10:00</start>
+      <duration>01:00</duration>
+      <room>H.2213</room>
+      <slug></slug>
+      <title>Introduction to CentOS</title>
+      <subtitle></subtitle>
+      <track>Fedora + CentOS</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The reasons why you need an enterprise Linux distro.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;What is the CentOS project ? From where is it coming and where is it going ? Wanted to be involved ? What&amp;#39;s cooking actually in the CentOS kitchen ? Let&amp;#39;s have an interactive talk about that (and more).&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="451">Fabian Arrotin</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

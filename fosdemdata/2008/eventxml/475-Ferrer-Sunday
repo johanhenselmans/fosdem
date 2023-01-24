@@ -1,0 +1,22 @@
+  <event id="43">
+      <start>14:00</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>tangoGPS: from Gtk development to Openmoko app.</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The interesting part of the app is the fact that it is&#xA;entirely developed on a desktop machine set up for GNOME development&#xA;without anything special and the resulting app simply needs to be&#xA;recompiled in order to run under OpenMoko on the FIC Neo1973 phone. The&#xA;talk will thus focus on the ease with which any Gtk-developer can&#xA;develop for Openmoko literally in minutes.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Current Project Version: 0.1, fully functional, loading automatically&#xA;maps from OpenStreetMaps and displaying them, plus location cursor and track.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="431">Marcus Bauer</person>
+      </persons>
+      <links>
+          <link href="http://fosdem.org/2008/slides/lightningtalks/fosdem08_ltalk_tangogps.pdf">Slides (PDF)</link>
+          <link href="http://video.fosdem.org/2008/lightningtalks/FOSDEM2008-tangogps.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

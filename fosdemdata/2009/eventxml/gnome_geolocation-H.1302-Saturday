@@ -1,0 +1,19 @@
+  <event id="112">
+      <start>16:15</start>
+      <duration>00:45</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>Bringing geolocation into GNOME</title>
+      <subtitle></subtitle>
+      <track>GNOME</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk will be about some of the efforts to bring geolocation into Gnome.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;In particular, it&amp;#39;ll focus on the Gtk/Clutter widget to display maps: http://blog.pierlux.com/projects/libchamplain/ and geoclue.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;It&amp;#39;ll go on with examples of where they are already used in Gnome apps (such as the EOG plugin and Empathy (in a feature to be released soon)).&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1121">Pierre-Luc Beaudoin</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

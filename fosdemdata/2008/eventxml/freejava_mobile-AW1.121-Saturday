@@ -1,0 +1,21 @@
+  <event id="141">
+      <start>15:00</start>
+      <duration>01:00</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>Mobile Java</title>
+      <subtitle></subtitle>
+      <track>Free Java</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Take your freedom to the max! Make your Free Java mobile.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;What if you want to scale up or down your VM or class library. Is it easy to switch between completely different &amp;#34;full&amp;#34; and &amp;#34;small&amp;#34; versions of the core class libraries? How do you make a VM as flexible as possible to adopt to the available resources and core classes? What has the Mobile and Embedded community been up to this last year?&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1411">Ray Gans</person>
+          <person id="1412">Guillaume Legris</person>
+          <person id="1413">Christian Thalinger</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

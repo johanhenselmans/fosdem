@@ -1,0 +1,19 @@
+  <event id="59">
+      <start>14:45</start>
+      <duration>00:45</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>Distribution Image building with KIWI</title>
+      <subtitle></subtitle>
+      <track>Distributions</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The OpenSuSE KIWI Image System provides a complete operating system image solution for Linux supported hardware platforms as well as for virtualisation systems like Xen, Qemu or VMware.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;The KIWI architecture was designed as a two level system. The first stage, based on a valid software package source, creates a so called physical extend according to the provided image description. The second stage creates from a required physical extend an operating system image. The result of the second stage is called a logical extend or short an image. &#xA;&lt;/p&gt;&#xA;&lt;p&gt;There are already a lot of projects using the KIWI image system today including the very popular SUSE Studio online appliance builder.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;This talk briefly introduces the KIWI image system and shows how to create images based on distributions other than openSUSE.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="591">Christopher Hofmann</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

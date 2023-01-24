@@ -1,0 +1,19 @@
+  <event id="222">
+      <start>13:00</start>
+      <duration>00:25</duration>
+      <room>H.2213</room>
+      <slug></slug>
+      <title>What&#39;s new in MySQL 5.5</title>
+      <subtitle></subtitle>
+      <track>MySQL &amp; friends devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;In this talk, I would like to give a &amp;#34;helicopter view&amp;#34; of the new features and enhancements that have been added to MySQL 5.5. The talk will broadly cover all notable changes that have been made in 5.5 in comparison to previous releases.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;In this talk, I would like to give a &amp;#34;helicopter view&amp;#34; of the new features and enhancements that have been added to MySQL 5.5. The talk will broadly cover all notable changes that have been made in 5.5 in comparison to previous releases.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2221">Lenz Grimmer</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

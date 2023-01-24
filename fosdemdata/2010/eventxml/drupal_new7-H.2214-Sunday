@@ -1,0 +1,19 @@
+  <event id="82">
+      <start>12:15</start>
+      <duration>00:45</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>What&#39;s new in Drupal 7</title>
+      <subtitle></subtitle>
+      <track>Drupal</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;What is there to look forward to in Drupal 7, and when can we have it?&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Learn about CCK-like fields in core, the new testing framework, PDO&#xA;Database backend, OPML imports, improved time zone support, better&#xA;file handling, safety from badgers, and the free ponies for everyone.&#xA;This will be a tour of the user facing and developer oriented features&#xA;and changes that will make Drupal 7 hot.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="821">Károly Négyesi</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

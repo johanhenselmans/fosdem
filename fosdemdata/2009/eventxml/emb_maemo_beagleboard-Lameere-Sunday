@@ -1,0 +1,19 @@
+  <event id="80">
+      <start>12:00</start>
+      <duration>00:30</duration>
+      <room>Lameere</room>
+      <slug></slug>
+      <title>Maemo on BeagleBoard</title>
+      <subtitle></subtitle>
+      <track>Embedded</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;&lt;a href=&#34;http://beagleboard.org/&#34;&gt;BeagleBoard&lt;/a&gt; is an affordable OMAP3 based development board. &lt;a href=&#34;http://maemo.org/&#34;&gt;Maemo&lt;/a&gt; 5 is the next version of Nokia&amp;#39;s Linux platform (codenamed Fremantle) and it supports OMAP3 processors. With some patience any BeagleBoard owner can get Maemo Fremantle running on the hardware.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;This talk will be about creating a BeagleBoard image from the Maemo SDK. &#xA;&lt;/p&gt;&#xA;&lt;p&gt;I&amp;#39;ll go through the current status and how to get involved in the project and how BeagleBoard could be of help in creating software for Maemo devices&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="801">Juha Kallionen</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,24 @@
+  <event id="24">
+      <start>14:00</start>
+      <duration>01:00</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>Running Debian on Inexpensive Network Storage Devices</title>
+      <subtitle></subtitle>
+      <track>Debian</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Network Storage Devices (NAS) are gaining popularity and are available quite inexpensively. For most customers, they are basically just a hard drive that you connect to the network for file storage.&#xA;In reality, these devices are complete, even if fairly low-end, computers - and Debian can be installed on some of them.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;This talk will show how combining a NAS with Debian gives you a low-power and quiet server for home use.&#xA;In particular, it will cover two devices: the Linksys NSLU2 and the Thecus N2100.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="241">Martin Michlmayr</person>
+      </persons>
+      <links>
+          <link href="http://meetings-archive.debian.net/pub/debian-meetings/2007/fosdem/slides/Running_Debian_on_Inexpensive_Network_Storage_Devices-Martin_Michlmayr/debian-on-nas.pdf">Slides (PDF)</link>
+          <link href="http://meetings-archive.debian.net/pub/debian-meetings/2007/fosdem/ogg_theora/720x576/Running_Debian_on_Inexpensive_Network_Storage_Devices-Martin_Michlmayr.ogg">Video (Ogg/Theora)</link>
+          <link href="http://meetings-archive.debian.net/pub/debian-meetings/2007/fosdem/xvid/Running_Debian_on_Inexpensive_Network_Storage_Devices-Martin_Michlmayr_xvid.avi">Video (DIVX)</link>
+          <link href="http://meetings-archive.debian.net/pub/debian-meetings/2007/fosdem/ogg_theora/360x288/Running_Debian_on_Inexpensive_Network_Storage_Devices-Martin_Michlmayr.ogg">Video (Ogg/Theora/Low quality)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

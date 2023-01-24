@@ -1,0 +1,22 @@
+  <event id="115">
+      <start>16:00</start>
+      <duration>00:45</duration>
+      <room>Janson</room>
+      <slug></slug>
+      <title>Linux Kernel</title>
+      <subtitle></subtitle>
+      <track>Kernel</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Andrew will present the current trends in Linux kernel development.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Andrew will present a broad look at the trends in recent changes in the Linux kernel: what areas of kernel functionality are people working on, and what changes can we expect to see over the next year ?&#xA;&lt;/p&gt;&#xA;&lt;p&gt;This feature-by-feature walk-through will be tied to an examination of the motivations of the kernel contributors: why do particular individuals and organizations choose particular things to work upon ?&#xA;&lt;/p&gt;&#xA;&lt;p&gt;He will also examine areas of the kernel which are arguably suffering from some neglect, the reasons for this and some possible corrective actions&#xA;which might be taken.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Andrew will finish with a discussion of the importance of individual testers to the kernel development effort, as well as a look at the steps which a&#xA;kernel tester should take to maximize the effectiveness of his or her contribution to the kernel.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1151">Andrew Morton</person>
+      </persons>
+      <links>
+          <link href="../../slides/maintracks/linux_kernel.pdf">Slides (PDF)</link>
+          <link href="http://video.fosdem.org/2007/FOSDEM2007-LinuxKernel.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

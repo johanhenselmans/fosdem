@@ -1,0 +1,19 @@
+  <event id="281">
+      <start>18:00</start>
+      <duration>00:15</duration>
+      <room>AW1.124</room>
+      <slug></slug>
+      <title>How Seeks let you do your Web search at home</title>
+      <subtitle></subtitle>
+      <track>Data Analytics devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Seeks is a free and open P2P design and application for enabling social websearch. Its specific purpose is to regroup users whose queries are similar so they can share both the query results and their experience on these results.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Seeks is a free and open P2P design and application for enabling social websearch. Its specific purpose is to regroup users whose queries are similar so they can share both the query results and their experience on these results.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Seeks is designed to run as a proxy on a user&amp;#39;s machine. As such it studies the user&amp;#39;s behavior and uses these data locally to improve websearch results. Other features include automated similarity analysis for text and images, automated clustering of textual content, and most discriminant words highlighting.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Seeks relies on a mixture of machine learning similarity analysis tools applied to Web search and results personalization. These tools are implemented with one goal in mind: give more control to the user in its searches. Typically, machine learning and information retrieval algorithms help squeeze more information out of the data. However, Seeks always let the user decide what matters to him. It does so by studying user clicks and navigation, and using this data to make recommendations (results, queries, URLs). This talk intends to outline some of these tools, and to show how their careful integration benefit many searches.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;In a near future, Seeks instances will talk to each other through a P2P overlay network (DHT), so that users can share their experience over similar queries.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2811">Emmanuel Benazera</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="78">
+      <start>16:00</start>
+      <duration>00:30</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>APT-PBO</title>
+      <subtitle>a Linux meta-installer with enhanced dependency-solving</subtitle>
+      <track>CrossDistro devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;As a Linux distribution we face a huge number of reports of users unable to install packages due to APT limited solving capability&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;In the scope of a EU research project (MANCOOSI) we had enhanced the solving capabilities of APT using pseudo-Boolean optimization. In this talk we propose to share the results and discuss with the community how this work can help other distributions.&lt;/p&gt;      </description>
+      <persons>
+          <person id="781">Paulo Trezentos</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

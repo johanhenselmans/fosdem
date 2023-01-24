@@ -1,0 +1,19 @@
+  <event id="3">
+      <start>12:00</start>
+      <duration>01:00</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>CAcert Signing</title>
+      <subtitle></subtitle>
+      <track>Key Signing</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;CAcert signing session.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;See &lt;a href=&#34;http://fosdem.org/2007/keysigning#cacert&#34;&gt;http://fosdem.org/2007/keysigning#cacert&lt;/a&gt; for details.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="31">Johan Braeken</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

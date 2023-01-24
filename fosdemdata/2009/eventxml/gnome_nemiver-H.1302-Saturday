@@ -1,0 +1,19 @@
+  <event id="115">
+      <start>17:00</start>
+      <duration>00:45</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>Nemiver, a GNOME debugger</title>
+      <subtitle></subtitle>
+      <track>GNOME</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk will introduce &lt;a href=&#34;http://projects.gnome.org/nemiver/&#34;&gt;Nemiver&lt;/a&gt;, present its history, features and architecture.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;The main objective of Nemiver is to provide a simple tool that allows developers to quickly and easily debug usual problems&#xA;in their applications without necessarily having to know about command line debuggers arcanes.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1151">Dodji Seketeli</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

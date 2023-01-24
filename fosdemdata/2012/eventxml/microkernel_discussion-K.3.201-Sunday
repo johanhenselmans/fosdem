@@ -1,0 +1,22 @@
+  <event id="232">
+      <start>16:00</start>
+      <duration>01:00</duration>
+      <room>K.3.201</room>
+      <slug></slug>
+      <title>Panel discussion</title>
+      <subtitle></subtitle>
+      <track>Microkernel OS Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Panel discussion on various topics with authors of several microkernel / multiserver operating systems.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="2321">Julian Stecklina</person>
+          <person id="2322">Jakub Jermář</person>
+          <person id="2323">Ben Gras</person>
+          <person id="2324">Christian Helmuth</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

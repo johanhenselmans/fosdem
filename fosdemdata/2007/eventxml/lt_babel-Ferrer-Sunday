@@ -1,0 +1,21 @@
+  <event id="124">
+      <start>10:20</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Babel Free Auditing System</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;A lightning talk about Babel, a security auditing system.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;The lightningtalk will be a graphical demonstration about how Babel works. &#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;i&gt;About Babel Enterprise:&lt;/i&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Babel is an enterprise-grade auditing system to manage a consistency on security policy between different systems in a non-homogeneus architecture. Babel allows to manage very different operating systems, like AIX, Solaris, Windows 2000, Windows XP, Linux, *BSD or HPUX.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Babel allows administrator team to monitor the hardening level of their systems and keep constantly monitored, using periodic policy polling, and of course, a WEB Based, graphical reporting, and of course, a centralized management for all systems.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Babel uses a pragmatic point of view and try to evaluate security aspects on your systems that could be improved by the administrators. Babel is not intrusive, it only collect information and manage all this information.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Currently we are working with agents for Solaris, AIX, WindowsXP/2000/2003 and GNU/Linux versions (Debian, Ubuntu and SUSE).&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1241">Manuel Arostegui</person>
+      </persons>
+      <links>
+          <link href="../../slides/lightningtalks/Babel.pdf">Slides (PDF)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

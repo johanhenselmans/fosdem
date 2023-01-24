@@ -1,0 +1,19 @@
+  <event id="72">
+      <start>16:30</start>
+      <duration>00:30</duration>
+      <room>H.1308</room>
+      <slug></slug>
+      <title>Model Checking the Linux Kernel ?</title>
+      <subtitle></subtitle>
+      <track>CrossDistro devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Linux Kernel evolves rapidly and, as every software, is&#xA;  subject to bugs.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Some people are trying to find defects in the code by&#xA;  searching for known patterns and known misuse, documented either as part of&#xA;  the kernel API usage or after bugs being known. At Mandriva, and as&#xA;  foundation of my PhD subject, we want to explore another way which is&#xA;  well-known but complex: Model-Checking. Main goal of this talk will be to&#xA;  introduce the subject and present the state of the art around kernel code&#xA;  checking.&lt;/p&gt;      </description>
+      <persons>
+          <person id="721">Alexandre Lissy</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

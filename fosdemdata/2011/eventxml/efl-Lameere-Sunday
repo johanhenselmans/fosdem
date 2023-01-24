@@ -1,0 +1,20 @@
+  <event id="93">
+      <start>15:00</start>
+      <duration>01:00</duration>
+      <room>Lameere</room>
+      <slug></slug>
+      <title>Enlightenment Foundation Libraries - for developing shiny, fast, and light applications on embedded targets.</title>
+      <subtitle></subtitle>
+      <track>Embedded devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Enlightenment Foundation Libraries, the toolkit developed for the long&#xA;awaited Window Manager E17, are now reaching 1.0. This means API and&#xA;ABI stability as well as long term support for your applications. This&#xA;set of libraries enables you to develop new kinds of application that&#xA;really look the way the designer/artist wants by taking advantage of&#xA;all your hardware capabilities. The Enlightenment team is highly&#xA;focused on performance, memory consumption, and portability while&#xA;still providing the best graphics possible. This combination makes the&#xA;EFL toolkit the best toolkit for embedded applications such as media&#xA;players, small games, custom UIs, etc. The goal of this presentation&#xA;is to describe all the tools which the EFL provide, how you can use&#xA;them to write you own embedded UI, and what kinds of hardware/OSes are&#xA;currently supported by the EFL.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="931">Cedric Bail</person>
+          <person id="932">Leandro  A.F. Pereira</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

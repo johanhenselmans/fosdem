@@ -1,0 +1,19 @@
+  <event id="88">
+      <start>15:00</start>
+      <duration>01:00</duration>
+      <room>Janson</room>
+      <slug></slug>
+      <title>Ext4</title>
+      <subtitle></subtitle>
+      <track>Kernel</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This presentation will discuss history of ext4, its features and advantages, and how&#xA;best to use the ext4 filesystem.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;The latest generation of the ext2/ext3 filesystems is the ext4&#xA;filesystem, which recently left the development status of 2.6.28.&#xA;With extents, delayed allocation, multiblock allocation, persistent&#xA;preallocation, and its other new features, it is substantally faster&#xA;and more efficient compared to the ext3 filesystem.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="881">Theodore Ts&#39;o</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="264">
+      <start>10:30</start>
+      <duration>00:30</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>LogiLogi and Freedom on the Brave New Web</title>
+      <subtitle></subtitle>
+      <track>Ruby and Rails</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;&lt;a href=&#34;http://en.logilogi.org/&#34;&gt;LogiLogi&lt;/a&gt; is a hypertext platform featuring a rating-system that models peer review and other valuable social processes surrounding academic writing (in line with Bruno Latour). Contrary to early websystems it does not make use of forum-threads (avoiding their many problems), but of tags and links that can also be added to articles by others than the original author.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;The talk will be on several topics; On LogiLogi.org, a webplatform for philosophers written in Rails and on the LogiLogi Foundation which thinks Web-Applications should be Free Software too, that is Affero GPLed, if Free Software is to have a future on the Brave New Web. That is we should think beyond Stallman&amp;#39;s: one should not rely on another’s machine to “do calculations with ones data”.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Also by the end of january we will have extracted and released some gems and Rails plugins, one for creating Spam-free forms without captchas (in this way http://nedbatchelder.com/text/stopbots.html) and yet another solution for the rounded corners problem (and scaling and resizing SVG back-ground images in general) using javascript and RMagick. We might at the end shortly demonstrate these too if the audience wishes.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;LogiLogi is a fully RESTfull Rails-app, which is Free Software.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2641">Wybo Wiersma</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

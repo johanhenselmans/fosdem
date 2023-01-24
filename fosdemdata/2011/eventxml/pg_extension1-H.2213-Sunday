@@ -1,0 +1,19 @@
+  <event id="251">
+      <start>11:00</start>
+      <duration>00:45</duration>
+      <room>H.2213</room>
+      <slug></slug>
+      <title>PostgreSQL extension&#39;s development</title>
+      <subtitle></subtitle>
+      <track>PostgreSQL devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;PostgreSQL extensibility is remarkable but incomplete. It lacks dump and restore support. What that means is that once an extension is installed into your database, PostgreSQL currently has no idea of what SQL objects belongs to the extension rather itself, so the dump will contain the instructions to install the extension. That&amp;#39;s only practical if you want to restore your dump targeting the very same extension&amp;#39;s version, but when upgrading systems that&amp;#39;s seldom what happens. This talk will detail how to fix this problem and more, explaining you how to benefit from the extensions capabilities for your own work within the database.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="2511">Dimitri Fontaine</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

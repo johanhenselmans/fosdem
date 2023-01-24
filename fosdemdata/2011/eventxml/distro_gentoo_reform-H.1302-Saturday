@@ -1,0 +1,20 @@
+  <event id="68">
+      <start>17:00</start>
+      <duration>01:00</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>Gentoo&#39;s Reform and Future</title>
+      <subtitle></subtitle>
+      <track>CrossDistro devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The purpose of this talk is to present the view of a few Gentoo Developers that are part of the Council, Foundation and Developer Relations about the future of Gentoo and its reform.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;We&amp;#39;d like to start a debate involving other Gentoo Developers and interested attendees about this.&lt;/p&gt;      </description>
+      <persons>
+          <person id="681">Petteri Räty</person>
+          <person id="682">Jorge Manuel B. S. Vicetto</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="160">
+      <start>14:20</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Kaizendo.org: Customizing schoolbooks the free software way</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Imagine having a schoolbook where a pupil and her teacher can choose the depth of topic, clarity of text, pedagogical method, amount and difficulty of homework - as needed and necessary.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;This talk introduces the Kaizendo.org project where this is the ambition - to create a tool which makes authoring of custom books not only possible but as easy as posting a comment on a forum.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Take your regular old-fashioned linear schoolbook and imagine each chapter having alternative versions specifically tailored for the reader.&#xA;&lt;/p&gt;&#xA;&#xA;&#xA;&lt;p&gt;You&amp;#39;ll have book that works both for pupils that read slow and pupils that zip through the text faster than their classmates. Add alternatives for the teacher (supporting different pedagogical methods, teaching styles), the school (variations on which chapters should be in-depth or which topics should be prioritized) and the parents (a topic summary to read before helping with homework.)&#xA;&lt;/p&gt;&#xA;&#xA;&#xA;&lt;p&gt;And you&amp;#39;ll have a book that can only be made using free software development methods.&#xA;&lt;/p&gt;&#xA;&#xA;&#xA;&lt;p&gt;Kaizendo.org - from Kaizen-do, &amp;#34;the way of incremental improvement&amp;#34; - is a project for making these books possible. We have just started, and we need people who would like to help! :)&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1601">Salve Nilsen</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

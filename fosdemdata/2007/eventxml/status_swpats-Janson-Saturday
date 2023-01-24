@@ -1,0 +1,21 @@
+  <event id="206">
+      <start>10:30</start>
+      <duration>00:30</duration>
+      <room>Janson</room>
+      <slug></slug>
+      <title>Status of Software Patents in Europe</title>
+      <subtitle></subtitle>
+      <track>Opening/Closing talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Status update on software patents in Europe, by the president of the FFII.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Pieter Hintjens, the current president of the &lt;a href=&#34;http://www.ffii.org/&#34;&gt;FFII&lt;/a&gt; will give us an update on the current state of things regarding &lt;a href=&#34;http://swpats.ffii.org/&#34;&gt;software patents in Europe&lt;/a&gt;.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The fight is not over, and the FFII is still hard at work.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="2061">Pieter Hintjens</person>
+      </persons>
+      <links>
+          <link href="http://video.fosdem.org/2007/FOSDEM2007-Status-of-Software-Patents-in-Europe.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

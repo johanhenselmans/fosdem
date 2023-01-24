@@ -1,0 +1,19 @@
+  <event id="191">
+      <start>12:00</start>
+      <duration>01:00</duration>
+      <room>Lameere</room>
+      <slug></slug>
+      <title>MeeGo: A solid platform for hackable mobile devices</title>
+      <subtitle></subtitle>
+      <track>Embedded devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;MeeGo is an open source, openly developed and straightforward mobile&#xA;Linux stack. And the platform is hardware agnostic too - very easy to&#xA;port to devices too! And instead of working on many different platform implementations for&#xA;each hardware adaptation, we can focus on improving a common platform&#xA;within those issues where it matters and concentrate on hardware&#xA;specific problems within the hardware adaptation.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;The themes intended to be explored in this talk, including some&#xA;real-life examples of the problems identified:&lt;/p&gt;&#xA;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;What the MeeGo platform consists of and how you can contribute to it&lt;/li&gt;&#xA;&lt;li&gt;The common traps and challenges in porting - what usually goes wrong&#xA;in hardware ports in the short and long term?&lt;/li&gt;&#xA;&lt;li&gt;Requirements process, compliance and automated tests in MeeGo - why&#xA;the bureaucracy?&lt;/li&gt;&#xA;&lt;li&gt;Practical hardware adaptation in MeeGo - information sources and&#xA;community - where do I find it?&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;      </abstract>
+      <description></description>
+      <persons>
+          <person id="1911">Carsten Munk</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,21 @@
+  <event id="382">
+      <start>13:00</start>
+      <duration>00:30</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>Intro to Tizen and the Future of the Community</title>
+      <subtitle></subtitle>
+      <track>Open Mobile Linux Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This session will provide a basic intro to Tizen and will talk&#xA;about the community transition from MeeGo to Tizen. We&amp;#39;ll do a quick recap&#xA;from past year of the MeeGo community along with some things we learned&#xA;along the way. The rest of the presentation will talk about what we are&#xA;doing to form the Tizen community and how you can participate.&#xA;I&amp;#39;ll also gather feedback during the Q&amp;amp;A on what you would like to see us&#xA;do differently in the Tizen community.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="3821">Dawn Foster</person>
+      </persons>
+      <links>
+          <link href="598/120_Tizen%20Overview.pdf">Tizen Overview slides (slides)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

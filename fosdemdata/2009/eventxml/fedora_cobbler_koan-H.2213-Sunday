@@ -1,0 +1,20 @@
+  <event id="92">
+      <start>15:00</start>
+      <duration>01:00</duration>
+      <room>H.2213</room>
+      <slug></slug>
+      <title>Cobbler &amp; Koan</title>
+      <subtitle></subtitle>
+      <track>Fedora + CentOS</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Cobbler is a Linux installation server that allows for rapid setup of network installation environments.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Most deployments of Linux systems are very rarely just one or two systems. Once you get past just installing Linux on your home system or your workstation it is time to think about how you are going to manage installing, and if required re-installing, these groups of systems in a repeatable manner. This is where Cobbler and Koan come in.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Cobbler is a next generation systems management tool designed to keep a track of not just your systems but the initial system deployment configuration, host networking and even the configuration management. Koan provides the same facilities in the new world of systemvirtualization. During this talk we aim to demonstrate just how easy Cobbler and Koan make keeping track of your Linux deployments and configurations.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="921">Jasper Capel</person>
+          <person id="922">Robert Lazzurs</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

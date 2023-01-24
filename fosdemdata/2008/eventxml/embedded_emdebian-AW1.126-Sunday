@@ -1,0 +1,19 @@
+  <event id="111">
+      <start>15:00</start>
+      <duration>01:00</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>Emdebian Update: Rootfs, GPE and tdebs</title>
+      <subtitle></subtitle>
+      <track>Embedded</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk covers the current status of the &lt;a href=&#34;http://www.emdebian.org/&#34;&gt;Embedded Debian project&lt;/a&gt;, preparation of a cross built Debian root filesystem for ARM with support for customisation, improved translation support in &lt;a href=&#34;http://www.emdebian.org/&#34;&gt;Emdebian&lt;/a&gt; and the next steps to making Debian available to embedded devices.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Also includes the status of GPE packages in Debian and Emdebian and a description of the Emdebian implementation of Tdebs - translation packages with secondary repository and cache support.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1111">Neil Williams</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

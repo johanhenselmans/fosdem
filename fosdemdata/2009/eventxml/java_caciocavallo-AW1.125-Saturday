@@ -1,0 +1,20 @@
+  <event id="143">
+      <start>16:45</start>
+      <duration>00:30</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>How to port a Java GUI backend to a new platform using Caciocavallo</title>
+      <subtitle></subtitle>
+      <track>Free Java</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Mario and Roman will give an overview of the &lt;a href=&#34;http://openjdk.java.net/projects/caciocavallo/&#34;&gt;Caciocavallo&lt;/a&gt; architecture and show how to implement a new Java GUI backend. &#xA;&lt;/p&gt;&#xA;&lt;p&gt;They will also show some working examples.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="1431">Mario Torre</person>
+          <person id="1432">Roman Kennke</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,22 @@
+  <event id="289">
+      <start>15:00</start>
+      <duration>01:00</duration>
+      <room>Lameere</room>
+      <slug></slug>
+      <title>True open hardware: Opencores and OpenRISC</title>
+      <subtitle></subtitle>
+      <track>Embedded Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This presentation will be delivered in two sections, first an&#xA;introduction to the OpenRISC project by Julius Baxter, followed by a&#xA;look at embedded hardware development with Open Source IP cores using&#xA;the OpenRISC platform and the IP available on OpenCores.org with Olof&#xA;Kindgren.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;The OpenRISC Project:&lt;/p&gt;&#xA;&#xA;&lt;p&gt;This project is aimed at developing embedded RISC microprocessor&#xA;architectures and open source RTL implementations. Since its beginning&#xA;in 1999, the project has attracted anyone interested in CPU&#xA;development and covers everything from ISA definition to RTL&#xA;description writing and testing to simulator, tool chain and operating&#xA;system porting. The presentation will cover the motivation, recent&#xA;progress and future plans of the project.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Open Source Embedded Hardware Development:&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Most Open Source embedded developers end their quest for a fully Open&#xA;Source system when they get the data sheets. For the FPGA/ASIC&#xA;developers at OpenCores, this is where the fun part begins. Instead of&#xA;relying on the kindness of the chip manufacturers to deliver the&#xA;desired SoC functionality, Open Source hardware developers simply&#xA;design their own with the standard peripherals and custom hardware&#xA;acceleration that of choice. This requires Open Source IP cores and a&#xA;framework to put it all together.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;This presentation will contain an introduction to some of the benefits&#xA;of open source hardware and an overview of OpenCores. The main focus&#xA;will be on how to use the OpenRISC Reference Platform System on Chip&#xA;(ORPSoC) to build a custom SoC, which will be demonstrated on the&#xA;OpenRISC FPGA development board.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="2891">Julius Baxter</person>
+          <person id="2892">Olof Kindgren</person>
+      </persons>
+      <links>
+          <link href="765/131_fosdem-opencores-2012.odp">fosdem-opencores-2012.odp (slides)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

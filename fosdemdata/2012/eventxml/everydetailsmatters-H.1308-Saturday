@@ -1,0 +1,19 @@
+  <event id="102">
+      <start>17:00</start>
+      <duration>00:30</duration>
+      <room>H.1308</room>
+      <slug></slug>
+      <title>GNOME 3: Every Detail Matters</title>
+      <subtitle></subtitle>
+      <track>CrossDesktop Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Every Detail Matters is a new initiative that aims to focus attention&#xA;on improving specific areas of the GNOME 3 user experience. It also&#xA;aims to provide an easy way for people to make a valuable contribution&#xA;to GNOME by identifying development tasks that would make a real&#xA;difference.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;The initiative involves designers working closely with both new and&#xA;experienced developers to refine GNOME 3. We are working towards&#xA;delivering a major and tangible improvement to the next release,&#xA;version 3.4.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;In this talk I will describe the key features of Every Detail Matters,&#xA;demo some of the progress that has been made thanks to the initiative,&#xA;and will show how you can participate to make GNOME 3 better than&#xA;ever.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="1021">Allan Day</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

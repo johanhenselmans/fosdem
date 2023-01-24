@@ -1,0 +1,19 @@
+  <event id="56">
+      <start>13:30</start>
+      <duration>00:30</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>COMAR</title>
+      <subtitle>A new approach to system management</subtitle>
+      <track>CrossDistro devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;COMAR is COnfiguration MAnageR of Pardus Linux, which is a DBus service that helps the installed software operate flawlessly.  COMAR knows the tasks that can be provided by each application, together with the functionality they depend on and other information.  Different applications may adapt themselves according to the presence and capability of their peers.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;It provides to achieve privileged operations for a normal user by asking users privileges to PolicyKit about the operation. These privileges defined by the program itself and its possible to define atomic privileges for each method. It makes system management very flexible and extendable.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;For end-users Pardus provides a series of graphical management tools which are written in Python using PyQt/PyKDE and uses COMAR calls for the operations at all.&lt;/p&gt;      </description>
+      <persons>
+          <person id="561">Gökmen Göksel</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

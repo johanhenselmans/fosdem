@@ -1,0 +1,19 @@
+  <event id="189">
+      <start>10:00</start>
+      <duration>01:00</duration>
+      <room>H.2213</room>
+      <slug></slug>
+      <title>The Ruby and .NET love child</title>
+      <subtitle></subtitle>
+      <track>Mono</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk will be about leveraging IronRuby from Mono and moonlight. Depending on the time I&amp;#39;d like to show how you can use IronRuby to easily extend your current GTK, WinForms,.. apps with scripting capabilities.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Perhaps how you can use IronRuby from Asp.NET MVC. If there is still time left I&amp;#39;d like to show you can script the browser and use Moonlight + IronRuby to use ruby as client scriping language instead or in cooperation with JavaScript.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1891">Ivan Porto Carrero</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

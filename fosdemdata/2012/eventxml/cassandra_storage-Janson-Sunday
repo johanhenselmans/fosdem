@@ -1,0 +1,22 @@
+  <event id="42">
+      <start>15:00</start>
+      <duration>00:50</duration>
+      <room>Janson</room>
+      <slug></slug>
+      <title>The Apache Cassandra storage engine </title>
+      <subtitle></subtitle>
+      <track>Development Track</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Apache Cassandra is a distributed database built to handle massive amounts of&#xA;data on large clusters of community servers. This talk will present the&#xA;storage engine at the core of Cassandra, motivating the use of a structure&#xA;akin to a Log-Structured Merge Tree rather than of a usual B-Tree and it&amp;#39;s&#xA;implications for the data model. We will also introduce most of the current&#xA;features of that engine (secondary indexes, integrated caching, TTL...)&#xA;including recent developments introduced in Cassandra 1.0 like&#xA;compression/checksumming and the new leveled compaction.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="421">Sylvain Lebresne</person>
+      </persons>
+      <links>
+          <link href="388/115_fosdem_sylvain_lebresne.pdf">The Apache Cassandra storage engine (slides)</link>
+          <link href="http://video.fosdem.org/2012/maintracks/janson/cassandra.webm">Video recording (partial)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

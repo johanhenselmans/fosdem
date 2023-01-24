@@ -1,0 +1,20 @@
+  <event id="312">
+      <start>14:30</start>
+      <duration>00:30</duration>
+      <room>K.4.401</room>
+      <slug></slug>
+      <title>Politics, Positives, Paperwork and Pain - Our year to date in the JCP</title>
+      <subtitle></subtitle>
+      <track>Free Java Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;In 2011 the London Java Community (LJC) stood for, and overwhelmingly&#xA;won a seat in the open elections for a seat on the JCP Executive&#xA;Committee (JCP EC), enough acronyms yet?  We haven&amp;#39;t even started!&#xA;It&amp;#39;s been a whirlwind trip so far with a great deal learned about&#xA;politics, acronyms, the due diligence required on a JSR, flights to&#xA;exotic places (Jersey City!?), wrangling over the wording of a&#xA;sentence and of course launching some developer lead initiatives.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;There have of course been some great successes in moving Free Java&#xA;forward such as the JSR-348 which is the start of reforming the JCP&#xA;and JSRs towards a truly open and transparent model.  This talk covers&#xA;the good works done so far, some anecdotes of what it&amp;#39;s like to work&#xA;as a developer amongst a mix of technologists and bearucrats and what&#xA;we think is left to be done.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;What the audience will learn from the talk:&lt;/p&gt;&#xA;&#xA;&lt;p&gt;An insight to how the JCP really works and the surprising fact that&#xA;Oracle and the other large corporates are generally pushing for a Free&#xA;Java.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;How can people help out with the project, what feedback are you looking for?&lt;/p&gt;&#xA;&#xA;&lt;p&gt;We want people to start supporting the JCP again and working with it&#xA;to change it for the better, JSR-348 has proven that steps can be&#xA;taken although we recognize there is still a long way to go.&lt;/p&gt;      </description>
+      <persons>
+          <person id="3121">Martijn Verburg</person>
+          <person id="3122">Ben Evans</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="213">
+      <start>17:15</start>
+      <duration>00:45</duration>
+      <room>H.1301</room>
+      <slug></slug>
+      <title>Analysing Crash Data, and How You Can Help.</title>
+      <subtitle></subtitle>
+      <track>Mozilla devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;A review of the current process and tools we use to look at crash data and make products more stable.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;I&amp;#39;ll also share some plans for improvements to Socorro and talk about how you can get involved and contribute in a variety of ways. A review of the current process and tools we use to look at crash data and make products more stable. I&amp;#39;ll also share some plans for improvements to Socorro and talk about how you can get involved and contribute in a variety of ways.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2131">Chris Hofmann</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

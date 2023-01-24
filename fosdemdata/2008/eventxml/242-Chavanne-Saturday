@@ -1,0 +1,22 @@
+  <event id="4">
+      <start>16:00</start>
+      <duration>00:45</duration>
+      <room>Chavanne</room>
+      <slug></slug>
+      <title>Globulation 2</title>
+      <subtitle></subtitle>
+      <track>Games</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Stéphane will give a technical presentation of &lt;a href=&#34;http://www.globulation2.org/&#34;&gt;Globulation 2&lt;/a&gt;, an open source strategy game.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Stéphane will first present the overall software architecture, the design choices and some philosophical considerations about strategic games and the rationale behind &lt;a href=&#34;http://www.globulation2.org/&#34;&gt;Globulation 2&lt;/a&gt;.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Then he will detail some subsystems of particular interest for the community, such as the GUI, the path-finder, the scripting language and the network. &#xA;He will conclude by a critical analysis of the development process.&#xA;The presentation will save time for questions.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="41">Stéphane Magnenat</person>
+      </persons>
+      <links>
+          <link href="../../slides/maintracks/globulation2.pdf">Slides (PDF)</link>
+          <link href="http://video.fosdem.org/2008/maintracks/FOSDEM2008-globulation2.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

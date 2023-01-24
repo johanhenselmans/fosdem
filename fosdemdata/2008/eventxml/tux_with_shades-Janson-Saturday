@@ -1,0 +1,23 @@
+  <event id="251">
+      <start>10:30</start>
+      <duration>01:00</duration>
+      <room>Janson</room>
+      <slug></slug>
+      <title>Tux with Shades, Linux in Hollywood</title>
+      <subtitle></subtitle>
+      <track>Opening/Closing Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Gabrielle Pantera and Robin Rowe will talk about Linux in the motion picture industry, especially its use at the major studios. This community is an upside-down parallel universe where Linux is everywhere, and Windows and Mac are niche operating systems. They&amp;#39;ll talk about how the movie Titanic touched off a mass migration to Linux, what Linux tools are used and how. The result is virtually every blockbuster or animated feature in theaters today is made using Linux tools.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Some movie clips will be screened to show technically and &#xA;visually how Linux has become the #1 operating system for making blockbuster films, and implications for the future will be discussed.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;At first, studios had no choice but to develop Linux applications in-house. The film industry has millions of lines of Linux code, both desktop applications and server pipelines. Studio Linux programmers write code in C++, Python, Perl, and Java. What does all this secret proprietary Linux code do? And, why do they do parallel programming with grid computing? How does the film industry use renderfarms with thousands of CPUs?&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Studios no longer have to develop their own tools. They can buy the Linux tools they need off the shelf. Commercial Linux motion picture tools available today include Combustion, FrameCycler, Houdini, Maya, Mental Ray, Nuke, Piranha, Platform LXF, RaveHD, RenderMan, SoftImage|XSI and more. What are all these tools for and where did they come from? What do they cost? How did a vibrant commercial Linux applications market emerge in this industry, and why nowhere else?&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The film industry has funded open source development. CinePaint, &lt;a href=&#34;http://www.winehq.org/&#34;&gt;Wine&lt;/a&gt;, and &lt;a href=&#34;http://fltk.org/&#34;&gt;FLTK&lt;/a&gt; are open source projects that have received financial support from the film industry in the past. FLTK was developed at Digital Domain to support their proprietary application development and then released as LGPL. What kind of crazy open source world is this where copyright zealot Disney funds development of LGPL code in Wine to replace Windows? Why isn&amp;#39;t the film industry doing more to support open source development?&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="2511">Robin Rowe</person>
+          <person id="2512">Gabrielle Pantera</person>
+      </persons>
+      <links>
+          <link href="../../slides/maintracks/tuxwithshades.pdf">Slides (PDF)</link>
+          <link href="http://video.fosdem.org/2008/maintracks/FOSDEM2008-tuxwithshades.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

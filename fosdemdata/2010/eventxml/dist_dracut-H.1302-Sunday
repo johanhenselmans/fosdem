@@ -1,0 +1,19 @@
+  <event id="51">
+      <start>15:30</start>
+      <duration>00:45</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>Dracut - a generic, modular initramfs generation tool</title>
+      <subtitle></subtitle>
+      <track>Distributions</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Dracut is a generic, modular initramfs generation tool, that replaces mkinitrd and nash. Unlike existing initramfs’s, this is an attempt at having as little as possible hard-coded into the initramfs as possible.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;The initramfs has (basically) one purpose in life — getting the rootfs mounted so that we can transition to the real rootfs. This is all driven off of device availability. &#xA;&lt;/p&gt;&#xA;&lt;p&gt;Therefore, instead of scripts hard-coded to do various things, we depend on udev to create device nodes for us and then when we have the rootfs’s device node, we mount and carry on. Dracut is modular and very easy to extend and customize.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;In this talk you will learn how Dracut works, how to extend Dracut with your own modules and identify problems in this early boot process.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="511">Harald Hoyer</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

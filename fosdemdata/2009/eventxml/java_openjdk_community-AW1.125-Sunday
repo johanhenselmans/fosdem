@@ -1,0 +1,19 @@
+  <event id="155">
+      <start>16:00</start>
+      <duration>00:30</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>OpenJDK Community Priorities</title>
+      <subtitle></subtitle>
+      <track>Free Java</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;An open discussion to chat about the current OpenJDK environment: technical, infrastructure, governance, transparency, contributions, policies, etc.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;We all know there&amp;#39;s still a lot of work to do, so the focus shouldn&amp;#39;t be on gripes, but hopefully we can identify the top&#xA;priorities and some easy-to-accomplish things that will have a big impact on community growth and contentment.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1551">Dalibor Topic</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,21 @@
+  <event id="250">
+      <start>12:30</start>
+      <duration>00:45</duration>
+      <room>Janson</room>
+      <slug></slug>
+      <title>Status update of Software Patents</title>
+      <subtitle></subtitle>
+      <track>Opening/Closing Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Status update on software patents in Europe.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Pieter Hintjens, past president of the FFII will give us an update on&#xA;the current state of things regarding software patents in Europe.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;He&amp;#39;ll speak about the politicization of open standards and software&#xA;patents, and where we stand in the two wars we&amp;#39;re fighting, one at the&#xA;international level (OOXML hits ISO) and one in Europe (software&#xA;patents).&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="2501">Pieter Hintjens</person>
+      </persons>
+      <links>
+          <link href="http://video.fosdem.org/2008/maintracks/FOSDEM2008-swpat.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

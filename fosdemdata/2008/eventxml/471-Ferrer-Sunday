@@ -1,0 +1,22 @@
+  <event id="39">
+      <start>10:40</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>View-OS: partial virtualisation</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;In View-OS each process can have its own view of the executing&#xA;environment, e.g. its own file system view, networking configuration&#xA;etc. This talk presents the structure and some applications of&#xA;a GNU/Linux implementation of View-OS, named *MView, along with a&#xA;quick overview of other tools from the Virtual Square project.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Almost every modern OS gives all processes the same &amp;#34;global view&amp;#34; on&#xA;their execution environment (network interfaces and addresses, file&#xA;system hierarchy, time, set of devices etc.).  Even if some resources&#xA;are hidden or protected, a name usually means the same resource for&#xA;everyone.&#xA;View-OS lets regular users negate this &amp;#34;global view assumption&amp;#34; for&#xA;their own processes.  It has been implemented as two different versions:&#xA;UMView and KMView (or *MView for short).&#xA;UMView is a partial virtual machine running on a standard Linux kernel&#xA;and supporting standard GNU/Linux binaries. KMView is faster, but needs&#xA;a utrace capable kernel and a specific kernel module.  Specific modules&#xA;allow to give processes specific views on various classes of resources.&#xA;If there&amp;#39;s no need for a personal view on a resource, *MView lets the&#xA;Linux kernel directly manage it.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="391">Renzo Davoli</person>
+      </persons>
+      <links>
+          <link href="http://fosdem.org/2008/slides/lightningtalks/fosdem08_ltalk_viewos.pdf">Slides (PDF)</link>
+          <link href="http://video.fosdem.org/2008/lightningtalks/FOSDEM2008-view-os.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

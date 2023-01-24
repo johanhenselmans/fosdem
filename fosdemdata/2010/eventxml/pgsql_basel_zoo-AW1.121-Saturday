@@ -1,0 +1,19 @@
+  <event id="255">
+      <start>17:15</start>
+      <duration>00:45</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>PostgreSQL at the Heart of the Basel Zoo POS</title>
+      <subtitle></subtitle>
+      <track>PostgreSQL</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Elephants and Other Wild Animals: PostgreSQL at the Heart of the Ticketing Point of Sale in the Basel Zoo&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;For 134 years the Basel Zoo, one of the most renowned and beautiful zoos in Europe, has sold entrance ticket by hand. A simple roll of paper tickets and manual book keeping where all that was there. Being a legal incorporated, law forced them to introduce an electronic point of sale system. First of January 2009, the system went into production and, unlike in other Zoos, worked without any problems right from the start. It is now in production for a year and has proven extremely stable and efficient.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The PostgreSQL database is at the heart of the point of sale application and in this presentation Marc Balmer will show how PostgreSQL helped to create an enterprise grade application database which is accessed by different client applications in a distributed network, including low-bandwidth network links. The overall application architecture will be discussed and how PL/PGSQL helped to keep the business logic in the database itself, leveraging client complexity. Details will be given about the Motif based POS application, written in pure C and extended in Lua, as well as the backoffice which is web based and implemented in C and Lua. The presentation is aimed at programmers that want to include PostgreSQL in their application portfolio as well as decision makers that have to decide upon a strategic database platform for their products.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2551">Marc Balmer</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,24 @@
+  <event id="18">
+      <start>15:00</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Audiveris: Optical Music Recognition</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;What can you do with your collection of sheet music, when all you have is paper or plain scans?&#xA;You surely may feel frustrated if you are not ready for tedious sessions of manual typing.&#xA;Here, &lt;em&gt;O&lt;/em&gt;ptical &lt;em&gt;M&lt;/em&gt;usic &lt;em&gt;R&lt;/em&gt;ecognition comes to the rescue. It transcribes sheet music images to MusicXML symbolic format. Doing so, music content gets really &amp;#34;usable&amp;#34;, since it can now easily be played, printed, transposed, re-published, analyzed, searched, etc.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;&lt;em&gt;OMR&lt;/em&gt; is difficult for a good reason: while text uses only horizontal lines, music combines the complexity of both vertical and horizontal directions.&#xA;Today, there are just a few commercial OMRs available, and only one open-source product under heavy development activity: &lt;em&gt;Audiveris&lt;/em&gt;.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Audiveris is a Java application, using a neural network as its cornerstone.&#xA;Collaboration is welcome on the most notable foreseen developments:&#xA;- Smart coupling with MuseScore (Audiveris for the automatic OMR part, MuseScore for the interactive edition part),&#xA;- Integration with Tesseract OCR V3,&#xA;- Providing a web-based &amp;#34;OMR as a service&amp;#34;,&#xA;- Automated evaluation of transcription results,&#xA;- Supporting microedition features to enable crowd-sourcing approaches.&lt;/p&gt;      </description>
+      <persons>
+          <person id="181">Hervé Bitteur</person>
+      </persons>
+      <links>
+          <link href="489/70_Audiveris%20Fosdem%202012.v3.pdf">Audiveris talk V3 (PDF) (slides)</link>
+          <link href="489/69_Audiveris%20Fosdem%202012.v3.odp">Audiveris talk V3 (ODP) (slides)</link>
+          <link href="http://www.audiveris.org/">Audiveris home page</link>
+          <link href="http://kenai.com/projects/audiveris">Project on Kenai</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

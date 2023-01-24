@@ -1,0 +1,21 @@
+  <event id="142">
+      <start>14:40</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>OSSIE</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;A lightning talk about OSSIE, a Software Defined Radios(SDR) implementation.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;The talk will introduce software defined&#xA;radio and talk about several open source SDR projects. The talk will focus on&#xA;explaining what SDR is, why the open source developer would be interested&#xA;in it, and ways to get started. &#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;i&gt;About OSSIE:&lt;/i&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;OSSIE is an implementation of the Software Communication Architecture(SCA).&#xA;The SCA provides a structure for implementing Software Defined Radios&#xA;(SDR) using a component based architecture. OSSIE currently runs on&#xA;regular PC&amp;#39;s and a TI OMAP Starter Kit (OSK). OSSIE runs primarily on&#xA;Linux based machines (although other Unix&amp;#39;s should work OK).&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1421">Philip Balister</person>
+      </persons>
+      <links>
+          <link href="../../slides/lightningtalks/OSSIE.pdf">Slides (PDF)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

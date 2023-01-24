@@ -1,0 +1,19 @@
+  <event id="215">
+      <start>15:15</start>
+      <duration>02:00</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>OpenOffice.org Extensions in Java – do it yourself</title>
+      <subtitle></subtitle>
+      <track>OpenOffice.org</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The workshop focused on the creation of an extension in Java with the OpenOffice.org API plugin for NetBeans. The attendees can choose if they want to create a smart tag, or an options page demo or if they want to create a weather forecast demo.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Two of the demos make use of external functionality and show how easy it can be to  make use of web services or external libraries. The attendees will by guided through a detailed tutorial and will create their extension of choice step by step.&#xA;Ideally the attendees should bring their own laptop into the workshop. And they should have installed NetBeans 6.5, Java 1.6, OpenOfice.org and the OpenOffice.org SDK. A CD with installation programs for the common platforms and the whole workshop material will be available in the workshop room as well. &#xA;&lt;/p&gt;&#xA;&lt;p&gt;If you have no laptop, no problem watch your neighbour over the shoulder and work together. Or simply listen and watch what the speaker is doing ;-)&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2151">Jürgen Schmidt</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

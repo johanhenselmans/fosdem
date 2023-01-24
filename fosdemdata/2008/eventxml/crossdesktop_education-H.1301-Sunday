@@ -1,0 +1,19 @@
+  <event id="78">
+      <start>13:45</start>
+      <duration>00:45</duration>
+      <room>H.1301</room>
+      <slug></slug>
+      <title>Free Software in Education</title>
+      <subtitle></subtitle>
+      <track>CrossDesktop</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Many believes that free software can&amp;#39;t be used in education, and still some parents mandates schools to use MS Office. Knut Yrvin will show &#xA;that software in education are everything else than office productivity.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;It&amp;#39;s about sharing, learning and creating. He will present free software usable for learning focusing on Stopmotion and &lt;a href=&#34;http://www.gcompris.net/&#34;&gt;Gcompris&lt;/a&gt; in primary schools to using &lt;a href=&#34;http://trolltech.com/products/qtopia&#34;&gt;Qtopia&lt;/a&gt; on mobile phones at universities.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="781">Knut Yrvyn</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

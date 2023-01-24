@@ -1,0 +1,19 @@
+  <event id="127">
+      <start>15:00</start>
+      <duration>01:00</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>SELinux don&#39;t just switch it off</title>
+      <subtitle></subtitle>
+      <track>CentOS + Fedora</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;&lt;a href=&#34;http://www.nsa.gov/selinux/&#34;&gt;Security-Enhanced Linux (SELinux)&lt;/a&gt; is a Linux feature that provides a variety of security policies, including U.S. Department of Defense style mandatory access controls, through the use of Linux Security Modules (LSM) in the Linux kernel. It is not a Linux distribution, but rather a set of modifications that can be applied to Unix-like operating systems, such as Linux and BSD.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Its architecture strives to streamline the volume of software charged with security policy enforcement, which is closely aligned with the TCSEC (Orange Book) requirement for TCB minimization (applicable to evaluation classes B3 and A1) but is quite unrelated to the least privilege requirement (B2, B3, A1) as is often claimed. The germinal concepts underlying SELinux can be traced to several earlier projects by the U.S. National Security Agency.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1271">Jens Kuehnel</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,27 @@
+  <event id="200">
+      <start>09:00</start>
+      <duration>02:00</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>Research and Libre Software (II)</title>
+      <subtitle></subtitle>
+      <track>Research Room</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Presentation of reviewed short papers.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;ul&gt;&lt;li&gt; Snapshot on the &lt;a href=&#34;http://www.edos-project.org/&#34;&gt;EDOS&lt;/a&gt; distribution system: Radu Pop&#xA;&lt;/li&gt;&#xA;&lt;li&gt; New generation of Linux Meta-installers: Paulo Trezentos&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Determining developer habits and intuition through the use of interactive chat sessions: Martin F Krafft&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Identifying challenges for a productive and sustainable Open Source ecosystem: Jens Hardings&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA; </description>
+      <persons>
+          <person id="2001">Jens Hardings</person>
+          <person id="2002">Paulo Trezentos</person>
+          <person id="2003">Radu Pop</person>
+      </persons>
+      <links>
+          <link href="http://gsyc.escet.urjc.es/~herraiz/fosdem2007/papers/workshop-proposal.pdf">Slides (PDF)</link>
+          <link href="http://gsyc.escet.urjc.es/~herraiz/fosdem2007/slides/edosDistribution-FOSDEM2007.pdf">Slides (PDF)</link>
+          <link href="http://gsyc.escet.urjc.es/~herraiz/fosdem2007/papers/edosDistribution.pdf">Slides (PDF)</link>
+          <link href="http://gsyc.escet.urjc.es/~herraiz/fosdem2007/slides/FOSDEM2006_v3.pdf">Slides (PDF)</link>
+          <link href="http://gsyc.escet.urjc.es/~herraiz/fosdem2007/papers/NewGenMI_tools.pdf">Slides (PDF)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

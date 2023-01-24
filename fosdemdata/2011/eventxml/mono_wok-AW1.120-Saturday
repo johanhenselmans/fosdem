@@ -1,0 +1,19 @@
+  <event id="208">
+      <start>14:30</start>
+      <duration>00:25</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>The Web Objects Kitchen</title>
+      <subtitle></subtitle>
+      <track>Mono devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The Web Objects Kitchen&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;The Web Objects Kitchen (or WOK for short) is a web development framework with strong emphasis on application logic/presentation separation, themins and globalization. While based on MVC concepts it does not enforce them and provides tools to build the &amp;#34;pages&amp;#34; of a web application out of independent components. WOK can be hosted on ASP.NET (it runs nicely with Mono XSP or mod_mono) but also has a light-weight &amp;#34;standalone&amp;#34; web server that doesn&amp;#39;t depend on the System.Web libraries. The talk will be about framework itself and how it was used to solve some specific problems in real-world, production web sites.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2081">Federico Di Gregorio</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

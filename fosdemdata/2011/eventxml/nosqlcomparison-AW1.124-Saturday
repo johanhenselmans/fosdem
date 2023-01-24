@@ -1,0 +1,19 @@
+  <event id="231">
+      <start>18:30</start>
+      <duration>00:30</duration>
+      <room>AW1.124</room>
+      <slug></slug>
+      <title>Comparing Scalable NOSQL Databases: Functionality and Measurements</title>
+      <subtitle></subtitle>
+      <track>Data Analytics devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Comparative study of the following distributed databases : Cassandra, HBase, Riak and mongoDB, as they all provide scalability and a Map Reduce implementation.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;It is a fact that many Internet applications and services are using more and more data, and they are in the need of scalable and efficient storage, access and processing. Traditional databases have issues coping with these requirements, mainly because of scalability problems. An emerging solution to those problems is to combine the claimed scalability of a NOSQL database with the power of a Map-Reduce framework. This work presents a comparison study of the following distributed databases : Cassandra, HBase, Riak and mongoDB, as they all provide scalability and a Map Reduce implementation. Tests and methodology : The databases are tested with the same benchmark that implements a simplified Wikipedia storage. Scalability is tested by performing simple random requests and random updates to the Wikipedia articles. The behaviour imitates users reading and modifying articles. The second kind of tests implement a simple search for a specific keyword using map reduce to return the list of articles. Currently, the study presents measurements of only a subset of the total functionalities of the databases. The subset can be seen as the lowest common denominator: key/value storage. Nevertheless, the results give already a good performance indicator about how these databases evolve when new node are added to the cluster. The people who want to attend this presentation should have basic knowledge in database concepts like strong consistency and replication and a basic understanding of how Map-Reduce works&lt;/p&gt;      </description>
+      <persons>
+          <person id="2311">Thibault Dory</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

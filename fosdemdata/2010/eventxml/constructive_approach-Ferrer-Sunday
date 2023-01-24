@@ -1,0 +1,19 @@
+  <event id="35">
+      <start>14:00</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Open-source software: Blaming the unknown, or a constructive approach to technology</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;ul&gt;&lt;li&gt;&lt;ul&gt;&lt;li&gt;&lt;ul&gt;&lt;li&gt; NOTE: THIS IS NOT A TALK ABOUT MYSQL - IT&amp;#39;S ABOUT GENERAL ATTITUDE TOWARDS NEW TECHNOLOGIES - I have presented this talk at two open source events where it was received enthusiastically ***&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;If you don&amp;#39;t know them, they will hurt you. No matter how expert you are, there are holes in your knowledge, and when things go wrong you usually blame what you know the least. So the culprit could be that database, the regular expression engine, the XML parser, the thread engine. What if the problem is between the chair and the keyboard instead? This talk will give you some general insight on the art of software development, encouraging users to rant less and improve their own practice.&#xA;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;The most popular open source database in the world *&lt;b&gt; NOTE that this talk is not about MySQL &lt;/b&gt;*&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="351">Giuseppe Maxia</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

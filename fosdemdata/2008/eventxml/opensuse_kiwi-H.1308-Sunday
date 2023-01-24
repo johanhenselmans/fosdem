@@ -1,0 +1,19 @@
+  <event id="209">
+      <start>12:30</start>
+      <duration>00:45</duration>
+      <room>H.1308</room>
+      <slug></slug>
+      <title>System Imaging with KIWI</title>
+      <subtitle></subtitle>
+      <track>openSUSE</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Explain how users can make their own linux with custom software on a concrete example&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description></description>
+      <persons>
+          <person id="2091">Jan-Christoph Bornschlegel</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,25 @@
+  <event id="281">
+      <start>11:05</start>
+      <duration>00:25</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>Open Licences before European Courts</title>
+      <subtitle></subtitle>
+      <track>Legal Issues Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Open content licences are tools at the disposal of creative people who want to use their copyrights in a permissive manner.&#xA;Their first aim is to allow the sharing and spreading of works, by granting rights to the users on a royalty-free basis.&#xA;However, these licences remain binding legal documents, according to which licensees must respect some obligations, and which are enforceable before courts.&#xA;The proposed presentation aims at providing an analysis of interesting court decisions where open content licences were at issue.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Please review the links below for background information:&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="2811">Philippe Laurent</person>
+      </persons>
+      <links>
+          <link href="http://gpl-violations.org/">http://gpl-violations.org/</link>
+          <link href="http://www.jipitec.eu/issues/jipitec-1-1-2010/2419/dippadm1268746871.43.pdf">Enforcement of the GNU GPL in Germany and Europe </link>
+          <link href="http://wiki.creativecommons.org/index.php?title=09-1684-A_(Lich%C3%B4dmapwa_v._L%27asbl_Festival_de_Theatre_de_Spa)&amp;redirect=no">Lichôdmapwa v. L&#39;asbl Festival de Theatre de Spa</link>
+          <link href="http://creativecommons.org/weblog/entry/5823">Creative Commons Licenses Enforced in Dutch Court</link>
+          <link href="http://fsffrance.org/news/article2009-09-22.en.html">Paris Court of Appeals condemns Edu4 for violating the GNU General Public License</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

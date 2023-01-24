@@ -1,0 +1,19 @@
+  <event id="28">
+      <start>16:00</start>
+      <duration>00:45</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>Tracking FreeBSD customizations with a local Mercurial branch</title>
+      <subtitle></subtitle>
+      <track>BSD</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The conversion of the main FreeBSD source repository to Subversion has opened the possibility of tracking one or more FreeBSD branches closely and with a fine-grained changeset based approach.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;This talk is about one of the ways the distributed Mercurial SCM can be used to periodically pull sets of changesets from the main FreeBSD svn repository and import them as atomic commits to a local branch.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Then we will describe two different ways to use the local branch as a basis for FreeBSD customizations: how to keep a stack of patches as a linear &amp;#39;customization layer&amp;#39; on top of FreeBSD, and how to keep another local branch with its own merge history.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="281">Giorgos Keramidas</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,22 @@
+  <event id="255">
+      <start>10:00</start>
+      <duration>00:45</duration>
+      <room>Chavanne</room>
+      <slug></slug>
+      <title>Xen</title>
+      <subtitle></subtitle>
+      <track>Virtualization</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Ian speaks about the factors that are making ubiquitous virtualization possible, as well as its advantages.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Hypervisors are set to become ubiquitous on PC hardware, built-in to every server, and ultimately, every laptop too.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The &lt;a href=&#34;http://www.xensource.com/&#34;&gt;open source Xen hypervisor&lt;/a&gt; is at the forefront of this movement, its architecture making it ideally suited for embedding in firmware and providing highly secure and efficient virtualization.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;This talk looks at the hardware and software factors that are making ubiquitous virtualization possible, and discusses the benefits that virtualization brings to both data centres and personal computing devices.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Pratt will give a status update of the Xen project, and talk about some of the&#xA;cool new things that are on the roadmap.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="2551">Ian Pratt</person>
+      </persons>
+      <links>
+          <link href="../../slides/maintracks/xen.pdf">Slides (PDF)</link>
+          <link href="http://video.fosdem.org/2008/maintracks/FOSDEM2008-xen.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

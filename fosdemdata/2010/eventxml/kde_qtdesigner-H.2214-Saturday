@@ -1,0 +1,19 @@
+  <event id="168">
+      <start>15:30</start>
+      <duration>00:45</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>Introduction to Qt Designer</title>
+      <subtitle></subtitle>
+      <track>KDE</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Creating GUI interfaces is easy with Qt Designer.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Sune will take us through making basic and complex user interfaces with this pleasingly easy to use app from Nokia&amp;#39;s Qt division.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1681">Sune Vuorela</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

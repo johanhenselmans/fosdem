@@ -1,0 +1,25 @@
+  <event id="239">
+      <start>17:00</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Minemu: protecting buggy programs from memory corruption attacks</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Dynamic taint analysis is a powerful technique to detect memory corruption attacks. Yet with typical overheads of an order of magnitude, it is not something you would choose to deploy in any production environment.  Minemu is a fast taint-tracking emulator for Linux which aims to be fast enough to be run on production systems.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Minemu is a fast, process-based taint-tracking emulator for Linux (x86, 32bit).  By keeping track of where untrusted data (such as data from the network) is copied to inside your program, and by subsequently checking whether this data is used to take control of the program, Minemu effectively protects against most memory corruption attacks, both for known and unknown vulnerabilities.  Tracking the flow of untrusted data during the execution of a program is slow because we effectively have to do an extra memory operation for each original memory operation.  However, by using a special memory layout and utilizing SSE registers, Minemu tries to keep the overhead to a minimum.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2391">Erik Bosman</person>
+      </persons>
+      <links>
+          <link href="492/73_minemu_slides_fosdem.pdf">Presentation slides (slides)</link>
+          <link href="https://minemu.org/">Minemu website (running under minemu)</link>
+          <link href="ftp://ftp.minemu.org/">Server running the normally remote-rootable Proftpd 1.3.3a server under minemu</link>
+          <link href="https://minemu.org/minemu_raid11.pdf">Minemu: The World’s Fastest Taint Tracker (paper)</link>
+          <link href="http://video.fosdem.org/2012/lightningtalks/Minemu.webm">Video recording</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

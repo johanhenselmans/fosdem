@@ -1,0 +1,19 @@
+  <event id="65">
+      <start>11:00</start>
+      <duration>01:00</duration>
+      <room>H.1308</room>
+      <slug></slug>
+      <title>Debian GNU/kFreeBSD</title>
+      <subtitle>apt-get install freebsd?</subtitle>
+      <track>CrossDistro devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk will show you what Debian GNU/kFreeBSD exactly is, what the&#xA;  differences between Debian GNU/kFreeBSD and the well known Debian&#xA;  GNU/Linux are, what difficulties the developers had, especially with&#xA;  regards to packaging and infrastructure, and what design decisions&#xA;  where made to get so far that Debian GNU/kFreeBSD finally has been&#xA;  accepted as Debian release architecture and what you can do with it&#xA;  but not with Debian GNU/Linux or with plain FreeBSD.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;It&amp;#39;s also gives a&#xA;  little overview over similar projects. (There are more than you may&#xA;  expect. :-)&lt;/p&gt;      </description>
+      <persons>
+          <person id="651">Axel Beckert</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

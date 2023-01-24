@@ -1,0 +1,19 @@
+  <event id="309">
+      <start>13:00</start>
+      <duration>00:45</duration>
+      <room>AW1.124</room>
+      <slug></slug>
+      <title>Polishing X11 and making it shiny</title>
+      <subtitle></subtitle>
+      <track>X.org</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;There are a few niggles about X11 today that mean every embedded device vendor patches the server in various unpleasant ways, whereas on the desktop it just looks suboptimal and we suck it up.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;This talk will cover a few parts of X11, such as client-side cursors, the video API, Composite, RandR, which currently need to be improved to make X11 look as good as it possibly can, without going to Wayland or X12.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="3091">Daniel Stone</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

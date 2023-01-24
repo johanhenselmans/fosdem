@@ -1,0 +1,19 @@
+  <event id="193">
+      <start>14:00</start>
+      <duration>01:00</duration>
+      <room>AW1.117</room>
+      <slug></slug>
+      <title>SQLAlchemy and Elixir</title>
+      <subtitle></subtitle>
+      <track>Python</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;A short presentation of &lt;a href=&#34;http://www.sqlalchemy.org/&#34;&gt;SQLAlchemy&lt;/a&gt; (the Python SQL toolkit and Object Relational Mapper) and Elixir, which is a brand-new declarative layer on top of SQLAlchemy, with a syntax similar to that of Ruby on Rails&amp;#39;s &lt;a href=&#34;http://wiki.rubyonrails.org/rails/pages/ActiveRecord&#34;&gt;ActiveRecord&lt;/a&gt;.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;&lt;a href=&#34;http://www.sqlalchemy.org/&#34;&gt;SQLAlchemy&lt;/a&gt; acts as the glue between your python projects and your SQL database in a very elegant way. It is a very powerful tool but setting up everything can be a bit tedious, so we wrote Elixir, as a thin wrapper around SQLAlchemy to provide the ability to define model objects in a simpler (and quicker) way when you do not need the full expressiveness of SQLAlchemy&amp;#39;s manual mapper definitions.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1931">Gaëtan de Menten</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

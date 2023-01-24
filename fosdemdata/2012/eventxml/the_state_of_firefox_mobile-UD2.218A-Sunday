@@ -1,0 +1,20 @@
+  <event id="376">
+      <start>14:00</start>
+      <duration>00:30</duration>
+      <room>UD2.218A</room>
+      <slug></slug>
+      <title>The State of Firefox Mobile</title>
+      <subtitle></subtitle>
+      <track>Mozilla Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;An overview of what the Firefox Mobile team has been working on and the future plans for Fennec.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="3761">Lucas Rocha</person>
+          <person id="3762">Chris Lord</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

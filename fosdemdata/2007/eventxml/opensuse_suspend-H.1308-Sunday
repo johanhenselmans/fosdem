@@ -1,0 +1,24 @@
+  <event id="181">
+      <start>10:00</start>
+      <duration>00:30</duration>
+      <room>H.1308</room>
+      <slug></slug>
+      <title>Suspend to disk and to RAM</title>
+      <subtitle></subtitle>
+      <track>openSUSE</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Suspend to disk and to RAM, reports about the current state and workshop&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Suspend to disk and to RAM, reports about the current state.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;After the Talk there will be a workshop, if you have problems with suspend this is the chance to work on it with the speakers and get your Laptop working with suspend.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1811">Pavel Machek</person>
+          <person id="1812">Stefan Seyfried</person>
+      </persons>
+      <links>
+          <link href="http://atrey.karlin.mff.cuni.cz/~pavel/swsusp/swsusp2007.odp">Slides (OOo)</link>
+          <link href="http://ftp5.gwdg.de/pub/opensuse/FOSDEM/2007/fosdem2007-09_Suspend_to_disk_and_to_RAM-1200.ogg">Video (Ogg/Theora)</link>
+          <link href="http://ftp5.gwdg.de/pub/opensuse/FOSDEM/2007/fosdem2007-09_Suspend_to_disk_and_to_RAM-320.ogg">Video (Ogg/Theora/Low quality)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

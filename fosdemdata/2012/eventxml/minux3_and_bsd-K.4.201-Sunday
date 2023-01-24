@@ -1,0 +1,19 @@
+  <event id="240">
+      <start>09:15</start>
+      <duration>00:45</duration>
+      <room>K.4.201</room>
+      <slug></slug>
+      <title>MINIX 3 and BSD</title>
+      <subtitle></subtitle>
+      <track>BSD Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;MINIX 3 is a BSD-licensed operating system focused on dependability. To improve the user experience, the MINIX team has been working to provide a more BSD-like environment on MINIX 3. This talk will describe our current progress on this front and our plans for the future.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="2401">Arun Thomas</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

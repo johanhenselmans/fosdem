@@ -1,0 +1,22 @@
+  <event id="40">
+      <start>11:00</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Hildon App. Manager: package management for Internet Tablets</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Debian-style package management for maemo consumers&#xA;&lt;/p&gt;&#xA;&lt;p&gt;    - For applications, for the operating system.&#xA;    - For hackers, for grandmas (and hacking grandmas).&#xA;    - Challenge: easy and robust configuration management on the device.&#xA;    - Challenge: traditional monolithic development and release process&#xA;      for mobile devices: OS as binary blob, no dependencies between&#xA;      applications.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Our approaches to the challenges will be explained briefly.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;The Hildon Application Manager is pre-installed on all&#xA;           Internet Tablets and handles the installation and removal&#xA;           of additional software.  In the future, it will also keep&#xA;           the operating system itself up-to-date.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;           The Application Manager is a frontend to apt and dpkg, like&#xA;           Synaptic or gnome-app-install, only different.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="401">Marius Vollmer</person>
+      </persons>
+      <links>
+          <link href="http://fosdem.org/2008/slides/lightningtalks/fosdem08_ltalk_hildon.pdf">Slides (PDF)</link>
+          <link href="http://video.fosdem.org/2008/lightningtalks/FOSDEM2008-hildon.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="220">
+      <start>09:00</start>
+      <duration>00:40</duration>
+      <room>H.2213</room>
+      <slug></slug>
+      <title>LTE is here, and ModemManager is (almost) ready for it</title>
+      <subtitle></subtitle>
+      <track>Telephony and Communications Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;An overview of LTE/LTE-advanced technologies, and how ModemManager will work with LTE devices.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;3GPP Long Term Evolution (LTE) is the new standard for high speed data&#xA;communications, an evolution of the 3GPP-family of standards (GSM,&#xA;UMTS...), but adopted also by CDMA networks as the next 4G technology.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;ModemManager is a project running under the freedesktop.org umbrella,&#xA;which works with NetworkManager in order to provide easy setup of&#xA;broadband mobile connections in Linux-based systems. The new 0.6 release&#xA;of ModemManager will be able to handle mixed CDMA/LTE and GSM/UMTS/LTE&#xA;devices.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;This talk will provide an overview of the new LTE and LTE advanced&#xA;technologies, from both network and device points of view; present the&#xA;new features arriving with this technology; and describe what is being&#xA;done in ModemManager to be able to manage 4G devices.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2201">Aleksander Morgado</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

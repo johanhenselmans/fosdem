@@ -1,0 +1,21 @@
+  <event id="132">
+      <start>11:00</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>LogiLogi Manta</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;A lightning talk about LogiLogi Manta, an incremental and entity-oriented discussion environment.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;The speaker will talk about FOSS (especially web 2.0) for the humanities, &#xA;about the ideas behind LogiLogi Manta, like entity-oriented &#xA;philosophy and combining full openness with quality-control, and &#xA;last but not least about LogiLogi Manta itself.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;i&gt;About LogiLogi Manta:&lt;/i&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;LogiLogi Manta targets on making incremental and entity- oriented &#xA;philosophical discussions possible. Core values are openness, &#xA;relativism and quality of content. Manta is bringing together the &#xA;idea of writeups of everything2.com and the transparency of Wiki&amp;#39;s &#xA;and the posibillity for rating content from multiple viewpoints, &#xA;hierarchical tagging, meaningfull urls, link-types, and more. &#xA;&lt;/p&gt;  &#xA;&lt;p&gt;Manta was started with a modest grant from the Philosophy &#xA;department of the (Dutch) Rijksuniversiteit Groningen.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1321">Wybo Wiersma</person>
+      </persons>
+      <links>
+          <link href="../../slides/lightningtalks/LogiLogiManta.pdf">Slides (PDF)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

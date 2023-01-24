@@ -1,0 +1,19 @@
+  <event id="249">
+      <start>09:00</start>
+      <duration>00:30</duration>
+      <room>AW1.124</room>
+      <slug></slug>
+      <title>Openmoko: 20 Minutes of history</title>
+      <subtitle></subtitle>
+      <track>Openmoko</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This presentation gives a short overview about how it came to the Openmoko project its successes and its failures.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="2491">Michael Lauer</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

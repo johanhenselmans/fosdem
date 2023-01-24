@@ -1,0 +1,19 @@
+  <event id="274">
+      <start>17:40</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>shadowcircle:  a pentesting distribution alternative</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk would be about explaining what the shadowcircle project is: &#xA;&lt;/p&gt;&#xA;&lt;ul&gt;&lt;li&gt; why was it created. &#xA;&lt;/li&gt;&#xA;&lt;li&gt; what is the philosophy behind this project.&#xA;&lt;/li&gt;&#xA;&lt;li&gt; what are you concretely able to do with the integrated tools.&#xA;&lt;/li&gt;&#xA;&lt;li&gt; why is it better than other similar solution (backtrack)&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Final words : we need contributors to side projects in order to replace some non FOS software.&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;a Demo would also be performed : a vulnerabilities check on remote host ( implies 2 pc, provided by the speaker ) + exploit with specific payload.&#xA;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;shadowcircle is a free GNU/Linux Live CD distribution which was specially crafted for penetration testers. &#xA;&lt;/p&gt;&#xA;&lt;p&gt;Forked from backtrack, this distribution aims to:&#xA;&lt;/p&gt;&#xA;&lt;ul&gt;&lt;li&gt; Remove any peace of non free software that was initially the backtrack packages base, and replace them by FOS equivalents.&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Bring more documentation about the integrated tools. &#xA;&lt;/li&gt;&#xA;&lt;li&gt; Integrate cutting-edge security tools that are not yet available in similar distributions.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;  </description>
+      <persons>
+          <person id="2741">clement Game</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

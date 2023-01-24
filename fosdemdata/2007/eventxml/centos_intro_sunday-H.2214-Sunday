@@ -1,0 +1,19 @@
+  <event id="7">
+      <start>10:00</start>
+      <duration>01:00</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>Introduction to CentOS + Q&amp;A</title>
+      <subtitle></subtitle>
+      <track>CentOS + Fedora</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;What is CentOS? Where did it come from? Who is responsible for it? And who needs an enterprise distribution anyhow?&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;CentOS is an enterprise class linux distribution with a strong, fast growing active community behind it. This talk will give an overview of the distribution and the people behind it. After a short &amp;#34;historical&amp;#34; overview this talk will center on the available CentOS versions, and give an overview of what is in the distribution. This talk is also trying to explain in which fields an enterprise class distribution might be useful for the user or the administrator. Showing the places where the community is doing work at the moment and a brief introduction of the technical aspects behind CentOS will top off this talk.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="71">Ralph Angenendt</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

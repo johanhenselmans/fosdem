@@ -1,0 +1,19 @@
+  <event id="189">
+      <start>12:00</start>
+      <duration>01:00</duration>
+      <room>AW1.117</room>
+      <slug></slug>
+      <title>Elisa</title>
+      <subtitle></subtitle>
+      <track>Python</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;&lt;a href=&#34;http://www.fluendo.com/elisa/&#34;&gt;Elisa&lt;/a&gt; is a project to create an open source cross platform media center solution.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;While our primary development and deployment platform is GNU/Linux and Unix operating systems we also currently support Microsoft Windows and also hope to support MacOSX in the future.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Elisa runs on top of the GStreamer multimedia framework. In addition to personal video recorder functionality (PVR) and Music Jukebox support, Elisa will also interoperate with devices following the DLNA standard like Intel&amp;#39;s ViiV systems.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The talk is about Elisa&amp;#39;s history, its current features, how it interoperates with devices and other applications. Philippe will also explain the plans for Elisa as well as a little demo.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1891">Philippe Normand</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

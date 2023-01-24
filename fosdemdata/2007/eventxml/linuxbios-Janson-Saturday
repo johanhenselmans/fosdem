@@ -1,0 +1,21 @@
+  <event id="116">
+      <start>15:00</start>
+      <duration>00:45</duration>
+      <room>Janson</room>
+      <slug></slug>
+      <title>LinuxBIOS</title>
+      <subtitle></subtitle>
+      <track>Kernel</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;&lt;a href=&#34;http://linuxbios.org/&#34;&gt;LinuxBIOS&lt;/a&gt; - building a BIOS for fun and not-profit.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;The Linux BIOS replaces the normal BIOS found on PCs and other machines.&#xA;The BIOS boot and setup is eliminated and replaced by a very simple initialization phase, followed by a gunzip of a Linux kernel.&#xA;The Linux kernel is then started and from there on the boot proceeds as normal.&#xA;Amongst many other things, it provides a very fast boot time: 3 seconds from power-on to Linux console&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Ronald started the &lt;a href=&#34;http://linuxbios.org/&#34;&gt;LinuxBIOS&lt;/a&gt; project in 1999, with the simple goal of building a specialized BIOS for supercomputers.&#xA;Since that time, the LinuxBIOS project has seen the usage grow by a factor of 10 each year, to a projected usage of well over 10 million in 2007, and 100 million in 2008.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;With the advent of the &lt;a href=&#34;http://laptop.org/&#34;&gt;OLPC project&lt;/a&gt;, there is enough critical mass to design hardware as it should be designed, and in turn, build a BIOS as it ought to be built.&#xA;For example, the OLPC will not use badly designed standards such as ACPI -- there is no need to.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;In this talk, Ronald will discuss:&#xA;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;some of the early history of LinuxBIOS, as a motivation for why it is designed the way it is;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;what he learned in building a free BIOS,&#xA;&lt;/li&gt;&#xA;&lt;li&gt;including knowledge that was lost but was rediscovered;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;issues he faces in dealing with vendors&#xA;&lt;/li&gt;&#xA;&lt;li&gt;interesting things you can do when you own the BIOS&#xA;&lt;/li&gt;&#xA;&lt;li&gt;the work Google is supporting&#xA;&lt;/li&gt;&#xA;&lt;li&gt;what the future holds&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA; </description>
+      <persons>
+          <person id="1161">Ronald G Minnich</person>
+      </persons>
+      <links>
+          <link href="http://video.fosdem.org/2007/FOSDEM2007-LinuxBios.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

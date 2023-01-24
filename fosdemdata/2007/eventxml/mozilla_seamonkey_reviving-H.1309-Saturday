@@ -1,0 +1,19 @@
+  <event id="164">
+      <start>16:15</start>
+      <duration>00:45</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>SeaMonkey - Reviving the Suite</title>
+      <subtitle></subtitle>
+      <track>Mozilla</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Current and future developments in the SeaMonkey suite project&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;The SeaMonkey internet application suite is the successor of the Mozilla suite, which itself based on the open-sourced code of Netscape&amp;#39;s Communicator product.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The talk will focus on where the SeaMonkey project is right now, almost two years after taking over development of the code and one year after the first SeaMonkey-branded release - and what plans there are for the needed big rework in the immediate future.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1641">Robert Kaiser</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

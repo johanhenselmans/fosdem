@@ -1,0 +1,19 @@
+  <event id="127">
+      <start>14:00</start>
+      <duration>00:30</duration>
+      <room>AW1.117</room>
+      <slug></slug>
+      <title>Objective-C 2.0: libobjc2 and Clang, current status, plans for the future</title>
+      <subtitle></subtitle>
+      <track>GNUstep</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Objective-C support in the main branch of GCC has faltered somewhat in recent years, with no support for any of the new features in what Apple dubbed &amp;#39;Objective-C 2.0&amp;#39;.  This lack of support for things like declared properties has, increasingly, made it difficult to port code from OS X to other platforms.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;More recently, Apple has focused on clang, a new front end for the LLVM compiler infrastructure, supporting C, Objective-C and C++. This has made supporting new language features much easier.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Objective-C also requires a runtime library to implement the dynamic features.  This talk will discuss the GNUstep runtime (libobjc2), which provides most of the features required for Objective-C 2 and it&amp;#39;s support in clang, as well as the plans for the future evolution of the Objective-C support on non-Apple platforms.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1271">David Chisnall</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

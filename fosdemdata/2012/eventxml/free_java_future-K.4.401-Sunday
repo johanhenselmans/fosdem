@@ -1,0 +1,19 @@
+  <event id="106">
+      <start>16:30</start>
+      <duration>00:30</duration>
+      <room>K.4.401</room>
+      <slug></slug>
+      <title>Discussion on the Future of Free Java</title>
+      <subtitle></subtitle>
+      <track>Free Java Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Open community discussion on the future of Free Java we would like to see.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="1061">Andrew Haley</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

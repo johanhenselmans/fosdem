@@ -1,0 +1,19 @@
+  <event id="129">
+      <start>16:30</start>
+      <duration>00:30</duration>
+      <room>AW1.117</room>
+      <slug></slug>
+      <title>Porting Cocoa apps to other platforms: what works, what doesn&#39;t, what to do to make porting easier</title>
+      <subtitle></subtitle>
+      <track>GNUstep</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;GNUstep began life as an implementation of the OpenStep specification. Now, the most well-known implementation of OpenStep is called Cocoa and is the recommended way of developing software for Mac OS X and the iPhone. GNUstep has continued to track these changes, and has become a good way of porting code from Mac OS X to Windows or *NIX.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;This session will begin with a short talk, covering the overall state of GNUstep from the perspective of a Cocoa programmer, followed by a short demo moving an example application from OS X to FreeBSD.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1291">David Chisnall</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

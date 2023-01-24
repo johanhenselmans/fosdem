@@ -1,0 +1,19 @@
+  <event id="32">
+      <start>15:20</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Why you should use Bazaar for maintaining your OSS project</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk will give a quick introduction to Bazaar, the friendly distributed version control system. It will highlight the benefits of using distributed version control over a centralized approach and what features make Bazaar a perfect match for this kind of collaboration.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Bazaar is a distributed version control system that Just Works. While many similar systems require you to adapt to their model of working, Bazaar adapts to the workflows you want to use, and it takes only five minutes to try it out. People have used it to version pretty much anything: single-file projects, your /etc directory and even the thousands of files and revisions in the source code for Launchpad, MySQL and Mailman.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="321">Lenz Grimmer</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

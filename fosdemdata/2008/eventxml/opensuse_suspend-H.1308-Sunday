@@ -1,0 +1,19 @@
+  <event id="216">
+      <start>12:00</start>
+      <duration>00:30</duration>
+      <room>H.1308</room>
+      <slug></slug>
+      <title>Suspend</title>
+      <subtitle></subtitle>
+      <track>openSUSE</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Status update. What happened during the last year, what are the new features / goodies ?&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description></description>
+      <persons>
+          <person id="2161">Stefan Seyfried</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

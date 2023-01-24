@@ -1,0 +1,22 @@
+  <event id="115">
+      <start>17:30</start>
+      <duration>00:30</duration>
+      <room>K.4.401</room>
+      <slug></slug>
+      <title>Garbage Collection Visualization, GCSpy and NetBeans in tandem</title>
+      <subtitle></subtitle>
+      <track>Free Java Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;We are recently witnesses of continuous performance improvements both in hardware and software worlds. However for systems with millions requests and users, performance is still very important. One of not that obvious performance optimizations is Garbage Collection selection and tuning. Garbage Collectors save us a lot of time and shield us from low level memory problems.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;However to take full advantage of Garbage Collection, we need to make the exploration process easy. Visualizing the Garbage Collection techniques (visualizing events, understanding memory abstraction and fragmentation, history observation) is critical for mentioned performance tuning, lowering the memory allocation, consumption and GC pauses.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;This talk will introduce Garbage Collection in nutshell, but especially abstractions and terms defined in GCSpy project and summarize the porting process of GCSpy to NetBeans platform. We will look at advantages of NetBeans platform, summarize faced challenges and current status of the project and further ideas.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;I am looking for ideas to improve the GC visualization even more, other VM support (at least partial) and architecture overview.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="1151">Martin Skurla</person>
+      </persons>
+      <links>
+          <link href="http://www.cs.kent.ac.uk/projects/gc/gcspy/">GCSpy</link>
+          <link href="http://netbeans.org/features/platform/index.html">NetBeans</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

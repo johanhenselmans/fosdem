@@ -1,0 +1,19 @@
+  <event id="437">
+      <start>11:00</start>
+      <duration>00:30</duration>
+      <room>K.3.401</room>
+      <slug></slug>
+      <title>Xspice: Integrating spice-server into Xorg</title>
+      <subtitle></subtitle>
+      <track>X.org+OpenICC Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The is a technical talk about how Xspice integrates the spice-server library into Xorg via a small rewrite of the xf86-vide-qxl driver, resulting in a standalone X and Spice server. Alon will briefly describe his future plan to use hotplug export a running Xorg via Spice.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="4371">Alon Levy</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

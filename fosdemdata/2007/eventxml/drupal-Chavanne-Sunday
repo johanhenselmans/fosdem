@@ -1,0 +1,21 @@
+  <event id="30">
+      <start>11:00</start>
+      <duration>00:45</duration>
+      <room>Chavanne</room>
+      <slug></slug>
+      <title>Drupal</title>
+      <subtitle></subtitle>
+      <track>Web</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Dries will explain why &lt;a href=&#34;http://drupal.org/&#34;&gt;Drupal&lt;/a&gt; is the answer, regardless of your question.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;In this presentation, we talk about the state of &lt;a href=&#34;http://drupal.org/&#34;&gt;Drupal&lt;/a&gt;, a modular open source content management system and web application framework.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;We let you discover the world of Drupal, and help you figure out why you want to use Drupal (or not).&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="301">Dries Buytaert</person>
+      </persons>
+      <links>
+          <link href="http://video.fosdem.org/2007/FOSDEM2007-Drupal.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

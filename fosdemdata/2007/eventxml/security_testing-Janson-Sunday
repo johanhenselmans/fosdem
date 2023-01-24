@@ -1,0 +1,21 @@
+  <event id="205">
+      <start>10:00</start>
+      <duration>00:45</duration>
+      <room>Janson</room>
+      <slug></slug>
+      <title>Security Testing</title>
+      <subtitle></subtitle>
+      <track>Security</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Security testing not by the book&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;A cheat sheet to efficient and accurate security testing and analysis, this overview is about what many penetration testers and ethical hackers just don&amp;#39;t get. The real world doesn&amp;#39;t conform 100% to rules but it is rules that get put into tools and courses which guide and often think for today&amp;#39;s security professionals. In this talk, we will examine various real-world networks, services, and applications and explain where the tester went wrong in the test and analysis.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Security testing is the means to measure and verify operational security and controls are working. The &lt;a href=&#34;http://www.osstmm.org/&#34;&gt;Open Source Security Testing Methodology Manual (OSSTMM)&lt;/a&gt; is an open, peer-reviewed specification for an accurate and thorough security test. The &lt;a href=&#34;http://www.osstmm.org/&#34;&gt;OSSTMM&lt;/a&gt; has been written for real-world security testing and metrics and a review of the last 4 years of OSSTMM research is used to create this interactive talk.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="2051">Pete Herzog</person>
+      </persons>
+      <links>
+          <link href="http://video.fosdem.org/2007/FOSDEM2007-SecurityTesting.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

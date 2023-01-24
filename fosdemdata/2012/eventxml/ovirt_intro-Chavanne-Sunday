@@ -1,0 +1,19 @@
+  <event id="314">
+      <start>11:00</start>
+      <duration>00:25</duration>
+      <room>Chavanne</room>
+      <slug></slug>
+      <title>Virtualization Management the oVirt way</title>
+      <subtitle></subtitle>
+      <track>Virtualization and Cloud Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The oVirt Project is an open virtualization project providing a feature-rich server virtualization management system with advanced capabilities for hosts and guests, including high availability, live migration, storage management, system scheduler, and more. oVirt provides an integration point for several open source virtualization technologies, including kvm, libvirt, spice and oVirt node. oVirt was launched in November 2011 as a fully open source project, based on assets from Red Hat Enterprise Virtualization Manager platform. The project has an open governance model, and initial board has members from IBM, Cisco, Netapp, Red Hat and SUSE.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;The session will introduce the project principles, scope, demo and architecture.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="3141">Itamar Heim</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

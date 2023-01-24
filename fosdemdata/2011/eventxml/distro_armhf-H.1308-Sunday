@@ -1,0 +1,19 @@
+  <event id="54">
+      <start>12:30</start>
+      <duration>01:00</duration>
+      <room>H.1308</room>
+      <slug></slug>
+      <title>Debian on ARM</title>
+      <subtitle></subtitle>
+      <track>CrossDistro devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;ARM chips are changing - faster, multicore, with FPUs and GPUs, changed instruction set.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Debian arm is changing to keep up. This talk will cover recent developments in the ARM port to support modern arm devices like tablets and netbooks.&lt;/p&gt;      </description>
+      <persons>
+          <person id="541">Hector Oron</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

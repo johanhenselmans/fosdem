@@ -1,0 +1,19 @@
+  <event id="91">
+      <start>10:00</start>
+      <duration>00:20</duration>
+      <room>AW1.105</room>
+      <slug></slug>
+      <title>Building VPNs in EC2</title>
+      <subtitle></subtitle>
+      <track>New challenges in Virtualization devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Amazon&amp;#39;s EC2, like most virtualization environments, presents a number of network configuration challenges to overcome when deploying large-scale Internet services, especially if you&amp;#39;re doing anything other than serving standard HTTP services.  This talk is intended to convey some of the key practical experience we&amp;#39;ve gained from re-deploying an existing complex, high-traffic, non-HTTP service into EC2.  The focus will mostly be on network design and configuration issues that led to using (and patching) the tinc VPN daemon to route high volumes of production traffic for us.  Many challenges in this area remain and I hope that conveying our experiences will aid other engineers working on similar problems, and provide other developers interesting problems to think about going forward.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="911">Brandon Black</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,20 @@
+  <event id="74">
+      <start>18:00</start>
+      <duration>01:00</duration>
+      <room>H.1308</room>
+      <slug></slug>
+      <title>Mancoosi tools for the analysis and quality assurance of FOSS   distributions</title>
+      <subtitle></subtitle>
+      <track>CrossDistro devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;we will present a set of tools for the analysis and quality&#xA;  assurance of FOSS distributions.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;These tools analyse meta-data of&#xA;  packages (like dependencies, build-dependencies, conflicts, etc), and&#xA;  answer questions like:&lt;/p&gt;&#xA;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;which packages are installable and which are not?&lt;/li&gt;&#xA;&lt;li&gt;for which packages is it possible to install a build environment?&lt;/li&gt;&#xA;&lt;li&gt;which packages are absolutely mandatory for the installation of a&#xA;package (which might have dependencies with alternatives, or on&#xA;virtual packages)?&lt;/li&gt;&#xA;&lt;li&gt;which packages will certainly become uninstallable when I upgrade a&#xA;certain package?&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&#xA;&lt;p&gt;  These tools have been developed by the Mancoosi project, continuing&#xA;  the work started during its predecessor project EDOS. This will also&#xA;  include a demo of the new &amp;#34;Weather Service&amp;#34; for distributions.&lt;/p&gt;      </description>
+      <persons>
+          <person id="741">Ralf Treinen</person>
+          <person id="742">Jaap Boender</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

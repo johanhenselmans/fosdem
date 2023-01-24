@@ -1,0 +1,19 @@
+  <event id="211">
+      <start>14:15</start>
+      <duration>00:45</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>Percona MySQL patches and the XtraDB storage engine</title>
+      <subtitle></subtitle>
+      <track>MySQL</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Percona builds binaries that contain recent versions of the MySQL database server, plus additional popular patches not included in the official binaries from MySQL/Sun.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Some patches improve InnoDB performance under high loads. Others provide diagnostic tools useful to DBAs. The patches are authored by MySQL users like Google, Proven Scaling, Open Query, and Percona itself. This talk is a guide to why we do it, our current patches and our plans for the future. Additionally, this talk will cover the XtraDB storage engine, a recent project started by Percona.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2111">Ewen Fortune</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

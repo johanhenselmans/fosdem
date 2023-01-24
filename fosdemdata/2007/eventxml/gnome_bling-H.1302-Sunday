@@ -1,0 +1,19 @@
+  <event id="66">
+      <start>13:15</start>
+      <duration>00:45</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>Bling it up - make it sexy!</title>
+      <subtitle></subtitle>
+      <track>GNOME</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The talk &amp;#34;Bling it up - make it sexy!&amp;#34; will present certain ways how to achieve embellishment for your own application-development using cairo, librsvg and other usual suspects.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;The presented techniques will be demonstrated with the help of a bling&amp;#39;ed up example program written in C. There will be gradients, rounded corners, blurs, fades, animation and so on... and sourcecode.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The intended audience is expected to already know a bit about cairo and gtk+. It will not be a talk for beginners.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="661">Mirco Müller</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

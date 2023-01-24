@@ -1,0 +1,22 @@
+  <event id="292">
+      <start>13:00</start>
+      <duration>01:00</duration>
+      <room>K.3.401</room>
+      <slug></slug>
+      <title>OpenICC - Colour Standards for Linux</title>
+      <subtitle></subtitle>
+      <track>X.org+OpenICC Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Who are the people behind OpenIcc and what do they do for open source colour management? What are standards exist and are primarily maintained by OpenIcc and what work is in progress?&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="2921">Kai-Uwe Behrmann</person>
+          <person id="2922">Peter Linnell</person>
+      </persons>
+      <links>
+          <link href="http://www.openicc.info/">OpenICC Wiki</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

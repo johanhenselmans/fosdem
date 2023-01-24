@@ -1,0 +1,19 @@
+  <event id="30">
+      <start>14:00</start>
+      <duration>00:55</duration>
+      <room>K.3.201</room>
+      <slug></slug>
+      <title>JBoss AS7 : Building JBoss AS 7 for Fedora</title>
+      <subtitle></subtitle>
+      <track>JBoss.org Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;While JBoss AS 7 (Application Server) in itself is FOSS (Free and Open Source Software) I would also like to make sure that the building process itself does not rely on anything but FOSS.&#xA;Having a FOSS build process will truly liberate &lt;em&gt;any&lt;/em&gt; Java project.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;With an overview of JBoss AS  7 the stage will be set for what components need to be FOSSilized.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Fedora, because it is the most passionate advocate of the FOSS build requirement, makes an excellent target OS for the initial prototype. Plus we can draw upon existing manpower and resources (from Fedora and EAP) to execute it.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Some issues encountered:&#xA;  Hibernate Core 4 needs Gradle to build&#xA;  RESTEasy depends on JAXB Reference Implementation&#xA;  JBoss VFS uses Microsoft code (during testing)&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Relying on build tools like Maven, Gradle or Ivy can inadvertently lead to issues where (semi-) unknown dependencies creep into the build process (or worse the runtime operation).&lt;/p&gt;&#xA;&#xA;&lt;p&gt;If people give &lt;em&gt;no&lt;/em&gt; thought to building their code FOSS style, making it fully FOSS becomes quite a choir (or even impossible). So if you care about FOSS, make sure your build is also FOSS.&#xA;Let&amp;#39;s start here, let&amp;#39;s start with JBoss AS 7.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="301">Carlo De Wolf</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

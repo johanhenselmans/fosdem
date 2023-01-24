@@ -1,0 +1,19 @@
+  <event id="58">
+      <start>11:00</start>
+      <duration>01:00</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>Can we build a simple, cross-distribution installation framework?</title>
+      <subtitle></subtitle>
+      <track>CrossDistro devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;First, this talk will entail the philosophy behind the shellscript-based Arch Linux installation framework (AIF), as well as some implementation information and lessons learned.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Second, I want to initiate a discussion on how multiple distributions could work together maintaining an installation framework following a &amp;#34;keep it simple&amp;#34; philosophy, and how feasible it would be to do so. In my experience, quite some necessities, issues and features are distribution-independent. Specific distributions could be supported with plugins or feature branches.&lt;/p&gt;      </description>
+      <persons>
+          <person id="581">Dieter Plaetinck</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

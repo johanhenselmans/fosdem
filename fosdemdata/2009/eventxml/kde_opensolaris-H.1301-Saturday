@@ -1,0 +1,19 @@
+  <event id="172">
+      <start>18:30</start>
+      <duration>00:30</duration>
+      <room>H.1301</room>
+      <slug></slug>
+      <title>KDE on OpenSolaris</title>
+      <subtitle></subtitle>
+      <track>KDE</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk covers the progress the KDE community has made together with Sun Microsystems.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;It details on how to get a project as large as KDE into OpenSolaris.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;What are the issues? What is a repository? Can anyone contribute to repository code? How can someone contribute? What work needsto be done to get on the opensolaris.com distrubution DVD?&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1721">Gerard van den Berg</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

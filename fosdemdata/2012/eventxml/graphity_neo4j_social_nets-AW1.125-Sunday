@@ -1,0 +1,19 @@
+  <event id="138">
+      <start>12:45</start>
+      <duration>00:30</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>Graphity: an efficient neo4j based graph model for retrieving the top k news feeds for users in social networks </title>
+      <subtitle></subtitle>
+      <track>Graph Processing Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;You can find more information about it in my blog article: http://www.rene-pickhardt.de/graphity-an-efficient-graph-model-for-retrieving-the-top-k-news-feeds-for-users-in-social-networks/&#xA;and a demo can be found at http://gwt.metalcon.de/GWT-Modelling/#Home&lt;/p&gt;&#xA;&#xA;&lt;p&gt;A key challenge of web platforms like social networking sites and services for news feed aggregation is the efficient and targeted distribution of new content items to the users. This can be formulated as the problem of retrieving the top-k news items out of the d-degree ego network of each given user, where the set of all users producing feeds is of size n, with n ≫ d ≫ k and typically k &amp;lt; 20. Existing approaches employ either expensive join operations on global indices or suffer from high redundancy through denormalization. This makes retrieving of different top-k news item sets for thousands of users per second very inefficient in a large network.&#xA;In this paper, we propose a novel index GRAPHITY to remedy this problem. The GRAPHITY index is based on neo4j and allows retrieval of the top-k news items from a user’s ego network independent of the node degree of his ego network, thus reducing join efforts. In addition to efficient top-k retrieval, GRAPHITY does not introduce any redundancies in the content data.We prove that updates of the index are in O(1) and adding a new content item is linear in the user’s indegree. We compare the theoretical run time complexity of GRAPHITY against several baselines on two data sets of different characteristics and size. Our evaluation confirms that GRAPHITY is independent of the node degree d and network size n. In addition, GRAPHITY significantly outperforms the baselines in retrieving the news feeds as our theoretical examination predicted.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="1381">Rene Pickhardt</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

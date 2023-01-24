@@ -1,0 +1,19 @@
+  <event id="39">
+      <start>13:00</start>
+      <duration>01:00</duration>
+      <room>AW1.124</room>
+      <slug></slug>
+      <title>coreboot introduction</title>
+      <subtitle></subtitle>
+      <track>Coreboot</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The BIOS and it&amp;#39;s successor EFI are considered by many to be the final frontier for open source software in commodity PCs. This talk introduces the open source BIOS replacement coreboot (formerly known as LinuxBIOS) and the projects that surround it, including many popular payloads that combine with coreboot to make up an innovative firmware for PCs.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;The talk also looks at the 10 year long history of the project, describes the current state of development and considers some possibilities for the future.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="391">Peter Stuge</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

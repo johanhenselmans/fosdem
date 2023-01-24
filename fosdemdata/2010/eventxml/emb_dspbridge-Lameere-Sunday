@@ -1,0 +1,19 @@
+  <event id="93">
+      <start>16:00</start>
+      <duration>01:00</duration>
+      <room>Lameere</room>
+      <slug></slug>
+      <title>ARM and DSP talking to each other in OMAP3: the dspbridge</title>
+      <subtitle></subtitle>
+      <track>Embedded</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The microprocessor OMAP 3430 contains a dual-core architecture consisting on an ARM Cortex-A8 (General-Purpose Processor) and a DSP C64x (as an Image-Video-Audio Accelerator).&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The dspbridge is a kernel driver for the OMAP3 architecture. It provides a interface to control and communicate with the DSP, enabling parallel processing in embedded devices.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;This talk will be about how to build a system with the dspbridge driver and how to use it for multimedia applications.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="931">Víctor Manuel Jáquez Leal</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="216">
+      <start>17:15</start>
+      <duration>01:00</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>Layout &amp; Canvas &amp; Slideshow - selected topics for the graphics hackers</title>
+      <subtitle></subtitle>
+      <track>OpenOffice.org</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk will give an introduction to areas inside OOo amenable to graphics hackers - stuff that has the desirable property of instant visual gratification.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Layout: there&amp;#39;s currently work underway to give OOo&amp;#39;s dialogs an auto-layouting facility. Besides work on the layouting core, there&amp;#39;s also help solicited for converting existing dialogs to the new layout-enabled scheme.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Canvas: the new OOo rendering subsystem, and what it can do; showing a prototype of an OpenGL-based implementation plus pointers where interested hackers can start helping Slideshow: probably the easiest way to make an impact to millions of OOo users is to code another Impress 3D slide transition – here&amp;#39;s how to do that.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2161">Thorsten Behrens</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="343">
+      <start>12:15</start>
+      <duration>00:45</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>29,000 packages in 24 hours - Releasing Debian</title>
+      <subtitle></subtitle>
+      <track>CrossDistribution Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk is to give an overview of what is involved in releasing Debian.&#xA;It will cover policy, tools and an insight into what it takes to release the largest linux distribution.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="3431">Neil McGovern</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

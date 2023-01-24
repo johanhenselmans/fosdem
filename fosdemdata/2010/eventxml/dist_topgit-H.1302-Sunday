@@ -1,0 +1,19 @@
+  <event id="71">
+      <start>12:15</start>
+      <duration>00:45</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>Cross distro packaging with (top)git</title>
+      <subtitle></subtitle>
+      <track>Distributions</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The talk presents and discusses a workflow for Debian packages using GIT. The &#xA;workflow aims to be appliable also to other distributions and should even &#xA;allow easy sharing of packaging work done for different distributions.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Additional tools and concepts to be discussed include:&#xA;&lt;/p&gt;&lt;ul&gt;&lt;li&gt; topgit, a patch tracking solution on top of git&#xA;&lt;/li&gt;&#xA;&lt;li&gt; git-buildpackage, a helper to automate some packaging steps&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Debian Source Format Version 3 with quilt&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;  </description>
+      <persons>
+          <person id="711">Thomas Koch</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

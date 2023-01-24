@@ -1,0 +1,19 @@
+  <event id="290">
+      <start>14:00</start>
+      <duration>00:50</duration>
+      <room>Chavanne</room>
+      <slug></slug>
+      <title>The Storage Technologies Behind Facebook Messages</title>
+      <subtitle></subtitle>
+      <track>Cloud Track</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The engineering team behind Facebook Messages spent the past year building out a robust, scalable infrastructure. We spent a few weeks setting up a test framework to evaluate clusters of MySQL, Apache Cassandra, Apache HBase, and a couple of other systems. This talk looks at why we ultimately chose HBase and a number of the infrastructure decisions the team made to handle well over 100 billion messages per month.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="2901">Nicolas Spiegelberg</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

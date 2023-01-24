@@ -1,0 +1,19 @@
+  <event id="204">
+      <start>13:15</start>
+      <duration>00:45</duration>
+      <room>H.1301</room>
+      <slug></slug>
+      <title>Messaging/Thunderbird</title>
+      <subtitle></subtitle>
+      <track>Mozilla</track>
+      <type></type>
+      <language></language>
+      <abstract></abstract>
+      <description></description>
+      <persons>
+          <person id="2041">Ludovic Hirlimann</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

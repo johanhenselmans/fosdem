@@ -1,0 +1,19 @@
+  <event id="231">
+      <start>12:00</start>
+      <duration>00:45</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>MirrorBrain - Free CDN for Free Software Projects</title>
+      <subtitle></subtitle>
+      <track>openSUSE</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The MirrorBrain, a.k.a. the openSUSE download redirector, automatically redirects clients (web browsers, download programs) to a mirror server near them.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;It works similar to the systems employed by sourceforge.net, mozilla.com or similar large organizations, which face a number of download requests which is too high to be practically handled by a single site. To find a mirror close to the client, the redirector &amp;#34;geolocates&amp;#34; the client by its IP address. If several mirrors are found to be suitable, the redirector load-balances requests to the mirrors based on their capabilities.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2311">Peter Poeml</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

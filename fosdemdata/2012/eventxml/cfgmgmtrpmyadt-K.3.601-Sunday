@@ -1,0 +1,22 @@
+  <event id="52">
+      <start>16:00</start>
+      <duration>00:45</duration>
+      <room>K.3.601</room>
+      <slug></slug>
+      <title>Configuration management and deployment with RPM and YADT</title>
+      <subtitle></subtitle>
+      <track>Configuration and Systems Management Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;RPM is a well understood and relatively easy packaging format that helps to deploy sets of files in a consistent, reproducible and reversible way, and YADT enables organizations to describe their system landscape in a simple, human readable YAML format.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;RPM is a well understood and relatively easy packaging format that helps to deploy sets of files in a consistent, reproducible and reversible way. Tools like yum, zypper and apt have enabled admins to install, remove and update complete dependency chains of RPMs and to verify on-system changes to these file sets.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Which seems to be a perfect starting point for doing general configuration management with those tools: larger dependency chains can be pulled in via a simple RPM, configuration files can be delivered inside RPMs, administrators feel right at home and have their toolset for installing, updating and verifying the configuration on the machines, developers can easily contribute to simple packaging.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Part I of this talk describes how (and why) we do this at Immobilienscout24.de and discusses pro and cons of this approach.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Part II builds on this and describes our next generation data center deployment and management tool, YADT.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;YADT enables organizations to describe their system landscape in a simple, human readable YAML format. YADT is fully aware of not only dependencies between packages and configs, but also of interservice dependencies. Due to this, YADT makes sure that the systems within your platform are updated, configured and restarted in the correct order. It does this by analyzing service and package dependencies and by grouping dependent systems into &amp;#34;chunks&amp;#34;.  Deployment then happens as a sequential wave over those chunks, making sure that the platform stays online during the deployment.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;YADT is in the process of being open sourced and is available at&#xA;https://code.google.com/p/yadt/&lt;/p&gt;      </description>
+      <persons>
+          <person id="521">Ralph Angenendt</person>
+      </persons>
+      <links>
+          <link href="652/119_fosdem2012_rpm_and_yadt.pdf">fosdem2012_rpm_and_yadt.pdf (slides)</link>
+          <link href="https://code.google.com/p/yadt/">YADT Project</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

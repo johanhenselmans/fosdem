@@ -1,0 +1,19 @@
+  <event id="302">
+      <start>17:00</start>
+      <duration>01:00</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>BSD-Licensed Toolchain Status</title>
+      <subtitle></subtitle>
+      <track>BSD devroom</track>
+      <type></type>
+      <language></language>
+      <abstract></abstract>
+      <description>&#xA;&lt;p&gt;A number of operating system projects are currently looking at ways&#xA;to migrated from GCC and GNU binutils to BSD licensed toolchains.&#xA;This includes the BSD family of operating systems, Minix, and Apple&amp;#39;s&#xA;Mac OS.  I will discuss the current status of FreeBSD&amp;#39;s efforts to&#xA;move to an LLVM based tool chain and invite discussion on the current&#xA;state of toolchain options.  If you would like to present on your&#xA;project&amp;#39;s efforts to use emerging BSD toolchain components, please&#xA;contact brooks@FreeBSD.org.&lt;/p&gt;      </description>
+      <persons>
+          <person id="3021">Brooks Davis</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

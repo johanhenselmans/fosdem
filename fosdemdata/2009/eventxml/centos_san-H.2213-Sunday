@@ -1,0 +1,19 @@
+  <event id="47">
+      <start>12:30</start>
+      <duration>00:30</duration>
+      <room>H.2213</room>
+      <slug></slug>
+      <title>Poor Man&#39;s SAN with CentOS and gPXE</title>
+      <subtitle></subtitle>
+      <track>Fedora + CentOS</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;How to boot from an iSCSI LUN.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;CentOS can be installed onto an iSCSI LUN and you can boot from it if your hardware supports it. Usually that means you need an iSCSI HBA or at least some fancy Firmware extensions. However, it can also be done on standard-hardware by exploiting PXE.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="471">Andreas Rogge</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

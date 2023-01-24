@@ -1,0 +1,19 @@
+  <event id="235">
+      <start>13:15</start>
+      <duration>00:30</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>Who can you trust ?</title>
+      <subtitle></subtitle>
+      <track>openSUSE</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The &lt;a href=&#34;http://en.opensuse.org/Build_Service&#34;&gt;openSUSE build service (obs)&lt;/a&gt; offers everyone the opportunity to build packages for many Linux distributions with relatively little effort. Hence the amount of available versions and variants per package is comparatively high.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Therefore we need a powerful but also simple instrument to evaluate these packages, which are immediately available at the openSUSE software portal. A first approach will be an individual rating of developers working with obs.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2351">Marko Jung</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

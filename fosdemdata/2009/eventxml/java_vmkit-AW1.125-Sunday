@@ -1,0 +1,19 @@
+  <event id="163">
+      <start>10:15</start>
+      <duration>00:30</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>VMKit</title>
+      <subtitle></subtitle>
+      <track>Free Java</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The talk will describe &lt;a href=&#34;http://vmkit.llvm.org/&#34;&gt;VMKit&lt;/a&gt;, a Java virtual machine and CLI implementation (.Net is Microsoft&amp;#39;s implementation of the CLI) on top of the LLVM compiler infrastructure.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;It will enlighten the benefits of using a shared compiler infrastructure such as LLVM as well as the current limitations. Finally, the talk will introduce VM experiments happening in the JVM implementation.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1631">Nicolas Geoffray</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

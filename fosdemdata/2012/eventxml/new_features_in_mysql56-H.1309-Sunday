@@ -1,0 +1,19 @@
+  <event id="271">
+      <start>09:10</start>
+      <duration>00:20</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>New Features in MySQL 5.6</title>
+      <subtitle></subtitle>
+      <track>MySQL and Friends Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Many MySQL users have already put MySQL 5.5 in place and soon (2012) MySQL 5.6 will be GA! In this talk we will have a look at the New MySQL 5.6 Features which will come: InnoDB enhancements, Partitioning, Performance Schema and the new even more stable binary logging...&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="2711">Oli Sennhauser</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

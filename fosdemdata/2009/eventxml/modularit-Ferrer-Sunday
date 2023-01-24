@@ -1,0 +1,19 @@
+  <event id="184">
+      <start>11:20</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>ModularIT: virtualiced and distributed modular services architecture</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;1.- Definition of ModularIT&#xA;2.- Description&#xA;2.1.- Technologies involved&#xA;2.2.- Procedures: instalaltion, management, update, etc.&#xA;3.- ModularIT community project&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;ModularIT is a virtuliced and distributed modular services architecture based on free software. This project has been released for the spanish community at the beginning of 2008 and by January 2009 it will be translated to english. Right now it is downloadable and before the end of the year we will begin to develop the project through a public SVN.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;ModularIT is the result of 10 years of hard working from Grupo CPD (www.grupocpd.com) with free software systems and network services. we are a free software companies network from the Canary Islands, Spain. we are interested in presenting the project at FOSDEM.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;You can find more information (only in spanish until december) by clicking these links:&#xA;&lt;/p&gt;&#xA;&lt;p&gt;http://www.modularit.org&#xA;&lt;/p&gt;&#xA;&lt;p&gt;http://www.grupocpd.com/QueHacemos/modularit/PloneArticle_view&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1841">Agustín Benito</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

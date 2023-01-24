@@ -1,0 +1,19 @@
+  <event id="228">
+      <start>09:15</start>
+      <duration>00:45</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>NoSQL for Fun &amp; Profit</title>
+      <subtitle></subtitle>
+      <track>NoSQL</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;An introduction to the NoSQL scene: the subfamilies, the projects, as well as their advantages &amp;amp; drawbacks compared to each other or traditional SQL systems.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;1. 40 years in the desert: yes, the relational model is actually celebrating its &lt;a href=&#34;http://portal.acm.org/citation.cfm?id=362685&#34;&gt;40th birthday&lt;/a&gt; this year. Let&amp;#39;s take an unbiased look about what’s great and not-so-great about it.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;2. A not-so-novel idea: precursors &amp;amp; roots of NoSQL systems from the 70s to the 00s. NoSQL projects are not just defined in opposition to SQL; they come from approaches as old or sometimes older than the relational model itself.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;3. The odd couple family: why those very separate projects, efforts and models have been grouped together under one brand in the public’s mind. Plus, a possible categorization of the sub-families within the movement.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;4. “What&amp;#39;s in a name? That which we call a NoSQL system, by any other name would be as frackin’ sweet”: Obligatory, rapid mention of the controversy around the name and why nobody should care.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;5. SQL vs. NoSQL, Live from... THE THUNDERDOME: a breakdown of where NoSQL sub-families tend to shine (and where SQL should probably be used instead.)&#xA;&lt;/p&gt;&#xA;&lt;p&gt;6. It&amp;#39;s Alive: production examples of NoSQL systems.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;7. (If time allows.) The road ahead: future developments, business development possibilities, missing approaches &amp;amp; projects.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2281">Tim Anglade</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

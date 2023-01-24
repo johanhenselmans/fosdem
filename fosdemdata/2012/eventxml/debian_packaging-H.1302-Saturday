@@ -1,0 +1,21 @@
+  <event id="75">
+      <start>15:00</start>
+      <duration>00:45</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>Debian packaging for beginners</title>
+      <subtitle></subtitle>
+      <track>CrossDistribution Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;An introduction for creating Debian packages.&#xA;The lecture is meant for people who want to package for Debian (or any Debian based distribution) with no prior experience or people during their first steps in packaging.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="751">Lior Kaplan</person>
+      </persons>
+      <links>
+          <link href="http://video.fosdem.org/2012/crossdistro/Debian_packaging_for_beginners.webm">Video recording</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

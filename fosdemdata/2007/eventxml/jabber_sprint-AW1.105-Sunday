@@ -1,0 +1,19 @@
+  <event id="97">
+      <start>10:00</start>
+      <duration>02:30</duration>
+      <room>AW1.105</room>
+      <slug></slug>
+      <title>Jabber Sprint using Twisted</title>
+      <subtitle></subtitle>
+      <track>Jabber</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This short software development spree (sprint) is intended for developers to get acquainted with developing special purpose Jabber clients and server-side components.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;We will use &lt;a href=&#34;http://www.twistedmatrix.com/&#34;&gt;Twisted&lt;/a&gt; to explain several protocol concepts in detail and show how to deal with asynchronous protocol handling.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.twistedmatrix.com/&#34;&gt;Twisted&lt;/a&gt; is an event-driven networking framework written in Python. It excels in writing applications that use one or more networking protocols in an asynchronous fashion, without resorting to multi-threading. Twisted includes implementations of a large number of protocols, among which XMPP.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="971">Ralph Meijer</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

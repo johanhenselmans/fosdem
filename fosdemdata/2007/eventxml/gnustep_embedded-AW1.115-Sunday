@@ -1,0 +1,19 @@
+  <event id="80">
+      <start>11:00</start>
+      <duration>01:00</duration>
+      <room>AW1.115</room>
+      <slug></slug>
+      <title>GNUstep for Embedded Devices</title>
+      <subtitle></subtitle>
+      <track>OpenGroupware + GNUstep</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;GNUstep for Embedded Devices e.g. Zaurus or Mobile Phones&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;The recent announcement of the Apple iPhone - which is reported to use Cocoa for the GUI - has again shown that Objective-C and the OpenSTEP system can really be used in embedded devices.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Topics to cover in this presentation:&#xA;&lt;/p&gt;&lt;ul&gt;&lt;li&gt; why does one want to run GNUstep on embededed devices?&#xA;&lt;/li&gt;&#xA;&lt;li&gt; what is different on embedded devices?&#xA;&lt;/li&gt;&#xA;&lt;li&gt; what is needed to develop applications for embedded devices?&#xA;&lt;/li&gt;&#xA;&lt;li&gt; why is it currently run as a separate project (mySTEP)?&#xA;&lt;/li&gt;&#xA;&lt;li&gt; examples: Sharp Zaurus, Acer n30, Nokia N770, OpenMoko, ...&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA; </description>
+      <persons>
+          <person id="801">Nikolaus Schaller</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

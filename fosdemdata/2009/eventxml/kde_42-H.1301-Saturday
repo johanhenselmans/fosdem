@@ -1,0 +1,19 @@
+  <event id="167">
+      <start>13:30</start>
+      <duration>00:45</duration>
+      <room>H.1301</room>
+      <slug></slug>
+      <title>KDE 42 and you</title>
+      <subtitle></subtitle>
+      <track>KDE</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The answer to life, the universe and everything. We bring you KDE &amp;#34;the answer&amp;#34; 42. After a rather generic introduction to the KDE community and what we do, I present the new features in the latest release of the KDE software suite. What&amp;#39;s done? What&amp;#39;s not? And what will the future bring? If you want to know the answers to these questions, join this talk.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="1671">Jos Poortvliet</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

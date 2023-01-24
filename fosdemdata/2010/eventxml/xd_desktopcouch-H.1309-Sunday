@@ -1,0 +1,19 @@
+  <event id="288">
+      <start>11:45</start>
+      <duration>00:45</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>Make your users happy, &#34;cloudify&#34; your app with desktopcouch</title>
+      <subtitle></subtitle>
+      <track>CrossDesktop</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;There is growing number on devices running Linux and your applications have to adapt to this new environment, using desktopcouch will allow your application to replicate your uses preferences and data over their devices with little development time.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;In this dev-talk you will learn how to use desktopcouch as the data back-end of your software.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The talk will focus on:&#xA;&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Records: What are they and how to work with them and reuse existing ones.&#xA;&lt;/li&gt;&#xA;&lt;li&gt; CRUD operations using desktopcouch.&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Views: A look into views in CouchDb and how are those managed in desktopcouch.&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Use CouchGrid as a way to create TreeView for you UI.&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;All of the above will be described through a practical exercise using python and PyGTK.&#xA;&#xA;  </description>
+      <persons>
+          <person id="2881">Manuel de la Peña</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

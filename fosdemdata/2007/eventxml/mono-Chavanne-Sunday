@@ -1,0 +1,21 @@
+  <event id="152">
+      <start>14:00</start>
+      <duration>00:45</duration>
+      <room>Chavanne</room>
+      <slug></slug>
+      <title>Turbocharging Linux with Mono</title>
+      <subtitle></subtitle>
+      <track>Development and Languages</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;In this talk Miguel will discuss how they are using &lt;a href=&#34;http://www.mono-project.com/Main_Page&#34;&gt;Mono&lt;/a&gt; at Novell to increase the joy of programming and increase their productivity.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;He will also discuss their efforts to assist Windows developers move their software to Linux, what they are providing to those developers today and what is in store for the future.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Miguel shall also showcase some major endorsements of &lt;a href=&#34;http://www.mono-project.com/Main_Page&#34;&gt;Mono&lt;/a&gt;.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1521">Miguel de Icaza</person>
+      </persons>
+      <links>
+          <link href="http://video.fosdem.org/2007/FOSDEM2007-TurboCachingLinuxWithMono.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

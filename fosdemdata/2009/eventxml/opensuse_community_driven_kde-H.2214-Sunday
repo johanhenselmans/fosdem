@@ -1,0 +1,19 @@
+  <event id="226">
+      <start>16:15</start>
+      <duration>00:45</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>Putting the &#39;open&#39; in openSUSE : Community-driven KDE development</title>
+      <subtitle></subtitle>
+      <track>openSUSE</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;KDE, aka &amp;#34;the other desktop&amp;#34;, is very popular in the openSUSE community. The talk will give you an overview about the KDE integration, what is new in KDE and what you will see in the next releases.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="2261">Will Stephenson</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

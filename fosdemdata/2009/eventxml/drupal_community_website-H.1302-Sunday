@@ -1,0 +1,19 @@
+  <event id="68">
+      <start>11:00</start>
+      <duration>00:45</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>Building a Community Website using Drupal</title>
+      <subtitle></subtitle>
+      <track>Drupal</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Jobcircle is a community website for young employed people where knowledge and experiences are being shared, funded by the Dutch trader union &amp;#39;FNV Bondgenoten&amp;#39;. It is a joint talk by developer and customer where the project goal and history are evaluated by the customer and where Niels goes more in-depth on the technical architecture and experiences.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="681">Niels van Mourik</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="283">
+      <start>10:40</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Sinatra: Develop a rational website engine in 10 minutes</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The talk, will try to focus on how to develop a website engine in 10 minutes with Sinatra. Since &amp;#34;Sinatra&amp;#34; it&amp;#39;s a microframework, very simple to use, my intent is to show to the public how simple can be to create a website where the biggest problem is to choose what kind of layout have to be applied and that Sinatra can be used to develop a mid website just separating the all website in micro applications.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Sinatra give a big help to whom want to develop website API&amp;#39;s and simple websites, but Sinatra isnt just simple, is fast, because they dont use any of the complex and sometimes caotic things of Rails and a great DSL (Domain Specific Language) with logic syntax and auto descriptive.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Sinatra is a free and open source web application framework and domain-specific language written in Ruby. It is an alternative to other Ruby web application frameworks such as Ruby on Rails, Merb, Nitro, Camping, and Rango. It is dependent on the Rack web server interface.&#xA;Designed and developed by Blake Mizerany, Sinatra is small and flexible. It does not follow the typical model-view-controller pattern that is seen in other frameworks, such as Ruby on Rails. Instead, Sinatra focuses on &amp;#34;quickly creating web-applications in Ruby with minimal effort&amp;#34;.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2831">Francesco Vollero</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,21 @@
+  <event id="153">
+      <start>12:00</start>
+      <duration>00:45</duration>
+      <room>Chavanne</room>
+      <slug></slug>
+      <title>Mozilla</title>
+      <subtitle></subtitle>
+      <track>Web</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;(details will follow)&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description></description>
+      <persons>
+          <person id="1531">Mike Schroepfer</person>
+      </persons>
+      <links>
+          <link href="http://video.fosdem.org/2007/FOSDEM2007-Mozilla.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

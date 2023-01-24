@@ -1,0 +1,19 @@
+  <event id="386">
+      <start>10:30</start>
+      <duration>00:30</duration>
+      <room>UD2.218A</room>
+      <slug></slug>
+      <title>Tracking Firefox performance via Telemetry</title>
+      <subtitle></subtitle>
+      <track>Mozilla Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Traditionally Mozilla measured Firefox performance with a set of performance tests called Talos. For features not covered by Talos developers benchmarked individual features themselves.&#xA;However, it turns it is extremely difficult to design a representative testsuite. Reproducing performance problems is often harder than fixing them.&#xA;Telemetry is a way to measure Firefox performance &amp;amp; usage in the field. It allows developers to insert lightweight probes and then use them to track how Firefox behaves in the wild. We have been using Telemetry to improve Firefox since version 7. We will soon roll out Telemetry to addon developers so they can benefit from the same infrastructure. This talk will cover how Telemetry is used and the kinds of problems it helped us fix so far.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="3861">Taras Glek</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

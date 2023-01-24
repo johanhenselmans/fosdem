@@ -1,0 +1,20 @@
+  <event id="55">
+      <start>14:00</start>
+      <duration>00:30</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>Distribution collaboration manifesto</title>
+      <subtitle></subtitle>
+      <track>CrossDistro devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The FOSS distribution communities work toward very similar goals: each distribution aims at providing a coherent set of (Free) softwares to their users.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;A good deal of work (and patches!) can be shared across distributions and in part already is. The more we collaborate, among us and with our (common!) upstreams, the more we can improve Free Software as a whole. Sometimes, however, social obstacles get in the way of collaboration: volunteers don&amp;#39;t like each other or each other distro; they might also easily get &amp;#34;religious&amp;#34; about the everlasting question &amp;#34;which is the best distro out there?&amp;#34;.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Understanding &lt;em&gt;why&lt;/em&gt; we should collaborate across distros is the first needed step in improving &lt;em&gt;how&lt;/em&gt; we collaborate.&lt;/p&gt;&#xA;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;p&gt;Would it be useful to establish a &amp;#34;distribution collaboration manifesto&amp;#34; on how we should collaborate across distros and with our upstream?&lt;/p&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;p&gt;On which shared values should such a manifesto be based? At least the following seem to be reasonable goals: (1) avoiding re-inventing the very same wheels in different distros; (2) increase productive communications on topics of shared interest.&lt;/p&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;p&gt;(&amp;#34;Respect&amp;#34; has been proposed, but shouldn&amp;#39;t we rather speak of &amp;#34;software freedom&amp;#34;, &amp;#34;civility&amp;#34;, and &amp;#34;collaboration&amp;#34;?)&lt;/p&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;p&gt;&lt;em&gt;If&lt;/em&gt; the goal of the manifesto is worthwhile, how can we practically work towards it?&lt;/p&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&#xA;&lt;p&gt;We would like to discuss these topics with all distribution which will be attending the distribution mini-conference!&lt;/p&gt;      </description>
+      <persons>
+          <person id="551">Stefano Zacchiroli</person>
+          <person id="552">Jared K. Smith</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

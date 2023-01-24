@@ -1,0 +1,19 @@
+  <event id="115">
+      <start>16:30</start>
+      <duration>00:45</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>Gnome Development Tools</title>
+      <subtitle></subtitle>
+      <track>GNOME</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Misha is a debug-oriented research I.D.E. developed at the Technical University of Crete and published under the GPLv3 license that introduces among other things: syntax-aware navigation, data-displaying and editing, reverse execution, debugging scripting and inter-language evaluation through the integration of its source-level debugger (gdb) with a full-fledged source parser, data visualisation tools and other free software technologies.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Misha, apart from introducing new debugging facilities (that we would also like to see and implement for Anjuta), is a great example of how new innovative widgets and programming interfaces can be implemented on top of the gtk+/pygtk libraries and the gnome platform.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1151">Nick Papoylias</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

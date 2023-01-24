@@ -1,0 +1,19 @@
+  <event id="147">
+      <start>16:30</start>
+      <duration>00:15</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>IcedTea NP Plugin: the next generation Open Source Java Plugin</title>
+      <subtitle></subtitle>
+      <track>Free Java</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Removal of OJI from Gecko has made it necessary to re-write the current IcedTea Plugin. The new IcedTea NP Plugin uses the newer, preferred NPRuntime API. It solves many of the issues surrounding the old plugin.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;This talk will focus on the features of the new plugin, and it&amp;#39;s advantages over the old one.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1471">Deepak Bhole</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

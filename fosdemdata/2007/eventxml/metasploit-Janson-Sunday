@@ -1,0 +1,22 @@
+  <event id="151">
+      <start>11:00</start>
+      <duration>00:45</duration>
+      <room>Janson</room>
+      <slug></slug>
+      <title>Metasploit Framework</title>
+      <subtitle></subtitle>
+      <track>Security</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The &lt;a href=&#34;http://www.metasploit.com/&#34;&gt;Metasploit Framework&lt;/a&gt; is an open-source platform for developing and using exploit code.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;This talk will cover the new features and development resources available in version 3.0 and some of the challenges faced by the project during the development process.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1511">H D Moore</person>
+      </persons>
+      <links>
+          <link href="../../slides/maintracks/metasploit.pdf">Slides (PDF)</link>
+          <link href="http://video.fosdem.org/2007/FOSDEM2007-Metasploit.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

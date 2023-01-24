@@ -1,0 +1,19 @@
+  <event id="187">
+      <start>12:30</start>
+      <duration>00:25</duration>
+      <room>Chavanne</room>
+      <slug></slug>
+      <title>libguestfs - tools for modifying virtual machine disk images</title>
+      <subtitle></subtitle>
+      <track>Virtualization and Cloud Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;libguestfs is a set of tools for accessing and modifying virtual machine (VM) disk images.  You can use this to inject files, resize, rescue, create, view or audit disks.  libguestfs is also a library that you can link to management programs written in C, Perl, Python, Ruby, Java and other languages.  In this talk, Richard Jones will&#xA;introduce the tools and give live demonstrations.  He also talks about how they work behind the scenes.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="1871">Richard Jones</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

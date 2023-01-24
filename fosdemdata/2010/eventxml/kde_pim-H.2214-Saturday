@@ -1,0 +1,19 @@
+  <event id="167">
+      <start>13:45</start>
+      <duration>00:45</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>PIMp My Desktop</title>
+      <subtitle></subtitle>
+      <track>KDE</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;KDE PIM is a suite of applications to manage your personal data.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Paul takes us through the abilities of Kontact and its related applications. He will look at Akonadi the desktop neutral platform used as the backend for much of KDE PIM.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1671">Paul Adams</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

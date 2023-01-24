@@ -1,0 +1,19 @@
+  <event id="415">
+      <start>11:00</start>
+      <duration>00:15</duration>
+      <room>H.2213</room>
+      <slug></slug>
+      <title>Intro: Welcome to XMPP</title>
+      <subtitle></subtitle>
+      <track>Jabber and XMPP Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;A short introduction to the Jabber/XMPP devroom.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="4151">Dave Cridland</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

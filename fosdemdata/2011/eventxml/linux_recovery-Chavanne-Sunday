@@ -1,0 +1,19 @@
+  <event id="173">
+      <start>15:00</start>
+      <duration>00:50</duration>
+      <room>Chavanne</room>
+      <slug></slug>
+      <title>Linux Disaster Recovery as a Service (with rear) </title>
+      <subtitle></subtitle>
+      <track>Cloud Track</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Disasters do happen, big or small, so we better be prepared before these happen.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Commercial Operating Systems ship tools to help you prepare or create images for several years already. However, Linux still lacks a good standard tool delivered with the core system tools (besides tar) to assist with creating a disaster recovery images. As you can image a disaster recovery (DR) exercise is more then just restoring a plain backup.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;In the first part of the presentation we will guide you through the different steps in creating a Linux Disaster Recovery Procedure with Relax and Recover (rear).&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Rear is a modular disaster recovery engine completely written in bash and released under GPL v2 license. Rear can store the details about your systems on hard disks (network, USB, SAN,...) or network (PXE, NFS, CIFS,...) including the complete backup. It also creates a bootable image which you need to recreate your system from scratch. Furthermore, thanks to the modular concept, we can integrate rear with foreign backup solutions (commercial or not) to do the backup and restore part which makes rear very scalable in big enterprises.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;In the second part of the presentation we will explain how to build a Linux Disaster Recovery as a Service with rear-server.&lt;/p&gt;      </description>
+      <persons>
+          <person id="1731">Gratien D&#39;haese</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

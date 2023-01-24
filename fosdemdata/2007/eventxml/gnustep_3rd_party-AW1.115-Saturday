@@ -1,0 +1,19 @@
+  <event id="78">
+      <start>16:00</start>
+      <duration>02:00</duration>
+      <room>AW1.115</room>
+      <slug></slug>
+      <title>3rd Party Solutions within GNUstep</title>
+      <subtitle></subtitle>
+      <track>OpenGroupware + GNUstep</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Developer Workshop: What to do with 3rd Party Solutions within the GNUstep Community?&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;The goal of this workshop is to discuss questions dealing with 3rd party solutions and GNUstep and to summarize the results. At the beginning we may identify projects which seem to reinvent the wheel. Such projects are those implementing add-ons which have been developed before – logging functionality is a good example for this. Also, we may focus projects (re-) implementing GNUstep base functionality, like e.g. mySTEP. Then, having these projects figured out we may elaborate the potential reasons behind.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;By starting to identify reasons for &amp;#34;duplicating&amp;#34; code we may shift the discussion to a different perspective and ask ourself, what GNUstep brings to the application programmer? Especially we may work out the requirements of the “typical” GNUstep application programmer.  Collecting all information, thus bringing the potential reasons for “duplicated” codes, plus the capabilities of and the requirements for GNUstep altogether, we may then find out approaches for the handling of 3rd party solutions within the GNUstep community.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Since this session is meant as a workshop, the abstract presented hereby should be regarded as a collection of hints and all developers are warmly invited to actively participate in the discussion. The session will be moderated and organized by Helge Hess and Oliver Langer.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="781">Oliver Langer</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

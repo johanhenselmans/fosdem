@@ -1,0 +1,21 @@
+  <event id="103">
+      <start>14:00</start>
+      <duration>00:30</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>FLOSSing for Good Legal Hygiene: Stories from the Trenches</title>
+      <subtitle></subtitle>
+      <track>Legal Issues Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The legal structures of free software projects go through phases of&#xA;popularity reminiscent of fashion trends. The early days of free&#xA;software were decentralized and individualistic, partially inspired by&#xA;the &amp;#34;free culture&amp;#34; movements of the &amp;#39;60s. Over time, centralization and&#xA;incorporated non-profit organizations grew popular, parallel with a&#xA;period of time where FLOSS was struggling for recognition as a viable&#xA;alternative to proprietary solutions. As FLOSS crested that wave, and&#xA;won the recognition of the business world, people began to recognize an&#xA;over-proliferation of special-purpose foundations, and the conservancies&#xA;(foundations that host multiple independent projects) came to the fore.&#xA;In the past year we&amp;#39;ve seen a movement back toward decentralized&#xA;individualism, questioning the need of any formal legal structures. The&#xA;fact of the matter is that free software and international law work just&#xA;fine for a whole gamut of legal structures, from the lone individual&#xA;hacker to the largest of incorporated entities. It&amp;#39;s a free choice for&#xA;each project. The important thing is for every project to think through&#xA;their legal strategy. Not just the &amp;#34;What?&amp;#34; (-license? -contribution&#xA;policy? -legal documentation?) but &amp;#34;Why?&amp;#34; (-pick option X over option Y?&#xA;-are we doing this? -do we care?) and &amp;#34;How?&amp;#34; (-can we make this work for&#xA;us? -will this affect our users and developers?).&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="1031">Allison Randal</person>
+      </persons>
+      <links>
+          <link href="644/90_legal_hygiene.pdf">legal_hygiene.pdf (audio)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

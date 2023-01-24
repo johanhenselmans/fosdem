@@ -1,0 +1,21 @@
+  <event id="272">
+      <start>15:00</start>
+      <duration>00:45</duration>
+      <room>Janson</room>
+      <slug></slug>
+      <title>Scaling Facebook with OpenSource tools</title>
+      <subtitle></subtitle>
+      <track>Scalability</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk will give you a better idea of what it takes to scale Facebook.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;From the day that Mark Zuckerberg started building Facebook in his Harvard dorm room in 2004 to today, the site has been built on common open source software such as Linux, Apache, MySQL, and PHP.  Today Facebook reaches over 350 million people per month, is the largest PHP site in the World, and has released major pieces of our infrastructure as open source.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;It&amp;#39;s not possible to scale a site like Facebook simply by sharding your databases, rather we&amp;#39;ve developed and contributed to a series of open source infrastructure technologies.  Some of these projects include Cassandra, Hive, Haystack, memcached, and Scribe, where each focuses on solving a specific problem with Thrift allowing them to communicate across languages.  This talk will give you a better idea of what it takes to scale Facebook, a look into the infrastructure we use to do so, and dive into performance work we&amp;#39;re focused on in order to scale PHP to over 350 billion page views per month.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2721">David Recordon</person>
+      </persons>
+      <links>
+          <link href="http://video.fosdem.org/2010/maintracks/facebook.xvid.avi">Video (DIVX)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

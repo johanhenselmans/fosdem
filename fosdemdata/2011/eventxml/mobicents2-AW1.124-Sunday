@@ -1,0 +1,19 @@
+  <event id="195">
+      <start>10:45</start>
+      <duration>00:40</duration>
+      <room>AW1.124</room>
+      <slug></slug>
+      <title>Mobicents 2.0, The Open Source Java Communication Platform</title>
+      <subtitle></subtitle>
+      <track>Open Source Telephony devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;An Introduction to Mobicents 2.0&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;With the advent of IP Convergence, the latest generation of enterprise and web applications are now integrating seamlessly telecommunications and mobile features to enhance the overall user experience, increase customer retention and generate new sources of revenue. This presentation will show how the Mobicents/JBoss Communications Platform (JBCP) can help you build those true innovative converged applications through its main components, fully integrated into the JBoss Enterpise Application Platform :&lt;/p&gt;&#xA;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;p&gt;JAIN SLEE 1.1 (JSR 240) container : a high-performance, scalable and fault tolerant Service Level Execution Environment designed to support the rapid development of robust telecommunications applications in Java&lt;/p&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;p&gt;SIP Servlets 1.1 (JSR 289) container : a container based model that is an extension of the well understood Servlet model for Telecommunications Over IP applications. It was designed to simplify the development of SIP based applications and convergence with existing or new Java EE applications.&lt;/p&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;p&gt;Media Server (JSR 309) : deliver best-of-breed media gateway functionality to add IVR, Conference,Announcements and recording features to your applications featuring highest quality and allowing you to bridge to the existing legacy phone infrastructure.&lt;/p&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;p&gt;Diameter : A complete stack allowing you to add to your Telco applications some must-have real world features - Authentication, Authorization and Accounting - to add charging features to your applications.&lt;/p&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;p&gt;SIP Presence Server : Provides presence functionalities to SIP-based networks to enhance your application with Buddy Lists, Presence State, Geo-Location, Message typing information, ...&lt;/p&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&#xA;&lt;p&gt;We will also present some examples on how telecoms leverage Mobicents for innovative converged Telco 2.0 applications.&lt;/p&gt;      </description>
+      <persons>
+          <person id="1951">Jean Deruelle</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

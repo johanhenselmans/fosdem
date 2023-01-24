@@ -1,0 +1,19 @@
+  <event id="99">
+      <start>15:00</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>FLOSSMetrics: providing data about FLOSS development</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The talk will show the main results of the FLOSSMetrics project. In particular, it will show how to obtain data about the history of software development of more than 2,000 FLOSS projects, which kind of data it is and how it can  be used, and some results of using it in a research environment.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;FLOSSMetrics is collecting data from the CVS/SVN repos, mailing lists and issue tracking systems of several thousands of FOSS projects, and collecting all of it into a database that is offerered to researchers and others for data mining. See http://melquiades.flossmetrics.org for the data currently been offered. The project will end in August 2009, and more data and more projects are expected in the meantime.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="991">Jesus M. Gonzalez Barahona</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

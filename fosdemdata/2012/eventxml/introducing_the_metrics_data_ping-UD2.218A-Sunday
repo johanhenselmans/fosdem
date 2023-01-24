@@ -1,0 +1,19 @@
+  <event id="166">
+      <start>11:30</start>
+      <duration>00:30</duration>
+      <room>UD2.218A</room>
+      <slug></slug>
+      <title>Introducing the Metrics Data Ping</title>
+      <subtitle></subtitle>
+      <track>Mozilla Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;A General overview of the new data collection module, as well as an explanation of the rationale for adding it.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Mozilla needs to have a clear, data-driven understanding of what using Firefox is like for the majority of our users. This allows us to make decisions about where to prioritize development, investigate new or poorly understood problems, and improve the user experience.  The Metrics Data Ping is a new project to address this need.&lt;/p&gt;      </description>
+      <persons>
+          <person id="1661">Mark Reid</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

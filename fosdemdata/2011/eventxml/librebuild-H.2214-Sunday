@@ -1,0 +1,19 @@
+  <event id="168">
+      <start>16:00</start>
+      <duration>00:30</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>A new build system</title>
+      <subtitle>with added unit testing</subtitle>
+      <track>LibreOffice devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;come and see the new LibreOffice build system, faster, sweeter, simpler.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;The LibreOffice build has been based on an internal, patched version of dmake for a decade. It is time to move on - and the new world is based on GNU make, which gives us lots of important features; in particular, fast incremental building, and all manner of interesting new possibilities.&lt;/p&gt;      </description>
+      <persons>
+          <person id="1681">Björn Michaelsen</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="242">
+      <start>13:00</start>
+      <duration>00:40</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>Org-mode for Emacs</title>
+      <subtitle>your life in plain text</subtitle>
+      <track>GNU devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Org-mode is an Emacs mode for keeping notes, maintaining TODO lists, doing project planning and authoring with a fast and effective plain-text system.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Org-mode is an Emacs mode for keeping notes, maintaining TODO lists, doing project planning and authoring with a fast and effective plain-text system.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;In this talk, I&amp;#39;ll go through existing core features (the organizer, the exporters, the Babel library) and present examples of real use.  I will also list possible contributions (exporters, libraries to interact with online organizers, bug tracking tools, etc.) and mention hard problems to solve, the hardest one being to make Org suitable for collaborative project planning.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Finally, I&amp;#39;ll give an overview of Org&amp;#39;s history and community, with some ideas on how to sustain this great project.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2421">Bastien Guerry</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

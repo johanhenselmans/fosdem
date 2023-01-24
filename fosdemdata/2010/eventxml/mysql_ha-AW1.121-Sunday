@@ -1,0 +1,19 @@
+  <event id="214">
+      <start>15:15</start>
+      <duration>00:30</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>MySQL HA overview</title>
+      <subtitle></subtitle>
+      <track>MySQL</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Database High Availability is often the core component to build a higly available infrastructure.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;This presentation will guide you trough the different options available with their advantages and disadvantages when choosing a method to setup a Highly available MySQL setup.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;We&amp;#39;ll cover MySQL Cluster, MySQL DRBD, MultiMaster based HA setups and different others including a look at how to integrate them with the Operating System.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2141">Kris Buytaert</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

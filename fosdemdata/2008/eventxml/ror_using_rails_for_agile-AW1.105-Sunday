@@ -1,0 +1,20 @@
+  <event id="248">
+      <start>11:00</start>
+      <duration>01:00</duration>
+      <room>AW1.105</room>
+      <slug></slug>
+      <title>Using Rails for agile development of a job site</title>
+      <subtitle></subtitle>
+      <track>Ruby on Rails</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;We will focus on the business and technical aspects of using Rails for a novel job site. What were the risks, how did we reduce them, which choices did we make, how did we develop, what are the results. Which technologies did we use (plug-in&amp;#39;s, databases, full-text search, integration with debian stable, authentication and access control, ...).&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Peter will discuss (from a management viewpoint):&#xA;&lt;/p&gt;&lt;ul&gt;&lt;li&gt; why did I choose Rails for this project&#xA;&lt;/li&gt;&#xA;&lt;li&gt; what where the perceived risks (maturity, scalability, security)&#xA;&lt;/li&gt;&#xA;&lt;li&gt; initial choices made (development methodology, short cycles, integrating early user interactions and feedback)&#xA;&lt;/li&gt;&#xA;&lt;li&gt; details on the full text search&#xA;&lt;/li&gt;&#xA;&lt;li&gt; getting this to run on Debian stable (etch)&#xA;&lt;/li&gt;&#xA;&lt;li&gt; the results&#xA;&lt;/li&gt;&#xA;&lt;li&gt; advise for other projects considering Rails&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;Koen will discuss (from a technical viewpoint):&#xA;&lt;ul&gt;&lt;li&gt; technical architecture of the system&#xA;&lt;/li&gt;&#xA;&lt;li&gt; the development model&#xA;&lt;/li&gt;&#xA;&lt;li&gt; technical challenges and resolutions&#xA;&lt;/li&gt;&#xA;&lt;li&gt; the authentication model&#xA;&lt;/li&gt;&#xA;&lt;li&gt; security&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA; </description>
+      <persons>
+          <person id="2481">Koen Van der Auwera</person>
+          <person id="2482">Peter Vandenabeele</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

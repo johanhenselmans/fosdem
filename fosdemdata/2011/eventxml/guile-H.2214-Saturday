@@ -1,0 +1,19 @@
+  <event id="134">
+      <start>14:00</start>
+      <duration>00:40</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>Dynamic hacking with Guile</title>
+      <subtitle></subtitle>
+      <track>GNU devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Hacking GNU with Guile&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;I&amp;#39;ll start by giving my standard propaganda schtick about guile, and how it can make hacking GNU more like hacking lisp machines. I&amp;#39;ll go on like that for about 15 minutes.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;In the latter 15 minutes I&amp;#39;ll do some live hacking. I think what I&amp;#39;d like to show would be live-hacking a web application through emacs and geiser, in which I show what it&amp;#39;s like to hack on a running application, what it&amp;#39;s like to hack the web in sxml, how to make new bindings to C functions without restarting the process, things like that.&lt;/p&gt;      </description>
+      <persons>
+          <person id="1341">Andy Wingo</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

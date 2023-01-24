@@ -1,0 +1,19 @@
+  <event id="350">
+      <start>13:00</start>
+      <duration>00:55</duration>
+      <room>Chavanne</room>
+      <slug></slug>
+      <title>Ultralightweight Kernel Service Virtualization with Rump Kernels</title>
+      <subtitle></subtitle>
+      <track>Virtualization and Cloud Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Existing virtualization solutions such as Xen, QEMU and usermode operating systems virtualize the entire OS.  While this is useful in a machine room type of use case, it is unnecessarily heavyweight when the interest is in virtualizing only one kernel driver or one kernel service.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;This talk introduces the anykernel architecture and rump kernels, which allow to safely virtualize individual drivers and subsystems from a monolithic kernel. Rump kernels can be used in a variety of different configurations, such as an application library, a microkernel style server, or as a server over the Internet.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;We will go over a number of real world use cases and present results which show that in their application domain rump kernels are faster, smaller and more agile than full OS virtualization technologies.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;The implementation is available in production quality code as part of NetBSD.  A key point of the project is the use of existing drivers from a real OS, i.e. real-world hardened code.&lt;/p&gt;      </description>
+      <persons>
+          <person id="3501">Antti Kantee</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

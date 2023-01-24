@@ -1,0 +1,25 @@
+  <event id="43">
+      <start>11:00</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Powerful tools for Linux C/C++ developers based on Eclipse</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The Eclipse community&amp;#39;s support for C and C++ programmers is continuously improving.  Coupling this support for editing and debugging with integration of existing Linux tools for profiling and analysis gives C and C++ programmers a powerful, one-stop-shop environment.  Valgrind, OProfile, and RPM integration?  This isn&amp;#39;t your grandfather&amp;#39;s Eclipse.  Come see it in action!&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="431">Andrew Overholt</person>
+      </persons>
+      <links>
+          <link href="462/36_FOSDEM2012-Eclipse-CDT.pdf">FOSDEM2012-Eclipse-CDT.pdf (slides)</link>
+          <link href="http://eclipse.org/cdt">Eclipse C/C++ Tools</link>
+          <link href="http://eclipse.org/linuxtools">Eclipse Linux Tools project</link>
+          <link href="http://www.eclipse.org/downloads/packages/eclipse-ide-cc-linux-developers-includes-incubating-components/indigosr1">Easily get started with developing C/C++ with Eclipse on Linux</link>
+          <link href="http://video.fosdem.org/2012/lightningtalks/Powerful_tools_for_Linux_C_C___developers_based_on_Eclipse.webm">Video recording</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

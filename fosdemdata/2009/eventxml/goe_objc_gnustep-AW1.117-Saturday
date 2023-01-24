@@ -1,0 +1,19 @@
+  <event id="122">
+      <start>15:00</start>
+      <duration>01:00</duration>
+      <room>AW1.117</room>
+      <slug></slug>
+      <title>Cross-Platform Objective-C Development using GNUstep</title>
+      <subtitle></subtitle>
+      <track>GNUstep + OpenGroupware + Etoile</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This presentation explores the free tools that the GNUstep project provides for writing cross-platform Objective-C software.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Objective-C is most known for being the language of choice of Apple and being the &amp;#34;native&amp;#34; language for Apple Mac OS X and iPhone development.  Unfortunately, while Objective-C is a fantastic language, the development tools provided by Apple are designed to lock developers into a closed Apple-only environment.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;GNUstep provides an alternative, free implementation of the OpenStep specification (the core Objective-C libraries), largely compatible with the Apple Mac OS X Cocoa implementation, and a number of tools that allow Objective-C software&#xA;to be developed and easily distributed across a number of platforms, including GNU/Linux, *BSD, Apple Mac OS X and Microsoft Windows.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1221">Nicola Pero</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

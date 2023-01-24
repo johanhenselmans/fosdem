@@ -1,0 +1,19 @@
+  <event id="74">
+      <start>13:45</start>
+      <duration>00:45</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>YaST - Future Roadmap</title>
+      <subtitle></subtitle>
+      <track>Distributions</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;&lt;a href=&#34;http://docs.google.com/viewer?url=http://en.opensuse.org/images/b/b0/FOSDEM-2009-YaST.pdf&#34;&gt;At FOSDEM 2009, we presented an overview of YaST&lt;/a&gt; related new developments and where we were heading.&#xA;In this talk we will review the progress made and present the features/ideas that have high priority for the next openSUSE release and areas where we are doing research that will eventually be features in future versions.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;YaST is a powerful installation and system management tool for Linux environments. It is an open source project sponsored and actively developed by Novell, and part of openSUSE Linux since its inception. It has evolved a lot over time, providing single source modules that run in different user interfaces (QT4, GTK2, ncurses and web), as well as scripting language bindings.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="741">Duncan Mac-Vicar Prett</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,22 @@
+  <event id="40">
+      <start>16:00</start>
+      <duration>00:50</duration>
+      <room>K.1.105</room>
+      <slug></slug>
+      <title>Caret and Stick</title>
+      <subtitle>How to motivate your developers and create a healthy community</subtitle>
+      <track>Community Track</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;You&amp;#39;ve got the program, you&amp;#39;ve got the users but how do you make sure your community thrives? An introduction to the research on open source communities when they get more complicated then 2 developers on Github.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Research shows that most OSS projects are done by very small teams. What happens when, instead of having two developers, you have an entire team working on something? What motivates them, and how can you add to that as a community rather then detract from it?&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Beginning with early 2000s theories about the motivation of open-source developers, I&amp;#39;ll move into more complex motivation theories and the complexities of adding paid developers to an open-source project, and how that affects a project&amp;#39;s community.&lt;/p&gt;      </description>
+      <persons>
+          <person id="401">Finne</person>
+      </persons>
+      <links>
+          <link href="403/78_Fosdem.pdf">Fosdem.pdf (slides)</link>
+          <link href="http://video.fosdem.org/2012/maintracks/k.1.105/Caret_and_Stick.webm">Video recording</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

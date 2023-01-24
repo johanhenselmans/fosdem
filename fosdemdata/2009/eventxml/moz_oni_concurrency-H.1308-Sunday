@@ -1,0 +1,19 @@
+  <event id="194">
+      <start>10:30</start>
+      <duration>00:45</duration>
+      <room>H.1308</room>
+      <slug></slug>
+      <title>Oni - Structured Concurrency for JavaScript</title>
+      <subtitle></subtitle>
+      <track>Mozilla</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;In this talk I&amp;#39;ll present the JavaScript &lt;a href=&#34;http://www.croczilla.com/oni&#34;&gt;Oni&lt;/a&gt; library, a set of operators for writing composable concurrent code.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;&lt;a href=&#34;http://www.croczilla.com/oni&#34;&gt;Oni&lt;/a&gt; attempts to restore some modularity to concurrent programs; it offers a &amp;#39;structured&amp;#39; alternative to conventional &amp;#39;unstructured&amp;#39; idioms such as asynchronous callbacks.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1941">Alex Fritze</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

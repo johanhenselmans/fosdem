@@ -1,0 +1,19 @@
+  <event id="220">
+      <start>16:30</start>
+      <duration>00:15</duration>
+      <room>AW1.124</room>
+      <slug></slug>
+      <title>The My.Media.Lite Recommender System Library</title>
+      <subtitle></subtitle>
+      <track>Data Analytics devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;My.Media.Lite is a lightweight, multi-purpose library of recommender system algorithms written in C#.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;My.Media.Lite is a lightweight, multi-purpose library of recommender system algorithms written in C#. It addresses the two most common scenarios in collaborative filtering: - rating prediction (e.g. on a scale of 1 to 5 stars), and - item prediction from implicit feedback (e.g. from clicks or purchase actions). In the talk I will give a short introduction to recommender systems algorithms, explain the features of My.Media.Lite, and briefly demonstrate how to integrate it into your (Python/Ruby/C#) applications. More information about My.Media.Lite can be found here: http://ismll.de/mymedialite&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Level of experience: No prior knowledge about recommender systems or machine learning is necessary, so the talk is also suited to newbies to the field (but not limited to them)&lt;/p&gt;      </description>
+      <persons>
+          <person id="2201">Zeno Gantner</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

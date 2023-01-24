@@ -1,0 +1,19 @@
+  <event id="130">
+      <start>15:00</start>
+      <duration>00:30</duration>
+      <room>AW1.124</room>
+      <slug></slug>
+      <title>FreeBSD 7.0 and beyond</title>
+      <subtitle></subtitle>
+      <track>BSD + PostgreSQL</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;n/a&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description></description>
+      <persons>
+          <person id="1301">Robert Watson</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

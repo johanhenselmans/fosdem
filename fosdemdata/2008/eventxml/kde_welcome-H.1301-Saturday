@@ -1,0 +1,19 @@
+  <event id="167">
+      <start>14:00</start>
+      <duration>00:15</duration>
+      <room>H.1301</room>
+      <slug></slug>
+      <title>Welcome</title>
+      <subtitle></subtitle>
+      <track>KDE</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Welcome to the KDE Developer Room at FOSDEM 2008.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Opening of the KDE Developer Room.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1671">Bart Coppens</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

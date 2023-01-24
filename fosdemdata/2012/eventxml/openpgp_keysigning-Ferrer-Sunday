@@ -1,0 +1,21 @@
+  <event id="298">
+      <start>12:00</start>
+      <duration>00:05</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>OpenPGP keysigning</title>
+      <subtitle></subtitle>
+      <track>Certification</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The key signing event will take place at the main entrance of the H building, near the primary Infodesk. It will be outside, so dress accordingly.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Be sure to bring an official ID and the keylist (of which you verified the checksums).&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="2981">Philip Paeps</person>
+      </persons>
+      <links>
+          <link href="../../keysigning.html">http://fosdem.org/2012/keysigning</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

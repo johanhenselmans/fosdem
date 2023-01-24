@@ -1,0 +1,19 @@
+  <event id="159">
+      <start>10:15</start>
+      <duration>00:45</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>KDE on Windows</title>
+      <subtitle></subtitle>
+      <track>Crossdesktop devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;KDE was started in 1996 as a Unix-only desktop environment and was quickly adopted by major Linux distributions. By 2011, after a decade of work mostly by a handful of heroic and relentless developers, KDE runs natively on Windows and commercial applications are developed on top of it.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;This talk will introduce the origins, people, difficulties faced (build system, compilers, platform differences, third party dependencies), and will show the current status of KDE applications on Windows.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="1591">Pau Garcia i Quiles</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

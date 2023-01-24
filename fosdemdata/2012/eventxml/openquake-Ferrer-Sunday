@@ -1,0 +1,28 @@
+  <event id="300">
+      <start>11:40</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>How we scaled up OpenQuake</title>
+      <subtitle>Partitioning and executing seismic calculation in a compute network</subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Topics: partitioning of large calculations, computation networks, python, celery, rabbitmq, redis&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;The open source OpenQuake seismic calculation engine (http://openquake.org/) is developed and maintained by the GEM foundation (http://www.globalquakemodel.org/) which is a public-private partnership that drives a collaborative effort aimed at developing and deploying tools and resources for earthquake risk assessment worldwide.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Seismic hazard calculations can be massive making it necessary to partition and distribute them across a compute network. The OpenQuake engine (http://openquake.org/) partitions seismic calculation and uses&lt;/p&gt;&#xA;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;celery&lt;/li&gt;&#xA;&lt;li&gt;rabbitmq&lt;/li&gt;&#xA;&lt;li&gt;redis&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&#xA;&lt;p&gt;to push the tasks into the compute network and to collect the results.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;There were a number of lessons learned while scaling up OpenQuake to perform seismic calculation for the whole of Europe and I will touch upon the most important ones.&lt;/p&gt;      </description>
+      <persons>
+          <person id="3001">Muharem Hrnjadovic</person>
+      </persons>
+      <links>
+          <link href="502/62_Scaling-up-openquake-fosdem-2012-02.pdf">Scaling up OpenQuake (slides)</link>
+          <link href="http://openquake.org/">OpenQuake</link>
+          <link href="http://celeryproject.org/">Celery: Distributed Task Queue</link>
+          <link href="http://www.rabbitmq.com/">amqp message broker</link>
+          <link href="http://redis.io/">open source, advanced key-value store</link>
+          <link href="https://github.com/gem/openquake/">OpenQuake code repository</link>
+          <link href="http://www.globalquakemodel.org/">GEM Foundation</link>
+          <link href="http://video.fosdem.org/2012/lightningtalks/How_we_scaled_up_OpenQuake.webm">Video recording</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

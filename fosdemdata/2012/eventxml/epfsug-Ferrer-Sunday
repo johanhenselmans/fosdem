@@ -1,0 +1,24 @@
+  <event id="100">
+      <start>14:00</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>EPFSUG - everybody needs a hacker!</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The European Parliament Free Software User Group (EPFSUG) is currently a 37 person strong user group of staff, assistants, MEPs and supporters from the free software community.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;The mission of EPFSUG is to&#xA;* Assist people interested in using free software in the European Parliament&#xA;* Drive adoption of free software in the European Parliament&amp;#39;s information infrastructure&#xA;* Push for use of open standards, to ensure equal access for citizens using free software&#xA;* Work in cooperation with like-minded groups in Europe and around the world&lt;/p&gt;&#xA;&#xA;&lt;p&gt;This Lightning Talk will make you want to become a supporter too, because everybody needs a hacker to talk to sometimes, in particular the folks who work in the European Parliament!&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;The first public announcement of the European Parliament Free Software User Group (EPFSUG) on 6 February 2010 was made at FOSDEM. Now one year later EPFSUG wants to come back and tell the world what happened, what we do now, and what our plans are.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;We currently constitute 1 patron, 11 members and 25 supporters. We have a website, some mailing lists and a pad.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;EPFSUG is a user group, but it&amp;#39;s complicated. Most members have standard EP office workstations with very little free software running. At the same time, most of EPFSUG&amp;#39;s supporters are hackers and overall very proficient free software users.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;We try to bridge the gap application by application. Our first project for opening up the possibility to use free software in the European Parliament is tmail - a server workaround to let you use your mail with IMAP - and with it new simple ways to have basic email privacy. Our second application is the browser. So far not much has happened in practice on the EP office workstations, but we have at least initiated a dialogue with the EP folks who really decide, and it looks like Firefox will soon be available on the standard EP office workstation. The third big project will of course be word processing, but we have not worked so much on that yet.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;We also come together to talk about free software in society at large (ie. the world outside the EP) so we have had meetings on FreedomBox, ParlTrack, Ubuntu Unity and CiviCRM. The most ambitious presentation so far was probably a hacker perspective on reverse engineering the law making process...&lt;/p&gt;&#xA;&#xA;&lt;p&gt;EPFSUG could grow much more. We want to come to FOSDEM again for the same reason as last year - &amp;#34;The EU Parliament needs your help&amp;#34; - but this time we&amp;#39;ll maybe have a stand with t-shirts and stickers, and a looong to-do-list with stuff to hack :-)&lt;/p&gt;      </description>
+      <persons>
+          <person id="1001">Jonatan Walck</person>
+          <person id="1002">Camilla Bursi</person>
+      </persons>
+      <links>
+          <link href="470/75_EPFSUG-slides.pdf">Slides for the lightning talk (slides)</link>
+          <link href="http://epfsug.eu/">European Parliament Free Software User Group</link>
+          <link href="http://video.fosdem.org/2012/lightningtalks/EPFSUG___everybody_needs_a_hacker_.webm">Video recording</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

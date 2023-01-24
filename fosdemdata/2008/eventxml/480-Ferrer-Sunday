@@ -1,0 +1,22 @@
+  <event id="48">
+      <start>15:40</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Ajatus: offline Ajax-driven P2P CRM app</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The talk will introduce the Ajatus project and application, show how data can be extended and connected by tagging, and how it can be synchronized between multiple users and machines.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Ajatus is an offline Ajax-driven P2P CRM application for free software consultants and web workers. It enables users to manage their billable hours, expenses, meeting notes and contacts in a consistent workstream, and keep those synchronized between multiple machines and with their clients and partners. With replication the data can be carried on trips with a Linux tablet, and kept at the same time accessible over the web.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The Ajatus project is GPLd, community-driven free software project built on CouchDb and jQuery, and managed over a collaborative Git repository. Hackers can extend the system with virtually any language through the RESTful plugin API.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Ajatus can be run on any platform CouchDb/Erlang and a modern web browser is available for. Implementations include Linux and OS X laptops, maemo-based internet tablets and the OLPC.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="481">Jerry Jalava</person>
+      </persons>
+      <links>
+          <link href="http://fosdem.org/2008/slides/lightningtalks/fosdem08_ltalk_ajatus.pdf">Slides (PDF)</link>
+          <link href="http://video.fosdem.org/2008/lightningtalks/FOSDEM2008-ajatus.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

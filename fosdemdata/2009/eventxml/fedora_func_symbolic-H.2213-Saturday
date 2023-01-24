@@ -1,0 +1,20 @@
+  <event id="95">
+      <start>16:00</start>
+      <duration>01:00</duration>
+      <room>H.2213</room>
+      <slug></slug>
+      <title>Func, Symbolic: Present and future</title>
+      <subtitle></subtitle>
+      <track>Fedora + CentOS</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Theory and demo. In the first part will be a short explanation about what are func and symbolic, and (in particular for symbolic) what are future plans. In the second part will be how set-up func and symbolic and hot they work.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="951">Francesco Crippa</person>
+          <person id="952">Luca Foppiano</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

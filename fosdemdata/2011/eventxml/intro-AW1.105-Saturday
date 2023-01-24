@@ -1,0 +1,17 @@
+  <event id="149">
+      <start>13:00</start>
+      <duration>00:15</duration>
+      <room>AW1.105</room>
+      <slug></slug>
+      <title>Devroom setup</title>
+      <subtitle>Introducing the presenters</subtitle>
+      <track>Security &amp; hardware crypto devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Introduction of the schedule for the day and introduction of presenters.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;You get to meet in person the people leading the sessions later in the day and ask a question or two as we set up the tech.&lt;/p&gt;      </description>
+      <persons></persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

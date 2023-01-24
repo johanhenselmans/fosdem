@@ -1,0 +1,19 @@
+  <event id="13">
+      <start>10:00</start>
+      <duration>00:40</duration>
+      <room>AW1.124</room>
+      <slug></slug>
+      <title>Digital PSTN Connectivity with Asterisk</title>
+      <subtitle></subtitle>
+      <track>Open Source Telephony devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;ISDN and SS7 with Asterisk&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;This talk will cover ISDN and SS7 support in Asterisk, including the many new features that have been added to LibPRI in the last couple of years to better support ISDN connectivity in Europe.&lt;/p&gt;      </description>
+      <persons>
+          <person id="131">Jakub Klausa</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

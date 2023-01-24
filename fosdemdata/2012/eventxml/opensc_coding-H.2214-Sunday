@@ -1,0 +1,17 @@
+  <event id="302">
+      <start>10:00</start>
+      <duration>02:00</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>OpenSC codesprint</title>
+      <subtitle></subtitle>
+      <track>Security Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Coding on OpenSC and friends&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons></persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

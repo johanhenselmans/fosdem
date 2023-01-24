@@ -1,0 +1,19 @@
+  <event id="144">
+      <start>13:15</start>
+      <duration>00:30</duration>
+      <room>AY</room>
+      <slug></slug>
+      <title>Packaging Java Software for Debian</title>
+      <subtitle></subtitle>
+      <track>Free Java</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The talk wants to give a brief overview of the current state and recent trends of Java packaging in Debian.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;During the half-hour presentation, topics and issues will be outlined.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Afterwards the Room is free for people to stay and discuss. The aim is, to bring together people from different linux distributions to share experiences together with developers of upstream projects.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;A wiki site is used to collect discussion points beforehand: &lt;a href=&#34;http://wiki.debian.org/Java/DevJam/2010/FosdemProposedTalks/JavaPackaging&#34;&gt;http://wiki.debian.org/Java/DevJam/2010/FosdemProposedTalks/JavaPackaging&lt;/a&gt;&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1441">Thomas Koch</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="307">
+      <start>16:30</start>
+      <duration>00:45</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>Vala? Are you kidding me?? </title>
+      <subtitle></subtitle>
+      <track>Crossdesktop devroom</track>
+      <type></type>
+      <language></language>
+      <abstract></abstract>
+      <description>&#xA;&lt;p&gt;Vala is a programming language that aims to bring modern programming language features to GNOME developers without imposing any additional runtime requirements and without using a different ABI compared to applications and libraries written in C. Although Vala is a very awesome language and have been around for a few years already, people are still either scared of it and/or still think of it as highly unstable. In this talk, the speaker will attempt to alleviate these fears and shed some light on the most useful features of this language by sharing a short summary of his two years&amp;#39; experience with this language. Common pitfalls in the Vala world and ways to avoid them will also be discussed in this talk.&lt;/p&gt;      </description>
+      <persons>
+          <person id="3071">Zeeshan Ali (Khattak)</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

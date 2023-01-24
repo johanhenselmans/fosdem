@@ -1,0 +1,19 @@
+  <event id="169">
+      <start>17:00</start>
+      <duration>00:45</duration>
+      <room>H.1301</room>
+      <slug></slug>
+      <title>Programming is fun with Qt</title>
+      <subtitle></subtitle>
+      <track>KDE</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Want to become a Qt/KDE developer? This talk is an introduction to Qt and KDE application development. It will show the main features of Qt, and explain the Qt way of coding, with useful hints.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="1691">Olivier Goffart</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

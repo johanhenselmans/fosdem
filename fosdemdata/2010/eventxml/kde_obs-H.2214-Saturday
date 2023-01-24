@@ -1,0 +1,19 @@
+  <event id="166">
+      <start>16:45</start>
+      <duration>00:45</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>Spreading KDE with the openSUSE Build Service</title>
+      <subtitle></subtitle>
+      <track>KDE</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The openSUSE build service is used to build and host packages for SUSE and other distributions.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Will will look at what is hosted on the service and how you can add to it.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1661">Will Stephenson</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

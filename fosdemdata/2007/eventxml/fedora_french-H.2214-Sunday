@@ -1,0 +1,21 @@
+  <event id="46">
+      <start>13:00</start>
+      <duration>01:00</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>Organisation of Fedora French Users</title>
+      <subtitle></subtitle>
+      <track>CentOS + Fedora</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Introduction to the local organisation of Fedora French Users&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;The presentation will deal about how a local community is organising itself to promote Fedora locally. As soon as a new team has given itself the appropriate tools to promote Fedora on the web, it was ready to spread the right words about the principles that govern the Fedora Community.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="461">Thomas Canniot</person>
+      </persons>
+      <links>
+          <link href="http://fedoraproject.org/wiki/FUDCon/FUDConBrussels2007?action=AttachFile&amp;do=get&amp;target=intro-fedora.odp">Slides (OOo)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,20 @@
+  <event id="100">
+      <start>09:30</start>
+      <duration>01:00</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>What&#39;s new in Drupal 6</title>
+      <subtitle></subtitle>
+      <track>Drupal</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;What&amp;#39;s new in Drupal 6&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description></description>
+      <persons>
+          <person id="1001">Gabor Hojtsy</person>
+          <person id="1002">Dries Buytaert</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

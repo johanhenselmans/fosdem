@@ -1,0 +1,20 @@
+  <event id="246">
+      <start>12:00</start>
+      <duration>01:00</duration>
+      <room>AW1.105</room>
+      <slug></slug>
+      <title>RESTful best practices</title>
+      <subtitle></subtitle>
+      <track>Ruby on Rails</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;RESTful practices are increasingly being adopted by the web community. They can help architecture a web application in a clean and structured way. However, it is not always evident to apply the RESTful principles. In this talk we will first cover the basics of REST in &lt;a href=&#34;http://www.rubyonrails.com/&#34;&gt;Rails&lt;/a&gt;. Then, we will present some use cases we meet in our projects.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;The whole &lt;a href=&#34;http://www.rubyonrails.com/&#34;&gt;Rails community&lt;/a&gt; is buzzing around REST. Indeed, it has been one of the most significant improvements of Rails since its first release in 2004. Rails made REST easy. However, using the &lt;a href=&#34;http://peepcode.com/products/restful-rails&#34;&gt;RESTful&lt;/a&gt; features of Rails does not mean you will automatically use REST correctly. For many people, this REST thing is not crystal clear yet. In our talk, we will first remind the audience about the REST features of Rails.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Then, we will take a 10,000 feet view to approach the REST architectural concepts. Finally, we will illustrate these abstract concepts by &lt;a href=&#34;http://www.b-simple.de/download/restful_rails_en.pdf&#34;&gt;actual case studies&lt;/a&gt; inspired by our everyday job. We will try to answer some basic questions like:&#xA;&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Why REST?&#xA;&lt;/li&gt;&#xA;&lt;li&gt; What is a resource?&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt; * How does a RESTful URI looks like?&#xA; * What is the relationship between REST and CRUD?&#xA; * How does Rails handle REST?&#xA;&#xA;And some more advanced ones like:&#xA;&lt;ul&gt;&lt;li&gt; How to get a resource in different formats?&#xA;&lt;/li&gt;&#xA;&lt;li&gt; How to create a RESTful wizard?&#xA;&lt;/li&gt;&#xA;&lt;li&gt; How to make my shopping cart RESTful?&#xA;&lt;/li&gt;&#xA;&lt;li&gt; What are the differences between SOA and REST?&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA; </description>
+      <persons>
+          <person id="2461">Nicolas Jacobeus</person>
+          <person id="2462">Jean-Baptiste Escoyez</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

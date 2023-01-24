@@ -1,0 +1,19 @@
+  <event id="29">
+      <start>18:20</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>chicken: Cheney-on-the-MTA</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The talk will describe the implementation technique known as &amp;#34;Cheney-on-the-MTA&amp;#34;, an interesting method of elegantly supporting constant-space tail call optimization, fast allocation, generational garbage collection and fast continuations. This is suitable for any dynamic language but is particularly useful for Scheme, which requires all of these features. The CHICKEN Scheme compiler is to our knowledge the only mature system implementing this strategy.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;CHICKEN is an implementation of the Scheme programming language. It provides a compiler, interpreter, a large collection of extension libraries and a helpful and constantly growing community of dedicated hackers.&lt;/p&gt;      </description>
+      <persons>
+          <person id="291">felix winkelmann</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

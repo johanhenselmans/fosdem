@@ -1,0 +1,19 @@
+  <event id="270">
+      <start>16:30</start>
+      <duration>00:45</duration>
+      <room>AW1.117</room>
+      <slug></slug>
+      <title>Latest progress of Simple WebKit and QuantumSTEP</title>
+      <subtitle></subtitle>
+      <track>World of GNUstep devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The talk will cover two loosely connected areas of recent development. One is about a WebView compatible HTML/CSS/JavaScript Engine written completely in Objective-C to ease maintainance and improvements. This is called &amp;#34;Simple Web Kit&amp;#34; or &amp;#34;Small Web Kit&amp;#34;. The talk will show and explain technical details of the latest developments in HTML and CSS processing. The other part is about QuantumSTEP, a lightweight variant of GNUstep with focus on X11/Linux based Embedded devices. A demonstration will cover MIPS based Netbooks and ARM based smartphones.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;The talk will cover two loosely connected areas of recent development. One is about a WebView compatible HTML/CSS/JavaScript Engine written completely in Objective-C to ease maintainance and improvements. This is called &amp;#34;Simple Web Kit&amp;#34; or &amp;#34;Small Web Kit&amp;#34;. The talk will show and explain technical details of the latest developments in HTML and CSS processing. The other part is about QuantumSTEP, a lightweight variant of GNUstep with focus on X11/Linux based Embedded devices. A demonstration will cover MIPS based Netbooks and ARM based smartphones.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2701">Nikolaus Schaller</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

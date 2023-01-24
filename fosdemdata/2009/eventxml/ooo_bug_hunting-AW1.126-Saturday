@@ -1,0 +1,19 @@
+  <event id="212">
+      <start>18:15</start>
+      <duration>00:30</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>OOo Bug hunting and fixing</title>
+      <subtitle></subtitle>
+      <track>OpenOffice.org</track>
+      <type></type>
+      <language></language>
+      <abstract></abstract>
+      <description></description>
+      <persons>
+          <person id="2121">Jürgen Schmidt</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

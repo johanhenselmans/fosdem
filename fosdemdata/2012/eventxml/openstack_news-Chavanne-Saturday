@@ -1,0 +1,19 @@
+  <event id="304">
+      <start>11:00</start>
+      <duration>00:25</duration>
+      <room>Chavanne</room>
+      <slug></slug>
+      <title>OpenStack News: Last year retrospective</title>
+      <subtitle></subtitle>
+      <track>Virtualization and Cloud Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;OpenStack is a common effort to produce open source software to implement scalable Infrastructure as a Service providers. What happened in the project since FOSDEM 2011 presentation ? This talk will quickly introduce what OpenStack is about and the changes over the last year: Growth, new core projects, continuous integration changes and what&amp;#39;s coming up in the Essex release.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="3041">Thierry Carrez</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="247">
+      <start>18:00</start>
+      <duration>01:00</duration>
+      <room>UA2.114</room>
+      <slug></slug>
+      <title>Clarify technical rumours about PostgreSQL</title>
+      <subtitle></subtitle>
+      <track>BSD + PostgreSQL</track>
+      <type></type>
+      <language></language>
+      <abstract></abstract>
+      <description></description>
+      <persons>
+          <person id="2471">Susanne Ebrecht</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

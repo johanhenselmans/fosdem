@@ -1,0 +1,19 @@
+  <event id="262">
+      <start>15:30</start>
+      <duration>01:00</duration>
+      <room>H.2213</room>
+      <slug></slug>
+      <title>The RadeonHD project</title>
+      <subtitle></subtitle>
+      <track>X.org</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;&lt;a href=&#34;http://wiki.x.org/wiki/radeonhd&#34;&gt;RadeonHD&lt;/a&gt; is the project around the driver for the ATI Radeon R5xx/RS6xx/R6xx video chipsets funded and supported by AMD. This driver is developed by a group of open source developers involving some engineers from SUSE. Since its inception 6 month ago this project has grown rapidly and has acquired a large user community.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;This talk will illustrate some of the &lt;a href=&#34;http://wiki.x.org/wiki/radeonhd&#34;&gt;RadeonHD&lt;/a&gt; projects history, it&amp;#39;s current status, its roadmap and future developments.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="2621">Egbert Eich</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

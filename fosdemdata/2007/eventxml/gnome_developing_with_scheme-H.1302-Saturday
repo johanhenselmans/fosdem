@@ -1,0 +1,19 @@
+  <event id="69">
+      <start>18:15</start>
+      <duration>00:45</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>GNOME apps with Scheme</title>
+      <subtitle></subtitle>
+      <track>GNOME</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;In the course of work on some other projects, Andy managed to make a reasonably comprehensive set of bindings between the GNOME libraries and the Guile dialect of Scheme, &lt;a href=&#34;http://www.gnu.org/software/guile-gnome/&#34;&gt;guile-gnome&lt;/a&gt;. Andy will show people with a curiosity for languages how you can hack GNOME in Scheme. It&amp;#39;s a bit off-beat, and quite refreshing compared to other more well-known languages.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description></description>
+      <persons>
+          <person id="691">Andy Wingo</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

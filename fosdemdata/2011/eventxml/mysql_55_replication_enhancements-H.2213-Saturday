@@ -1,0 +1,19 @@
+  <event id="221">
+      <start>16:30</start>
+      <duration>00:25</duration>
+      <room>H.2213</room>
+      <slug></slug>
+      <title>MySQL 5.5 Replication Enhancements: an overview</title>
+      <subtitle></subtitle>
+      <track>MySQL &amp; friends devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;There have been quite a number of improvements and enhancements to the replication functionality in MySQL 5.5. Starting from the big ones like semisynchronous replication and the replication heartbeat, this talk is taking a closer look at the changes in this area.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;There have been quite a number of improvements and enhancements to the replication functionality in MySQL 5.5. Starting from the big ones like semisynchronous replication and the replication heartbeat, this talk is taking a closer look at the changes in this area.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2211">Lenz Grimmer</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

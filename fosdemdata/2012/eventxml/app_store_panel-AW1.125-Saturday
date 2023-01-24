@@ -1,0 +1,22 @@
+  <event id="13">
+      <start>17:30</start>
+      <duration>00:30</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>Panel on Application Stores</title>
+      <subtitle></subtitle>
+      <track>Legal Issues Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;So-called &amp;#34;app stores&amp;#34; are becoming a popular means of distributing&#xA;software, particularly for mobile devices. However, the rise of app&#xA;stores has been accompanied by tensions with free software/open source&#xA;legal norms. Companies controlling official app distribution channels&#xA;for their platforms typically place restrictive terms on both users&#xA;and developers in ways that may be difficult or impossible to&#xA;harmonize with requirements and expectations around FLOSS&#xA;licensing. Moreover, there is a perception that noncompliance with&#xA;FLOSS licenses is prevalent in app store distribution. This panel will&#xA;explore some of the problems arising out of the intersection between&#xA;app stores and FLOSS, under EU as well as US law, and will discuss&#xA;possible solutions.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="131">Hugo Roy</person>
+          <person id="132">Giovanni Battista Gallus</person>
+          <person id="133">Bradley M. Kuhn</person>
+          <person id="134">Richard Fontana</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

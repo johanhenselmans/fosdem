@@ -1,0 +1,21 @@
+  <event id="126">
+      <start>14:00</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>CCAPI2</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;A lightning talk about CCAPI2, an algorithm trading platform.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;The presentation will create in fifteen minutes a full trade system, that will be backtested against a prerecorded market situation. The outcome of this trading day is then presented and quickly discussed.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;i&gt;About CCAPI2:&lt;/i&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The CCAPI2 is an algorithm trading plattform. With CCAPI2, users can create automated trade systems for trading stocks, futures, commodities and other financial instruments. The project contains forums, documentation, a mailing list and proper release cycles. At this time, seven more or less active developers take care of the 150 downloads per month.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1261">Ulrich Staudinger</person>
+      </persons>
+      <links>
+          <link href="../../slides/lightningtalks/CCAPI2.pdf">Slides (PDF)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

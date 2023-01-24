@@ -1,0 +1,19 @@
+  <event id="1">
+      <start>11:00</start>
+      <duration>00:55</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>Making the printed world accessible: A11y in OCRFeeder</title>
+      <subtitle>A11y in OCRFeeder</subtitle>
+      <track>Accessibility devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Even with all the existing alternatives nowadays a lot of information is&#xA;still printed on paper. OCRFeeder is an application for the GNOME desktop that makes it easier&#xA;to convert document images (scanned documents) into digital/editable&#xA;formats (such as ODT) by using a segmentation algorithm and OCR&#xA;engines. Because of this, OCRFeeder is also a useful tool for the visually&#xA;impaired who can use it together with Orca to be able to convert and&#xA;read printed documents.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Even with all the existing alternatives nowadays a lot of information is&#xA;still printed on paper.&#xA;OCRFeeder is an application for the GNOME desktop that makes it easier&#xA;to convert document images (scanned documents) into digital/editable&#xA;formats (such as ODT) by using a segmentation algorithm and OCR&#xA;engines.&#xA;Because of this, OCRFeeder is also a useful tool for the visually&#xA;impaired who can use it together with Orca to be able to convert and&#xA;read printed documents.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;In the year 2010, the main focus of OCRFeeder&amp;#39;s development was the&#xA;improvement of its accessibility, from the basic UI correction (widgets&amp;#39;&#xA;accessible names, mnemonics, keyboard shortcuts, etc.) to the&#xA;development of new features related to the contents detection and&#xA;processing.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;In this talk I will give an overview of OCRFeeder and present in more&#xA;detail the accessibility work mentioned above.&lt;/p&gt;      </description>
+      <persons>
+          <person id="11">Joaquim Rocha</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

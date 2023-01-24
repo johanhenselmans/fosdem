@@ -1,0 +1,19 @@
+  <event id="136">
+      <start>09:30</start>
+      <duration>00:30</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>Happily hacking LibreOffice</title>
+      <subtitle>A beginners perspective</subtitle>
+      <track>LibreOffice devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;How I got involved in LibreOffice, and the fun it was.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt; Will be sharing some of my fun experiences as a beginner while working towards my first patch, the scope for beginners like me to learn and have fun at the same time in the project, about the abundant encouragement and positive energy from the community and a little bit about the feature I chose to work on.&lt;/p&gt;      </description>
+      <persons>
+          <person id="1361">Surendran Mahendran</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

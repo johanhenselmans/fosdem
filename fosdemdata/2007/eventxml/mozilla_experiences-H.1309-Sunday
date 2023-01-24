@@ -1,0 +1,19 @@
+  <event id="157">
+      <start>09:00</start>
+      <duration>00:45</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>AllPeers: Experiences with Mozilla and Future Plans</title>
+      <subtitle></subtitle>
+      <track>Mozilla</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk will have two parts. In the first part, we discuss the benefits and challenges of building a complex application as a Firefox extension. In the second part, we discuss our future plans, with a specific focus on upcoming features of Mozilla that we are excited about and things that we would like to see added to Mozilla.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;With AllPeers we have faced the unusual challenge of building a relatively large and complex application as a Firefox extension. This means that, unlike projects like Flock and Songbird, we have not been able to change the underlying Mozilla code base when it hasn&amp;#39;t fully met our requirements.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;We discuss some of the specific issues we have faced (thread safety, RDF, encoding issues, integration with third-party libraries, etc.) and the solutions that we found. We also mention some of the main strengths of Firefox as a platform that have helped our project to be a success.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;In the second part of the talk, we go over some of our future plans. This includes adding true support for BitTorrent to Firefox in the short term, a strategy for efficient generation of HTML from a SQL datasource (&amp;#34;Mozilla Server Pages&amp;#34;) and our longer term plan to split AllPeers into two parts: a XULRunner-based engine and a much smaller Firefox extension that will serve as the user interface.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The latter will solve some of the issues we have experienced with hosting the entire application in Firefox and will open the way to layering alternative UIs (such as Internet Explorer) on top of our Mozilla-based engine.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1571">Matthew Gertner</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

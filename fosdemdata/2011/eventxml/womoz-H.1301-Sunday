@@ -1,0 +1,19 @@
+  <event id="320">
+      <start>16:00</start>
+      <duration>00:30</duration>
+      <room>H.1301</room>
+      <slug></slug>
+      <title>WoMoz - Women and Mozilla</title>
+      <subtitle></subtitle>
+      <track>Mozilla devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Update on what&amp;#39;s new with the &amp;#34;Women and Mozilla&amp;#34; project&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;pre&gt;&lt;code&gt;We are a community composed of members from different Open Source projects. We are dedicated to improving women&amp;#39;s visibility and involvement in FLOSS 1) and Mozilla, and to increase the number of women contributors.&#xA;&#xA;Anyone can participate in this project, regardless of sex, age, job, etc.&#xA;&#xA;We are united by the common goal of promoting women&amp;#39;s visibility and involvement in open source communities.&#xA;&#xA;We believe that the Internet, FLOSS projects and computing must remain open and participatory. This also means accessible in the same way to all - women and men alike.&#xA;&#xA;As the Mozilla Manifesto underlines, we believe that all individuals must have the ability to shape their own experiences on the Internet. Let&amp;#39;s give everyone the same opportunity to do so.&#xA;&#xA;We believe solutions should continuously be proposed in order to improve the visibility of all minorities, who for various reasons might not have equal access to computers or the Internet. This project is an example of this, as it aims at ameliorating women&amp;#39;s presence and participation in Mozilla and open source.&#xA;&#xA;We believe Open Source needs more women!&#xA;&lt;/code&gt;&lt;/pre&gt;      </description>
+      <persons>
+          <person id="3201">Delphine Lebédel</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

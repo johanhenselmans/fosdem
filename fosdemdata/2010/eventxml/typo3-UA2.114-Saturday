@@ -1,0 +1,19 @@
+  <event id="281">
+      <start>14:00</start>
+      <duration>02:00</duration>
+      <room>UA2.114</room>
+      <slug></slug>
+      <title>TYPO3 exam session</title>
+      <subtitle></subtitle>
+      <track>Certification</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;TYPO3 exam session&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="2811">Sacha Storz</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

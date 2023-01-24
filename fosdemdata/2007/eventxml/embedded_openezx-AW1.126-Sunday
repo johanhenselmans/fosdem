@@ -1,0 +1,21 @@
+  <event id="36">
+      <start>15:00</start>
+      <duration>01:00</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>OpenEZX</title>
+      <subtitle></subtitle>
+      <track>Embedded</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;&lt;a href=&#34;http://openezx.org/&#34;&gt;OpenEZX&lt;/a&gt;, how to free Motorola linux smartphones.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;ul&gt;&lt;li&gt; Hardware overview about Motorola Linux smartphones. Old phones, current phones and perhaps something about future phones. Hardware similarities between and differences between phones.&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Software overview about the Motorola EZX software.&#xA;&lt;/li&gt;&#xA;&lt;li&gt; The story to get the GPL code from Motorola.&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Introduction OpenEZX / History / Goals&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Bootloader and kernel loading&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Status of the current hardware support. Kernel driver, tools and stuff.&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Future plans of OpenEZX. Especially using of the OpenMoko framework&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA; </description>
+      <persons>
+          <person id="361">Stefan Schmidt</person>
+      </persons>
+      <links>
+          <link href="../../slides/devrooms/embedded/Stefan_Schmidt_OpenEZX.pdf">Slides (PDF)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

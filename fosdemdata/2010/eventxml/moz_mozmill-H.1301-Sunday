@@ -1,0 +1,19 @@
+  <event id="205">
+      <start>10:00</start>
+      <duration>00:30</duration>
+      <room>H.1301</room>
+      <slug></slug>
+      <title>Mozmill</title>
+      <subtitle></subtitle>
+      <track>Mozilla</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Automated functional testing&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="2051">Henrik Skupin</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="103">
+      <start>14:00</start>
+      <duration>01:00</duration>
+      <room>Lameere</room>
+      <slug></slug>
+      <title>Rockbox: open source firmware replacement for music players</title>
+      <subtitle></subtitle>
+      <track>Embedded</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;An overview of &lt;a href=&#34;http://www.rockbox.org/&#34;&gt;Rockbox&lt;/a&gt;, an open source firmware replacement for mp3 players and how we work to reverser engineer portable music consumer electronics devices to put Free Software on them.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="1031">Daniel Stenberg</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

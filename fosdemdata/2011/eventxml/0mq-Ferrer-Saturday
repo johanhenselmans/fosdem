@@ -1,0 +1,19 @@
+  <event id="0">
+      <start>14:40</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>0MQ: Multithreading magic</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Multi-core boxes are becoming mainstream, but software tools are not keeping with the hardware evolution. Classic multithreading programming is complex and error-prone. Systematic solutions, like Erlang programming language, on the other hand are limited to small niches and are hard to use in real-world legacy environments. The talk explains how 0MQ can be used to bring Erlang-style message-based concurrency to any language in literally couple of minutes.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Lightweight messaging library&lt;/p&gt;      </description>
+      <persons>
+          <person id="1">Pieter Hintjens</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

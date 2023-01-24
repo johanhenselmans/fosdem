@@ -1,0 +1,21 @@
+  <event id="238">
+      <start>16:00</start>
+      <duration>00:45</duration>
+      <room>Chavanne</room>
+      <slug></slug>
+      <title>Mozilla Prism</title>
+      <subtitle></subtitle>
+      <track>Web</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;&lt;a href=&#34;http://labs.mozilla.com/2007/10/prism/&#34;&gt;Mozilla Prism&lt;/a&gt; is an application that lets users split web applications out of their browser and run them directly on their desktop.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;People have traditionally used desktop applications, but more and more of them are turning to web applications. Such applications often fit awkwardly into the document-centric interface of web browsers. This talk focuses on Mozilla Prism, an experiment for desktop-enabling web applications, and how the next generation of web APIs increase the capabilities of those applications by adding functionality to the Web itself.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Mark will also highlight some new features in Firefox 3, especially those that help the Mozilla platform become a better web application platform.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="2381">Mark Finkle</person>
+      </persons>
+      <links>
+          <link href="http://video.fosdem.org/2008/maintracks/FOSDEM2008-mozprism.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

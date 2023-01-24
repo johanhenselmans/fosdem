@@ -1,0 +1,21 @@
+  <event id="131">
+      <start>15:40</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>LiVES</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;A lightningtalk and demo about LiVES, an open source Video Editing System.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;The lightning talk will demonstrate the features of LiVES and show how it can be used both by VJ&amp;#39;s and digital video artists to produce eye-catching and spectacular results.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;i&gt;About LiVES:&lt;/i&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;LiVES is a Video Editing System. It allows both realtime and non-realtime manipulation of video and audio. It can be controlled either through the user-friendly interface or remotely over a network. It has the capability of working with almost any video format. It can also be easily extended through a system of plugins, utilising open standards.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1311">Gabriel Finch</person>
+      </persons>
+      <links>
+          <link href="../../slides/lightningtalks/LiVES.pdf">Slides (PDF)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

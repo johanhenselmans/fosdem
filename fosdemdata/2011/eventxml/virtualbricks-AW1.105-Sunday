@@ -1,0 +1,19 @@
+  <event id="311">
+      <start>11:20</start>
+      <duration>00:20</duration>
+      <room>AW1.105</room>
+      <slug></slug>
+      <title>Virtualbricks - a graphical tool for virtual networks management</title>
+      <subtitle></subtitle>
+      <track>New challenges in Virtualization devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Virtualbricks is a free software born just a few weeks ago from the merge between Qemulator and VirtualNetManager. It consists in a GUI written in python and GTK. It provides a centralized interface for the management of Qemu/KVM virtual machines as well as a flexible solution for interconnecting guest and host networks through VDE. The presentation will ocus on the development method being used by the team, give an overview of features that are currently implemented and those that will show up in the next future releases.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="3111">Daniele Lacamera</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

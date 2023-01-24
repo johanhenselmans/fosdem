@@ -1,0 +1,19 @@
+  <event id="347">
+      <start>14:30</start>
+      <duration>00:30</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>Risks vs. Benefits on Copyright Assignment</title>
+      <subtitle></subtitle>
+      <track>Legal Issues Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;A quick analysis of the risks and benefits that copyright assignment&#xA;can bring to the Free Software ecosystem. I&amp;#39;ll take a qualitative look&#xA;at the side-effects of assignment on the diversity of project&#xA;participants, and the knock-on impact that decisions in this area can&#xA;have on the economics of supporting Free Software development. Come and&#xA;find out how you can avoid making a mess of your community for some&#xA;rather dubiuous legal advantages.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="3471">Michael Meeks</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,21 @@
+  <event id="268">
+      <start>11:00</start>
+      <duration>01:00</duration>
+      <room>Lameere</room>
+      <slug></slug>
+      <title>Qt tales from the embedded trenches</title>
+      <subtitle></subtitle>
+      <track>Embedded devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;It is well known that Qt is a multiplatform framework for application development. But how it performs in real world while trying to run fancy applications in devices which the performance is sometimes lacking? What about developing for Symbian while in the linux desktop? Should I write my UI in C++, QML or something else? How to handle multiple resolutions? What if you need a new feature not yet available in last released Qt?&lt;/p&gt;&#xA;&#xA;&lt;p&gt;The purpose of this talk is to share lessons learned by a team that has done 5 different projects in the last 2 years, targeting 3 different operating systems and several mobile devices. Optimization tips for handling tearing, resource loading and network operations will be discussed. Comparing how to write UIs in C++, Qt WRT and QML will be presented. Tricky problems when porting between Symbian X Linux discussed. Sharing the joy and frustration of using Qt Mobility since before it&amp;#39;s first official stable release. When to go with native syscalls and so on.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="2681">Igor Trindade Oliveira</person>
+          <person id="2682">Adenilson  Cavalcanti</person>
+          <person id="2683">Bruno  de Oliveira Abinader</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="192">
+      <start>15:15</start>
+      <duration>01:00</duration>
+      <room>AW1.117</room>
+      <slug></slug>
+      <title>Where&#39;s OOo&#39;s UI abstraction heading for?</title>
+      <subtitle></subtitle>
+      <track>OpenOffice.org</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;A discussion on &lt;a href=&#34;http://gsl.openoffice.org/&#34;&gt;GSL&lt;/a&gt; future plans in light of recent events like the new UI layout effort, Aqua porting issues, and the UNO canvas layer.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;&lt;a href=&#34;http://gsl.openoffice.org/&#34;&gt;OOo&amp;#39;s GSL project&lt;/a&gt;, with its main entity VCL, abstracts the platform GUI into a set of classes and services (for windows, buttons, dialogs, interfaces to render graphics etc.).&#xA;&lt;/p&gt;&#xA;&lt;p&gt;This abstraction has encountered some challenges in the past, the last one being the MacOS Aqua port, because this platform looks and feels significantly different to break quite a few assumptions made.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;For OOo to stay competitive, gsl needs to evolve in several areas, most urgently needed are:&#xA;&lt;/p&gt;&lt;ul&gt;&lt;li&gt; a graphic rendering facility that does antialiasing, supports alpha blending for all operations, can handle sub-pixel coordinates and can be easily mapped to contemporary graphics hardware&#xA;&lt;/li&gt;&#xA;&lt;li&gt; retire the old, pixel-based, fixed dialog designs, in favor of a more descriptive, auto-layouting dialog facility&#xA;&lt;/li&gt;&#xA;&lt;li&gt; not only use the platform look (by having the underlying platform UI subsystem render the buttons), but also the feel - that means, use native platform controls wherever possible&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;The first two points are currently tackled, the former with the XCanvas UNO API, the latter with the XML layout CWS. The last item probably requires the most effort, because large parts of the code rely on specific behaviour of the current, hard-coded VCL control logic.&#xA;&#xA;The talk will present the work already done, give an outlook for the planned enhancements of OOo 3.0, and will sketch a long-term transition plan towards the mentioned goals.&#xA;&#xA; </description>
+      <persons>
+          <person id="1921">Thorsten Behrens</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

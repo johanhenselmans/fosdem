@@ -1,0 +1,20 @@
+  <event id="57">
+      <start>13:30</start>
+      <duration>00:30</duration>
+      <room>H.1308</room>
+      <slug></slug>
+      <title>Distributed Compilation of RPMs</title>
+      <subtitle></subtitle>
+      <track>CrossDistro devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Software packages are steadily increasing in size (lines of code) and many tools do not take advantage of the multi-core paradigm and still only compile on one core.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;This has the effect that a huge increase in compilation time is taking place. Some packages depend on other packages which have to be built beforehand. The easy and time/resource consuming method is to build all packages in a continuous loop and skip failures till everything is finished or do it by hand. The better method is to build the packages in the correct order from the start in only one pass. This implies some analysis beforehand to construct this order. In the talk a tool will be described that does exactly this for rpm packages. After the build order is defined the actual build can take place. On the Operating System level this can include hundreds of rpm and take a very long time. (Days is not unusual) To shorten this, the build process can be separated on numerous machines. Especially compilation jobs can be distributed over a cluster. The icecream distributed compiler is introduced in this talk to enable this. It takes care of the right gcc compiler for the right CPU architectures being used on the nodes, which can be of different Linux distributions (i.e. Debian, SuSE, or something else).  Some complexity is added as the main compilation has to be done in a chroot and this needs to be synchronised. It is also possible to do this in the Cloud by using specific Virtual Machines which will also be described in the talk.  The idea is that in the end we can take a repository of source rpms, process them on a cluster in a highly distributed manor and end up with binary packages&lt;/p&gt;      </description>
+      <persons>
+          <person id="571">Geerd-Dietger Hoffmann</person>
+          <person id="572">Brian Schueler</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

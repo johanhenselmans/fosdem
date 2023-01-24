@@ -1,0 +1,19 @@
+  <event id="106">
+      <start>10:00</start>
+      <duration>01:00</duration>
+      <room>AW1.117</room>
+      <slug></slug>
+      <title>GAP Applications + PRICE</title>
+      <subtitle></subtitle>
+      <track>GNUstep + OpenGroupware + Etoile</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;&lt;a href=&#34;http://www.nongnu.org/gap/&#34;&gt;GAP (GNUstep Application Project)&lt;/a&gt; seeks to develop a comprehensive set of administration and user level tools to make using the GNUstep environment a very pleasant experience. &#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://price.sourceforge.net/&#34;&gt;PRICE (Precision Raster Image Convolution Engine)&lt;/a&gt; is an application that is capable of filtering and processing images.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;ul&gt;&lt;li&gt; Introduction to the GNUstep Application Project (GAP)&#xA;&lt;/li&gt;&#xA;&lt;li&gt; current status and future goals&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Overview on some applications:&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt; * FTP&#xA; * BatteryMonitor&#xA; * LaternaMagica&#xA; * Vespucci&#xA;&lt;ul&gt;&lt;li&gt; PRICE capabilties and architecture&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;  </description>
+      <persons>
+          <person id="1061">Riccardo Mottola</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

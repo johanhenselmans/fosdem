@@ -1,0 +1,19 @@
+  <event id="185">
+      <start>15:00</start>
+      <duration>01:00</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>Mozilla Mobile</title>
+      <subtitle></subtitle>
+      <track>Mozilla</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Mozilla&amp;#39;s Mobile effort has been renewed. Full time staff has been added and work to create a roadmap and technology demonstrations are underway. Come learn about recent progress, and explore how you can get involved in creating a great mobile browser that leverages all the benefits of the Mozilla and Firefox codebase.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description></description>
+      <persons>
+          <person id="1851">Christian Sejersen</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

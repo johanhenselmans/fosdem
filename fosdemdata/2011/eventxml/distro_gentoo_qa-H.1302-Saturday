@@ -1,0 +1,19 @@
+  <event id="67">
+      <start>18:00</start>
+      <duration>01:00</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>Gentoo Q&amp;A session</title>
+      <subtitle></subtitle>
+      <track>CrossDistro devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Do you have anything on your mind related to Gentoo?&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;It can be&#xA;  technical, organizational etc. I will do my best to answer any&#xA;  question the time allows for and there should also be other Gentoo&#xA;  developers around if I am not able to. If you email me topics in&#xA;  advance (to betelgeuse@gentoo.org) I will spend time to research the&#xA;  topic before FOSDEM. As a backup plan in case the community is silent&#xA;  I will present the latest EAPI 4 and possible future technical&#xA;  directions for ebuilds.  If you are interested in joining a Gentoo&#xA;  group dinner the group will come together at the end of the session.&#xA;  Please mail jmbsvicetto@gentoo.org well in advance if you are&#xA;  interested in attending.&lt;/p&gt;      </description>
+      <persons>
+          <person id="671">Petteri Räty</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

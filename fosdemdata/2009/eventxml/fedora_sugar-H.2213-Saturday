@@ -1,0 +1,20 @@
+  <event id="98">
+      <start>17:00</start>
+      <duration>01:00</duration>
+      <room>H.2213</room>
+      <slug></slug>
+      <title>Sugar: what is and why Fedora might care</title>
+      <subtitle></subtitle>
+      <track>Fedora + CentOS</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Introduction to &lt;a href=&#34;http://sugarlabs.org/&#34;&gt;Sugar and SugarLabs&lt;/a&gt;, strategic importance it might have for Fedora and GNOME, and synergy with other projects Fedora cares about.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="981">Greg DeKoenigsberg</person>
+          <person id="982">Tomeu Vizoso</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="154">
+      <start>17:15</start>
+      <duration>00:30</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>OpenGL ES to boost embedded Java</title>
+      <subtitle></subtitle>
+      <track>Free Java</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk will present status and usage of OpenGL ES in the embedded Java world.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;ul&gt;&lt;li&gt; Available OpenGL ES implementations and Java bindings &#xA;&lt;/li&gt;&#xA;&lt;li&gt; Compatibility with existing Java environments &#xA;&lt;/li&gt;&#xA;&lt;li&gt; Application development with OpenGL ES: games and clutter-like user interfaces &#xA;&lt;/li&gt;&#xA;&lt;li&gt; OpenGL ES as backend for graphical libraries (MIDP, LWUIT, AWT)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;  </description>
+      <persons>
+          <person id="1541">Guillaume Legris</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

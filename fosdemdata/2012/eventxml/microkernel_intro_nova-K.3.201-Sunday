@@ -1,0 +1,22 @@
+  <event id="236">
+      <start>09:30</start>
+      <duration>00:30</duration>
+      <room>K.3.201</room>
+      <slug></slug>
+      <title>Introduction to the NOVA kernel API</title>
+      <subtitle></subtitle>
+      <track>Microkernel OS Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The NOVA virtualization architecture is comprised of a&#xA;microhypervisor and a capability-based multiserver userland with a&#xA;specific focus on enabling secure and efficient virtualization using x86&#xA;hardware virtualization extensions (VT-x, VT-d, SR-IOV). It does so by&#xA;moving almost all of the actual &amp;#34;virtualization&amp;#34; into a per-VM userspace&#xA;component that is not in the Trusted Computing Base of other virtual&#xA;machines. This talk will give an overview of NOVA&amp;#39;s unique execution&#xA;model and API with a strong focus on how this enables efficient&#xA;execution of a VMM. Specifically, this talk will cover how tasks and&#xA;threads are realized in NOVA, how communication between threads works,&#xA;how VM exits are handled in NOVA and how this extends to SMP machines.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="2361">Julian Stecklina</person>
+      </persons>
+      <links>
+          <link href="546/92_fosdem-nova.pdf">fosdem-nova.pdf (slides)</link>
+          <link href="http://hypervisor.org/">NOVA Microhypervisor homepage</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,25 @@
+  <event id="19">
+      <start>17:00</start>
+      <duration>01:00</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>Delta Upgrades without rsync</title>
+      <subtitle></subtitle>
+      <track>Debian</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Apt-get me faster: Delta Upgrades without the Rsync&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;In the future, a one-line security update or dist-upgrade should mean a smaller download. Existing technologies such as diff, bsdiff, zsync and&#xA;xdelta reduce the amount of data transferred by detecting similarity between two revisions of a binary or source package.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Current methods are restricted to updates between specific versions (pdiff), require heavy server support (rsync), or are adversely affected by the gzip and bzip2 compression used within Debian packages.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;A generic solution, &amp;#39;apt-sync&amp;#39;, allows updating the contents of a package between any currently installed version, to the latest, in a bandwidth efficient way.  Based on ideas from &amp;#39;zsync&amp;#39;, the existing compression and &amp;#39;dumb&amp;#39; HTTP mirror network are utilised in a backwards compatible manner; with all computation performed by the client.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Early code produced from Google&amp;#39;s SoC is being low-key tested within Ubuntu and is available in the &amp;#39;apt-sync&amp;#39; package, supported by meta-data on &lt;a href=&#34;http://people.ubuntu.com/~mvo/apt-sync&#34;&gt;people.ubuntu.com/~mvo/apt-sync&lt;/a&gt;.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="191">Michael Vogt</person>
+          <person id="192">Paul Sladen</person>
+      </persons>
+      <links>
+          <link href="http://meetings-archive.debian.net/pub/debian-meetings/2007/fosdem/slides/Delta_Upgrades_without_rsync-Michael_Vogt+Paul_Sladen/Sladen-Delta-upgrades.pdf">Slides (PDF)</link>
+          <link href="http://meetings-archive.debian.net/pub/debian-meetings/2007/fosdem/ogg_theora/720x576/Delta_Upgrades_without_rsync-Michael_Vogt+Paul_Sladen.ogg">Video (Ogg/Theora)</link>
+          <link href="http://meetings-archive.debian.net/pub/debian-meetings/2007/fosdem/xvid/Delta_Upgrades_without_rsync-Michael_Vogt+Paul_Sladen_xvid.avi">Video (DIVX)</link>
+          <link href="http://meetings-archive.debian.net/pub/debian-meetings/2007/fosdem/ogg_theora/360x288/Delta_Upgrades_without_rsync-Michael_Vogt+Paul_Sladen.ogg">Video (Ogg/Theora/Low quality)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

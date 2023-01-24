@@ -1,0 +1,21 @@
+  <event id="0">
+      <start>15:00</start>
+      <duration>00:45</duration>
+      <room>Janson</room>
+      <slug></slug>
+      <title>Unicoding With PHP 6</title>
+      <subtitle></subtitle>
+      <track>Languages</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The Unicode support is the #1 feature in &lt;a href=&#34;http://php6dev.blogspot.com/&#34;&gt;PHP 6&lt;/a&gt;. Come to this session and find out what this means for you and how you can take advantage of it.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Don&amp;#39;t be left behind as the software world moves towards language and cultural sensitivity.&#xA;Speaking Unicode is all the rage these days and this session will show what PHP has learned and how easy it will be to work with multilingual text.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;This talk will provide an overview of the most salient features of the Unicode support and illustrate the new internationalization features with a variety of demos on topics such as:&#xA;     * Character set conversion&#xA;     * Text boundary analysis&#xA;     * Working with international dates and calendars&#xA;     * Transliteration and text normalization&#xA;     * Working with character sets and properties&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1">Andrei Zmievski</person>
+      </persons>
+      <links>
+          <link href="http://video.fosdem.org/2008/maintracks/FOSDEM2008-php6.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

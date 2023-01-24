@@ -1,0 +1,22 @@
+  <event id="21">
+      <start>14:20</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Electronic Frontier Foundation</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;EFF monitors and intervenes when your digital freedoms&#xA;are threatened -- whether its free speech online, intellectual property&#xA;balance, or preserving open innovation. Eddan and Erik will talk about&#xA;EFF&amp;#39;s active campaigns in Europe, discuss upcoming policy issues for&#xA;free and open source globally, and share what EFF and you can do about it.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;EFF is a member-supported civil liberties organization that&#xA;has been fighting for digital rights across the world for over 15 years.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="211">Erik Josefsson</person>
+      </persons>
+      <links>
+          <link href="http://fosdem.org/2008/slides/lightningtalks/fosdem08_ltalk_eff.pdf">Slides (PDF)</link>
+          <link href="http://video.fosdem.org/2008/lightningtalks/FOSDEM2008-eff.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

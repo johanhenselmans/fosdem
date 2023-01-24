@@ -1,0 +1,21 @@
+  <event id="89">
+      <start>14:00</start>
+      <duration>00:45</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>Reordering the Debian boot sequence for correctness and speed</title>
+      <subtitle></subtitle>
+      <track>Debian</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;There are subtle bugs in the debian boot and shutdown sequence. They are hard to find, as they normally only affect rare combination of packages, and harder to fix, as they normally require the combined work of several maintainers and changes in several packages.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;One way to find these bugs is to document the dependencies of all init.d scripts, and use this information to check that the ordering is correct.  When such information is available, it is also possible to reorder the boot and shutdown sequence to make sure all dependencies are fulfilled.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;It is also possible to run scripts in parallel, to speed up the boot, when the order they need to run in is known.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;This talk is about how all of this can be done with Debian.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="891">Petter Reinholdtsen</person>
+      </persons>
+      <links>
+          <link href="http://meetings-archive.debian.net/pub/debian-meetings/2008/fosdem/ogg_theora/384x288/Reordering_the_Debian_boot_sequence_for_correctness_and_speed___Petter_Reinholdtsen.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

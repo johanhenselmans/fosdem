@@ -1,0 +1,21 @@
+  <event id="138">
+      <start>16:20</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Nagios Plugins</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;A lightning talk about Nagios Plugins, and how to write one.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Nagios Plugins is the project that creates the core plugins that work with Nagios, the world&amp;#39;s most popular open source monitoring system. Ton Voon explains how these two projects fit together and demonstrates how to write a great plugin in under 8 minutes.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;i&gt;About Nagiosplug:&lt;/i&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Nagios Plugins&amp;#39; mission is to provide the best cross unix plugins for the Nagios monitoring system.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1381">Ton Voon</person>
+      </persons>
+      <links>
+          <link href="../../slides/lightningtalks/NagiosPlugins.pdf">Slides (PDF)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

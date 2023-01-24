@@ -1,0 +1,24 @@
+  <event id="397">
+      <start>15:40</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>vcsh - manage config files in $HOME via fake bare git repositories</title>
+      <subtitle>fake bare git repositories done right</subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;So you have your system set up to work perfectly. But moving to new machines, adding or changing configs etc is hard and takes way too much time. Thus, you hacked up a common CVS/SVN/Git/whatever repository and soft-link into $HOME. There is a better way and it&amp;#39;s called vcsh.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;I will demonstrate, in order:&lt;/p&gt;&#xA;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;the need for config management&lt;/li&gt;&#xA;&lt;li&gt;how fake bare git repos work&lt;/li&gt;&#xA;&lt;li&gt;what vcsh can do&lt;/li&gt;&#xA;&lt;li&gt;show a demo&lt;/li&gt;&#xA;&lt;li&gt;take questions if I have time&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;      </description>
+      <persons>
+          <person id="3971">Richard Hartmann</person>
+      </persons>
+      <links>
+          <link href="503/67_fosdem-2012-vcsh-talk.pdf">Talk slides (slides)</link>
+          <link href="https://github.com/RichiH/vcsh">Source &amp; &#34;home page&#34;</link>
+          <link href="https://github.com/RichiH/talks/blob/slides/2012/fosdem/vcsh/fosdem-2012-vcsh-talk.pdf">Slides</link>
+          <link href="http://video.fosdem.org/2012/lightningtalks/vcsh.webm">Video recording</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

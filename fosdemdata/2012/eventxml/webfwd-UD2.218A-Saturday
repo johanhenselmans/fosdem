@@ -1,0 +1,19 @@
+  <event id="408">
+      <start>18:40</start>
+      <duration>00:20</duration>
+      <room>UD2.218A</room>
+      <slug></slug>
+      <title>WebFWD</title>
+      <subtitle></subtitle>
+      <track>Mozilla Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;WebFWD (&amp;#34;Web Forward&amp;#34;) [https://webfwd.org/] is Mozilla&amp;#39;s Open Innovation program. We support Open Source projects which extend the Web; providing participants with mentorship from industry experts, access to the Mozilla global network, infrastructure and other world-class resources.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;This talk will give some more detail on what types of projects fit in the program, and how you can apply. Innovate with is and help move the Web Forward.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="4081">Brian King</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

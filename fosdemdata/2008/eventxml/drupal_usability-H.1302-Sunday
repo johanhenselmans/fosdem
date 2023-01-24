@@ -1,0 +1,19 @@
+  <event id="108">
+      <start>11:30</start>
+      <duration>01:00</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>Usability and Drupal</title>
+      <subtitle></subtitle>
+      <track>Drupal</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Some Results of the &lt;a href=&#34;http://groups.drupal.org/usability&#34;&gt;Drupal Usability Group&lt;/a&gt; and further Plans&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;At the Drupalcon Barcelona it started: We had a BoF on the Usability of Drupal. A subset of the people involved kept up IRC Meetings ever since. We developed Ideas and marked areas to start with to improve Drupals usability. It feels like a giant task, because a lot and a lot has to be done.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;At DrupalCon Barcelona, the Usability Group saw the light of day. A subset of those involved in Barcelona continued the Usability efforts and Thomas will present where we are at this point, illustrated with mockups, modules and proofs of concept.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1081">Thomas Moseler</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="61">
+      <start>12:00</start>
+      <duration>01:00</duration>
+      <room>K.3.401</room>
+      <slug></slug>
+      <title>Colour Management in Compositors.</title>
+      <subtitle></subtitle>
+      <track>X.org+OpenICC Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Xorg allows compositors to run on efficient GPU hardware. It is possibly to deploy GPUs for low power consumption colour correction of the whole desktop. The talk will introduce in the topic by the CompICC colour server implementation and give a overview about used techniques and concepts. It will try to outline next generation desktop colour management and what is needed to get colour management well supported in graphics servers and deployed by toolkits and applications.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="611">Kai-Uwe Behrmann</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="83">
+      <start>17:00</start>
+      <duration>01:30</duration>
+      <room>Lameere</room>
+      <slug></slug>
+      <title>Building Embedded Linux Systems with PTXdist</title>
+      <subtitle></subtitle>
+      <track>Embedded</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;PTXdist is a &amp;#34;make your own distribution&amp;#34; build system, based on Bash, Kconfig and GNU Make.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Dealing with embedded systems is a complicated thing: you have to take care of toolchains, cross compiling and, in industrial projects, most of all: reproducability and testability.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;PTXdist is a &amp;#34;make your own distribution&amp;#34; build system, based on Bash, Kconfig and GNU Make. Making a root filesystem for a target box can be as easy as &amp;#39;ptxdist go&amp;#39;, but the focus is on &amp;#34;executable documentation&amp;#34;, not distribution. We care about upstream of the managed softare, separate our patches and try to be part of the world domination project by finding bugs in other people&amp;#39;s open source software.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="831">Robert Schwebel</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

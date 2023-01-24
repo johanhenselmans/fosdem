@@ -1,0 +1,21 @@
+  <event id="285">
+      <start>16:15</start>
+      <duration>00:45</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>The Future of Open Web Gaming </title>
+      <subtitle></subtitle>
+      <track>Open Source Game Development Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;In this talk Rob will highlight the key technologies and events that are going to affect open Web game development in the near future. He will also demo some of these new technologies and show how easy it is to share your game and make money from it using the open and distributed Mozilla Labs Apps project.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="2851">Rob Hawkes</person>
+      </persons>
+      <links>
+          <link href="http://www.slideshare.net/robhawkes/open-web-games-with-html5-javascript-11428870">The Future of Open Web Gaming (slides)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

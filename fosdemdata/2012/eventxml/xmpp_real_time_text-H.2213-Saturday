@@ -1,0 +1,19 @@
+  <event id="432">
+      <start>16:30</start>
+      <duration>00:30</duration>
+      <room>H.2213</room>
+      <slug></slug>
+      <title>Applications: Real-Time Text for Smooth and Rapid Communication </title>
+      <subtitle></subtitle>
+      <track>Jabber and XMPP Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Motivations for real-time text in XMPP, the seamless addition of the feature, the protocol in XEP-0301, and its use.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;pre&gt;&lt;code&gt;The presentation describes the functionality of real-time text added&#xA;to the XMPP environment by draft extension XEP-0301.&#xA;By application to both sending and receiving XMPP clients, a more&#xA;fluent conversation by text is achieved, where text is displayed at&#xA;the far end at the rate it is typed by the transmitting party.&#xA;This reduces stress and waiting time in intensive text communication&#xA;situations.   &#xA;&#xA;The extension can be seamlessly applied, so that if it is not&#xA;supported by both ends, the functionality is as plain message based&#xA;XMPP. Therefore introduction can be made gradually.&#xA;In order to not overload servers and networks, the trasmission&#xA;itervals can be kept long, and instead the real-time impression get&#xA;recreated by a feature called &amp;#34;Natural Typing&amp;#34;. &#xA;&#xA;Opportunities for interoperability with real-time text in other&#xA;environments will be explained, and indications given for easy&#xA;integration in other XMPP implementations.&#xA;&#xA;Demonstrations will be made of the RealJabber client, implementing&#xA;the draft as an open source project, managed by the author of the&#xA;XEP-0301 draft, Mark Rejhon.&#xA;&#xA;It is with the experience, need and interest from people with&#xA;communications related disabilities that this extension is&#xA;developed, but it has apparent benefits for all.&#xA;&lt;/code&gt;&lt;/pre&gt;      </description>
+      <persons>
+          <person id="4321">Gunnar Hellström</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

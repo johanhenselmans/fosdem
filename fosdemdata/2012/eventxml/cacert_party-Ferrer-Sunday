@@ -1,0 +1,21 @@
+  <event id="34">
+      <start>12:05</start>
+      <duration>01:55</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>CAcert Assurance Party</title>
+      <subtitle></subtitle>
+      <track>CAcert</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Like previous years, participants can get assurances for their CAcert account to issue certificates valid for two years. For the assurance you will need at least one piece of official goverment-issued photo identification.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;To participate in the CAcert assurance program, you need to register an account on the CAcert website and download the CAcert Certificate Assurance Programme (CAP) form.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;You will need a completed form for every assurance. It is recommended to bring at least ten printed forms with you.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="341">Ulrich Schroeter</person>
+      </persons>
+      <links>
+          <link href="http://www.cacert.org/">CAcert website</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

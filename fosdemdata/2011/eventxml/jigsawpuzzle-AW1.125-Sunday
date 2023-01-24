@@ -1,0 +1,19 @@
+  <event id="154">
+      <start>09:30</start>
+      <duration>00:30</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>The Free Java Jigsaw Puzzle</title>
+      <subtitle></subtitle>
+      <track>Free Java devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The Jigsaw project of OpenJDK aims to take us out of the JAR hell that is imposed by the JVM and associated baggage.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Modern GNU/Linux distributions took us out of dependency hell. Sun liberated Java and the community packaged OpenJDK for Debian, Fedora and other distributions. The Jigsaw project of OpenJDK aims to take us out of the JAR hell that is imposed by the JVM and associated baggage. This talk is an update on efforts to use Jigsaw to match the Java module dependency graph to the Debian package dependency graph for a more intimate, and appropriate, matching of Java to GNU/Linux.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Why is solving this puzzle important? Because many Java applications don&amp;#39;t need things like CORBA, SNMP and XML which currently are part of every Java Runtime Environment. Those applications should not have to pay the price in terms of slower startup time, greater memory footprint and larger (dependent) package space. The Free Software world needs Java to tease apart component modules so that applications can be appropriately refactored and maintained individually.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;While Oracle has deferred Jigsaw until JDK 8 (currently targeted for 2012) Free Java in the form of OpenJDK allows the community to experiment with and understand the value of modularity today.&lt;/p&gt;      </description>
+      <persons>
+          <person id="1541">Tom Marble</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="284">
+      <start>17:00</start>
+      <duration>00:30</duration>
+      <room>UD2.218A</room>
+      <slug></slug>
+      <title>Open Web Documentation aimed at Web Devs</title>
+      <subtitle></subtitle>
+      <track>Mozilla Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;I will describe the technical and social aspects of documenting the Open Web, trying to extract common points applying to any open documentation project. I will present the different kinds of articles expected by the different users, their respective constraints and the solution we chose. I will talk about the accuracy problem and the communication processes. Finally I will speak about the challenges that the Open Web documentation is facing, like contributor motivation, the mobile Internet or new technological opportunities to improve the user experience.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="2841">Jean-Yves Perrier</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

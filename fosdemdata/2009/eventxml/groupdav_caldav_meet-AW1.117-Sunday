@@ -1,0 +1,19 @@
+  <event id="123">
+      <start>14:00</start>
+      <duration>01:00</duration>
+      <room>AW1.117</room>
+      <slug></slug>
+      <title>GroupDAV/CalDAV Implementors Meeting</title>
+      <subtitle></subtitle>
+      <track>GNUstep + OpenGroupware + Etoile</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This is not a talk but a gathering of implementors of WebDAV based groupware protocols.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;CalDAV, CardDAV and GroupDAV are HTTP/REST based client/server protocols for groupware systems. Prior CalDAV, every groupware system invented its own protocols for client/server communication. With CalDAV we finally have found a protocol which actually gets implemented by the majority of FOSS server and client projects.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The GroupDAV/CalDAV implementor meeting attempts to bring to together developers from various groupware systems, including Kontact, Evolution, Mozilla Sunbird/Lightning, OGo, Horde, eGroupware, etc.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Anyone with an interest in Groupware protocols is invited to join and discuss.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1231">Helge Heß</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

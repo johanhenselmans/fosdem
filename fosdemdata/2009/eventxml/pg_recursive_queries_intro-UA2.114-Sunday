@@ -1,0 +1,19 @@
+  <event id="254">
+      <start>14:00</start>
+      <duration>00:30</duration>
+      <room>UA2.114</room>
+      <slug></slug>
+      <title>Introduction to recursive queries</title>
+      <subtitle></subtitle>
+      <track>BSD + PostgreSQL</track>
+      <type></type>
+      <language></language>
+      <abstract></abstract>
+      <description></description>
+      <persons>
+          <person id="2541">Greg Stark</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

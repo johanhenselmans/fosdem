@@ -1,0 +1,19 @@
+  <event id="11">
+      <start>10:00</start>
+      <duration>00:30</duration>
+      <room>K.4.401</room>
+      <slug></slug>
+      <title>Dealing with JVM limitations in Apache Cassandra </title>
+      <subtitle></subtitle>
+      <track>Free Java Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The Cassandra distributed database runs on the JVM, which in many ways&#xA;is a huge productivity boost. However, the more you care about&#xA;performance, the less you can afford to let abstractions like i/o and&#xA;memory management exist as black boxes.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;This talk will cover how Cassandra has gone beyond the interfaces&#xA;provided by the JVM to achieve higher performance in three areas.&#xA;First, how Cassandra uses platform-specific features such as&#xA;posix_fadvise, munmap, and mlock.  Second, how we tune memory&#xA;management to avoid pain points in common garbage collection designs,&#xA;including in OpenJDK. Third, how Cassandra uses the JDK&amp;#39;s&#xA;instrumentation hooks to measure the real size of on-heap structures&#xA;and make better decisions about what to keep in memory without&#xA;error-prone manual adjustments.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="111">Jonathan Ellis</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,22 @@
+  <event id="1">
+      <start>12:00</start>
+      <duration>00:45</duration>
+      <room>Janson</room>
+      <slug></slug>
+      <title>Bacula</title>
+      <subtitle></subtitle>
+      <track>Security</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;&lt;a href=&#34;http://www.bacula.org/&#34;&gt;Bacula&lt;/a&gt; is a Free/Open Source enterprise quality network backup solution.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Kern will give an overview of each of the six &lt;a href=&#34;http://www.bacula.org/&#34;&gt;Bacula&lt;/a&gt; components, how they all work together, and highlights of the functionality offered.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;He will present a few example configuration files then terminate the presentation with a demo of a simple backup and restore followed by a brief look at a web based management tool that presents an overall view of all your backups.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="11">Kern Sibbald</person>
+      </persons>
+      <links>
+          <link href="../../slides/maintracks/bacula.pdf">Slides (PDF)</link>
+          <link href="http://video.fosdem.org/2007/FOSDEM2007-Bacula.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

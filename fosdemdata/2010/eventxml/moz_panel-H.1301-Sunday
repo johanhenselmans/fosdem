@@ -1,0 +1,21 @@
+  <event id="207">
+      <start>16:15</start>
+      <duration>00:45</duration>
+      <room>H.1301</room>
+      <slug></slug>
+      <title>Mozilla Panel Discussion</title>
+      <subtitle></subtitle>
+      <track>Mozilla</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;A discussion on Mozilla&amp;#39;s mission - from Firefox to Drumbeat.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="2071">Tristan Nitot</person>
+          <person id="2072">Mark Surman</person>
+          <person id="2073">Mitchell Baker</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

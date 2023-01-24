@@ -1,0 +1,20 @@
+  <event id="82">
+      <start>09:30</start>
+      <duration>00:45</duration>
+      <room>H.1301</room>
+      <slug></slug>
+      <title>klik on KDE and Gnome - chances and challenges</title>
+      <subtitle></subtitle>
+      <track>CrossDesktop</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;&lt;a href=&#34;http://code.google.com/p/klikclient/&#34;&gt;klik2&lt;/a&gt; will be the first real implementation of the &amp;#39;&amp;#39;&amp;#34;1 application == 1 file&amp;#34;&amp;#39;&amp;#39; concept of applying the idea of virtualization not only to the OS/machine, but also on the level of single (or multiple) applications.&#xA;klik1 was our proof-of-concept that worked out really well in Bash. Today&amp;#39;s klik2 is implemented in Python. (There are more details about the differences in &lt;a href=&#34;http://fosdem.org/2008/interview/kurt+pfeifle+and+simon+peter&#34;&gt;this FOSDEM speaker interview&lt;/a&gt;).&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;klik will be very beneficial &lt;a href=&#34;http://fosdem.org/2008/interview/kurt+pfeifle+and+simon+peter#Virtualization_and_Live_CDs_are_often_used_as_alternatives_for_.27installation.27_these_days._Could_klik_be_the_solution_that_solves_the_traditional_problems.3F&#34;&gt;in various use cases&lt;/a&gt; that span a big range of user types:&#xA;&lt;/p&gt;&#xA;&lt;ul&gt;&lt;li&gt; Grandpa Angus wants to easily run the latest firefox browser without messing with his system&amp;#39;s installation by just clicking on the firefox3.cmg bundle that his grand-daughter sent her by email.&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Developer Benjamin wanting to deploy his nightly builds of coolapp to his team of non-technical contributors so that they can polish documentation, translations, artwork with the real thing running in front of their eyes.&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Company CopyCatCom wanting to deliver their first Linux port of a previously Windows-only application on a CD, where it can be started from without actual &amp;#34;installation&amp;#34; as is known.&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Live CD developer Dave wants to offer an easy way to his users so that they can add more software to the system while it is running -- software that he has no time to package himself.&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;Now that we have the basic concepts working, it is time to also seek the support of developers from the Gnome and the KDE camps to help us solve some of the specific problems we are facing on each of the platforms.&#xA;&#xA;&amp;#39;&amp;#39;&amp;#39;&amp;#39;&amp;#39;Some examples:&amp;#39;&amp;#39;&amp;#39; KDE (3 and 4) in general is highly integrated, and applications are closely linked to many features built deeply of the KDE library system. klik&amp;#39;s application virtualization does seem to run contrary to this pattern, since it &amp;#34;isolates&amp;#34; the application, by encapsulating it into a single file. klik-ified KDE3 applications which include their own documentation sometimes aren&amp;#39;t able to show them via the local system&amp;#39;s KDE Help Center. KDE&amp;#39;s Sycoca (System Configuration Cache) sometimes is re-building too slowly for a klik-ed application; sometimes it seems to not achieve at all what is needed. What is the best way to update KDE and Gnome menus with entries about newly klik-ed applications? What is the best way to update Gnome&amp;#39;s configuration system when a klik-ed app is running?&amp;#39;&amp;#39;&#xA;&#xA; </description>
+      <persons>
+          <person id="821">Simon Peter</person>
+          <person id="822">Kurt Pfeifle</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

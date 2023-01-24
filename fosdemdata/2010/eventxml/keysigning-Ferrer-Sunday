@@ -1,0 +1,20 @@
+  <event id="171">
+      <start>12:00</start>
+      <duration>02:00</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Keysigning Party</title>
+      <subtitle></subtitle>
+      <track>Keysigning</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;GPG/PGP and CAcert keysigning party&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;See &lt;a href=&#34;http://fosdem.org/keysigning&#34;&gt;http://fosdem.org/keysigning&lt;/a&gt; for details.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1711">Ulrich Schroeter</person>
+          <person id="1712">Philip Paeps</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,24 @@
+  <event id="265">
+      <start>17:00</start>
+      <duration>00:50</duration>
+      <room>Janson</room>
+      <slug></slug>
+      <title>Native KVM Tool</title>
+      <subtitle></subtitle>
+      <track>Hypervisors Track</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The goal of the Native Linux KVM Tool is to provide a clean, from-scratch, lightweight&#xA;KVM host tool implementation that can boot Linux guest images with no&#xA;BIOS dependencies and with only the minimal amount of legacy device&#xA;emulation.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;The Native KVM tool was started as a response to Ingo Molnar&amp;#39;s proposal&#xA;about a userspace tool which would sit under the /tools/ directory in the&#xA;kernel tree and be the usermode counterpart of the kernel side KVM&#xA;(the mail &amp;amp; related thread can be found at&#xA;thread.gmane.org/gmane.linux.kernel/962051/focus=962620 )&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Biggest features of the tool are:&#xA;- Zero-config userspace networking for guests that have DHCP enabled&#xA;- SMP support&#xA;- No external BIOS required&#xA;- Experimental GUI support with SDL and VNC&#xA;- Host filesystem access via 9P/virtio&#xA;- Raw image support&#xA;- Host block devices as in-memory copy-on-write guest images on 64-bit hosts&#xA;- PPC64 Support&#xA;- Experimental QCOW2 image support&lt;/p&gt;&#xA;&#xA;&lt;p&gt;The tool was developed over the course of almost two years, and is now&#xA;in a stage where it is ready for merging into the kernel tree.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2651">Sasha Levin</person>
+      </persons>
+      <links>
+          <link href="360/2_2011-forum-native-linux-kvm-tool.pdf">KVM Forum 2011 Presentation (slides)</link>
+          <link href="https://github.com/penberg/linux-kvm">github url</link>
+          <link href="git://github.com/penberg/linux-kvm.git">git tree</link>
+          <link href="http://video.fosdem.org/2012/maintracks/janson/Native_Linux_KVM_Tool.webm">Video recording</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

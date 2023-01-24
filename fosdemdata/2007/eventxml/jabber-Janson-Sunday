@@ -1,0 +1,22 @@
+  <event id="90">
+      <start>15:00</start>
+      <duration>00:45</duration>
+      <room>Janson</room>
+      <slug></slug>
+      <title>Secure Communications with Jabber</title>
+      <subtitle></subtitle>
+      <track>Internet Services</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;In this talk, Peter Saint-Andre will discuss the existing security features of Jabber technologies and how they are being extended to ensure complete privacy of communication over the Internet.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;When you chat with a friend in your living room or a colleague in your office, you expect the conversation to be private. Unfortunately, your online conversations may not be private -- it all depends on what technology you use.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;There are many reasons why Jabber is more secure than existing IM and presence technologies, so Peter will explain those and how they help prevent spam on the Jabber network.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;He will also talk about the Intermediate Certification Authority that Jabber recently launched to issue free digital certificates for Jabber servers.&#xA;Finally he will talk about the end-to-end encryption technology they are developing for complete privacy of instant messaging.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="901">Peter Saint-Andre</person>
+      </persons>
+      <links>
+          <link href="../../slides/maintracks/jabber.pdf">Slides (PDF)</link>
+          <link href="http://video.fosdem.org/2007/FOSDEM2007-SecureCommunicationsWithJabber.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

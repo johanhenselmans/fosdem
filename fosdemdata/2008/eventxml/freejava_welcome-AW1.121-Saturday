@@ -1,0 +1,22 @@
+  <event id="143">
+      <start>14:00</start>
+      <duration>01:00</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>Welcome to the Free Java Meeting - Introductions</title>
+      <subtitle></subtitle>
+      <track>Free Java</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Welcome and introduction to the projects, people and themes that make up the Free Java Meeting at Fosdem.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;After welcoming and introducing the people and projects in the room various people from GNU Classpath, OpenJDK and Sun will look back on the past year and try to look into the future. There will also be a short presentation on the OpenJDK Community Innovator&amp;#39;s Challenge.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1431">Rich Sands</person>
+          <person id="1432">Mark Reinhold</person>
+          <person id="1433">Mark Wielaard</person>
+          <person id="1434">Tom Marble</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

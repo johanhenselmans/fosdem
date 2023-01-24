@@ -1,0 +1,19 @@
+  <event id="156">
+      <start>12:15</start>
+      <duration>00:40</duration>
+      <room>AW1.124</room>
+      <slug></slug>
+      <title>Unifying SIP and Web Worlds with Lua</title>
+      <subtitle></subtitle>
+      <track>Open Source Telephony devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Lua support in Kamailio&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;It is hard to imagine attractive VoIP services without a tight integration with Web world. No matter is called Twitter, Facebook or something else, people will want to combine such services to their telephony network.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Kamailio is able to run embedded Lua applications in a fast and flexible way. With its large set of extensions and performance capabilities, Lua is among perfect programming languages that can be used to blend VoIP and Web in the same real-time communication service. The talk will focus on showing how to develop a Lua application for Kamailio to interact with Web 2.0 networks.&lt;/p&gt;      </description>
+      <persons>
+          <person id="1561">Daniel-Constantin Mierla</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

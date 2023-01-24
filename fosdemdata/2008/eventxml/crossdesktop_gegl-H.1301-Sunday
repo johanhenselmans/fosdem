@@ -1,0 +1,19 @@
+  <event id="80">
+      <start>15:15</start>
+      <duration>00:45</duration>
+      <room>H.1301</room>
+      <slug></slug>
+      <title>GEGL</title>
+      <subtitle></subtitle>
+      <track>CrossDesktop</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;&lt;a href=&#34;http://www.gegl.org/&#34;&gt;GEGL&lt;/a&gt; - the image processing library; not the goat. Cool things done since &lt;a href=&#34;../../../2007/schedule/events/gegl.html&#34;&gt;last year&lt;/a&gt;, experiences and consequences of &lt;a href=&#34;http://www.gimp.org/&#34;&gt;GIMP&lt;/a&gt; integration, and interesting things the developers will be happy when are removed from the to-do list.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description></description>
+      <persons>
+          <person id="801">Øyvind Kolås</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

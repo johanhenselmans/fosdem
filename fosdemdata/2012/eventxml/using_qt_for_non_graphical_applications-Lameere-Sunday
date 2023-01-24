@@ -1,0 +1,21 @@
+  <event id="396">
+      <start>13:00</start>
+      <duration>01:00</duration>
+      <room>Lameere</room>
+      <slug></slug>
+      <title>Using Qt for non-graphical applications</title>
+      <subtitle></subtitle>
+      <track>Embedded Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The Qt framework is best known by most developers as a graphical&#xA;toolkit library, which allows to build graphical interfaces with&#xA;windows, buttons, checkboxes and drop-down lists.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;However, Qt is not limited to graphical application development and&#xA;through this talk, we would like to highlight the multiple features&#xA;that Qt offers to embedded Linux developers developping non-graphical&#xA;applications.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Based on the experience of a real non-graphical application developped&#xA;for a customer, we will detail how Qt has helped integrating features&#xA;such as communication with multiple devices over serial ports,&#xA;communication with a GSM modem, XML parsing, HTTP requests,&#xA;communication with Linux input devices, and more.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="3961">Thomas Petazzoni</person>
+      </persons>
+      <links>
+          <link href="700/132_qt-for-non-graphical-apps.pdf">qt-for-non-graphical-apps.pdf (slides)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

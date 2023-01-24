@@ -1,0 +1,19 @@
+  <event id="285">
+      <start>15:15</start>
+      <duration>00:40</duration>
+      <room>AW1.124</room>
+      <slug></slug>
+      <title>Developing Rich VoIP Applications with SIPSIMPLE SDK</title>
+      <subtitle></subtitle>
+      <track>Open Source Telephony devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;SIPSIMPLE SDK&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;SIPSIMPLE SDK is the heart of Blink SIP client. The library implements audio calls, audio conferencing, MSRP chat and file transfer, XCAP document management, presence...&lt;/p&gt;&#xA;&#xA;&lt;p&gt;The talk will go though the implementation of a simple SIP client using the library with live coding examples.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2851">Saúl Ibarra Corretgé</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

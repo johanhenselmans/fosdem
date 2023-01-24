@@ -1,0 +1,24 @@
+  <event id="270">
+      <start>14:40</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Managing your network with Netmagis</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Netmagis is a network management tool not unlike Netdot but with some original features&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;p&gt;Host and network management : Netmagis features host and network declaration, DNS and DHCP generation. Netmagis shows an interactive address MAP allowing to see free addresses. It also supports IPv6 addresses.&lt;/p&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;p&gt;Network Metrology : Netmagis is a complete plateform which also integrates network equipement polling via SNMP to generate automatically RRD trafic graphs&lt;/p&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;p&gt;Network Configuration and Topology and network equipement configuration collection (with rancid) and analysis to build a graph. From the graph, network maps are derived allowing vizualization of the topology.&lt;/p&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;p&gt;Network modifications : the topology module includes a web interface which the network operator to change the VLAN on an interface of an equipement.&lt;/p&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;p&gt;MAC address association : the polling system also polls equipements regularly to store IP-MAC association and MAC-PORT-VLAN association into a database to track and localize hosts.&lt;/p&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;p&gt;Rights management and delegation : netmagis also possesses a detailed right models allowing delegation of several network management functions.&lt;/p&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;p&gt;License :Netmagis uses a BSD license&lt;/p&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;      </description>
+      <persons>
+          <person id="2701">Jean Benoit</person>
+      </persons>
+      <links>
+          <link href="506/76_netmagis-fosdem2012.odp">Managing your network with Netmagis (slides)</link>
+          <link href="506/77_netmagis-fosdem2012.pdf">Managing your network with Netmagis (PDF version) (slides)</link>
+          <link href="http://netmagis.org/">Project Web site</link>
+          <link href="http://github.com/pdav/netmagis">sources</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

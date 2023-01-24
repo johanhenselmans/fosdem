@@ -1,0 +1,21 @@
+  <event id="264">
+      <start>11:00</start>
+      <duration>01:00</duration>
+      <room>Lameere</room>
+      <slug></slug>
+      <title>NanoBSD and the art of Timekeeping with appliances.</title>
+      <subtitle></subtitle>
+      <track>Embedded Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The time has come to make the switch from embedded Linux to embedded BSD....&#xA;In this talk we will focus on the building of embedded appliances in the BSD world,&#xA;and more specifically on using NanoBSD to create FreeBSD images that run on&#xA;embedded systems.&#xA;In the stock FreeBSD distribution an application (script) called NanoBSD is present&#xA;that takes a configuration file and builds an image for a flash disk which then can be&#xA;used on an embedded system. A short cookbook will be presented on the steps&#xA;needed to actually create the image, and deploy it. Also the in-system upgrading of&#xA;the image will be discussed.&#xA;The use case we will present is an Stratum 0 NTP appliance that serves as network&#xA;time server using GPS with PPS synchronization. This appliance is capable of&#xA;providing highly accurate time service to a network of servers and desktop&#xA;machines, even when disconnected from the internet. The example will use a Soekris&#xA;4501 embedded board and an OEM hockey puck-style GPS device and some tricks to&#xA;use the high-res timing on the board, together with a temperature controlled crystal&#xA;oscillator.&#xA;The contents of talk have previously been published by the presenter in ;login:.&#xA;the USENIX periodical [1]&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="2641">Rudi van Drunen</person>
+      </persons>
+      <links>
+          <link href="697/129_ntp-fosdem.pdf">ntp-fosdem.pdf (slides)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,21 @@
+  <event id="46">
+      <start>14:00</start>
+      <duration>02:00</duration>
+      <room>UA2.114</room>
+      <slug></slug>
+      <title>TYPO3 certification exams</title>
+      <subtitle></subtitle>
+      <track>Certification</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;TYPO3 certification exams. Further details are on &lt;a href=&#34;../../certification/index.html&#34;&gt;the FOSDEM website&lt;/a&gt;&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="461">TYPO3</person>
+      </persons>
+      <links>
+          <link href="../../certification.html">https://fosdem.org/2012/certification</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

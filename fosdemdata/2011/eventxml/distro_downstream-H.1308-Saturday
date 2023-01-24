@@ -1,0 +1,19 @@
+  <event id="62">
+      <start>13:30</start>
+      <duration>00:30</duration>
+      <room>H.1308</room>
+      <slug></slug>
+      <title>How to be a good downstream</title>
+      <subtitle></subtitle>
+      <track>CrossDistro devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Taking a released tarball and packaging it for a distribution is a standard and well understood process for about every distribution package. But there&amp;#39;s more to &amp;#39;packaging than just tinkering with the source: Having good connections to &amp;#39;upstream&amp;#39; makes life easier for both sides in the long run.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Taking a released tarball and packaging it for a distribution is a standard and well understood process for about every distribution package. But there&amp;#39;s more to &amp;#39;packaging than just tinkering with the source: Having good connections to &amp;#39;upstream&amp;#39; makes life easier for both sides in the long run.&lt;/p&gt;      </description>
+      <persons>
+          <person id="621">Thomas Weber</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

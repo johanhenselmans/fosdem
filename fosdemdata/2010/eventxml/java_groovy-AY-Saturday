@@ -1,0 +1,19 @@
+  <event id="146">
+      <start>15:00</start>
+      <duration>00:30</duration>
+      <room>AY</room>
+      <slug></slug>
+      <title>Groovy: the cool side of Java</title>
+      <subtitle></subtitle>
+      <track>Free Java</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The purpose of this talk is to introduce Groovy using a practical approach by showing the differences and the improvements that Groovy bring, compared with an older programming language class.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Since groovy is based on the JVM, it is natural to compare it with Java language.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;We will start from a couple of java classes and we will rewrite it using Groovy and we will see how Groovy removes the ceremony and give a shorter and more understandable code.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;During the talk will be also explained theory concepts around groovy implementations time to time will be faced.&#xA;Despite the topic, this talk is open to java and non-java developers.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1461">Luca Foppiano</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

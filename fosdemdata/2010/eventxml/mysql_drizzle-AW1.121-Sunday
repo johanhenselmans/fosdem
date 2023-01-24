@@ -1,0 +1,19 @@
+  <event id="211">
+      <start>10:45</start>
+      <duration>00:30</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>Drizzle, A MySQL fork for the Web</title>
+      <subtitle></subtitle>
+      <track>MySQL</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The Drizzle project is building a database optimized for Cloud and Net applications.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;It is being designed for massive concurrency on modern multi-cpu/core architecture. The code is originally derived from MySQL. The code has been simplified by removing many of the original features (Stored procedures, triggers, views, some types etc). Other features are being moved from the core to plugins.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2111">David Axmark</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

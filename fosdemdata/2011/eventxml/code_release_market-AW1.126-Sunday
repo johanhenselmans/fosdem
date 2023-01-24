@@ -1,0 +1,19 @@
+  <event id="32">
+      <start>16:20</start>
+      <duration>00:40</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>Code, Release, Market</title>
+      <subtitle>The Art of Growing a Perl Project</subtitle>
+      <track>Perl devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Key points to follow when trying to grow a project from its first release to a mature state.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;What&amp;#39;s important when you start writing a project is not what matters most when the project is widely spread. Each stage in the life of a project has its own priorities, that&amp;#39;s what I&amp;#39;ll try to clarify here.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;We&amp;#39;ll also see a series of tips about code maintenance, marketing actions ans everything that can helps you promote your code and get more contributions.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;As a background, I&amp;#39;ll use the experience of the Dancer project, which has become quite popular and widely used in the CPAN community after two years of development.&lt;/p&gt;      </description>
+      <persons>
+          <person id="321">Alexis Sukrieh</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

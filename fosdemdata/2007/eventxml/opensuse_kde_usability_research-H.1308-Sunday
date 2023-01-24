@@ -1,0 +1,24 @@
+  <event id="173">
+      <start>14:30</start>
+      <duration>01:00</duration>
+      <room>H.1308</room>
+      <slug></slug>
+      <title>Usability research of KDE at openSUSE</title>
+      <subtitle></subtitle>
+      <track>openSUSE</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The KDE team at SUSE has been applying usability research principles to the user interfaces they design.&#xA;This talk presents their research methodology and the resulting applications.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;The Interfaces and Applications team at the SUSE research and development department in Nuremberg, Germany is composed of usability experts and KDE &#xA;developers. The team evaluated the start menus of common desktops including KDE 3.5, the GNOME main menu developed for SUSE Linux Enterprise 10 Desktop &#xA;and Windows Vista Beta 2.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Central to this research is a usability study where about 30 users of different types are divided up into four groups to perform a test cycle with &#xA;three phases:&#xA;&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Questionnaire: user&amp;#39;s habits during use of their commonly used start menu&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Observation: execution of 13 different tasks stored on videotape for later evaluation&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Questionnaire: user&amp;#39;s evaluation of the given start menu (joy of use, suitability to the task, controllability, etc.)&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;This aKademy talk will summarize the findings of these ongoing tests including showing video excerpts.&#xA;&#xA;The whole team then discussed the central functionality that an improved start menu for KDE 4 should have, and with the test results in mind, brain-stormed and produced mockups. For further discussion and testing a prototype, code-named &amp;#39;Kickoff&amp;#39;, was produced and iteratively refined.&#xA;&#xA;To validate this design, a fourth group of users repeated the usability tests with the prototype to get data for a comparison of old and new designs.&#xA;The talk will present major points of the discussion and results and of course will not miss to showcase the current &amp;#39;Kickoff&amp;#39; version.&#xA;&#xA; </description>
+      <persons>
+          <person id="1731">Stephan Binner</person>
+          <person id="1732">Will Stephenson</person>
+      </persons>
+      <links>
+          <link href="http://files.opensuse.org/opensuse/en/b/bb/FOSDEM2007-Usability_Research_for_KDE_at_openSUSE.pdf">Slides (PDF)</link>
+          <link href="http://ftp5.gwdg.de/pub/opensuse/FOSDEM/2007/fosdem2007-15_Usability_research_of_KDE_at_openSUSE-1200.ogg">Video (Ogg/Theora)</link>
+          <link href="http://ftp5.gwdg.de/pub/opensuse/FOSDEM/2007/fosdem2007-15_Usability_research_of_KDE_at_openSUSE-320.ogg">Video (Ogg/Theora/Low quality)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

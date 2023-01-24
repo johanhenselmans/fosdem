@@ -1,0 +1,23 @@
+  <event id="442">
+      <start>16:20</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>The ZIO Framework</title>
+      <subtitle>A modular environment for laboratory I/O</subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The ZIO framework is a novel way to manage laboratory input/output.&#xA;It handles both data and meta-data, and is designed for multi-MB-per&#xA;second I/O in distributed systems.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;ZIO is a framework for high-data-rate I/O.  The basic I/O item is a&#xA;block, made up of data samples and full meta-data information, so&#xA;input can be consumed offline and output cam be prepared in advance.&#xA;The main use cases are waveform generation and distributed&#xA;oscilloscopes, over possibly hundreds of systems spread over several&#xA;kilometers.  Within ZIO, the buffer and the trigger are first-level&#xA;objects, and both input and output have always been supported.  Data&#xA;flow is a pipeline made up of device, trigger and buffer; usually the&#xA;buffer is connected to char devices, but in-kernel users have been&#xA;written with minimal effort.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Code is being developed at http://www.ohwr.org/projects/zio and is&#xA;being submitted to the kernel.&lt;/p&gt;      </description>
+      <persons>
+          <person id="4421">rubini</person>
+      </persons>
+      <links>
+          <link href="483/65_zio.pdf">zio.pdf (slides)</link>
+          <link href="http://www.ohwr.org/projects/zio/wiki">zio project (wiki page)</link>
+          <link href="http://video.fosdem.org/2012/lightningtalks/ZIOFramework.webm">Video recording</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

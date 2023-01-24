@@ -1,0 +1,19 @@
+  <event id="148">
+      <start>12:30</start>
+      <duration>00:30</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>Simplify web application development with JWt</title>
+      <subtitle></subtitle>
+      <track>Free Java</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;JWt is a relatively new Java library for developing interactive web applications that may be deployed within standard Java Servlet containers. JWt 3.1 is a feature-complete pure Java sibling of Wt 3.1, the well known C++ web toolkit which has been around for years.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;This talk will introduce the audience to the basic JWt concepts. You will learn how JWt handles events, how JWt applications are deployed, and why applications written in JWt will be faster and cause less server load than many other frameworks.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Unlike many page-based frameworks, JWt was designed for creating stateful applications that are at the same time highly interactive (leveraging techniques such as AJAX to their fullest) and accessible (supporting plain HTML browsers), using automatic graceful degradation or progressive enhancement.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Come to this talk if you have an interest in doing web application development and prefer a pragmatic approach to developing web user interfaces very much like you have developed desktop user interface (e.g. in Swing).&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1481">Koen Deforche</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

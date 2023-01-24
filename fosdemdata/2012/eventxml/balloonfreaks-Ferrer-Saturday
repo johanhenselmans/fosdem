@@ -1,0 +1,25 @@
+  <event id="21">
+      <start>13:40</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Hacking in the real world: photography from above</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk is about taking pictures from above with a big latex balloon, helium,&#xA;strings, duct tape and CHDK, and making a nice video with the pictures using&#xA;python, GStreamer and OpenCV.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Some friends of mine and I got pretty busy last year on a crazy balloon&#xA;photography project. I want to share that experience, say what worked (helium,&#xA;CHDK, GStreamer)  and what didn&amp;#39;t (crazy kite-balloon ideas, arduino&#xA;connectivity, and some other things, all due to a lack of time). Hopefully,&#xA;that would motivate hackers to get out of their basement and go do cool things&#xA;under the Sun.&lt;/p&gt;      </description>
+      <persons>
+          <person id="211">Guillaume Emont (guijemont)</person>
+      </persons>
+      <links>
+          <link href="488/27_Guillaume_Emont_fosdem2012.tar">Guillaume Emont FOSDEM 2012 (slides)</link>
+          <link href="488/34_Guillaume_Emont_fosdem2012_fallback.pdf">Guillaume Emont fallback pdf slides (slides)</link>
+          <link href="http://balloonfreaks.mooo.com/blog/">The project blog</link>
+          <link href="https://github.com/guijemont/GstStabilizer">Stabilisation code</link>
+          <link href="http://video.fosdem.org/2012/lightningtalks/Hacking_in_the_real_world.webm">Video recording</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

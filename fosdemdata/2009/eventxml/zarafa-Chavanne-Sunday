@@ -1,0 +1,19 @@
+  <event id="301">
+      <start>15:00</start>
+      <duration>01:00</duration>
+      <room>Chavanne</room>
+      <slug></slug>
+      <title>Easy Integration with plugin frameworks for open source Zarafa Groupware and advanced replication</title>
+      <subtitle></subtitle>
+      <track>Collaboration</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The Zarafa webaccess plugin system is aimed at allowing developers to add functionality to the Zarafa webaccess, while not requiring them to modify existing system files inside the core of the Zarafa WebAccess software.&#xA;&lt;/p&gt; &#xA;&lt;p&gt;Zarafa will show how to programm a module and shows the architecture integrations with open source solutions such as Alfresco and Sugarcrm and other community contributions.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;The Zarafa webaccess plugin system is aimed at allowing developers to add functionality to the Zarafa WebAccess, while not requiring them to modify existing system files inside the core of the Zarafa WebAccess software.&#xA;&lt;/p&gt; &#xA;&lt;p&gt;Steve will show how to program a module and shows the architecture integrations with open source solutions such as Alfresco and Sugarcrm and other community contributions.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="3011">Steve Hardy</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

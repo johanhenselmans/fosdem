@@ -1,0 +1,19 @@
+  <event id="238">
+      <start>13:00</start>
+      <duration>00:15</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>Welcome to the openSUSE devroom</title>
+      <subtitle></subtitle>
+      <track>openSUSE</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Welcome to the openSUSE developer room at FOSDEM 2009.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="2381">Martin Lasarsch</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

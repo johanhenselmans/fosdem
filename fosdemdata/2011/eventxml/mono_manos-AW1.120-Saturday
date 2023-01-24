@@ -1,0 +1,19 @@
+  <event id="205">
+      <start>14:00</start>
+      <duration>00:25</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>Manos: web apps for the lazy hacker</title>
+      <subtitle></subtitle>
+      <track>Mono devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Manos: web apps for the lazy hacker&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Web development is a world of its own and the old-school hacker within us tends to be mystified by all these Macbook people talking about weird stuff like Rails, RESTful or NodeJS.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;But have no worries, this talk is for you (who always thought web development wasn&amp;#39;t your cup of tea) and it will walk you through the steps of building a web application using Manos, the easy to use, high performance web application framework that stays out of your way and makes your life ridiculously simple.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Forget about MVC, forget about ASP.NET, we are here to bring the fun of hacking into web development.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2051">Jérémie Laval</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

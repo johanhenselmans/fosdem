@@ -1,0 +1,19 @@
+  <event id="22">
+      <start>12:00</start>
+      <duration>00:45</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>Building systems with autotools and libtool</title>
+      <subtitle></subtitle>
+      <track>BSD</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk is an introduction how to create portable build systems with autotools.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;The speaker will explain the required steps with an example project.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The second part is about why self-made makefiles often are worse than the auto generated ones.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="221">Benny Siegert</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

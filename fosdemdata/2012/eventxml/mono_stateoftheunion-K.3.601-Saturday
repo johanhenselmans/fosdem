@@ -1,0 +1,19 @@
+  <event id="251">
+      <start>12:00</start>
+      <duration>01:00</duration>
+      <room>K.3.601</room>
+      <slug></slug>
+      <title>Mono — State of the Union</title>
+      <subtitle></subtitle>
+      <track>Mono Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The state of the Mono project in the year 2012.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Will give an update on the progress of Mono and the Mono 2.12 release, which is a major release containing a year worth of improving&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="2511">Miguel De Icaza</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,22 @@
+  <event id="419">
+      <start>14:00</start>
+      <duration>00:50</duration>
+      <room>K.1.105</room>
+      <slug></slug>
+      <title>Why the community should welcome Average Jane and Joe</title>
+      <subtitle></subtitle>
+      <track>Community Track</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Clarissa would like to convince &amp;#34;geeks&amp;#34; that they need &amp;#34;normal people&amp;#34;. She wants to convince geeks about what an Average Jane or Joe can bring to FLOSS, because she wants geeks to make some efforts to welcome them.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Indeed, it has been quite difficult for her to enter the community. Difficult, but not impossible! And now, she simply loves FLOSS. So she&amp;#39;d like to explain how Mozillians managed to catch her attention. And which kind of contributions geeks can propose to &amp;#34;normal people&amp;#34; to attract them, and to keep them in the community...&#xA;You&amp;#39;ll see that Average Jane or Joe can be useful ;-)&lt;/p&gt;&#xA;&#xA;&lt;p&gt;She thinks geeks need Average Jane or Joe to understand what the public really wants or needs. It&amp;#39;s the only way to really open up the Web!&lt;/p&gt;&#xA;&#xA;&lt;p&gt;So throughout this talk, she will explain what you can do to attract &amp;#34;normal people&amp;#34;.&lt;/p&gt;      </description>
+      <persons>
+          <person id="4191">Clarista</person>
+      </persons>
+      <links>
+          <link href="555/86_Mr_Geek_and_Mr_Averagehtml.html">Mr_Geek_and_Mr_Average (slides)</link>
+          <link href="http://video.fosdem.org/2012/maintracks/k.1.105/Why_the_community_should_welcome_Average_Jane_and_Joe.webm">Video recording</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

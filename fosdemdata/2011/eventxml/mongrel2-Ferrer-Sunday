@@ -1,0 +1,19 @@
+  <event id="197">
+      <start>15:00</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Mongrel2: Lighting up IPv6</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk is to give a short overview of the mongrel2 project and share the experience gained while adding the IPv6 support.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Mongrel2 is an application, language, and network architecture agnostic web server that focuses on web applications using modern browser technologies.&lt;/p&gt;&#xA;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;p&gt;Language Agnostic with a simple backend protocol supporting Ruby, Ruby through Rack, Python, C++, PHP, Haskell, Common Lisp, Perl, .NET, Clojure, and Lua all written by Mongrel2 fans.&lt;/p&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;p&gt;Modern Browser Friendly designed to handle HTTP, Flash XMLSockets, or WebSockets, Long Polling on the same socket transparently.&lt;/p&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;p&gt;ZeroMQ Enabled as well as HTTP proxy support so it works with what you have already while giving you new super powers.&lt;/p&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;p&gt;Network Architecture Agnostic so you can carve your operations up anyway that reduces costs.&lt;/p&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;p&gt;N:M Messaging Patterns means you can have any N handlers answer to any M browsers arbitrarily, but still easy to do plain request/response.&lt;/p&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;p&gt;Automation Loving Configs that are easily accessible via any programming language with an Model-View-Controller design.&lt;/p&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;p&gt;Modern Internal Design using the Mongrel 1 HTTP parser powering many big companies with a proven security track record, event based I/O, fast coroutines to handle that I/O, and smart reasonable defaults with zero configuration needed usually.&lt;/p&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;p&gt;Documented, Documented, Documented We document everything in a well written manual that shows you how to use every feature.&lt;/p&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;      </description>
+      <persons>
+          <person id="1971">Andrew Yourtchenko</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

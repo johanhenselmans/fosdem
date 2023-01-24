@@ -1,0 +1,19 @@
+  <event id="309">
+      <start>15:00</start>
+      <duration>00:20</duration>
+      <room>AW1.105</room>
+      <slug></slug>
+      <title>View-OS: userland namespaces?</title>
+      <subtitle></subtitle>
+      <track>New challenges in Virtualization devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The View-OS concept is defined as allowing each process to have its own view of its execution environment. For example, each process can have its own view for its file system, networking support, devices, userid, system-name, time, etc.&#xA;A process running in a View-OS machine has its own &amp;#34;namespace&amp;#34; implemented at user level. This approach increases the safety of the system (no need for root access, no need for kernel code), and flexibility (it is possible to support features not included in the kernel).&#xA;Umview and kmview are two implementations of the View-OS concept.&#xA;Technically, umview and kmview are user-level, system-call based, partial, modular, virtual machine monitors. They virtualize a subset of the kernel requests (system calls) depending upon which modules have been loaded and upon which kind of virtualization the user configured.&#xA;Most of the features of chroot/schroot/fakeroot(ng)/fuse/net-namespaces (and many other tools) have been implemented in View-OS modules.&#xA;The talk includes a public demo of some View-OS features (if Murphy permits).&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="3091">Renzo Davoli</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

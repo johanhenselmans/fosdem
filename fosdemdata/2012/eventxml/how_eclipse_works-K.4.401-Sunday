@@ -1,0 +1,19 @@
+  <event id="146">
+      <start>12:00</start>
+      <duration>00:30</duration>
+      <room>K.4.401</room>
+      <slug></slug>
+      <title>How Eclipse Works</title>
+      <subtitle></subtitle>
+      <track>Free Java Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;By any measure, Eclipse has been a very successful open source community, and it has certainly contributed immensely to the worldwide success of Java. It has also been for many years, one of best examples of a vendor-neutral, free Java community.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;But there is one thing in particular that sets Eclipse apart: it ALWAYS ships on time. For eight straight years, the Eclipse community has shipped its major release on time to the day. How the heck does that work? This talk will focus on the processes, community interactions, and most importantly, the cultural aspects of Eclipse that makes this possible. The not-so-subliminal message is that OpenJDK would be well served to emulate Eclipse in its predictability.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="1461">Mike Milinkovich</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

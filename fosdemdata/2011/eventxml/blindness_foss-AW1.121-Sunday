@@ -1,0 +1,19 @@
+  <event id="20">
+      <start>09:00</start>
+      <duration>00:55</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>How does a blind person see a computer with free solutions?</title>
+      <subtitle></subtitle>
+      <track>Accessibility devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The Free Software knew about 2 years ago 2 big revolutions:&#xA;Ubuntu which made Linux known by people outside the community of&#xA;computer-like, and development of graphical and accessibility solutions.&#xA;If commercial software are very used today, it&amp;#39;s because Free software&#xA;didn&amp;#39;t provide very credible friendly solutions until recently for a&#xA;large public.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;The Free Software knew about 2 years ago 2 big revolutions:&#xA;Ubuntu which made Linux known by people outside the community of&#xA;computer-like, and development of graphical and accessibility solutions.&#xA;If commercial software are very used today, it&amp;#39;s because Free software&#xA;didn&amp;#39;t provide very credible friendly solutions until recently for a&#xA;large public.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;With solutions which have been developped for 2 years about,&#xA;accessibility becomes interesting issue in developping software: help&#xA;Free assistive technologies projects (in Python, in the kernel&#xA;Linux...), make the work of such software easier in one&amp;#39;s software,&#xA;internationalizing software. For this, it&amp;#39;s useful knowing how work&#xA;assistive technologies, how some users see applications, and where&#xA;finding help, testers, feedbacks, about accessibility/translation of his&#xA;software or projects to join. If free software becomes accessible, it&#xA;can be used by impaired people and become universal, useful for its&#xA;promotion.&lt;/p&gt;      </description>
+      <persons>
+          <person id="201">Jean-Philippe Mengual</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

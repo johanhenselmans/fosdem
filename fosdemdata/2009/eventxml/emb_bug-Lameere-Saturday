@@ -1,0 +1,19 @@
+  <event id="76">
+      <start>16:00</start>
+      <duration>01:00</duration>
+      <room>Lameere</room>
+      <slug></slug>
+      <title>Hacking with modular hardware: the BUG</title>
+      <subtitle></subtitle>
+      <track>Embedded</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;&lt;a href=&#34;http://buglabs.net/&#34;&gt;BUG&lt;/a&gt; is a device that takes the concept of a standard PC, turns it inside out, and makes it fit in your hand.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Using open source hardware and software, applications can be created with previously non-existent device configurations.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;This talk will discuss the BUG platform in general, and our use of OpenEmbedded and Poky Linux. No proprietary or commercial tools, drivers, or applications are used. If there is interest we may also get into some application development and show some existing apps.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;More information on BUG is available at &lt;a href=&#34;_i_buglabs.html&#34;&gt;http:buglabs.net&lt;/a&gt;.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Also giving away two BUGS in the devroom.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="761">Ken Gilmer</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

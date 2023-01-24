@@ -1,0 +1,19 @@
+  <event id="142">
+      <start>13:15</start>
+      <duration>00:30</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>The ARM Optimised Interpreter and Thumb2 JIT</title>
+      <subtitle></subtitle>
+      <track>Free Java</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The ARM architecture in constrained devices such as smartphones and low end netbooks presents unique challenges for the VM writer. The ARM Optimised Interpreter delivers performance improvement of up to five times the C interpreter in the OpenJDK Zero port while maintaining smooth performance throughout. This talk looks at the techniques used and explores how they could be extended to other architectures.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The second part of the talk will look inside the Thumb2 JIT. The principle design goal of the Thumb2 JIT was to optimise time of first execution rather than peak performance. As such the design goals were to produce a JIT giving very fast compile time while generating reasonable and compact code.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;The ARM architecture is typically used in constrained devices such as smartphones and low end netbooks. Typically a constrained device has&#xA;&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Single, not multiple core&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Relatively fast core speed (800MHz)&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Small primary cache (32K I+D)&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Small secondary cache&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Slow memory system (typically 300nS)&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Small memory system (typically 512M)&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;This means that the system is almost completely constrained by the memory system. A single cache miss can cost up to 270 cycles.&#xA;&#xA;This presents particular challenges for the VM writer. A traditional JIT solution may not offer the best performance because of cache trashing. For larger applications the interpreter may actually offer better performance than a JIT.&#xA;&#xA;Over the past year I have been working on a project to improve the Java performance on these devices. I have implemented this by writing an optimised ARM Interpreter in hand crafted ARM assembler and coupling this with a Thumb2 JIT which interacts quickly and seamlessly with the interpreter.&#xA;&#xA;  </description>
+      <persons>
+          <person id="1421">Edward Nevill</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

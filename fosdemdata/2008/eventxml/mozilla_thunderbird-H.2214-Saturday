@@ -1,0 +1,19 @@
+  <event id="189">
+      <start>16:45</start>
+      <duration>00:45</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>Thunderbird</title>
+      <subtitle></subtitle>
+      <track>Mozilla</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Status and Future Plans&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description></description>
+      <persons>
+          <person id="1891">Dan Mosedale</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

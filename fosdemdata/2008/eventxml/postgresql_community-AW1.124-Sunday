@@ -1,0 +1,19 @@
+  <event id="224">
+      <start>12:30</start>
+      <duration>00:30</duration>
+      <room>AW1.124</room>
+      <slug></slug>
+      <title>What can you do for PostgreSQL community</title>
+      <subtitle></subtitle>
+      <track>BSD + PostgreSQL</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;n/a&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description></description>
+      <persons>
+          <person id="2241">Susanne Ebrecht</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

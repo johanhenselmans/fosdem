@@ -1,0 +1,19 @@
+  <event id="73">
+      <start>14:00</start>
+      <duration>00:45</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>Moving Content from Staging to Live Server</title>
+      <subtitle></subtitle>
+      <track>Drupal</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Roel explains how he manages deployments of very large Drupal sites from staging to live servers.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;The problem:&#xA;A client has a live site with 1000&amp;#39;s of pages, 10&amp;#39;s of blocks containing rather static information.&#xA;There is almost no user interaction except for a few webforms to collect some user information (contact, request for documentation, etc..)&#xA;&lt;/p&gt;&#xA;&lt;p&gt;While the site is live, the client wish to prepare for the next iteration of the website. The new version will contain altered, new and deleted nodes and blocks. There is a workflow to allow approving all the changes by the end-redaction. While the old site is unaltered they wish to have a live-preview of what the new website will look like.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;a Solution?&#xA;Can Drupal handle this out-of-the-box?&#xA;An initial guess would be to define a some states using the workflow module and handle revisions using the revision_deletion and revision_moderation modules.&#xA;But that doesn&amp;#39;t help when you want to test drive the site as anonymous visitor.&#xA;How DID we do it? A small set of bash scripts and drupal modules did the trick. We&amp;#39;d be honoured to explain those and be cross-fired with questions!&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="731">Roel de Meester</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

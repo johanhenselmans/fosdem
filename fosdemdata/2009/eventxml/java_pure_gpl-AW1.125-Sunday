@@ -1,0 +1,19 @@
+  <event id="157">
+      <start>16:30</start>
+      <duration>00:30</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>Pure GPL - Is it still up to date</title>
+      <subtitle></subtitle>
+      <track>Free Java</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Many successful open source projects use pure GPL - true to the ideal of free software - requiring everyone to contribute under the same, open terms. &#xA;&lt;/p&gt;&#xA;&lt;p&gt;But as open source increasingly becomes a foundation for core functionality used both in non-commercial as well as commercial ways the call for more liberal licenses is getting louder.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;GPL with classpath exception, LGPL, BSD, Apache, Eclipse, and others allow adopters to build upon the open source code in proprietary ways - violating the true spirit of free software but giving developers more freedoms to chose the best approach for their project or product. &#xA;&lt;/p&gt;&#xA;&lt;p&gt;This session aims to be a free-flowing discussion on the question whether pure GPL without any exceptions is still up to date with the changes occurring the software industry.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1571">Terrence Barr</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

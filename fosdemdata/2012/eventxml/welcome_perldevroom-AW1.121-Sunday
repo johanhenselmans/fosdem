@@ -1,0 +1,19 @@
+  <event id="413">
+      <start>09:00</start>
+      <duration>00:05</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>Welcome to the Perl devroom</title>
+      <subtitle></subtitle>
+      <track>Perl Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;A short introduction to the Perl devroom schedule&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="4131">Claudio Ramirez</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

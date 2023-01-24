@@ -1,0 +1,19 @@
+  <event id="213">
+      <start>17:00</start>
+      <duration>01:00</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>X.org myths</title>
+      <subtitle></subtitle>
+      <track>X.org</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;X.org myths/Open Q&amp;amp;A session&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;X is slow. X uses up all the system memory. X is bloated.&#xA;In this talk, I&amp;#39;ll discuss common X.org misconceptions and try to debunk them.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Everyone is also welcome to come by and ask questions here, and have X.org hackers answer.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="2131">Stéphane Marchesin</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,22 @@
+  <event id="360">
+      <start>18:00</start>
+      <duration>00:30</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>Panel on Software Patents</title>
+      <subtitle></subtitle>
+      <track>Legal Issues Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Discussion on issues of Free Software with Software Patents&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="3601">Ciarán O&#39;Riordan</person>
+          <person id="3602">Benjamin Henrion</person>
+          <person id="3603">Deb Nicholson</person>
+          <person id="3604">Karen Sandler</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

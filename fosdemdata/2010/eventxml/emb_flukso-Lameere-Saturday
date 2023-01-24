@@ -1,0 +1,19 @@
+  <event id="94">
+      <start>17:00</start>
+      <duration>01:00</duration>
+      <room>Lameere</room>
+      <slug></slug>
+      <title>Flukso: An Electricity metering application</title>
+      <subtitle></subtitle>
+      <track>Embedded</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Flukso is an open source (HW &amp;amp; SW) web-based community metering application. Flukso allows you to accurately monitor and reduce your household electricity consumption via &lt;a href=&#34;http://www.flukso.net/&#34;&gt;its website&lt;/a&gt; and API.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;This talk will focus on the embedded development of our 801.11g wireless sensor node called the Fluksometer. Fluksometer development went through several iterations. It evolved from a hacked-up Arduino - WRT54G prototype, via an Arduino Wee - Fonera in alpha to the custom sensor board - Abocom WAP2102 which we are now using in our beta trial.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;This hybrid approach, connecting a custom sensor board to an off-the-shelf wifi router via UART, allowed us to develop a generic sensing platform that can be used for monitoring almost any physical unit, provided a suitable sensor can be found. We currently focus on measuring household electricity consumption and, in the near-future, photo-voltaic production. We will present our sensor node&amp;#39;s hardware (AVR and Atheros AR1217) and software (based on AVR-libc and OpenWRT 8.09) architecture and discuss its (dis)advantages and a lessons learned.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="941">Bart Van Der Meerssche</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

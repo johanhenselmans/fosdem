@@ -1,0 +1,19 @@
+  <event id="11">
+      <start>13:00</start>
+      <duration>01:00</duration>
+      <room>Lameere</room>
+      <slug></slug>
+      <title>Arduino/AVR: interactive development on the controller with amforth</title>
+      <subtitle></subtitle>
+      <track>Embedded devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Are you tired of the &amp;#34;edit, assemble, flash, reset and watch&amp;#34;&#xA;cycle when writing code for your AVR microcontroller? There is an&#xA;alternative: amforth [1]. Yes, it needs to be assembled and&#xA;flashed, too. But after that you hook the controller to your&#xA;serial port and are greeted with the &amp;#34;ok&amp;#34; prompt. After that you&#xA;are free to change pin direction and levels or configure the&#xA;available periphery in any way you want. You can try out little&#xA;bits and stick them together, defining new words (functions) as&#xA;you go. They can immediately be used, no need to reassemble and&#xA;reflash. You have every bit of the controller under direct&#xA;control.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;amforth is an incarnation of Forth. It is a stack based system,&#xA;it is virtually free of syntax, and it might change your opinions&#xA;on microcontroller programming a whee bit. amforth is GPL&#xA;software.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;The presentation shall demonstrate the &amp;#34;interactive&amp;#34; trait of&#xA;amforth as well as some concepts special to Forth-land.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="111">Erich  Wälde</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

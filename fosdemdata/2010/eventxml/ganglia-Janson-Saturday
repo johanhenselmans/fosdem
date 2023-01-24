@@ -1,0 +1,21 @@
+  <event id="109">
+      <start>15:00</start>
+      <duration>00:45</duration>
+      <room>Janson</room>
+      <slug></slug>
+      <title>Ganglia: 10 years of monitoring clusters and grids</title>
+      <subtitle></subtitle>
+      <track>Monitoring</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;During the talk Bernard will give an overview of Ganglia&amp;#39;s strong points and it&amp;#39;s technical architecture.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;This talk will start off with a brief overview of the early beginnings of the project and how it has become the de facto standard for monitoring clusters and grids. The talk will then dive into the technical architecture of the system, discuss scalability issues, challenges ahead in adapting the software for cloud environments and other future developments. If you work with a lot of computers, then this talk is for you.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Ganglia is a scalable system performance monitoring software started by Matt Massie in 1999 while he was at the University of California, Berkeley working on the Millennium Project.  Since the inception of the project, it has seen 40+ releases and 299,208 total downloads recorded by SourceForge.net. Ganglia is simple to install and use and is available on most UNIX platforms. 30+ system metrics such as CPU load, memory usage, network traffic are collected by default and can be further extended via a command line metric reporting tool or pluggable modules written in C or Python. Ganglia is being used extensively all over the world by organizations large and small.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1091">Bernard Li</person>
+      </persons>
+      <links>
+          <link href="http://video.fosdem.org/2010/maintracks/ganglia.xvid.avi">Video (DIVX)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

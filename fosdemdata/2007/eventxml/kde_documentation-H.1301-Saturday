@@ -1,0 +1,19 @@
+  <event id="107">
+      <start>17:00</start>
+      <duration>00:30</duration>
+      <room>H.1301</room>
+      <slug></slug>
+      <title>KDE Documentation</title>
+      <subtitle></subtitle>
+      <track>KDE</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;KDE Documentation: What we do ... and what we want.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;The KDE Documentation team will give an overview of what they are currently doing and what the plans are for KDE 4.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1071">Sander Koning</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

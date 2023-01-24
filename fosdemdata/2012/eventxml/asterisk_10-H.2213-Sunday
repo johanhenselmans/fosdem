@@ -1,0 +1,19 @@
+  <event id="17">
+      <start>09:45</start>
+      <duration>00:40</duration>
+      <room>H.2213</room>
+      <slug></slug>
+      <title>Asterisk 10: New Features, New Testing</title>
+      <subtitle></subtitle>
+      <track>Telephony and Communications Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Asterisk 10 added many new features, and includes substantial automated testing.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Asterisk 10 was recently released, and incorporates many new features, including nearly unlimited support for codec formats and sample rates, wideband audio conferencing, and much more. In addition, the Asterisk project team has built a large suite of unit and functional tests that are now run against each Asterisk release.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;This talk will cover the major new features of Asterisk 10, and also cover how the Asterisk testsuite is developed and used to improve the code quality of each release.&lt;/p&gt;      </description>
+      <persons>
+          <person id="171">Matt Jordan</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

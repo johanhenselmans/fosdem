@@ -1,0 +1,21 @@
+  <event id="204">
+      <start>16:00</start>
+      <duration>00:45</duration>
+      <room>Janson</room>
+      <slug></slug>
+      <title>Samba</title>
+      <subtitle></subtitle>
+      <track>Internet Services</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Current State of Samba&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Samba has been around a long time, and just keeps trucking along, right ? Not quite...&#xA;Attend this talk to hear about what&amp;#39;s new in Samba, what the Samba3/Samba4 code is all about, why we aren&amp;#39;t an Active Directory Domain Controller yet (and why it&amp;#39;s hard) and why the CIFS protocol is likely to loom large in *your* future, even if you use nothing but Linux...&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="2041">Jeremy Allison</person>
+      </persons>
+      <links>
+          <link href="http://video.fosdem.org/2007/FOSDEM2007-Samba.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

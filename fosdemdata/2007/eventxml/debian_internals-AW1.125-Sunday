@@ -1,0 +1,24 @@
+  <event id="21">
+      <start>11:00</start>
+      <duration>01:00</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>Secret debian internals</title>
+      <subtitle></subtitle>
+      <track>Debian</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Debian is full of nice undocumented pieces of infrastructure: you can access control files of all source packages, aggregated package lists, popcon results, raw BTS data, Debtags categories, maintainer/comaintainer databases, build logs and much more.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Since it&amp;#39;s usually hard to find documentation on what is available and on how to use it, I&amp;#39;ll show you what I know. People from the audience can show some more. Hopefully someone will blog a summary on Planet Debian.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Then we hack.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="211">Enrico Zini</person>
+      </persons>
+      <links>
+          <link href="http://meetings-archive.debian.net/pub/debian-meetings/2007/fosdem/slides/Secret_debian_internals-Enrico_Zini/Secret_debian_internals-Enrico_Zini.pdf">Slides (PDF)</link>
+          <link href="http://meetings-archive.debian.net/pub/debian-meetings/2007/fosdem/ogg_theora/720x576/Secret_debian_internals-Enrico_Zini.ogg">Video (Ogg/Theora)</link>
+          <link href="http://meetings-archive.debian.net/pub/debian-meetings/2007/fosdem/xvid/Secret_debian_internals-Enrico_Zini_xvid.avi">Video (DIVX)</link>
+          <link href="http://meetings-archive.debian.net/pub/debian-meetings/2007/fosdem/ogg_theora/360x288/Secret_debian_internals-Enrico_Zini.ogg">Video (Ogg/Theora/Low quality)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

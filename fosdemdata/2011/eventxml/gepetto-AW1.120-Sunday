@@ -1,0 +1,19 @@
+  <event id="120">
+      <start>13:00</start>
+      <duration>00:45</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>Gepetto</title>
+      <subtitle>A Puppet IDE</subtitle>
+      <track>Configuration &amp; Systems Management devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The subject of this presentation is Geppetto, a new project developing tools to simplify the process of authoring and consuming Puppet manifests and modules.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;The project&amp;#39;s foundation is a model of the Puppet DSL, along with parsers, validators, and formatters that translate between a generated manifest or module and its editable representation. Corresponding tooling will generate and test-validate manifests and modules directly from an editor, as well as streamline module publication/consumption to/from the Puppet Forge. Tooling will be packaged for both command line interaction (i.e., an enhanced version of the current Puppet Module Tool) and an IDE plug-in. Editors will provide syntax highlighting, content assistance, error tracing/debugging and similar capabilities, as appropriate.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;The project has three near-term objectives: (1) flatten the learning curve associated with using the Puppet DSL to create manifests, (2) support Puppet best practices for working with manifests in the form of modules, and (3) encourage sharing of modules within the community using the Puppet Forge. A longer-term objective will be to make it easier for a wider range of tools to interoperate with Puppet by using Geppetto&amp;#39;s modeling foundation as a means of interchange; potential synergies with the new p(0) project will be explored for this purpose.&lt;/p&gt;      </description>
+      <persons>
+          <person id="1201">Henrik Lindberg</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

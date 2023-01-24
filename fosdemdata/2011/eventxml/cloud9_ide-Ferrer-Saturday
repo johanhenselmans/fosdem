@@ -1,0 +1,19 @@
+  <event id="30">
+      <start>17:40</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Cloud9 IDE: Kick ass code editing and end to end JavaScript debugging</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Development in the Cloud:&lt;/p&gt;&#xA;&#xA;&lt;p&gt;In this talk Rik Arends will demonstrate the open source and web based Cloud9 IDE.&#xA;Cloud9 IDE is the first-ever cloud-based integrated development environment (IDE) for JavaScript developers, incorporating HTML5, supporting Python, Ruby and PHP. Cloud9 IDE is both open source and a SaaS developer environment running on NodeJS and has great run and debug facilities.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;If you want to quickly start developing with javascript, Cloud9 will allow you to start right away.&#xA;Of course one of the key features of an IDE is a great code editor. For this Ajax.org built Ace which has recently been adopted by Mozilla as the new code editor for firefox tooling. The combined efforts now makes this the best code editor on the web, and it will be uniquely tuned for javascript developers.&#xA;In this talk Rik will give a fast paced walkthrough of the IDE and how you can easily write, debug and deploy nodejs and javascript applications with an ease of use previously reserved for full-stack platforms such as  .NET and Java. Rik will show step debugging, live code editing and inspectors and consoles.&#xA;If you are a developer, you dont want to miss this.&lt;/p&gt;      </description>
+      <persons>
+          <person id="301">Rik Arends</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

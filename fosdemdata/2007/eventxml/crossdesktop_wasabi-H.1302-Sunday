@@ -1,0 +1,19 @@
+  <event id="15">
+      <start>10:45</start>
+      <duration>00:45</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>Wasabi</title>
+      <subtitle></subtitle>
+      <track>CrossDesktop</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;&lt;a href=&#34;http://wiki.freedesktop.org/wiki/WasabiAbout&#34;&gt;Wasabi&lt;/a&gt; - Unified Desktop Search- and Metadata Specification&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;&lt;a href=&#34;http://wiki.freedesktop.org/wiki/WasabiAbout&#34;&gt;Wasabi&lt;/a&gt; is an umbrella project with the purpose of providing unified APIs and specs for desktop search- and metadata services.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;In this talk Mikkel will outline the ideas behind the Wasabi project, its&amp;#39; past, present, and future, and will present the current proposal for a search spec and API, which should be in a public evaluation period during FOSDEM 2007.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="151">Mikkel Kamstrup</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

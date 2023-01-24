@@ -1,0 +1,19 @@
+  <event id="7">
+      <start>10:20</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Android video streaming: Android devices as video prosumers</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Brief description of the developed platform to end-users (demo included)&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;We have developed a platform of distribution, processing and editing real-time video for devices based on Android using FLOSS. Real-time video captured in the Android device is processed, edited and distributed over an external server, converting Android devices in video prosumers.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;It opens up a range of possibilities that we explore with content distribution , communication, marketing and advertising companies.&lt;/p&gt;      </description>
+      <persons>
+          <person id="71">Fernando Garcia</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

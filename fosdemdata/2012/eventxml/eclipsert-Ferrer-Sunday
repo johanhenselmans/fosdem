@@ -1,0 +1,23 @@
+  <event id="93">
+      <start>10:40</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>An introduction to EclipseRT</title>
+      <subtitle>Runtimes at Eclipse</subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;A short introduction runtime related efforts and technologies available at Eclipse.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;EclipseRT is a top-level project at Eclipse which groups together various projects that are all related to runtimes. This talk will give a short introduction to EclipseRT and to the projects available there.&lt;/p&gt;      </description>
+      <persons>
+          <person id="931">Gunnar Wagenknecht</person>
+      </persons>
+      <links>
+          <link href="466/64_An%20Introduction%20to%20EclipseRT%20-%20Gunnar%20Wagenknecht.pdf">An Introduction to EclipseRT (slides)</link>
+          <link href="http://www.eclipse.org/rt/">EclipseRT Website</link>
+          <link href="http://video.fosdem.org/2012/lightningtalks/An_introduction_to_EclipseRT.webm">Video recording</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

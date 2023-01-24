@@ -1,0 +1,19 @@
+  <event id="42">
+      <start>15:30</start>
+      <duration>00:30</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>Dancer - A Modern Perl Micro Web-Framework</title>
+      <subtitle></subtitle>
+      <track>Perl devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Dancer is an easy-to-use, fun, clever micro web framework&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Dancer is an easy-to-use, fun, clever micro web framework, intended for the newbie,&#xA;experienced and even seasonal Perl programmer.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;It is route-based (inspired by Ruby&amp;#39;s Sinatra) and provides a rapid and enjoyable way to&#xA;create Plack/PSGI compatible web applications.&lt;/p&gt;      </description>
+      <persons>
+          <person id="421">SawyerX</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

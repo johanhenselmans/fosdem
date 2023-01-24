@@ -1,0 +1,19 @@
+  <event id="153">
+      <start>16:30</start>
+      <duration>00:30</duration>
+      <room>AY</room>
+      <slug></slug>
+      <title>Wizard4j</title>
+      <subtitle></subtitle>
+      <track>Free Java</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Introduction and a Getting Started to the wizard4j project.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;The wizard4j project defines a flowchart xml language to describe flowcharts in a formal way (so this logic is no longer burried in the rest of the code). Next it provides an engine written in java to &amp;#39;run&amp;#39; these flowcharts. The target audience for this project are java software developers. Any java application that has some &amp;#39;flowchart logic&amp;#39; inside (configuration wizards, helpdesk guidelines, surveys, template preprocessing, ...) can benefit from wizard4j, especially when this logic is complex or requires frequent updates.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1531">Dirk Ooms</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

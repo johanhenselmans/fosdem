@@ -1,0 +1,19 @@
+  <event id="152">
+      <start>17:15</start>
+      <duration>00:30</duration>
+      <room>AY</room>
+      <slug></slug>
+      <title>Web Development with the Play! framework</title>
+      <subtitle></subtitle>
+      <track>Free Java</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Java web development is often based on a growing stack of software layers. This increasing complexity is impacting productivity and causing frustration of developers in each step of development, maintenance and deployment. The Play framework aims to bring back the fun with a simpler and cleaner stack, introducing conventions over configuration and encouraging RESTful architectures.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Version 1.0 have been released in October 2009 under the Apache 2 Licence. We will present the framework, explain and demonstrate how it is used to develop web applications, and introduce the vision and roadmap for the next versions.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1521">Erwan Loisant</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="272">
+      <start>16:00</start>
+      <duration>01:00</duration>
+      <room>Chavanne</room>
+      <slug></slug>
+      <title>Scala - A Scalable Language</title>
+      <subtitle></subtitle>
+      <track>Development and Languages</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;In this talk I&amp;#39;ll describe the design principles of the Scala&#xA;programming language, which has scalability as its primary design&#xA;objective.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Today&amp;#39;s software landscape resembles increasingly a tower of Babel:&#xA;Systems are built using many different languages, combining&#xA;server-side and client-side languages, scripting and systems&#xA;programming languages, general and domain specific languages, all&#xA;glued together with a hefty amount of XML.  The advantage of this&#xA;approach is that each individual language can be tailored to a&#xA;specific application domain.  Its disadvantage is that the necessary&#xA;amount of cross-language glue can make applications cumbersome to&#xA;write, deploy, and maintain.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;An alternative is offered by scalable languages, which can be used for&#xA;many different applications, ranging from small scripts to very large&#xA;systems. An important aspect of a scalable language is that it itself&#xA;is extensible and malleable. It should be possible to define very&#xA;high-level libraries in it, which act in effect as specialized domain&#xA;specific languages.  The advantages of this approach is that it leads&#xA;to more regular system designs, gives better static checking, makes&#xA;applications easier to deploy, and increases their reliability.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;In this talk I&amp;#39;ll describe the design principles of the Scala&#xA;programming language, which has scalability as its primary design&#xA;objective.  Scala combines lightweight syntax with strong static&#xA;checking on a Java-compatible platform. It encourages the embedding of&#xA;domain-specific languages as high-level libraries. I discuss how Scala&#xA;affects systems design and discuss its suitability for large scale&#xA;industrial deployment.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2721">Martin Odersky</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

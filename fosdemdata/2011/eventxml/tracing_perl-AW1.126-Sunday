@@ -1,0 +1,19 @@
+  <event id="303">
+      <start>11:00</start>
+      <duration>00:30</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>Tracing Perl with DTrace/SystemTap</title>
+      <subtitle></subtitle>
+      <track>Perl devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;DTrace is available in Perl since 5.10.1, learn when, why and how to use it&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Perl gained support for DTrace in version 5.10.1. Combing the whole system visibility of DTrace with Perl provides a powerful diagnostics and profiling tool.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;This talk will explain how to use DTrace with Perl (with some coverage of SystemTap), provide an overview of situations where it is useful and also places where other tools are more appropriate.&lt;/p&gt;      </description>
+      <persons>
+          <person id="3031">David Leadbeater</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

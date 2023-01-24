@@ -1,0 +1,19 @@
+  <event id="191">
+      <start>15:00</start>
+      <duration>01:00</duration>
+      <room>AW1.117</room>
+      <slug></slug>
+      <title>ModularBot</title>
+      <subtitle></subtitle>
+      <track>Python</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;&lt;a href=&#34;http://savannah.nongnu.org/projects/modularbot/&#34;&gt;ModularBot&lt;/a&gt;, a modular IRC bot written using Python.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Pierre will show how to write something modular, since it&amp;#39;s easy and often interesting to do. He will also try to show some funny things about the Python introspection features...&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1911">Pierre Ducroquet</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

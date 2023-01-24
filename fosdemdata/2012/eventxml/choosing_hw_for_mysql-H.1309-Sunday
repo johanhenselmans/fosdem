@@ -1,0 +1,19 @@
+  <event id="54">
+      <start>16:30</start>
+      <duration>00:25</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>Choosing Hardware for MySQL</title>
+      <subtitle></subtitle>
+      <track>MySQL and Friends Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;In this session you&amp;#39;ll learn how to choose hardware that helps MySQL execute queries the most quickly, while providing the best price-to-performance ratio. This includes choosing and configuring CPUs, RAM, network, and storage systems. We&amp;#39;ll also discuss what performance you can expect from various Amazon EC2 instance sizes, including EBS volumes and Amazon&amp;#39;s RDS service for MySQL.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="541">Kenny Gryp</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

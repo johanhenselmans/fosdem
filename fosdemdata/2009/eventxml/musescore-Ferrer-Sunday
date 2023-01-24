@@ -1,0 +1,19 @@
+  <event id="202">
+      <start>14:40</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>MuseScore, free music composition &amp; notation software</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;With the first stable 1.0 release in the pipeline, it&amp;#39;s time to introduce MuseScore to future users and developers. MuseScore is currently the leading free alternative to commercial score writing software like Sibelius and Finale. With over 50.000 downloads, it has quite some adoption already, but in order to convince music schools world wide, MuseScore&amp;#39;s current development team should become a little stronger. FOSDEM 09 will be the first event world wide where MuseScore will be presented&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;MuseScore is a free and open source music scorewriter. MuseScore is a WYSIWYG editor, complete with support for score playback and import/export of MusicXML and standard MIDI files. Percussion notation is supported, as is direct printing from the program. The program has a clean user interface, with fast note editing input with mouse, keyboard or MIDI. MuseScore has binaries available for Linux, Windows and Mac, and is available in more than 10 languages.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2021">Thomas Bonte</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

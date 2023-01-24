@@ -1,0 +1,20 @@
+  <event id="237">
+      <start>13:10</start>
+      <duration>00:50</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>State of OpenJDK</title>
+      <subtitle></subtitle>
+      <track>Free Java devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Summary of OpenJDK 6, 7 &amp;amp; 8.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;A review of the recent past including JDK 6, a summary of current work on JDK 7 and JDK 8, and a look ahead to upcoming improvements in both governance and infrastructure.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2371">Mark Reinhold</person>
+          <person id="2372">Joe Darcy</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

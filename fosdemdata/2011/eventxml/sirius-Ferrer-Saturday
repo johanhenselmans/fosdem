@@ -1,0 +1,19 @@
+  <event id="286">
+      <start>13:00</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Sirius: Is the UK Government backing Free Software?</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The UK Government has spoken a lot recently regarding the use of Free Software, but has this actually happened?  Was it all just talk or are they actually doing what they set out to do?&#xA;This talk intends to look at the reality behind the use of free software in the UK Public sector or was it just  political discussions about committing to use free software.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;We will look behind the scenes at the history of the UK Coalition Government&amp;#39;s interaction with the UK Free Software community, their current thinking and likely future developments. Finally, we will take a survey of what is happening on the ground, with real case studies of current implementations and where Free Software is breaking out next!&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Leading UK Open Source Integration organisation&lt;/p&gt;      </description>
+      <persons>
+          <person id="2861">Laura Czajkowski</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

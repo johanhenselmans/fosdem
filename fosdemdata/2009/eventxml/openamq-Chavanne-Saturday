@@ -1,0 +1,19 @@
+  <event id="220">
+      <start>14:00</start>
+      <duration>01:00</duration>
+      <room>Chavanne</room>
+      <slug></slug>
+      <title>OpenAMQ</title>
+      <subtitle></subtitle>
+      <track>Development and Languages</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;I&amp;#39;ll speak about a new messaging protocol called AMQP, and the iMatix&#xA;projects that implement this protocol.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;AMQP makes it possible to make cheap, fast distributed applications, for pubsub, cloud computing,&#xA;telecoms, etc..  I&amp;#39;ll explain our OpenAMQ implementation of AMQP, and&#xA;also our web-based RESTful messaging project, Zyre, which makes AMQP&#xA;work over plain HTTP.  This talk is aimed at FOSS developers with&#xA;interest in new protocols.  AMQP is a good example of how large&#xA;businesses are promoting and investing in FOSS today.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2201">Pieter Hintjens</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

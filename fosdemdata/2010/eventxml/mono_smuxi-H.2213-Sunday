@@ -1,0 +1,19 @@
+  <event id="192">
+      <start>16:30</start>
+      <duration>00:15</duration>
+      <room>H.2213</room>
+      <slug></slug>
+      <title>Smuxi - IRC in a modern environment</title>
+      <subtitle></subtitle>
+      <track>Mono</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Smuxi is an advanced IRC client that solves the &amp;#34;always available&amp;#34; problem in a graphical environment, providing a graphical alternative to the popular text-based ssh + irssi + screen combination.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;In this talk, I will present the current functionality of Smuxi and discuss plans for the future.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1921">Mirco Bauer</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

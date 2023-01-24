@@ -1,0 +1,19 @@
+  <event id="86">
+      <start>09:15</start>
+      <duration>00:45</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>Views 3</title>
+      <subtitle></subtitle>
+      <track>Drupal</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;With Views 3 there was a chance to clean up the code a bit and implement cool new features. For example group-by support or OR.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="861">Daniel Wehner</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

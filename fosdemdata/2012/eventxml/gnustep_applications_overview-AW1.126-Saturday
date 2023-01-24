@@ -1,0 +1,19 @@
+  <event id="129">
+      <start>12:45</start>
+      <duration>00:45</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>A GNUstep Applications Overview</title>
+      <subtitle></subtitle>
+      <track>GNUstep Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;ul&gt;&#xA;&lt;li&gt;it will feature GAP (GNUstep Application Project)&#xA;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;introduce the project, and its goals&lt;/li&gt;&#xA;&lt;li&gt;cover some of the applications found there&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;it will also include the usual known suspects: GWorkspace, ProjectCenter, Gorm, ...&lt;/li&gt;&#xA;&lt;li&gt;it will also cover some other nice GNUstep applications found scattered all over the web, for example:&#xA;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;CDPlayer, Burn, GNUMail, SimpleAgenda, Zipper and more&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;show/demonstrate some of the applications live&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;      </abstract>
+      <description></description>
+      <persons>
+          <person id="1291">Sebastian Reitenbach</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

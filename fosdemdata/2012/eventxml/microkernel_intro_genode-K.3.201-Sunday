@@ -1,0 +1,24 @@
+  <event id="234">
+      <start>10:10</start>
+      <duration>00:45</duration>
+      <room>K.3.201</room>
+      <slug></slug>
+      <title>Introduction of the Genode OS Framework</title>
+      <subtitle></subtitle>
+      <track>Microkernel OS Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Today&amp;#39;s operating systems try to find a balance between seemingly&#xA;conflicting goals. Ease of use is traded against security, resource&#xA;utilization is traded against resource accountability, and system&#xA;complexity is traded against scalability. For example, SELinux is ill&#xA;famed as hard to use and consequently remains widely unused. As another&#xA;example, isolation kernels minimize the complexity of critical system&#xA;software but at the cost of limiting these solutions to static applications.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;The Genode OS architecture shows how these apparently inherent conflicts&#xA;can be solved by operating-system design.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;By combining a recursive&#xA;system structure with capability-based security, mandatory access&#xA;control becomes easy to deploy. At the same time, the trusted computing&#xA;base can be minimized for each application individually such that the&#xA;attack surface for security-critical system functions gets reduced by&#xA;orders of magnitude compared to existing approaches. Furthermore, a&#xA;concept for trading physical resources among processes allows for&#xA;dynamic workloads while maintaining quality of service. That is not just&#xA;theory - the system is ready for demonstration and its developers are&#xA;planning to use it as development environment by the end of 2012.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;After a brief introduction of where Genode comes from, the main part of&#xA;the talk will be focused on the OS architecture and give a glimpse at&#xA;the implementation via live demonstrations. Finally, the talk will&#xA;briefly discuss the planned steps towards using Genode as&#xA;general-purpose OS.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2341">Norman Feske</person>
+      </persons>
+      <links>
+          <link href="547/93_Genode-FOSDEM-2012-02.pdf">Genode-FOSDEM-2012-02.pdf (slides)</link>
+          <link href="http://genode.org/">Genode project website</link>
+          <link href="http://www.genode-labs.com/">Genode Labs website</link>
+          <link href="https://github.com/genodelabs/genode">Genode git repository</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

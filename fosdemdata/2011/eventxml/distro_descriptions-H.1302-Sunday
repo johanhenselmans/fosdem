@@ -1,0 +1,19 @@
+  <event id="61">
+      <start>12:30</start>
+      <duration>01:00</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>Sharing package description (and translations) between distros.</title>
+      <subtitle></subtitle>
+      <track>CrossDistro devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This session proposes to share concrete ideas, gather requirements and wishes (and hopefully volunteers) towards an implementation to help collaboration between distros teams. (The ones that don&amp;#39;t talk much together otherwise).&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;The basic idea revolves around creating a central DB that would collect package description. (ok, that&amp;#39;s not new).&lt;/p&gt;&#xA;&#xA;&lt;p&gt;To use this data, a model (à la Config::Model) will be proposed that:&#xA;- use the common descriptions through a DB backend&#xA;- represents the package description within the distro&amp;#39;s packaging system (Such model is already available in Debian&amp;#39;s libconfig-model-perl package. A model for RedHat&amp;#39;s spec file would be required to implement a proof of concept)&#xA;- the common data would be used as default value for the distro&amp;#39;s package description with Config::Model&amp;#39;s &amp;#34;compute&amp;#34; mechanism.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;This system could also be used for data that are common between distros like license, summary, upstream home page.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;One thing is still to be defined: how to update the &amp;#34;common&amp;#34; descriptions and translation. This could be done through Config::Model or by another means (wiki, trusted team ...). Discussing this point at FOSDEM could be useful.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Unfortunately, the author probably will not have time to implement a prototype until FOSDEM, but the idea can be discussed to see if other distro could be interested.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;To start the discussion, a short presentation of Config::Model capabilities will be done (mostly around the compute feature to get data from the common pool to distro teams).&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Important:&#xA;- This presentation does &lt;em&gt;not&lt;/em&gt; require Perl knowledge&lt;/p&gt;      </description>
+      <persons>
+          <person id="611">Dominique Dumont</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

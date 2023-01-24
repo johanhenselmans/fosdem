@@ -1,0 +1,19 @@
+  <event id="374">
+      <start>16:30</start>
+      <duration>00:30</duration>
+      <room>UD2.218A</room>
+      <slug></slug>
+      <title>Discussion about the future of XBL</title>
+      <subtitle></subtitle>
+      <track>Mozilla Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;A overview and discussion of the existing state of XBL and ways in which we can finally improve it for performance, stability and to make it more flexible, powerful and easier to use. Specifically, we look at the XBL2 specification, some proposals for similar features from Google, as well as other ideas based on the experience developing Firefox.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="3741">Neil Deakin</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

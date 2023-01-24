@@ -1,0 +1,19 @@
+  <event id="306">
+      <start>10:00</start>
+      <duration>00:30</duration>
+      <room>H.1301</room>
+      <slug></slug>
+      <title>openSUSE on ARM</title>
+      <subtitle></subtitle>
+      <track>CrossDistribution Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The openSUSE community started to revive its ARM port recently.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;This talk will show how do we work on our ARM, what troubles we were facing so far and what is the current status of the port and what our hopes are for the future.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="3061">Michal Hrusecky</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

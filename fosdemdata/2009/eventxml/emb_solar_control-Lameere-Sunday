@@ -1,0 +1,19 @@
+  <event id="84">
+      <start>10:00</start>
+      <duration>01:00</duration>
+      <room>Lameere</room>
+      <slug></slug>
+      <title>Solar Control with 1-wire Open Hardware</title>
+      <subtitle></subtitle>
+      <track>Embedded</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Solar hot water systems in particular, and home control in general, provide excellent opportunities for fun geeking. Conventional control is done with various boxes, each of which is very stupid. Everything is proprietary and mostly incompatible with other manufacturers.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Wookey decided that a better solution was one smart controller using open technologies, which could do cool stuff like on-line energy logging.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;He will explain enough about plumbing that the rest of the talk makes sense, then cover the practicalities of the necessary mix of IO: (I2C, 1-wire, digital IO, switching, displays), Software (logging, control scripting, user feedback) and Hardware (Balloonboard+IO).&#xA;&lt;/p&gt;&#xA;&lt;p&gt;When he&amp;#39;s finished you should have enough knowledge to go away and put together your own versatile controller (and solar system), and have an appreciation of the potential of this technology, as well as what work is still needded to make it accessible beyond the world of embedded Linux engineers.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="841">Wookey</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

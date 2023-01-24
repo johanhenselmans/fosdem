@@ -1,0 +1,19 @@
+  <event id="107">
+      <start>15:00</start>
+      <duration>01:00</duration>
+      <room>Lameere</room>
+      <slug></slug>
+      <title>Flukso - Community Metering.</title>
+      <subtitle></subtitle>
+      <track>Embedded devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;At FOSDEM 2010, we presented the community metering features of Flukso for the first time. Quite a lot has happened since then. As part of the beta phase, we have shipped and deployed 500+ Fluksometers into the field. New features were added to the web interface, including a JSON/REST API. We have experimented with water and gas measurements. Design of the open hardware Fluksometer v2 was started with testing of the first prototypes completed at the end of 2010. A trial production run has been launched. We will elaborate on these topics, demonstrate the Fluksometer v2 hardware and present our future plans.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="1071">Bart Van Der Meerssche</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,21 @@
+  <event id="128">
+      <start>17:20</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>db4o</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;A lightning talk about db4o, an object database, and its open source company.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;In this talk db4o will be introduced, an open source object database, and&#xA;it&amp;#39;s licensing model. The talk will also be about how we work as an open source&#xA;company, where all the contributors are spread around the world.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;i&gt;About db4o:&lt;/i&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;db4o, a native object persistence solution for Java and .net.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1281">Jb Evain</person>
+      </persons>
+      <links>
+          <link href="../../slides/lightningtalks/db4o.pdf">Slides (PDF)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

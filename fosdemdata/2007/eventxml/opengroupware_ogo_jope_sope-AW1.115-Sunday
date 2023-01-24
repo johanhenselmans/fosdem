@@ -1,0 +1,20 @@
+  <event id="167">
+      <start>13:00</start>
+      <duration>01:00</duration>
+      <room>AW1.115</room>
+      <slug></slug>
+      <title>Open Groupware: OGo/JOPE/SOPE</title>
+      <subtitle></subtitle>
+      <track>OpenGroupware + GNUstep</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Open Groupware: OGo / JOPE / SOPE&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description></description>
+      <persons>
+          <person id="1671">Marcus Müller</person>
+          <person id="1672">Helge Hess</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

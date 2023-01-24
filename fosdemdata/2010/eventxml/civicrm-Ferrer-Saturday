@@ -1,0 +1,19 @@
+  <event id="32">
+      <start>13:40</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>CiviCRM: Common goals of FOSS and Not For Profit Organisations</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;CiviCRM support the work of NGOs on advocacy and better communication with their members and the general public. It allows to handle newsletters, receive donations, manage the membership and help organising events, all sharing the same contact database, and offering a 360 view of their contacts.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;But beside helping the NGOs to work better with an efficient software, there is also a common set of values about sharing, openness, transparency and freedom that are should be better promoted by FOSS promoters and better understood by NGOs.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;I will present how CiviCRM can help the civil society, and how to highlight these shared values while introducing FOSS to the civil society.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;All that in 15 minutes.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;CiviCRM is an open source and freely downloadable constituent relationship management solution. It iss web-based, open source, internationalized, and designed specifically to meet the needs of advocacy, non-profit and non-governmental groups. Integration with both Drupal and Joomla! content management systems gives you the tools to connect, communicate and activate your supporters and constituents.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="321">Xavier DUTOIT</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

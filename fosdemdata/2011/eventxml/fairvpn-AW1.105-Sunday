@@ -1,0 +1,19 @@
+  <event id="99">
+      <start>11:00</start>
+      <duration>00:20</duration>
+      <room>AW1.105</room>
+      <slug></slug>
+      <title>FairVPN, overlay topology construction tool to maximize TCP fairness</title>
+      <subtitle></subtitle>
+      <track>New challenges in Virtualization devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;FairVPN is a python wrapper for tinc-vpn to create overlay VPN networks scalable to many nodes, maximizing TCP fairness among all connections in the network with minimal control traffic and memory usage.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="991">Saverio Proto</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

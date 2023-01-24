@@ -1,0 +1,19 @@
+  <event id="117">
+      <start>13:00</start>
+      <duration>01:00</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>pjsip: lightweight portable SIP stack</title>
+      <subtitle></subtitle>
+      <track>Embedded</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;(TBD)&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description></description>
+      <persons>
+          <person id="1171">Perry Ismangil</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

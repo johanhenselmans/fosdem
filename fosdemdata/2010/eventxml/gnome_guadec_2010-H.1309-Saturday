@@ -1,0 +1,19 @@
+  <event id="116">
+      <start>15:15</start>
+      <duration>00:15</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>GUADEC 2010</title>
+      <subtitle></subtitle>
+      <track>GNOME</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This year, GUADEC will take place in The Hague, The Netherlands on July 24th-30th. In this small presentation I will introduce the venue, and ask for help organising this edition of GUADEC.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="1161">Koen Martens</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

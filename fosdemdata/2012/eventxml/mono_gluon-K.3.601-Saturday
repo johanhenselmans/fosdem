@@ -1,0 +1,19 @@
+  <event id="247">
+      <start>14:00</start>
+      <duration>00:30</duration>
+      <room>K.3.601</room>
+      <slug></slug>
+      <title>Gluon</title>
+      <subtitle></subtitle>
+      <track>Mono Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Gluon is an open source database schema analysis and entity/relationship mapper that easily integrates into MonoDevelop. Using the MonoDevelop addin you can browse databases, select tables, generate entities (including bulk rename operations) and add the generated C# code to your project with a couple of clicks. If my cats will help with the coding it will probably support schema migration (from inside MonoDevelop) well before the FOSDEM. If they don&amp;#39;t help there will be enough to talk anyway (and nice catfur dolls for everybody).&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="2471">Federico Di Gregorio</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

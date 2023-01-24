@@ -1,0 +1,19 @@
+  <event id="162">
+      <start>15:00</start>
+      <duration>00:45</duration>
+      <room>H.1301</room>
+      <slug></slug>
+      <title>A Look at KOffice 2 and ODF</title>
+      <subtitle></subtitle>
+      <track>KDE</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;&lt;a href=&#34;http://koffice.kde.org/&#34;&gt;KOffice 2.0&lt;/a&gt; is going to be released soon. This talk will start with an overview of the main features this new release will have (such as the &lt;a href=&#34;http://wiki.koffice.org/index.php?title=Flake&#34;&gt;lightweight Flake objects&lt;/a&gt;, and &lt;a href=&#34;http://wiki.koffice.org/index.php?title=Pigment&#34;&gt;color management through Pigment&lt;/a&gt;), and will then will go into some more detail about the use of &lt;a href=&#34;http://wiki.koffice.org/index.php?title=KOffice_and_ODF&#34;&gt;ODF in KOffice&lt;/a&gt;.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Most of the [[http:&lt;i&gt;koffice.kde.org KOffice Suite] has been rewritten or at least refactored since the 1.6 series. For example, we introduced the &lt;a href=&#34;_/i_wiki.koffice.org/index8826.html?title=Flake&#34;&gt;Flake framework&lt;/a&gt;, enabling easy sharing of components such as vector drawings and text shapes throughout the whole range of [[http://koffice.kde.org KOffice applications].&#xA;&lt;/i&gt;&lt;/p&gt;&lt;i&gt;&#xA;&lt;p&gt;The aim of this talk is to discover how this new suite is organized, the main changes, and its relation with &lt;a href=&#34;http://wiki.koffice.org/index.php?title=KOffice_and_ODF&#34;&gt;ODF&lt;/a&gt;.&#xA;&lt;/p&gt;&#xA; &lt;/i&gt;</description>
+      <persons>
+          <person id="1621">Bart Coppens</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

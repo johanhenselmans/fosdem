@@ -1,0 +1,20 @@
+  <event id="264">
+      <start>11:45</start>
+      <duration>00:45</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>Tasty Application Distribution with Project Bretzn</title>
+      <subtitle></subtitle>
+      <track>Crossdesktop devroom</track>
+      <type></type>
+      <language></language>
+      <abstract></abstract>
+      <description>&#xA;&lt;p&gt;What makes developers and users happy? Currently developers create great software solving the user&amp;#39;s problem. But getting the software in a consumable way, simple, fast and efficient to the user nowadays still comes with some challenges. All this, and marketing of the software isn&amp;#39;t covered yet either. Enter Bretzn, a project aimed at radically simplifying the work of developers in distributing their software, enabling them to get their work to potential users by only a few clicks, directly in the tools they already use. This presentation describes both the underlying philosophies of the project, and will also show how the software works in practice through a short, live demonstration.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2641">Frank Karlitschek</person>
+          <person id="2642">Dan Leinir Turthra Jensen</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="43">
+      <start>12:00</start>
+      <duration>00:30</duration>
+      <room>H.2213</room>
+      <slug></slug>
+      <title>CentOS on the desktop</title>
+      <subtitle></subtitle>
+      <track>Fedora + CentOS</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Why CentOS is a preferred choice on the desktops in the enterprise or even at home.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="431">Toshaan Bharvani</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,20 @@
+  <event id="36">
+      <start>15:30</start>
+      <duration>00:15</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>Group Photo</title>
+      <subtitle></subtitle>
+      <track>Crossdesktop devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;For all people who are part of the desktop communities (KDE, Gnome, XFCE, Enlightenment, etc) we have a group picture like previous years. Depending on weather conditions, this will either be outside on the lawn, or inside in the room: the decision will be announced in the room just before the picture is taken (although general rule: if it&amp;#39;s not raining you can go outside)&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;For all people who are part of the desktop communities (KDE, Gnome, XFCE, Enlightenment, etc) we have a group picture like previous years. Depending on weather conditions, this will either be outside on the lawn, or inside in the room: the decision will be announced in the room just before the picture is taken (although general rule: if it&amp;#39;s not raining you can go outside)&lt;/p&gt;      </description>
+      <persons>
+          <person id="361">Christophe Fergeau</person>
+          <person id="362">Bart Coppens</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

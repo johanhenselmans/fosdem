@@ -1,0 +1,19 @@
+  <event id="147">
+      <start>14:30</start>
+      <duration>00:45</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>GNOME Developer Kit</title>
+      <subtitle></subtitle>
+      <track>GNOME</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;We will discuss motivation behind creating the &lt;a href=&#34;http://live.gnome.org/GnomeDeveloperKit&#34;&gt;GNOME Developer Kit&lt;/a&gt;, possible uses, and perhaps discuss what else we can do with it.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;We will also discuss current GNOME Love initiatives, and how we use the developer kit to lower the barrier of entry and make the GNOME community a better place to work, play, and hang out. Information on the GNOME Developer Kit can be found at &lt;a href=&#34;http://live.gnome.org/GnomeDeveloperKit&#34;&gt;http://live.gnome.org/GnomeDeveloperKit&lt;/a&gt;&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1471">Ken VanDine</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

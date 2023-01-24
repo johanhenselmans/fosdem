@@ -1,0 +1,19 @@
+  <event id="215">
+      <start>14:15</start>
+      <duration>00:30</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>Correcting replication data drift with Maatkit</title>
+      <subtitle></subtitle>
+      <track>MySQL</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Replication with MySQL is very easy to set up but also very easy to break. As soon as inconsistencies are introduced, the master and the slaves start being desynchronized - and most often, you have no way to be quickly and efficiently aware of the problem as MySQL offers no built-in mechanism to check data consistency between servers.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Fortunately Maatkit has a neat solution with 2 nice scripts: mk-table-checksum, which is a tool to detect inconsistencies between a master and its slaves and mk-table-sync, which can correct automatically these problems detected with mk-table-checksum.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;This session will show you first how to use both tools depending on your replication setup (master-slaves or master-master) and then how to get the most from the multiple options that are available.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2151">Stéphane Combaudon</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,17 @@
+  <event id="23">
+      <start>14:00</start>
+      <duration>02:00</duration>
+      <room>UA2.114</room>
+      <slug></slug>
+      <title>BSD Associate Exam Session</title>
+      <subtitle></subtitle>
+      <track>Certification</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The BSD Certification Group (BSDCG) will offer the BSDA certification exam to attendees of FOSDEM 2011. One exam session will be offered on Saturday, 5 February 2011 at 14:00 in room UA2.114 (in the U building).&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;The exam will be paper based and in English. Exam information is available from the Certification page of the BSDCG website. Exam candidates should be proficient in the BSDA Certification Requirements and the Command Reference, both of which are available for free download from this page of the website.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;See http://www.bsdcertification.org/certification/associate.html for more information.&lt;/p&gt;      </description>
+      <persons></persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

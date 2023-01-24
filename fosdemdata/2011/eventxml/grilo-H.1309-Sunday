@@ -1,0 +1,19 @@
+  <event id="133">
+      <start>13:45</start>
+      <duration>00:45</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>Grilo: Integration of Multimedia Contents in Applications Made Easy</title>
+      <subtitle></subtitle>
+      <track>Crossdesktop devroom</track>
+      <type></type>
+      <language></language>
+      <abstract></abstract>
+      <description>&#xA;&lt;p&gt;YouTube, Shoutcast, Last.fm or Jamendo are just some examples of the number of existing services offering media content nowadays. Users are now getting used to having these services available also from their usual applications.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Unfortunately, to integrating these services in an application developers need to learn new technologies, with different APIs and protocols which means they end up writing specific solutions and replicating a lot of work. Grilo was created to solve this problem by providing a framework that abstracts the way to access media services and hides their specifications from developers. This minimizes the effort to integrate such services in applications letting the developers focus on their applications rather than in the services.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;In this talk, I will introduce Grilo, the problem it solves, the services it integrates so far, and give an overview of how to use Grilo in applications. If time allows, I will also show how a Grilo plugin looks like.&lt;/p&gt;      </description>
+      <persons>
+          <person id="1331">Joaquim Rocha</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

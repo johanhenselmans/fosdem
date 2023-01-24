@@ -1,0 +1,19 @@
+  <event id="195">
+      <start>15:30</start>
+      <duration>01:00</duration>
+      <room>AW1.117</room>
+      <slug></slug>
+      <title>Tux Droid, a Python-Fueled robot</title>
+      <subtitle></subtitle>
+      <track>Python</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Presentation of &lt;a href=&#34;http://www.tux-is-alive.com/&#34;&gt;Tux Droid&lt;/a&gt;, a small wireless robot controlled from a computer through a Python API.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Tux Droid is a tux-shaped robot wirelessly controlled from a computer running Linux. It can talk and move, but also listen and react to events.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The wireless link provides full-duplex audio, commands and status transfer. It is then possible to stream music and sounds to and from Tux Droid while blinking the eyes and waving the flippers, and detecting if the head button is pressed. Tux Droid’s embedded processing is only meant to interface sensors and actuators. We will show you how, by developing a complete python API, we can leverage the embedded basic set of features to get a complex robot which can bring life to your applications and act as a desktop companion.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The wireless link is the key here, it provides Tux Droid with access to all the power of Python. Python’s interpreter is of great help if you don’t have any clue about programming languages but would like to make your first steps into robotics. Simple scripts to control your robot are really at your fingertips. But we could of course get much more out of Python and Tux Droid.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1951">David Bourgeois</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

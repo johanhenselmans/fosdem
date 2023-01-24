@@ -1,0 +1,21 @@
+  <event id="37">
+      <start>16:30</start>
+      <duration>00:30</duration>
+      <room>K.4.401</room>
+      <slug></slug>
+      <title>Caciocavallo: CacioTest, CacioWeb &amp; Deployment</title>
+      <subtitle></subtitle>
+      <track>Free Java Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;CacioCavallo is an award winning project sponsored by the OpenJDK porters group.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;The main project was about refactoring of the graphics stack of OpenJDK to allow of easy porting on various platform.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;It’s the abstract backend behind most ports and it has been used on field by commercial projects for companies in the embedded and automotive market.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;During the last year, two new projects have landed in the official Caciocavallo repositories: CacioWeb and Cacio Testing Framework.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;The first project allows for easy deployment even on platforms without any Java support (like Apple iPad) and makes extremely easy the deployment even without any Java plugin.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;CacioTest aims to make easy the testing of Graphics stack, providing a reliable, unobtrusive way to run UI and graphics related tests.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="371">Clemens Eisserer</person>
+          <person id="372">Mario Torre</person>
+          <person id="373">Roman Kennke</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

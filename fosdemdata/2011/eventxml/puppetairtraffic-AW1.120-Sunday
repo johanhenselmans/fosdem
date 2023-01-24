@@ -1,0 +1,19 @@
+  <event id="266">
+      <start>10:00</start>
+      <duration>00:45</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>Abstraction, Formalization, Standardization</title>
+      <subtitle>Revolutionizing Linux System Engineering in Air Traffic Control with Puppet  </subtitle>
+      <track>Configuration &amp; Systems Management devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;In Air Traffic Control environments, reliable mass deployment of Linux based, mission critical applications is central to guarantee the 24/7 service that our customers expects. A lot of effort is invested to build and maintain a large number of very special purpose automatic Linux installations. Reproducibility and high quality without compromise are the main focus.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;During 2010 we rethought our system engineering approach: How can we avoid doing work again and again? How can we close the gap between informal requirement documents and low-level system customization? How can we approach our tasks more efficiently with methods and concepts which are well-known in software development for many years? Why are we doing system engineering like programmers did in the eighties? Using Puppet in the story, that started with those questions, was a natural choice.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2661">Stefan Schimanski</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="223">
+      <start>17:00</start>
+      <duration>00:25</duration>
+      <room>H.2213</room>
+      <slug></slug>
+      <title>Seamless MySQL replication failover with Tungsten</title>
+      <subtitle></subtitle>
+      <track>MySQL &amp; friends devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Replication fail over and fail back are the most common occurrences in MySQL database operations. And yet, they are still among the most difficult tasks to perform, all because MySQL lacks the ability of matching master transactions with the ones stored in the slaves.&#xA;Since Tungsten has the global transaction ID, promoting a slave to master and synchronizing the other slaves is a painless operation.&#xA;This session will show the difference between switching between master and slave in two scenarios: using MySQL regular replication, and using Tungsten replication.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Replication fail over and fail back are the most common occurrences in MySQL database operations. And yet, they are still among the most difficult tasks to perform, all because MySQL lacks the ability of matching master transactions with the ones stored in the slaves.&#xA;Since Tungsten has the global transaction ID, promoting a slave to master and synchronizing the other slaves is a painless operation.&#xA;This session will show the difference between switching between master and slave in two scenarios: using MySQL regular replication, and using Tungsten replication.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2231">Giuseppe Maxia</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

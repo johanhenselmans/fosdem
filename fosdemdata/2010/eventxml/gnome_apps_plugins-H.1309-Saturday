@@ -1,0 +1,19 @@
+  <event id="111">
+      <start>15:45</start>
+      <duration>00:45</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>Add plugins to your GNOME apps</title>
+      <subtitle></subtitle>
+      <track>GNOME</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk will focus on libpeas, a lib-ification of the gedit plugin&amp;#39;s engine intended to allow adding support for plugins written in various languages (currently C, python, javascript) into gobject-based apps in a very simple and quick fashion.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="1111">Steve Frécinaux</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

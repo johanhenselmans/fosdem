@@ -1,0 +1,19 @@
+  <event id="305">
+      <start>14:40</start>
+      <duration>00:20</duration>
+      <room>AW1.105</room>
+      <slug></slug>
+      <title>USB redirection over the network</title>
+      <subtitle></subtitle>
+      <track>New challenges in Virtualization devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;A talk about USB redirection under qemu, iow using USB devices attached to the host machine inside the guest. Code for this is already present inside qemu but it needs some work. I currently have a set of patches which makes it possible&#xA;to use USB devices connected to the host inside the guest including devices using isochronous endpoints like webcams.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;I&amp;#39;m now working on extending qemu&amp;#39;s redirection support so that redirection can be done over the network. The main reason for this is to allow connecting to a virtual machine over the network (with for example vnc or spice) and then make a usb device plugged into the client (from which the virtual machine is viewed) show up inside the virtual machine / the guest (which is running on a host which is a different machine).&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="3051">Hans de Goede</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

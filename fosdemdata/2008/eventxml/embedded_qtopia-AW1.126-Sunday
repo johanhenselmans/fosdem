@@ -1,0 +1,19 @@
+  <event id="119">
+      <start>09:00</start>
+      <duration>01:00</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>Free software in Telecom focusing on Qtopia</title>
+      <subtitle></subtitle>
+      <track>Embedded</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Community Manager Knut Yrvin at &lt;a href=&#34;http://www.trolltech.com/&#34;&gt;Trolltech&lt;/a&gt; will present mobile phone programming with &lt;a href=&#34;http://trolltech.com/products/qtopia/&#34;&gt;Qtopia&lt;/a&gt; on &lt;a href=&#34;http://trolltech.com/products/qtopia/greenphone&#34;&gt;Greenphone&lt;/a&gt;.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;He will focus on game programming and Telenors Program for Advanced Telecom Services. When developing free software for phones, you don&amp;#39;t pay for using GSM production network for non-commercial purposes. Trolltech ASA has a research and innovation program with Telenor. Telenor is an international wireless carrier with 135 million customers world wide.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1191">Knut Yrvyn</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

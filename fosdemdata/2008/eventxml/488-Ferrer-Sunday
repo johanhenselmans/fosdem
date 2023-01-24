@@ -1,0 +1,22 @@
+  <event id="54">
+      <start>17:20</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Project Indiana: towards a free OpenSolaris LiveCD</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The talk will give an overview of the IPS packaging system,&#xA;           the live CD and the strategy to simplify the operating&#xA;           system structures and the update cycles for patches.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Project Indiana is working towards creating a binary&#xA;           distribution of an operating system built out of the&#xA;           OpenSolaris source code. The distribution is a point of&#xA;           integration for several current projects on OpenSolaris.org,&#xA;           including those to make the installation experience easier,&#xA;           to modernize the look and feel of OpenSolaris on the&#xA;           desktop, and to introduce a network-based package management&#xA;           system into Solaris.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;           The resulting distribution is a live-CD install image, and&#xA;           is fully permissible to be redistributed by anyone. It will&#xA;           also have the capability for developers to create their own,&#xA;           customized distribution based on Project Indiana. The first&#xA;           official release is due Spring 2008.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="541">Stefan Schneider</person>
+      </persons>
+      <links>
+          <link href="http://fosdem.org/2008/slides/lightningtalks/fosdem08_ltalk_indiana.pdf">Slides (PDF)</link>
+          <link href="http://video.fosdem.org/2008/lightningtalks/FOSDEM2008-project-indiana.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

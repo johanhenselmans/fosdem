@@ -1,0 +1,19 @@
+  <event id="101">
+      <start>13:45</start>
+      <duration>00:30</duration>
+      <room>H.1301</room>
+      <slug></slug>
+      <title>Firefox 4</title>
+      <subtitle></subtitle>
+      <track>Mozilla devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Firefox 4 is a huge jump in the evolution of the browser.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Find out why.&lt;/p&gt;      </description>
+      <persons>
+          <person id="1011">Brian King</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

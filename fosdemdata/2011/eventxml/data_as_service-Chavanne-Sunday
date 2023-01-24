@@ -1,0 +1,19 @@
+  <event id="43">
+      <start>12:00</start>
+      <duration>00:50</duration>
+      <room>Chavanne</room>
+      <slug></slug>
+      <title>Data-as-a-Service with Infinispan</title>
+      <subtitle></subtitle>
+      <track>Cloud Track</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Dealing with reliable data storage on clouds is hard.  Cloud infrastructure has raised peoples expectations of easy to manage, highly scalable and highly elastic services for serving web applications as well as providing compute power, however when it comes to data storage things start to become very complex.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;In this talk, Surtani discusses &amp;#34;Data-as-a-Service&amp;#34;, along the lines of infrastructure and platform service offerings that are becoming increasingly common.  What is &amp;#34;Data-as-a-Service&amp;#34;?  Why is it important, and why would you want one?  How could you build one? The talk then goes on to discuss Infinispan - an open source data grid platform - and how Infinispan can serve as a basic building block for a Data-as-a-Service offering.&lt;/p&gt;      </description>
+      <persons>
+          <person id="431">Manik  Surtani</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

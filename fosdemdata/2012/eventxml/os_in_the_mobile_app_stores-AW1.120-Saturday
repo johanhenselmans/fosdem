@@ -1,0 +1,19 @@
+  <event id="310">
+      <start>17:00</start>
+      <duration>00:30</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>OS in the Mobile App Stores</title>
+      <subtitle>Lessons learned from bringing a GPLv2 project to the app store</subtitle>
+      <track>Open Mobile Linux Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;&amp;#34;Apple drops GPL apps&amp;#34; was a headline in the Linux User &amp;amp; Developer Magazine in 2011. Later Windows followed the example of Apple. So does this mean GPL licensed apps can&amp;#39;t go mobile? Luckily, it&amp;#39;s not that dramatic. This talk will share the first hand experience of the challenges and opportunities of releasing GPL based apps in the Apple app store.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="3101">Thomas Bonte</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

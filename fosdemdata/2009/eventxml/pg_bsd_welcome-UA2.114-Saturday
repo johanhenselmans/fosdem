@@ -1,0 +1,22 @@
+  <event id="246">
+      <start>13:00</start>
+      <duration>00:30</duration>
+      <room>UA2.114</room>
+      <slug></slug>
+      <title>Welcome to the PostgreSQL and *BSD devroom</title>
+      <subtitle></subtitle>
+      <track>BSD + PostgreSQL</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Keynote and welcome to the PostgreSQL and *BSD developer room at FOSDEM 2009.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="2461">Marc Balmer</person>
+          <person id="2462">Robert Watson</person>
+          <person id="2463">Magnus Hagander</person>
+          <person id="2464">Andreas Scherbaum</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

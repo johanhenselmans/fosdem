@@ -1,0 +1,19 @@
+  <event id="185">
+      <start>13:20</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Magellan project: How to deploy 550.000 Linux notebooks in classrooms</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;How do we make a Linux Distribution appealing enough to students, parents and teachers to make them choose to boot Linux instead of Windows? You talk with the right people...&#xA;With the help of the KDE Team, usability teams, interviews with teachers and students we improved our interface, configuration tools and list of installed applications.&#xA;With the help of language teams we made sure the spelling and grammar was correct and consistent throughout the entire interface.&#xA;All of this steps added to a development process that we want to share with all of you to show how it was accomplished, and how we made it a success story.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;The portuguese Magellan project is a government endorsed project that began in 2008 with the purpose to give laptops to school children to boost their computer literacy.&#xA;The computers have dual boot, with preinstalled Microsoft Windows and Linux Caixa Mágica (The main portuguese Linux Distribution).&#xA;The project had a first deploy of about 300000 computers that ended in the beggining of the summer af 2010, and is now in the second stage of the deploy, with enhanced hardware and software, and will have an estimate of 250000 computers deployed by the year&amp;#39;s end.&lt;/p&gt;      </description>
+      <persons>
+          <person id="1851">Flávio Moringa</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

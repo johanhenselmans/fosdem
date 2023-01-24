@@ -1,0 +1,19 @@
+  <event id="50">
+      <start>11:00</start>
+      <duration>01:00</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>Fedora&#39;s plans for 2007 + Q&amp;A</title>
+      <subtitle></subtitle>
+      <track>CentOS + Fedora</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Fedora&amp;#39;s plans for 2007, the roadmap, the goals, and Q&amp;amp;A about any topic related to Fedora.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description></description>
+      <persons>
+          <person id="501">Max Spevack</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

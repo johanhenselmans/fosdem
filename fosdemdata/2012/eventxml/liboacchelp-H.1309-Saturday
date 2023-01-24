@@ -1,0 +1,17 @@
+  <event id="189">
+      <start>18:15</start>
+      <duration>00:15</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>AccessODF &amp; Hacking Help</title>
+      <subtitle>two talks crammed into fifteen minutes of fun</subtitle>
+      <track>LibreOffice Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;AccessODF is an extension for evaluating and repairing accessibility issues in ODT, DOC and DOCX. In addition to providing a list of errors and warnings (and repair suggestions), it also provides some functionality for automatic and semi-automatic repair.&#xA;Hacking LibreOffice Help files, to improve contents and make them more suitable to user needs. Hacking for human beings, because help file should not be handled by developers.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons></persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

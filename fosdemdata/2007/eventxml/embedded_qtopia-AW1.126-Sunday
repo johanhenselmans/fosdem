@@ -1,0 +1,21 @@
+  <event id="39">
+      <start>12:00</start>
+      <duration>01:00</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>Open Source Embedded Development with Qtopia</title>
+      <subtitle></subtitle>
+      <track>Embedded</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Lorn will explain the development procedure including development of new device support through the use of device configurations using &lt;a href=&#34;http://www.trolltech.com/developer/downloads/qtopia/coregpl&#34;&gt;Qtopia 4 Open Source Edition&lt;/a&gt; as well as the Greenphone SDK.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;&lt;a href=&#34;http://www.trolltech.com/products/qtopia&#34;&gt;Qtopia&lt;/a&gt; is at the forefront of the Linux Embedded gui development world.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Qtopia has always been open source, and with the release of &lt;a href=&#34;http://www.trolltech.com/developer/downloads/qtopia/coregpl&#34;&gt;Qtopia 4 Open Source Edition&lt;/a&gt;, more source code than every before has been released as Open Source.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.trolltech.com/&#34;&gt;Trolltech&lt;/a&gt; believes in the power of the GPL, which is why we release Qt and Qtopia under a dual license scheme, so the free code always remains free. Other companies say they embrace open source, but really only want to leverage development they don&amp;#39;t have to pay for, and only deliver a partial framework.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Now Trolltech has (soon) released Qtopia 4 Open Source Edition, developers can once again develop free software for an up to date Qtopia, which includes Qtopia Phones, such as the &lt;a href=&#34;http://www.trolltech.com/products/qtopia/greenphone&#34;&gt;Greenphone&lt;/a&gt;, released at the end of 2006.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Qtopia 4 is even easier to get started than before, as now there is only one package to download, configure and compile.&#xA;Lorn will explain the development procedure including development of new device support through the use of device configurations.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;He will also explain the Greenphone SDK, so all developers can develop free applications for Qtopia Phone Edition.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="391">Lorn Potter</person>
+      </persons>
+      <links>
+          <link href="../../slides/devrooms/embedded/Lorn_Potter_QT.pdf">Slides (PDF)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

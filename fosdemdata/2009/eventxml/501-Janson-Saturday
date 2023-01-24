@@ -1,0 +1,19 @@
+  <event id="10">
+      <start>10:30</start>
+      <duration>01:00</duration>
+      <room>Janson</room>
+      <slug></slug>
+      <title>Free. Open. Future?</title>
+      <subtitle></subtitle>
+      <track>Keynotes</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Freedom, openness and participation have become a pervasive part of digital &#xA;life. 250 million people use Firefox. Wikipedia reaches people in 260 languages. &#xA;Whole countries have Linux in their schools. Flickr hosts millions of openly &#xA;licenses photos. Apache underpins the Internet. We have moved mountains.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;At the same time, the terrain has shifted. Our digital world has moved into the &#xA;cloud. And, our window into this world is just as often unhackable phones in our &#xA;pocket as it is flexible computers on our desktop. Hundreds of millions of &#xA;people take being digital for granted, and rarely stop to think what it means. &#xA;The world where free and open source software were born is not the same as the &#xA;world they have helped to build.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;It&amp;#39;s time to ask: what do freedom, openness and participation look like 10 years &#xA;from now? How do we promote these values into the future? Building the open web &#xA;and hackability into the world of mobile is part of the answer. Promoting privacy, &#xA;portability and user control in the cloud are also critical. But what else? Mark &#xA;Surman will reflect on these questions and chat with the FOSDEM crowd.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="101">Mark Surman</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

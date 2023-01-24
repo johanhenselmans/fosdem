@@ -1,0 +1,19 @@
+  <event id="71">
+      <start>16:15</start>
+      <duration>00:45</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>CoreObject </title>
+      <subtitle>An Object Store built for Revision Control and Desktop Environment Needs</subtitle>
+      <track>GNUstep Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;to be written&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="711">Quentin Mathé</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

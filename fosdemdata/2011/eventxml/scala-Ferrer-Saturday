@@ -1,0 +1,19 @@
+  <event id="279">
+      <start>18:40</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>scala: Scala expressiveness</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;One of the key features of Scala is its conciseness. However, for many programmer out there, this conciseness sounds like shrinked and barely understandable. The topic of this fast talk to dwelve into this question and try to establish if Scala concineness is an added value or a more of maintenance risk.&#xA;(I can do this talk in English or in French)&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Scala is a general purpose programming language designed to express common programming patterns in a concise, elegant, and type-safe way. It smoothly integrates features of object-oriented and functional languages, enabling Java and other programmers to be more productive. Code sizes are typically reduced by a factor of two to three when compared to an equivalent Java application.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2791">Romain Pelisse</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

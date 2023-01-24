@@ -1,0 +1,19 @@
+  <event id="407">
+      <start>16:20</start>
+      <duration>00:30</duration>
+      <room>H.1308</room>
+      <slug></slug>
+      <title>Web Applications in GNOME</title>
+      <subtitle></subtitle>
+      <track>CrossDesktop Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;In this talk we&amp;#39;ll see how web applications are being integrated into the&#xA;new GNOME 3 experience. We&amp;#39;ll cover both the current status of the&#xA;specifications and its support in GNOME 3.2 through the Epiphany&#xA;application mode and the new developments in the multiple emerging&#xA;standards (Mozilla OpenWebApps, Chrome applications, WAC applications, W3C&#xA;widgets, etc) and how we plan to support them in future versions of GNOME.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="4071">Xan López</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

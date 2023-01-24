@@ -1,0 +1,21 @@
+  <event id="86">
+      <start>15:30</start>
+      <duration>00:30</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>How accessible is Debian?</title>
+      <subtitle></subtitle>
+      <track>Debian</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk will introduce the audience to accessibility, report successes and failures, address the future remaining challenges, and also tell about the small but so useful little thingies that every debian developer can do to make Debian yet more accessible.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Accessibility (a11y) has recently brought more and more attention in the OSS community, notably through the A11Y OpenGroup. Debian is actually one of the leaders among distributions in terms of accessibility: braille devices are notably supported right from the official debian-installer to the Gnome desktop, for instance. On the other hand, braille devices are expensive, so that quite a few people will resort to speech synthesis, and these, though working on an installed system, are not officially supported right from the installer.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="861">Samuel Thibault</person>
+      </persons>
+      <links>
+          <link href="http://meetings-archive.debian.net/pub/debian-meetings/2008/fosdem/ogg_theora/384x288/How_accessible_is_Debian___Samuel_Thibault.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

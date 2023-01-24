@@ -1,0 +1,21 @@
+  <event id="11">
+      <start>18:00</start>
+      <duration>01:00</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>RPMforge - Enterprise Linux packaging for CentOS and RHEL</title>
+      <subtitle></subtitle>
+      <track>CentOS + Fedora</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;RPMforge - Enterprise Linux packaging for CentOS and RHEL.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;RPMforge&amp;#39;s past, presence and future all-in-one presentation.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;RPMforge is a 3rd party repository of RPM packages that finds it roots in individual packaging projects from FreshRPMS (Matthias Saou), Dag Wieers and Dries Verachtert.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;A lot of things happened since the very first RPM packages were made against Red Hat Linux and where RPMforge stands today. The advent of Red Hat Enterprise Linux, the replacement of Red Hat Linux by Fedora Linux, the availability of RHEL clones, Fedora Extras and the present dominance of CentOS changed how 3rd party repositories worked and interfaced with communities.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;This presentation will give an historical overview of how RPMforge came to be, where it is today and where we are heading to. For current RPMforge users we will touch the subject on how you can contribute and discuss ways to accelerate development.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="111">Dag Wieers</person>
+      </persons>
+      <links>
+          <link href="http://wiki.centos.org/Events/Fosdem2007?action=AttachFile&amp;do=get&amp;target=fosdem-2007-rpmforge.pdf">Slides (PDF)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

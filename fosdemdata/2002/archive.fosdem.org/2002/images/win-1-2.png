@@ -1,0 +1,58 @@
+
+    <!DOCTYPE html>
+
+
+
+
+
+<!-- HEADER -->
+<html>
+	<head>
+		<title>Internet Archive Wayback Machine</title>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<link rel="stylesheet" type="text/css" href="http://staticweb.archive.org/css/styles.css" />
+		<base target="_top" />
+	</head>
+	<body>
+<!-- /HEADER -->
+
+
+        <div id="positionHome">
+            <section>
+            <div id="logoHome">
+                <a href="/index.jsp"><h1><span>Internet Archive's Wayback Machine</span></h1></a>
+            </div>
+            </section>
+            <section>
+            <div id="error">
+	<script type="text/javascript">
+	function go() {
+		document.location.href = "http:\/\/web.archive.org\/web\/20110616113157im_\/http:\/\/www.fosdem.org\/2011\/images\/win-1-2.png";
+	}
+	window.setTimeout("go()",5000);
+	</script>
+		<p class="code">Loading...</p>
+		<p class="code shift target">http://www.fosdem.org/images/win-1-2.png | 11:31:57 Jun 16, 2011</p>
+		<p class="code shift red">Got an HTTP 302 response at crawl time</p>
+		<p class="code">Redirecting to...</p>
+		<p class="code shift target">http://www.fosdem.org/2011/images/win-1-2.png</p>
+        <p class="impatient"><a href="http://web.archive.org/web/20110616113157im_/http://www.fosdem.org/2011/images/win-1-2.png">Impatient?</a></p>
+            </div>
+            </section>
+            <div id="errorBorder"></div>
+
+        
+
+
+
+<!-- FOOTER -->
+            <footer>
+            <div id="footerHome">
+                <p>The Wayback Machine is an initiative of the <a href="http://www.archive.org/">Internet Archive</a>, a 501(c)(3) non-profit, building a digital library of Internet sites and other cultural artifacts in digital form.<br/>Other <a href="http://www.archive.org/projects/">projects</a> include <a href="http://www.openlibrary.org/">Open Library</a>, </a><a href="http://www.nasaimages.org/">nasaimages.org</a> &amp; <a href="http://www.archive-it.org">archive-it.org</a>.</p>
+                <p>Your use of the Wayback Machine is subject to the Internet Archive's <a href="http://www.archive.org/about/terms.php">Terms of Use</a>.</p>
+            </div>
+            </section>
+        </div>
+    </body>
+</html>
+<!-- /FOOTER -->

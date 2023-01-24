@@ -1,0 +1,19 @@
+  <event id="128">
+      <start>11:00</start>
+      <duration>01:00</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>Smolt and Web Application Privacy</title>
+      <subtitle></subtitle>
+      <track>CentOS + Fedora</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This presentation will go over some of what &lt;a href=&#34;https://hosted.fedoraproject.org/smolt/wiki&#34;&gt;Smolt&lt;/a&gt; can do for you and your Linux distribution.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;It will also cover some of the privacy issues related to Smolt, how they are solved using standard security features, and how they can be used in other web applications.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1281">Yaakov Nemoy</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

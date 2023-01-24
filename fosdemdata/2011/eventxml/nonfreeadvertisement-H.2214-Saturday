@@ -1,0 +1,19 @@
+  <event id="230">
+      <start>17:40</start>
+      <duration>00:30</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>Non-free software advertisement</title>
+      <subtitle>presented by your government</subtitle>
+      <track>GNU devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Governments are adversiting the usage of non-free software to read PDF files.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;What would you think about a sign on the highway saying “You need a Volkswagen to drive on this road. Contact your Volkswagen dealer for a gratis test drive – Your Government”? When it comes to software that opens PDF files, many public sector organisations do this every day.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;With the pdfreaders.org campaign FSFE has turned the spotlight on government organisations who behave in this way, exposing how frequent such advertisements for non-free software are. With the help of activists across Europe, FSFE contacted these organisations and explained them how to improve their websites so that they respect our freedom.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Why did FSFE choose this topic? How was the campaign organised? What has the Belgium&amp;#39;s Prime Minister or the German Federal Criminal Police Office replied to our letters? How successful was the campaign?&lt;/p&gt;      </description>
+      <persons>
+          <person id="2301">Matthias Kirschner</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

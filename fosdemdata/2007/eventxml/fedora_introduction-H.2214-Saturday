@@ -1,0 +1,22 @@
+  <event id="47">
+      <start>15:00</start>
+      <duration>01:00</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>Introduction to Fedora</title>
+      <subtitle></subtitle>
+      <track>CentOS + Fedora</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Introduction of Fedora and what the project will present at the booth&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description></description>
+      <persons>
+          <person id="471">Chitlesh Goorah</person>
+          <person id="472">Max Spevack</person>
+      </persons>
+      <links>
+          <link href="http://fedoraproject.org/wiki/FUDCon/FUDConBrussels2007?action=AttachFile&amp;do=get&amp;target=ChitSlide-mspevack.odp">Slides (OOo)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

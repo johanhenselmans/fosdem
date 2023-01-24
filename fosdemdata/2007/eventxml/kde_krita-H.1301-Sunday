@@ -1,0 +1,21 @@
+  <event id="111">
+      <start>14:00</start>
+      <duration>00:45</duration>
+      <room>H.1301</room>
+      <slug></slug>
+      <title>Krita: Present and Future</title>
+      <subtitle></subtitle>
+      <track>KDE</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Krita is the painting and image editing suite for KOffice. The talk will focus on its recent developments and the future KDE4 version.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Krita has been innovating itself for a while now. Already available features interesting for image editing include the possibility of CMYK colors and&#xA;16 bit per channel, while other features like a basic watercolor simulation could interest artists.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The next version of Krita will be based on the new KDE4 and KOffice2 technologies. The long-awaited change towards KDE4 for development provided a great incentive&#xA;to reshape the whole of KOffice, and Krita will be using these new architectures to provide an even better integration with the rest of the KOffice suite. This&#xA;intermingling goes both ways: not only will Krita be able to have better support for embedding other applications, the whole of KOffice now shares libraries&#xA;that were already present in Krita 1.6.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;This talk will consist of two parts. One part will be looking at the recent changes and features in the last KDE3 based 1.6 branch. The other part will try to give&#xA;an overview of the more interesting features that are scheduled for the next KDE4 based release, offering a view at what could be expected.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1111">Bart Coppens</person>
+      </persons>
+      <links>
+          <link href="http://www.kde.org/kdeslides/fosdem2007/2007-02-coppens-krita_present_and_future.pdf">Slides (PDF)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

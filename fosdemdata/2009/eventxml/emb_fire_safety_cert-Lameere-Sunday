@@ -1,0 +1,19 @@
+  <event id="78">
+      <start>11:00</start>
+      <duration>01:00</duration>
+      <room>Lameere</room>
+      <slug></slug>
+      <title>Development and Certification of Linux-Based Fire Safety &amp; Security Systems</title>
+      <subtitle></subtitle>
+      <track>Embedded</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Experiences in Development and Certification of Linux-Based Fire Safety &amp;amp; Security Systems&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;As time passes, we rely more and more on software-intensive systems in safety-critical areas, from car brakes to aircraft control systems. A number of standards and certification procedures have been defined to assess the reliability of those products. Linux and open-source software (OSS) are attractive components to use in embedded systems.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;While some reliability information is available from enterprise systems research, certifiability of OSS in a particular industry is a major project risk.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;In this presentation, we share our experience in the development and certification of Linux-based fire safety systems. We provide a short introduction in standards objectives and approaches, describe the certification stakeholders and processes, product development challenges and possible solutions.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="781">Baurzhan Ismagulov</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

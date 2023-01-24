@@ -1,0 +1,20 @@
+  <event id="187">
+      <start>14:15</start>
+      <duration>00:30</duration>
+      <room>AW1.124</room>
+      <slug></slug>
+      <title>Mapping Wikileaks&#39; Cablegate using Python, mongoDB, Neo4J and Gephi</title>
+      <subtitle></subtitle>
+      <track>Data Analytics devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Text analysis and graph visualization on the Wikileaks Cablegate dataset.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;We propose to present a complete work-flow of textual data analysis, from acquisition to visual exploration of a complex network. Through the presentation of a simple software specifically developed for this talk, we will cover a set of productive and widely used softwares and libraries in text analysis, then introduce some features of Gephi, an open-source network visualization &amp;amp; analysis software, using the data collected and transformed with cablegate-semnet.&lt;/p&gt;      </description>
+      <persons>
+          <person id="1871">Elias Showk</person>
+          <person id="1872">Julian Bilcke</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

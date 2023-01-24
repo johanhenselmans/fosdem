@@ -1,0 +1,19 @@
+  <event id="150">
+      <start>11:00</start>
+      <duration>00:30</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>Last minute lightning</title>
+      <subtitle></subtitle>
+      <track>Free Java</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;If you missed the dealine for talk proposal submissions for this devroom, please come to the devroom on Sunday morning and present your project in 5 minutes (or less) in this free and open source Java lightning talk session.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="1501">Dalibor Topic</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

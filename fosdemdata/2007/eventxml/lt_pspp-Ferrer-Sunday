@@ -1,0 +1,21 @@
+  <event id="146">
+      <start>15:40</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>PSPP</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;A lightning talk about PSPP: a Free replacement for SPSS.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;The proprietary program called SPSS is widely used by the&#xA;&#x9;medics, psychologists and social scientists.  For many years&#xA;&#x9;there has been no Free program to replace it.  PSPP is an&#xA;&#x9;emulation of this proprietary program, designed to facilitate&#xA;&#x9;the transition to a Free desktop for traditonal SPSS users.&#xA;&#x9;I&amp;#39;ll be presenting what PSPP currently does now, what it may&#xA;&#x9;do in the future and how it could interact with other Free&#xA;&#x9;Software programs. &#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;i&gt;About PSPP:&lt;/i&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&#x9;PSPP is a program for statistical analysis of sampled data. It&#xA;&#x9;interprets commands in the SPSS language and produces tabular&#xA;&#x9;output in ASCII, PostScript, or HTML format.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&#x9;PSPP development is ongoing. It already supports a large subset of&#xA;&#x9;SPSS&amp;#39;s transformation language. Its statistical procedure support is&#xA;&#x9;currently limited, but growing.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1461">John Darrington</person>
+      </persons>
+      <links>
+          <link href="../../slides/lightningtalks/PSPP.pdf">Slides (PDF)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,23 @@
+  <event id="97">
+      <start>10:00</start>
+      <duration>01:00</duration>
+      <room>Lameere</room>
+      <slug></slug>
+      <title>eLuaBrain: a 32-bit MCU based educational computer</title>
+      <subtitle></subtitle>
+      <track>Embedded Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;eLuaBrain is an experiment in educational computers with a number of&#xA;unique features. It is a low cost, completely autonomous computer&#xA;designed to work with low cost peripherals (PS/2 keyboard on input and&#xA;a standard VGA monitor on output). Its main goal is to offer another&#xA;perspective on education in general and training IT professionals in&#xA;particular. Modern computers are difficult to understand at the&#xA;hardware level even for experienced IT professionals; at the same&#xA;time, there is a growing trend in most modern computer languages to&#xA;completely ignore the hardware on which they run and focus entirely on&#xA;programming concepts instead. By contrast, eLuaBrain offers the whole&#xA;experience in a single package. Its hardware is easy to understand&#xA;(and hack) and the on-board software offers easy ways to interact with&#xA;the hardware, thanks to the features provided by the eLua open source&#xA;project. eLua is built around the programming language Lua, which is a&#xA;relatively compact language, but comes packed with lots of features,&#xA;which makes it very suitable for teaching programming concepts. With&#xA;eLuaBrain it is natural to teach programming and hardware design in&#xA;parallel, which gives students a complete image on the&#xA;hardware-software interactions.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;At the hardware level, it is built around a 32-bit CPU (a Cortex-M3&#xA;core) with 1M of external RAM. It also features TCP/IP network&#xA;connectivity, SD card storage and a low power radio link. eLua brings&#xA;a MCU-friendly Lua interpreter and hardware support modules into the&#xA;equation, while the built-in code editor and on-line help system make&#xA;eLuaBrain a truly autonomous platform. A very low footprint, UDP based&#xA;remote file system can be used to easily share files with any desktop&#xA;machine.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;The hardware and software behind eLuaBrain are open source, free to&#xA;use for both commercial and non-commercial projects. eLuaBrain comes&#xA;with a number of sample applications meant to demonstrate the platform&#xA;features and to serve as a starting point for future applications.&#xA;These include a RSS reader, an IRC client, a Web server and (of&#xA;course) games.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;This presentation will start with an overview of eLua, after which&#xA;we&amp;#39;ll take a deeper look at the implementation of eLuaBrain at both&#xA;hardware and software level and its future directions of development.&#xA;If time allows and the right hardware is in place, a live demo of the&#xA;platform will also be provided.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="971">Bogdan Marinescu</person>
+          <person id="972">Raman Gopalan</person>
+      </persons>
+      <links>
+          <link href="763/134_eLuaBrain.pdf">eLuaBrain.pdf (slides)</link>
+          <link href="763/145_FOSDEM-2012.html">FOSDEM-2012.pht (slides)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

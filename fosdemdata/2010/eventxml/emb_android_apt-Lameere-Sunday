@@ -1,0 +1,19 @@
+  <event id="89">
+      <start>11:00</start>
+      <duration>00:30</duration>
+      <room>Lameere</room>
+      <slug></slug>
+      <title>apt-get for Android - with GUI</title>
+      <subtitle></subtitle>
+      <track>Embedded</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;When launched, Google created a central point of distributing applications for the Android platform: the Android Market.This approach, although being an undefined standard for most of the major mobile families - Apple as AppStore for their iphone - has limitations, specially in user freedom and flexibility for the development.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Aptoide tries to create a way of sharing applications for Android in a way that the users are in control of what they distribute, how they distribute and what they want to see shared.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;We will present the Aptoide concept and compare this to philosophies - central point vs distributed repositories - commenting on each pros and cons, and trying to merged them together.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;In the end of the day, this talk proposes to show Android developers a new way of put their applications available which is an alternative of closed and inflexible Google&amp;#39;s Android market.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="891">Roberto Jacinto</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

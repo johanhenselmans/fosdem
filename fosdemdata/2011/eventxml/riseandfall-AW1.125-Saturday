@@ -1,0 +1,19 @@
+  <event id="277">
+      <start>18:30</start>
+      <duration>00:30</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>The Rise and Fall and Rise of Java</title>
+      <subtitle></subtitle>
+      <track>Free Java devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The Java ecosystem, long a bastion of stability in an otherwise volatile industry, has been unusually challenged of late.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Roiled by Oracle&amp;#39;s litigation of Google, churned with the news that IBM decommited from Harmony in favor of OpenJDK and lately has been under attack from analysts. It many respects, the unrest couldn&amp;#39;t have come at a worse time, as developer attention and focus is fragmenting under a constant stream of platform, language and framework fragmentation. What does this mean for free software developers?&lt;/p&gt;&#xA;&#xA;&lt;p&gt;We&amp;#39;ll explore and unpack the recent events, and evaluate likely scenarios moving forward with an eye towards the implications of Java on the free software community, including the future of Java the language and Java the platform. This will include relevant metrics vis-a-vis developer attention and strategy, as well as an examination of projects important to the ecosystem.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2771">Steve O&#39;Grady</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

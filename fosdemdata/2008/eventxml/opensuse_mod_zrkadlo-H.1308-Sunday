@@ -1,0 +1,19 @@
+  <event id="211">
+      <start>15:00</start>
+      <duration>00:30</duration>
+      <room>H.1308</room>
+      <slug></slug>
+      <title>mod_zrkadlo, the openSUSE redirector</title>
+      <subtitle></subtitle>
+      <track>openSUSE</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Scaling a download infrastructure with your success.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;When an organization offers files for download, and grows public, infrastructure might need to serve more requests than the single organization can technically handle. One option to scale is using paid services of a content delivery network (CDN). This is often not affordable, especially for Open Source projects. Another way is building up a mirror infrastructore. But choosing an appropriate mirror is often left to the user, and mirrors might be out of date, incomplete, or unreliable.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;This talk shows how to build a poor man&amp;#39;s CDN, using plain mirror servers and a redirecting Apache HTTP server. On the example of download.openSUSE.org, it shows how mirrored content can be transparently integrated into the web service, and how requests are redirected to geographically close mirrors using IP geolocation. The demonstrated infrastructure comprises means to scan mirrors and keeping track of present files in a MySQL database, active monitoring of mirrors, and mod_zrkadlo, a redirecting Apache module built upon the DBD framework.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Along the way, the talk discusses different approaches in geographical redirection of bulk data, load sharing with weighted randomization, high availibility and scaling issues, mirror stickiness, and client side robustness. Also discussed are problems that have been encountered in real life, solutions and open questions.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="2111">Peter Poeml</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

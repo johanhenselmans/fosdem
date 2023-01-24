@@ -1,0 +1,19 @@
+  <event id="163">
+      <start>15:45</start>
+      <duration>02:15</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>Releasing Mozilla Localizations</title>
+      <subtitle></subtitle>
+      <track>Mozilla</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Mozilla will use the gathering of many of its European Localizers to discuss various aspects around releasing existing and new localizations of the Mozilla products.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;We will have a series of discussions on various topics. The actual list of topics as well as the time spent on each will depend on what we actually need, but expect topics like Documentation, Build, Tools, Release process etc to be handled.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;These won&amp;#39;t really be talks, and Axel will only moderate the discussions.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1631">Axel Hecht</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

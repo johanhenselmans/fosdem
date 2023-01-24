@@ -1,0 +1,22 @@
+  <event id="27">
+      <start>16:40</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Kettle: extracting, transforming and loading data</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;With the lightning talk, Matt wants to take a first stab at bridging the gap &#xA;between two worlds: the general open source world, and the Open Source Business Intelligence world.  Unfortunately it will not be possible to explain the whole field of BI &#xA;in 15 minutes, so the focus will be on Matt&amp;#39;s line of expertise, ETL and the &#xA;Kettle project more specific.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Kettle basically is an extremely fast tool to extract data from many different &#xA;sources, such as web pages, excel documents, databases, you name it.  (E = &#xA;Extraction in ETL)&#xA;&lt;/p&gt;&#xA;&lt;p&gt;We can transparently grab that data and then manipulate, transform or process &#xA;that data in just about any possible way you can imagine.  (T = &#xA;Transformation in ETL)&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Then, after combining data, changing it, mapping values and whatnot, you can &#xA;store or load the result in whatever format or medium you like, including &#xA;text files and all possible databases. (L = Loading in ETL)&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Some examples:&#xA;&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Load data from text files, XML files to store it into a database&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Export of database(s) to text-file(s) or other databases&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Import of data into databases, ranging from text-files to excel sheets&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Data migration between database applications&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Exploration of data in existing databases (tables, views, etc.)&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Information enrichment by looking up data in various information stores &#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;(databases, text-files, excel sheets and more )&#xA;&lt;ul&gt;&lt;li&gt; Data cleaning by applying complex conditions in data transformations&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Application integration&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Data warehouse population with built-in support for slowly changing &#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;dimensions, junk dimensions and much, much more.&#xA;&#xA;To do all these things we provide an easy to use graphical user interface.  &#xA;For a screen shot, see here:&#xA;&#xA;http://www.pentaho.com/images/transformation_screenshot.png&#xA;&#xA;One of the first things that was done by Kettle (and myself 4-5 years ago) was &#xA;the capturing of the traffic data for the Flanders Traffic Centre (Vlaams &#xA;Verkeerscentrum) in Wilrijk:&#xA;&#xA; http://www.verkeerscentrum.be/verkeersinfo/default&#xA;&#xA;This source data is updated every minute and loaded from thousands of sources &#xA;accross the state, referenced, cleaned and loaded in a single Terabyte &#xA;database containing years of history and billions of rows of data.  That &#xA;database is then used to do traffic pattern analyses, traffic density &#xA;reports, planning of road works, etc.&#xA;&#xA; </description>
+      <persons>
+          <person id="271">Matt Casters</person>
+      </persons>
+      <links>
+          <link href="http://fosdem.org/2008/slides/lightningtalks/fosdem08_ltalk_kettle.pdf">Slides (PDF)</link>
+          <link href="http://video.fosdem.org/2008/lightningtalks/FOSDEM2008-kettle.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

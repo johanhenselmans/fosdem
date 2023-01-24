@@ -1,0 +1,21 @@
+  <event id="150">
+      <start>09:20</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Zzuf</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;A lightning talk about Zzuf, an input fuzzing bug hunter.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;This talk will present zzuf&amp;#39;s internals and give a few examples&#xA;  of real life bugs in various widespread end-user applications that&#xA;  zzuf is able to find automatically.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;i&gt;About Zzuf:&lt;/i&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;zzuf is a transparent application input fuzzer. Its purpose is&#xA;  to find bugs in applications by corrupting their user-contributed&#xA;  input. It works by intercepting file and network operations and&#xA;  changing random bits in the program&amp;#39;s input. zzuf&amp;#39;s behaviour is&#xA;  deterministic, making it easier to reproduce bugs.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1501">Sam Hocevar</person>
+      </persons>
+      <links>
+          <link href="../../slides/lightningtalks/Zzuf.pdf">Slides (PDF)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

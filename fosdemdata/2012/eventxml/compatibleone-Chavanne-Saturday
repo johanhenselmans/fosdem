@@ -1,0 +1,20 @@
+  <event id="65">
+      <start>14:30</start>
+      <duration>00:25</duration>
+      <room>Chavanne</room>
+      <slug></slug>
+      <title>Open Cloud Interoperability with CompatibleOne</title>
+      <subtitle></subtitle>
+      <track>Virtualization and Cloud Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk will detail the architecture the CompatibleOne open source collaborative project and will conclude with a live demonstration of what seems to be the first open source cloud broker. CompatibleOne develops interoperable middleware for the description and federation of heterogeneous clouds comprising resources provisioned by different vendors. The aim of CompatibleOne is break vendor-lock-in for developers and users by providing interoperability with most platforms. The project contributes to the cloud stack of the OW2 Open Source Cloudware initiative (OSCi).&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="651">Fabio Mancinelli</person>
+          <person id="652">Jamie Marshall</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

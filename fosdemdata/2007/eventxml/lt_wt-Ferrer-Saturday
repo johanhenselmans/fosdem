@@ -1,0 +1,21 @@
+  <event id="149">
+      <start>16:40</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Wt</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;A lightningtalk about Wt, a C++ library to develop web applications.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;After a short introduction to the Wt library basics and the problems&#xA;it solves, we will demonstrate by example how straight-forward the&#xA;development of cross-browser portable web applications can be.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;i&gt;About Wt:&lt;/i&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Wt (pronounced &amp;#39;witty&amp;#39;) is a C++ library to create highly interactive&#xA;web applications,&#xA;with an API that resembles  desktop widget libraries. Internally, Wt&#xA;uses new browser technologies (JavaScript, DOM, AJAX) if available,&#xA;features a dynamic C++-to-JavaScript translation, and reverts to plain&#xA;HTML if necessary.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1491">Wim Dumon</person>
+      </persons>
+      <links>
+          <link href="../../slides/lightningtalks/Wt.pdf">Slides (PDF)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

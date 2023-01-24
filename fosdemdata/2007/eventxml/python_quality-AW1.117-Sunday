@@ -1,0 +1,19 @@
+  <event id="192">
+      <start>10:00</start>
+      <duration>00:30</duration>
+      <room>AW1.117</room>
+      <slug></slug>
+      <title>Quality in Python</title>
+      <subtitle></subtitle>
+      <track>Python</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;«Bind two birds together: they have twice as many wings. However they are unable to fly.» Best practices in Python explained.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Quality often come too late in a project life cycle. Python&amp;#39;s rigour helps making a project more maintainable but it isn&amp;#39;t enough. Better practices can help you being more effective. Code styles, testing, documentation, project packaging best practices explained.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1921">Bader Ladjemi</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

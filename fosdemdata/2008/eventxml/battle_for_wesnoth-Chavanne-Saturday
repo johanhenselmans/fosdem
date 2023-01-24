@@ -1,0 +1,22 @@
+  <event id="57">
+      <start>14:00</start>
+      <duration>00:45</duration>
+      <room>Chavanne</room>
+      <slug></slug>
+      <title>Battle for Wesnoth</title>
+      <subtitle></subtitle>
+      <track>Games</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;David White will talk about the Battle for Wesnoth&amp;#39;s development from a&#xA;technical point of view. He&amp;#39;ll discuss what has been successful&#xA;during the project&amp;#39;s development, and what lessons have been learned.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;White will present details of the design and implementation of the game as a case study in building a Free game.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Attention will also go to the currently low number of quality Free games, and what can be done about it.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description></description>
+      <persons>
+          <person id="571">David White</person>
+      </persons>
+      <links>
+          <link href="../../slides/maintracks/wesnoth.pdf">Slides (PDF)</link>
+          <link href="http://video.fosdem.org/2008/maintracks/FOSDEM2008-wesnoth.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

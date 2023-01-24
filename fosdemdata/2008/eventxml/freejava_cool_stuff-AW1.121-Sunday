@@ -1,0 +1,27 @@
+  <event id="134">
+      <start>14:00</start>
+      <duration>01:45</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>Cool stuff</title>
+      <subtitle></subtitle>
+      <track>Free Java</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Lots of examples of cool work in progress.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Real hackers show their work, how they do their work and where it takes Free Java next. Examples are gstreamer integration, graphics through the framebuffer, jnode a full os in java, NetBeans for HotSpot hacking and Jalimo bringing Free Java to maemo and openmoko devices.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1341">Peter Barth</person>
+          <person id="1342">Volker Simonis</person>
+          <person id="1343">Guillaume Legris</person>
+          <person id="1344">Levente Santha</person>
+          <person id="1345">Fabien Duminy</person>
+          <person id="1346">Mario Torre</person>
+          <person id="1347">Steph Meslin-Weber</person>
+          <person id="1348">Robert Schuster</person>
+          <person id="1349">Sebastian Mancke</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

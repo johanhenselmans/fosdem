@@ -1,0 +1,19 @@
+  <event id="46">
+      <start>14:00</start>
+      <duration>01:00</duration>
+      <room>H.2213</room>
+      <slug></slug>
+      <title>Large CentOS LDAP Deployments</title>
+      <subtitle></subtitle>
+      <track>Fedora + CentOS</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;How to support a huge number of users on a huge number of machines resulting in millions of user accounts.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="461">Geerd-Dietger Hoffmann</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

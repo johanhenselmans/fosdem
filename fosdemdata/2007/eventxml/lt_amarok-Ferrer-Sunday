@@ -1,0 +1,21 @@
+  <event id="123">
+      <start>10:40</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Amarok</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;A lightning talk about Amarok, a jukebox audio player&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;In this talk the speaker will show advanced and hard to find features&#xA;of Amarok. &#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;i&gt;About Amarok:&lt;/i&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Amarok is an audio player with jukebox capabilities and many useful,&#xA;partly well hidden features.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1231">Sven Krohlas</person>
+      </persons>
+      <links>
+          <link href="../../slides/lightningtalks/Amarok.pdf">Slides (PDF)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

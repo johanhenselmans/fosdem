@@ -1,0 +1,19 @@
+  <event id="94">
+      <start>16:00</start>
+      <duration>01:00</duration>
+      <room>H.2213</room>
+      <slug></slug>
+      <title>FreeIPA</title>
+      <subtitle></subtitle>
+      <track>Fedora + CentOS</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;&lt;a href=&#34;http://www.freeipa.org/page/Main_Page&#34;&gt;FreeIPA&lt;/a&gt; is an integrated security information management solution combining Linux (Fedora), Fedora Directory Server, MIT Kerberos, NTP, DNS.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;It consists of a web interface and command-line administration tools. Currently it supports identity management with plans to support policy and auditing management.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="941">Simo Sorce</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

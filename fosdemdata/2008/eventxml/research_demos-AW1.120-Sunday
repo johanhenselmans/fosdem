@@ -1,0 +1,19 @@
+  <event id="242">
+      <start>11:00</start>
+      <duration>01:00</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>Demos</title>
+      <subtitle></subtitle>
+      <track>Research Room</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Demos of the different platforms developed by the research projects that organize the room&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description></description>
+      <persons>
+          <person id="2421">Israel Herraiz</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="7">
+      <start>10:00</start>
+      <duration>00:30</duration>
+      <room>AW1.105</room>
+      <slug></slug>
+      <title>Introduction to Haiku</title>
+      <subtitle></subtitle>
+      <track>Alt-OS</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Haiku is a new open-source operating system that specifically targets personal computing. Inspired by the BeOS, Haiku is fast, simple to use, easy to learn and yet very powerful.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;A short introduction to the operating system will be presented, along with a little demonstration.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="71">Olivier Coursière</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

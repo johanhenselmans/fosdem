@@ -1,0 +1,22 @@
+  <event id="41">
+      <start>11:20</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Foresight Linux: a new paradigm in distro making</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;o &amp;#39;traditionally&amp;#39; there were no &amp;#39;binary based&amp;#39; rolling            distributions,  for a reason.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;           The  idea is to show  how that is - with the right tools -&#xA;           not only possible, but in fact can change completely what to&#xA;           expect from a linux distribution.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;           The point is not to do a conary/rMake/foresight infomercial,&#xA;           but to present a new paradigm in distro making (Foresight&#xA;           Linux 2&#xA;           (expected H1/2008)), the challenges we face(d), etc.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;o Foresight Linux is a next generation linux distribution&#xA;           built around conary and rMake.&#xA;         o Currently released version (1.x train) has a very strong&#xA;           Gnome focus, and next version will have KDE and XFCE&#xA;           editions too.&#xA;         o Used as the base of the Official Gnome Development Kit.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="411">Antonio Meireles</person>
+      </persons>
+      <links>
+          <link href="http://fosdem.org/2008/slides/lightningtalks/fosdem08_ltalk_foresight.pdf">Slides (PDF)</link>
+          <link href="http://video.fosdem.org/2008/lightningtalks/FOSDEM2008-foresight.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,20 @@
+  <event id="28">
+      <start>14:00</start>
+      <duration>01:00</duration>
+      <room>AW1.124</room>
+      <slug></slug>
+      <title>MaRTE-OS</title>
+      <subtitle></subtitle>
+      <track>Ada</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;MaRTE-OS, A Hard Real-Time Operating System for Embedded Devices.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://marte.unican.es/&#34;&gt;MaRTE-OS&lt;/a&gt; is a Free (GPL) operating system developed in Ada that complies with the POSIX.13 minimal real-time subset (also known as &amp;#34;the toaster profile&amp;#34;) and Ada Real-Time Systems Annex D.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;It is thread based (no support for processes or different memory spaces and MMU&amp;#39;s) and provides all synchronisation and timing features of the POSIX Real Time standard. It can run as stand-alone (providing full Real-Time capabilitiies with support for drivers and real-time networks) or as a&#xA;Linux process (handling task scheduling itself and possibly interacting with Linux shared libraries and filesystems). Applications can be developed in Ada 2005, C or C++. The talk will present MaRTE features, the choice of Ada for Real-Time, developement environments and a demo from the &lt;a href=&#34;http://www.frescor.org/&#34;&gt;FRESCOR project&lt;/a&gt;.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="281">Daniel Sangorrín</person>
+          <person id="282">Miguel Telleria de Esteban</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

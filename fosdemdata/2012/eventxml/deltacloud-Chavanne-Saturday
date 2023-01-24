@@ -1,0 +1,19 @@
+  <event id="79">
+      <start>15:00</start>
+      <duration>00:25</duration>
+      <room>Chavanne</room>
+      <slug></slug>
+      <title>Open Clouds with Deltacloud API</title>
+      <subtitle></subtitle>
+      <track>Virtualization and Cloud Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Start an instance on an internal cloud, then with the same code start another on EC2 or Rackspace. Deltacloud protects your apps from cloud API changes and incompatibilities, so you can concentrate on managing cloud instances the way you want. Deltacloud API prosper from natural open-source evolution and use community driven&#xA;API design instead of vendor enforced one.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="791">Michal Fojtik</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

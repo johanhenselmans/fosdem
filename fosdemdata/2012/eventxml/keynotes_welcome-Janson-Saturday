@@ -1,0 +1,21 @@
+  <event id="180">
+      <start>10:30</start>
+      <duration>00:25</duration>
+      <room>Janson</room>
+      <slug></slug>
+      <title>Welcome to FOSDEM 2012</title>
+      <subtitle></subtitle>
+      <track>Keynotes</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;FOSDEM welcome and opening talk.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Welcome to FOSDEM 2012!&lt;/p&gt;      </description>
+      <persons>
+          <person id="1801">FOSDEM Staff</person>
+      </persons>
+      <links>
+          <link href="http://video.fosdem.org/2012/maintracks/janson/welcome_talk.webm">Video recording</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

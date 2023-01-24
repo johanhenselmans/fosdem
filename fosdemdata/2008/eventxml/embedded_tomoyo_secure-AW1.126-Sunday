@@ -1,0 +1,19 @@
+  <event id="121">
+      <start>12:00</start>
+      <duration>01:00</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>Tomoyo Linux for secure embedded (Linux)</title>
+      <subtitle></subtitle>
+      <track>Embedded</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;&lt;a href=&#34;http://tomoyo.sourceforge.jp/&#34;&gt;TOMOYO Linux&lt;/a&gt; is a MAC (Mandatory Access Control) implementation for Linux.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;It was developed by NTT DATA CORPORATION, Japan and is available under the GPL license. TOMOYO Linux consists of patch files to vanilla kernel and userland tools.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Patch files are provided for both 2.4 and 2.6. For the user&amp;#39;s convenience, various binary packages are also available.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1211">Toshiharu Harada</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

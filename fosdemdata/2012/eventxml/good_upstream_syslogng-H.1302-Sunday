@@ -1,0 +1,19 @@
+  <event id="133">
+      <start>11:00</start>
+      <duration>00:45</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>Being a good upstream - the syslog-ng PoV</title>
+      <subtitle></subtitle>
+      <track>CrossDistribution Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;For many years, syslog-ng was part of many distributions but stuck at ancient software versions. My task was to help distributions to update their syslog-ng packages and now to keep them updated. This is a two way process, as while distros receive many help, we also get a lot of useful feedback and ideas, which influence the development of syslog-ng.&#xA;Using syslog-ng as an example, I&amp;#39;ll try to show how upstream can work with distributions for the benefit of both sides.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="1331">Peter Czanik</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

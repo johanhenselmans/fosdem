@@ -1,0 +1,19 @@
+  <event id="306">
+      <start>16:30</start>
+      <duration>00:30</duration>
+      <room>H.2213</room>
+      <slug></slug>
+      <title>You Got Your XMPP in My Website: Using Strophe.js for Fun and Profit</title>
+      <subtitle></subtitle>
+      <track>Jabber + XMPP</track>
+      <type></type>
+      <language></language>
+      <abstract></abstract>
+      <description></description>
+      <persons>
+          <person id="3061">Jack Moffitt</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

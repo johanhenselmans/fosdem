@@ -1,0 +1,19 @@
+  <event id="18">
+      <start>13:30</start>
+      <duration>00:30</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>Azul&#39;s Foray into Open Source</title>
+      <subtitle></subtitle>
+      <track>Free Java devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Azul Systems has announced the Managed Runtime Initiative - basically a combination of a modified Linux kernel and a modified HotSpot JVM - to bring Azul&amp;#39;s fantastic GC and profiling tools to the X86.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;We have worked hard to reduce all forms of pauses, and have &lt;em&gt;GC&lt;/em&gt; pauses well in hand even for heaps with 10&amp;#39;s of Gigs. Now other forms of pauses dominate.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;This talk will discuss some of the issues involved with bringing this stack into Open Source and onto a commodity chip. Business issues: why Open Source? (to break a chicken-and-egg problem: we need OS changes but the OS vendors won&amp;#39;t change unless there is a user). Hardware issues: Azul&amp;#39;s GC needs Read Barriers and Metadata in Pointers which we used to get from our custom hardware + custom OS stack. How does this work on the X86?. OS issues: We need to (and can) re-map terabytes of virtual memory per second during GC - which we do with a new ABI into the linux kernel. Scheduler issues: The standard linux scheduler gives poor pause-time performance (but great throughput) - and we are attempting a low-pause system and that means soft-real-time. Other causes-for-pauses can come from priority inversion (doesn&amp;#39;t happen when you have more CPUs than threads like our custom gear), lock convoying inside the JVM, X86 power management suddenly idling a CPU that is supposed to be advancing a thread to a safepoint, and all sorts of hypervisor interactions.&lt;/p&gt;      </description>
+      <persons>
+          <person id="181">Cliff Click</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

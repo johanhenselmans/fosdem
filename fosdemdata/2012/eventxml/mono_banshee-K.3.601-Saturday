@@ -1,0 +1,20 @@
+  <event id="245">
+      <start>14:40</start>
+      <duration>00:45</duration>
+      <room>K.3.601</room>
+      <slug></slug>
+      <title>Banshee: Past, Present, Future and the Crazy stuff</title>
+      <subtitle></subtitle>
+      <track>Mono Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;After reminding you what Banshee is and why you love it, we’ll go&#xA;through some of the features that have been added recently, and give&#xA;you a glimpse of what we’re working on these days. We’ll then look&#xA;into the future and try to guess what it might bring to Banshee. We’ll&#xA;also show you how can be part of that future, by contributing a patch,&#xA;filling bugs or writing an extension.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;When you develop a major multi-platform desktop application that is&#xA;used by millions of people, you sometimes have to do some crazy stuff.&#xA;So we’ll share with you some of those things. Some of them will make&#xA;you laugh, some of them will make you cry, but all of them qualify for&#xA;at least one of the following adjectives : crazy, ridiculous, insane,&#xA;unreasonable, awesome.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="2451">Bertrand Lorentz</person>
+          <person id="2452">Olivier Dufour</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

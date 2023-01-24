@@ -1,0 +1,19 @@
+  <event id="56">
+      <start>17:50</start>
+      <duration>00:10</duration>
+      <room>Janson</room>
+      <slug></slug>
+      <title>Closing FOSDEM 2012</title>
+      <subtitle></subtitle>
+      <track>Keynotes</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Some closing words, and the not-to-be-missed mythical FOSDEM dance.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="561">FOSDEM Staff</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

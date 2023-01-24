@@ -1,0 +1,19 @@
+  <event id="4">
+      <start>16:00</start>
+      <duration>01:00</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>Contributing to CentOS</title>
+      <subtitle></subtitle>
+      <track>CentOS + Fedora</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;With an ever increasing number of installations, more and more people from the community want to get involved with the project in either a personal role or as an organisation helping out. My talk will focus on how such people can join the CentOS effort and what kind of areas we need the most help with.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description></description>
+      <persons>
+          <person id="41">Karanbir Singh</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

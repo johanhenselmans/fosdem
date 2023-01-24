@@ -1,0 +1,19 @@
+  <event id="6">
+      <start>16:00</start>
+      <duration>00:30</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>AltosUI</title>
+      <subtitle>Rocket Telemetry Ground Station</subtitle>
+      <track>Free Java devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;How Java enabled cross-platform compatibility and rapid feature development for the second-generation ground station software supporting Altus Metrum products.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;How Java enabled cross-platform compatibility and rapid feature development for the second-generation ground station software supporting Altus Metrum products.&lt;/p&gt;      </description>
+      <persons>
+          <person id="61">Bdale Garbee</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

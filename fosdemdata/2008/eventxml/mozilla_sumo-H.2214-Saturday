@@ -1,0 +1,19 @@
+  <event id="188">
+      <start>17:30</start>
+      <duration>00:45</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>Project SUMO (Firefox Support)</title>
+      <subtitle></subtitle>
+      <track>Mozilla</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;SUMO is short for support.mozilla.com, Mozilla&amp;#39;s new user-to-user support channel for Firefox, consisting of an extensive knowledge base, a support forum, and the ability to ask questions directly to more experienced Firefox users in live chat sessions. This session covers the background of the project, as well as the recent progress and the plans for the future.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Since SUMO is a community-driven project, we really need your help! There are lots of things that can be done, such as writing articles, filing article requests, translating articles to your native language, answering questions in the forum, or helping users using live chat.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1881">David Tenser</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

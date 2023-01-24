@@ -1,0 +1,22 @@
+  <event id="23">
+      <start>15:20</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Zapcat: monitoring Java applications</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This lightning talk gives a tour of Zapcat. It shows how to explore memory use of a Tomcat application server, find garbage collector issues, thread use and thread deadlock. The talk closes with a practical guide how to start monitoring your own Java applications.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Zapcat is a bridge between Java JMX and the Zabbix monitoring tool. It allows system administrators to monitor Java applications without having to learn Java. Zapcat provides templates and plugins for the JVM, Hibernate, Tomcat and the Openfire XMPP server. The documentation gives step-by-step howto&amp;#39;s for all of these components, plus Jetty and Oracle&amp;#39;s IAS/OC4J server.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="231">Kees Jan Koster</person>
+      </persons>
+      <links>
+          <link href="http://fosdem.org/2008/slides/lightningtalks/fosdem08_ltalk_zapcat.pdf">Slides (PDF)</link>
+          <link href="http://video.fosdem.org/2008/lightningtalks/FOSDEM2008-zapcat.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="292">
+      <start>15:00</start>
+      <duration>01:00</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>LLVM + Gallium 3D: Mixing a compiler with a graphics framework</title>
+      <subtitle></subtitle>
+      <track>X.org</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;With the increasing importance of shaders, it has become necessary to use advanced optimization strategies for shader compilers.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;This talks presents the ongoing work on integrating a compiling and optimizing framework (LLVM) with a 3D framework (Gallium 3D). We will discuss the main difficulties behind this work, the inner workings and the current developments.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2921">Stéphane Marchesin</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

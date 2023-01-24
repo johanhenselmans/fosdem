@@ -1,0 +1,19 @@
+  <event id="284">
+      <start>13:45</start>
+      <duration>00:40</duration>
+      <room>AW1.124</room>
+      <slug></slug>
+      <title>SIP Communicator: Building a Multi-Protocol Multi-OS Communications Client</title>
+      <subtitle></subtitle>
+      <track>Open Source Telephony devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;SIP Communicator&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;The talk will describe the various challenges that the SIP Communicator project has faced in an effort to become the most complete client-side application for real-time communication. We will go over the mechanics of establishing calls with protocols like SIP, XMPP, and MSN and how they translate into code. We will also describe our experience with issues like NAT traversal, as well as audio/video grabbing and rendering on Windows, Linux, and Mac OS X.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;For questions, comments or suggestion regarding the content of the talk, please feel free to contact the speaker.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2841">Emil Ivov</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,21 @@
+  <event id="367">
+      <start>16:00</start>
+      <duration>01:00</duration>
+      <room>K.3.401</room>
+      <slug></slug>
+      <title>Color Management in SVG2</title>
+      <subtitle></subtitle>
+      <track>X.org+OpenICC Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;SVG 1.1 is now widely implemented, and has some (minimal, optional) support for ICC colours. In the main though it is an sRGB system. SVG2 adds a conformance class for full ICC support (v2 and v4) including named colours, direct specification in LAB or LCHab, and interpolation in LAB or LCHab. Unmanaged device-specific colour is also supported.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="3671">Chris Lilley</person>
+      </persons>
+      <links>
+          <link href="http://www.w3c.org/">W3C</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

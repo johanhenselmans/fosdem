@@ -1,0 +1,19 @@
+  <event id="203">
+      <start>14:15</start>
+      <duration>00:15</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>Welcome</title>
+      <subtitle></subtitle>
+      <track>Research Room</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Welcome, schedule and practical issues.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description></description>
+      <persons>
+          <person id="2031">Jesus M. Gonzalez Barahona</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

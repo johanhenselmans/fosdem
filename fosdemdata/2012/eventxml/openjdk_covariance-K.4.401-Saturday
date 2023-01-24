@@ -1,0 +1,20 @@
+  <event id="294">
+      <start>14:00</start>
+      <duration>00:30</duration>
+      <room>K.4.401</room>
+      <slug></slug>
+      <title>Using the OpenJDK to investigate covariance in Java</title>
+      <subtitle></subtitle>
+      <track>Free Java Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The Java type system is unsafe since it allows covariant use of arrays. For example, an array of Bananas can be used where an array of Fruit is expected, given that Banana is a subclass of Fruit. This allows the following unsafe code:&lt;/p&gt;&#xA;&#xA;&lt;pre&gt;&lt;code&gt;Banana[] bananas = new Banana[5];&#xA;Fruit[] fruits = bananas;&#xA;fruits[0] = new Apple();  // runtime exception&#xA;bananas[0];  //  Apple?&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&#xA;&lt;p&gt;In the above example, the programmer gets back an Apple where he was expecting Bananas, causing an undesired runtime exception.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;We investigate the covariant use of arrays in open source Java programs to see whether programmers use this problematic feature of Java. We make use of the freely available OpenJDK, modifying its Java compiler to disallow covariant use of arrays, thus reporting any such uses as compile errors. We apply this compiler to a code corpus of 106 open source programs, including large and well-known programs such as Eclipse, JUnit and Ant.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Initial results of our investigation show that covariance is rarely used outside the context of legacy code and Java libraries. This leads us to question its relevance in the Java language.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;In our talk, we also discuss solutions to covariance taken by other languages such as Scala and Google Dart, explain our modifications to the OpenJDK Java compiler and report the full results of our study.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="2941">Raoul-Gabriel Urma</person>
+          <person id="2942">Janina Voigt</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

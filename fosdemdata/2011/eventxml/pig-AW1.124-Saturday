@@ -1,0 +1,19 @@
+  <event id="256">
+      <start>13:15</start>
+      <duration>00:30</duration>
+      <room>AW1.124</room>
+      <slug></slug>
+      <title>Hadoop Pig: Mapping &amp; reducing the easy way</title>
+      <subtitle></subtitle>
+      <track>Data Analytics devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Pig is a map/reduce query, or data flow language for use with Hadoop.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Pig is a map/reduce query, or data flow language for use with Hadoop. In this talk I want to give a introduction to Pig, by example. What it&amp;#39;s for and how it&amp;#39;s used, I will focus on practice, more than theory, and will share our experiences with Hadoop and Pig at Netlog.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;The presentation is focused at people who are new to Hadoop &amp;amp; Pig.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2561">Nathan Bijnens</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

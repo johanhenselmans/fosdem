@@ -1,0 +1,19 @@
+  <event id="195">
+      <start>14:00</start>
+      <duration>01:30</duration>
+      <room>AW1.117</room>
+      <slug></slug>
+      <title>Hacking OpenOffice.org for beginners</title>
+      <subtitle></subtitle>
+      <track>OpenOffice.org</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Hack OpenOffice.org on Mac OS X or Linux, for beginners.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Prerequisites: people willing to write C++ code, and/or fix bug ..or whatever around coding.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;1. Checking out the sources&#xA;1.1 Presenting the Master workspaces and the branches&#xA;&lt;/p&gt;&lt;ul&gt;&lt;li&gt; OOH680&#xA;&lt;/li&gt;&#xA;&lt;li&gt; SRC680 -&amp;gt; DEV300&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;1.2 Presenting what a Child workspace is&#xA;&lt;ul&gt;&lt;li&gt; bases&#xA;&lt;/li&gt;&#xA;&lt;li&gt; cwstools&#xA;&lt;/li&gt;&#xA;&lt;li&gt; resync&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;1.3 Presenting what a Milestone is&#xA;&lt;ul&gt;&lt;li&gt; based on reference milestone&#xA;&lt;/li&gt;&#xA;&lt;li&gt; completed with cws&#xA;&lt;/li&gt;&#xA;&lt;li&gt; rules&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;1.3 Presenting the tools: cvs (add some words about svn and git if possible)&#xA;&lt;ul&gt;&lt;li&gt; the essential: cvs, bonsai IZ and LXR&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;2 Steps for the build&#xA;2.1 Rules for a clean build&#xA;&lt;ul&gt;&lt;li&gt; use clean sources&#xA;&lt;/li&gt;&#xA;&lt;li&gt; build childworkspace with the exact milestone it is based on&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;2.1 Configure : possibilities, examples for Mac OS X, add a locale (where is it located in the code)&#xA;&lt;ul&gt;&lt;li&gt; with X / without X / mozilla , configure --help .. etc, wiki pages for a build&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;2.2 The build:&#xA;&lt;ul&gt;&lt;li&gt; present the building system : what, when , how -&amp;gt; present build.lst and d.lst&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;ul&gt;&lt;li&gt; the boostrap -&amp;gt; makefile&#xA;&lt;/li&gt;&#xA;&lt;li&gt; dmake and build&#xA;&lt;/li&gt;&#xA;&lt;li&gt; present the directories: where is what&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt; Eric will explain a complete building dependencies diagram for 2.x , and make the parallel with buil.lst files.&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;2.4 The product&#xA;&lt;ul&gt;&lt;li&gt; present all possible formats&#xA;&lt;/li&gt;&#xA;&lt;li&gt; how is everything packaged ?&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;3 Advanced build&#xA;&lt;ul&gt;&lt;li&gt; work with child workspaces : rules&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Present EIS and how use it&#xA;&lt;/li&gt;&#xA;&lt;li&gt; rebuild a module including symbols&#xA;&lt;/li&gt;&#xA;&lt;li&gt; ... and debug&#xA;&lt;/li&gt;&#xA;&lt;li&gt; create patches&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;4 Meet us&#xA;&#xA; </description>
+      <persons>
+          <person id="1951">Eric Bachard</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

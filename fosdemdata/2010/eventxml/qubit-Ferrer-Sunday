@@ -1,0 +1,19 @@
+  <event id="265">
+      <start>15:00</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>QuBit: Introducing Quantum Superpositions</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The only talk that can use the phrase &amp;#39;quantum mechanics&amp;#39; and not sound pretentious! It covers the principles of programming with variables that can hold multiple values at the same time - i.e. quantum superpositions, and how (and why) it&amp;#39;s impossible to know which of those values will be returned if you query the variable. It also details the library itself, and how to use it. (uses the C++ Qubit library, based on Damien Conway&amp;#39;s Perl module)&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;QuBit is a library to support Quantum Superpositions in C++. This allows each CQuBit variable to hold a number of different values at the same time. Normal mathematical operations can be performed on a QuBit, but they affect every value in the QuBit, at the same time. Binary Operations on two QuBits cause a result based on every possible outcome.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2651">Steven Goodwin</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

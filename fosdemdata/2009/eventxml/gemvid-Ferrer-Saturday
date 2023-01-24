@@ -1,0 +1,19 @@
+  <event id="104">
+      <start>18:40</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Animals monitoring with Gemvid</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;In this talk, we will first introduce Gemvid, a system that allows the monitoring of animals in their own environment for an extended period of time. Then, we&amp;#39;ll show how we demonstrated the sensitivity, reproducibility and stability of the system. Finally, we&amp;#39;ll highlight some issues and interesting points for the future of Gemvid.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Gemvid is a monitoring system that quantifies overall free movements of rodents without any markers, using a commercially available CCTV and a motion detection software developed on a GNU/Linux-operating computer. The application is based on software modules that allow the system to be used in a high-throughput workflow.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1041">Jean-Etienne Poirrier</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

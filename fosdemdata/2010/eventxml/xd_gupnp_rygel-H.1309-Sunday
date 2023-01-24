@@ -1,0 +1,19 @@
+  <event id="289">
+      <start>10:15</start>
+      <duration>00:45</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>GUPnP &amp; Rygel: Liberating Digital Living</title>
+      <subtitle></subtitle>
+      <track>CrossDesktop</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;GUPnP is an object-oriented C library to ease the task for writing UPnP/DLNA applications. Rygel is a collection of DLNA services built on top of GUPnP in Vala language.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;I will start the presentation with an introduction of both projects and how they are designed from ground-up for both desktop and mobile environments. After that I will introduce the existing and planed features. I will then introduce the plugin API of Rygel with the help of a Sample plugin, followed by a demo and Q&amp;amp;A session in the end.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2891">Zeeshan Ali</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,20 @@
+  <event id="212">
+      <start>16:30</start>
+      <duration>00:30</duration>
+      <room>H.1308</room>
+      <slug></slug>
+      <title>Build Service Web Interface</title>
+      <subtitle></subtitle>
+      <track>openSUSE</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk present an overview off the ongoing redesign of the openSUSE Build Service Web Client.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;We will talk about the following topics:&#xA;&lt;/p&gt;&lt;ul&gt;&lt;li&gt; openSUSE.org web design basics&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Current problems and planned changes&#xA;&lt;/li&gt;&#xA;&lt;li&gt; New Add Repository module&#xA;&lt;/li&gt;&#xA;&lt;li&gt; How to participate&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Q&amp;amp;A&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA; </description>
+      <persons>
+          <person id="2121">Robert Lihm</person>
+          <person id="2122">Andreas Bauer</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

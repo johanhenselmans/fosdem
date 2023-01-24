@@ -1,0 +1,19 @@
+  <event id="54">
+      <start>17:00</start>
+      <duration>01:00</duration>
+      <room>AW1.124</room>
+      <slug></slug>
+      <title>Gentoo/Alt:Prefix Project</title>
+      <subtitle></subtitle>
+      <track>Gentoo</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Gentoo Prefixed portage.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;In this talk, Fabian will give an overview of the Gentoo Prefixed Portage project.                                                                                                               &#xA;&lt;/p&gt;                                                                                                                               &#xA;&lt;p&gt;Mac OS X, Solaris, HPUX, etc. are all non-Linux operating systems. Fedora, SuSE, Debian ... even Gentoo Linux might be installed on your                                                          workstation at work or university. What do both have in commmon? The Gentoo Prefixed Portage project targets them.                                                                                  &#xA;&lt;/p&gt;                                                                                                                               &#xA;&lt;p&gt;Fabian will briefly discuss the rationales behind the Prefixed Portage project, and sketch its characteristics.&#xA;In the main body of the talk, he will discuss the changes made to Portage for prefix, and the ebuilds                                                         that are used.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="541">Fabian Groffen</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

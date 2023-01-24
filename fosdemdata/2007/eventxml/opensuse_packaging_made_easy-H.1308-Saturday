@@ -1,0 +1,23 @@
+  <event id="178">
+      <start>15:45</start>
+      <duration>00:45</duration>
+      <room>H.1308</room>
+      <slug></slug>
+      <title>Packaging made easy</title>
+      <subtitle></subtitle>
+      <track>openSUSE</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;How the openSUSE build service makes building packages easy for developers who don&amp;#39;t care about packaging.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;The openSUSE build service is a powerful tool to build installable packages of free software on a Novell hosted build farm. Packages can be built for the openSUSE and various other distributions, including for example Fedora and Ubuntu. Traditionally building packages involves pretty low-level tasks like manually creating tarballs, write detailed control files for the package building tools etc. The openSUSE build service provides more convenient interfaces which don&amp;#39;t require the developer to get too deep into the gory details of packaging software.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;This presentation will give an overview and demonstrate some of the tools of the openSUSE build service which make creating installable packages of free software for various distributions easy. It will show how to control the build with the web client, how to interface the build service with upstream source code repositories and what other tools exist to ease the job of packaging software.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1781">Cornelius Schumacher</person>
+      </persons>
+      <links>
+          <link href="http://files.opensuse.org/opensuse/en/5/57/FOSDEM_2007_packaging.pdf">Slides (PDF)</link>
+          <link href="http://ftp5.gwdg.de/pub/opensuse/FOSDEM/2007/fosdem2007-04_Packaging_made_easy-1200.ogg">Video (Ogg/Theora)</link>
+          <link href="http://ftp5.gwdg.de/pub/opensuse/FOSDEM/2007/fosdem2007-04_Packaging_made_easy-320.ogg">Video (Ogg/Theora/Low quality)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

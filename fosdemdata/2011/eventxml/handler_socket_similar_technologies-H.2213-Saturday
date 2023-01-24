@@ -1,0 +1,19 @@
+  <event id="135">
+      <start>13:30</start>
+      <duration>00:25</duration>
+      <room>H.2213</room>
+      <slug></slug>
+      <title>HandlerSocket and similar technologies - NoSQL for MySQL</title>
+      <subtitle></subtitle>
+      <track>MySQL &amp; friends devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Yoshinori Matsunobu’s blog post hit the MySQL World like a bomb! He claimed that he got 750k PK lookups per second &amp;#34;&amp;#34;on a commodity MySQL server&amp;#34;&amp;#34; with the InnoDB Storage Engine this comes pretty close to the 1M Transactions per second the MySQL Cluster guys claimed for a 10-node Cluster earlier in 2009/2010.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Other Projects have implemented such methods already 3 years ago with the BLOB Streaming Engine from Primebase.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;In this presentation we have a closer look at how those technologies work and how to set-up such a beast to get similar numbers. Where we can/should use it and where not.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Yoshinori Matsunobu’s blog post hit the MySQL World like a bomb! He claimed that he got 750k PK lookups per second &amp;#34;&amp;#34;on a commodity MySQL server&amp;#34;&amp;#34; with the InnoDB Storage Engine this comes pretty close to the 1M Transactions per second the MySQL Cluster guys claimed for a 10-node Cluster earlier in 2009/2010.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Other Projects have implemented such methods already 3 years ago with the BLOB Streaming Engine from Primebase.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;In this presentation we have a closer look at how those technologies work and how to set-up such a beast to get similar numbers. Where we can/should use it and where not.&lt;/p&gt;      </description>
+      <persons>
+          <person id="1351">Oli Sennhauser</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

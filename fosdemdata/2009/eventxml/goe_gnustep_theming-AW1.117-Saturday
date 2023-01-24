@@ -1,0 +1,19 @@
+  <event id="121">
+      <start>13:00</start>
+      <duration>01:00</duration>
+      <room>AW1.117</room>
+      <slug></slug>
+      <title>Theming in GNUstep</title>
+      <subtitle></subtitle>
+      <track>GNUstep + OpenGroupware + Etoile</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;A Presentation of the GNUstep theming API and the &amp;#39;Thematic&amp;#39; application intended for building theme bundles.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;This discusses design philosophy (what theming is supposed to accomplish), technical design (an overview of the implementation) and state of development.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1211">Richard Frith-Macdonald</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="44">
+      <start>13:00</start>
+      <duration>01:00</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>CentOS Distribution Engineering and how you can help</title>
+      <subtitle></subtitle>
+      <track>CrossDistribution Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;      </abstract>
+      <description></description>
+      <persons>
+          <person id="441">Karanbir Singh</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

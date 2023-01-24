@@ -1,0 +1,19 @@
+  <event id="190">
+      <start>11:30</start>
+      <duration>00:30</duration>
+      <room>AW1.117</room>
+      <slug></slug>
+      <title>Extending Python</title>
+      <subtitle></subtitle>
+      <track>Python</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Learn why and how to extend Python using ctypes and Pyrex.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Python comes with batteries included, but sometimes you need more. And even more often you need faster batteries that reuse C/C++ libraries.&#xA;Pyrex, the pseudo language, and ctypes helps you in order to bind C libraries to Python modules. Includes real pieces of code.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1901">Bader Ladjemi</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

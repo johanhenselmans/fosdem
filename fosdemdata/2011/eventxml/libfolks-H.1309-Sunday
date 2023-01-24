@@ -1,0 +1,19 @@
+  <event id="166">
+      <start>11:00</start>
+      <duration>00:45</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>Aggregating contacts: writing a backend for libfolks</title>
+      <subtitle></subtitle>
+      <track>Crossdesktop devroom</track>
+      <type></type>
+      <language></language>
+      <abstract></abstract>
+      <description>&#xA;&lt;p&gt;As its site says, libfolks is “a library that aggregates people from multiple sources”. Because the modern user has so many different sources of contacts – address book, IM, social networking, etc – duplicates from the different backends are inevitable. We call these (potential) duplicates from each backend Personas, and the goal of libfolks is to link the Personas into non-duplicated Individual objects. Each Individual contains all of the fields from the different Personas that are linked together – the phone number from the address book, a current alias from a Social Network, etc.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Since there is no need to explain the obvious benefits for Desktops in having a library like libfolks around I&amp;#39;d like to dive directly into Folks&amp;#39; architecture and writing new backends. The current version of Folks supports two backends: one is a key-file and the other is based on Telepathy. There is also a third backend for libsocialweb that was developed by Marco Barisione which allows you to fetch your contacts from Facebook and Twitter (and eventually many other social services). Recently, I was asked to implement a new backend to interact with EDS (Evolution Data Server).&lt;/p&gt;&#xA;&#xA;&lt;p&gt;The goal of this talk is to illustrate the core elements that compose a backend in Folks. With what we&amp;#39;ll cover that attendants should be able to leave with the practical knowledge needed to write their own backends. The second aim is to open a debate in the area of contact aggregation.&lt;/p&gt;      </description>
+      <persons>
+          <person id="1661">Raul Gutierrez Segales</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

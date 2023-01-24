@@ -1,0 +1,19 @@
+  <event id="48">
+      <start>16:00</start>
+      <duration>01:00</duration>
+      <room>Lameere</room>
+      <slug></slug>
+      <title>DaVinci dm365 for home automation</title>
+      <subtitle></subtitle>
+      <track>Embedded devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The development of the boot loaders and the kernel for dm365 will be&#xA;explained, analyzing at the first section many good and wrong experiences.&#xA;Explaining the choices made, learning how to contribute and deal with the&#xA;community, doing testing and benchmarking, etc..&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="481">Raffaele  Recalcati</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

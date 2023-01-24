@@ -1,0 +1,19 @@
+  <event id="416">
+      <start>12:00</start>
+      <duration>00:30</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>What Goes into an Executable? Identifying a Binary&#39;s Sources by Tracing Build Processes </title>
+      <subtitle></subtitle>
+      <track>Legal Issues Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Modern software is typically composed of numerous components, such as third-party open source packages. To prevent legal or security problems, software vendors must identify the components (including their licenses) used to create the binaries they ship. This requires knowing exactly which source code files and other artifacts are used to create a given binary, and how they are used (e.g.whether libraries are statically or dynamically linked). In this talk I will we show a generic method to reverse-engineer this information from the build processes of software products. The method traces system calls to determine the composition graph of sources and binaries involved in build processes.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="4161">Armijn Hemel</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

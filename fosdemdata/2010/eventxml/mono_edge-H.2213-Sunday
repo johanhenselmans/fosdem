@@ -1,0 +1,19 @@
+  <event id="183">
+      <start>11:00</start>
+      <duration>01:00</duration>
+      <room>H.2213</room>
+      <slug></slug>
+      <title>Mono Edge</title>
+      <subtitle></subtitle>
+      <track>Mono</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk will focus on the ongoing development efforts in Mono, and explore what are the new challenges that we are tackling.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="1831">Miguel de Icaza</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

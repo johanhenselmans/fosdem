@@ -1,0 +1,20 @@
+  <event id="96">
+      <start>18:00</start>
+      <duration>00:40</duration>
+      <room>H.1308</room>
+      <slug></slug>
+      <title>How can a newbie start and succeed in developing an application with EFL</title>
+      <subtitle></subtitle>
+      <track>CrossDesktop Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk is centered on Elementary and Edje for nice applications.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;I will explain my experience with EFL and show some code with some results.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="961">Philippe Caseiro</person>
+          <person id="962">Tom Hacohen</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

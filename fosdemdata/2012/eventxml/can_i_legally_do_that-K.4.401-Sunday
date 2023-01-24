@@ -1,0 +1,19 @@
+  <event id="39">
+      <start>11:30</start>
+      <duration>00:30</duration>
+      <room>K.4.401</room>
+      <slug></slug>
+      <title>Can I legally do that?</title>
+      <subtitle></subtitle>
+      <track>Free Java Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Often when people ask the question &amp;#34;Can I legally do that?&amp;#34;, they mean&#xA;&amp;#34;Will someone sue me if I do...?&amp;#34;. Sadly the answer is that if something&#xA;is successful, no matter what and how you did things, at some point&#xA;someone will just try and sue, just to see if they can get some part of&#xA;the success/money.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;This talk will describe some of the copyright, trademark and patent&#xA;issues a Free Software hacker dealing with the core java platform may&#xA;encounter. And some techniques we as a community can employ to make the&#xA;chances of individual hackers being the target of a lawsuit smaller and&#xA;how to make it harder for someone to take down one of our core java&#xA;platform projects.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="391">Mark Wielaard</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

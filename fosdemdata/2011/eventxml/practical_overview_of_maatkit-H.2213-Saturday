@@ -1,0 +1,19 @@
+  <event id="263">
+      <start>18:30</start>
+      <duration>00:25</duration>
+      <room>H.2213</room>
+      <slug></slug>
+      <title>A practical overview of Maatkit</title>
+      <subtitle></subtitle>
+      <track>MySQL &amp; friends devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Maatkit has saved my day more than once. In this talk, I will show you real-life examples of hard problems that I had to solve, and how Maatkit provided elegant (and most of the time very efficient) solutions.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;I will cover the following short stories:&lt;/p&gt;&#xA;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;When I run this query manually, I get an immediate answer, but when the same query is run by the application, it takes 30+s. Why?&lt;/li&gt;&#xA;&lt;li&gt;Did you know that the data you&amp;#39;re backing up is not the right data?&lt;/li&gt;&#xA;&lt;li&gt;You say that we&amp;#39;re running 400 SET queries/s. I doubt this, could we catch them live?&lt;/li&gt;&#xA;&lt;li&gt;Last time I wanted to update this field in the whole table, it took 2 weeks. Any tips to run the update faster?&lt;/li&gt;&#xA;&lt;li&gt;I had to skip an event on a slave. To avoid inconsistencies with the master, is rebuilding this 10GB table from scratch the only way?&lt;/li&gt;&#xA;&lt;li&gt;We regularly have very long queries that freeze the whole server. Could we kill them automatically if they run for more than 50s?&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&#xA;&lt;p&gt;And a few more if time permits.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Maatkit has saved my day more than once. In this talk, I will show you real-life examples of hard problems that I had to solve, and how Maatkit provided elegant (and most of the time very efficient) solutions.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;I will cover the following short stories:&lt;/p&gt;&#xA;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;When I run this query manually, I get an immediate answer, but when the same query is run by the application, it takes 30+s. Why?&lt;/li&gt;&#xA;&lt;li&gt;Did you know that the data you&amp;#39;re backing up is not the right data?&lt;/li&gt;&#xA;&lt;li&gt;You say that we&amp;#39;re running 400 SET queries/s. I doubt this, could we catch them live?&lt;/li&gt;&#xA;&lt;li&gt;Last time I wanted to update this field in the whole table, it took 2 weeks. Any tips to run the update faster?&lt;/li&gt;&#xA;&lt;li&gt;I had to skip an event on a slave. To avoid inconsistencies with the master, is rebuilding this 10GB table from scratch the only way?&lt;/li&gt;&#xA;&lt;li&gt;We regularly have very long queries that freeze the whole server. Could we kill them automatically if they run for more than 50s?&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&#xA;&lt;p&gt;And a few more if time permits.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2631">Stéphane Combaudon</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

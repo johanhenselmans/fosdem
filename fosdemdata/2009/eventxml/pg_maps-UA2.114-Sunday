@@ -1,0 +1,19 @@
+  <event id="250">
+      <start>11:00</start>
+      <duration>01:00</duration>
+      <room>UA2.114</room>
+      <slug></slug>
+      <title>Free Space Map and Visibility Map</title>
+      <subtitle></subtitle>
+      <track>BSD + PostgreSQL</track>
+      <type></type>
+      <language></language>
+      <abstract></abstract>
+      <description></description>
+      <persons>
+          <person id="2501">Heikki Linnakangas</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

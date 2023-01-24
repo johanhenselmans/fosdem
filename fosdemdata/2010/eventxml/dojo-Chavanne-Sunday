@@ -1,0 +1,21 @@
+  <event id="76">
+      <start>10:00</start>
+      <duration>00:45</duration>
+      <room>Chavanne</room>
+      <slug></slug>
+      <title>Building High Performance Web Applications with the Dojo Toolkit</title>
+      <subtitle></subtitle>
+      <track>Javascript</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The Dojo Toolkit is a robust toolkit for creating JavaScript-based web applications.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;The Dojo Toolkit is a robust toolkit for creating JavaScript-based web applications. In this talk you will learn about:&#xA;&lt;/p&gt;&#xA;&lt;ul&gt;&lt;li&gt; The origins of the toolkit&#xA;&lt;/li&gt;&#xA;&lt;li&gt; A high level overview of features and project direction and philosophy&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Practical examples and key architectural approaches that may be applied to building any JavaScript-based application&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;  </description>
+      <persons>
+          <person id="761">Dylan Schiemann</person>
+      </persons>
+      <links>
+          <link href="http://video.fosdem.org/2010/maintracks/dojo.xvid.avi">Video (DIVX)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

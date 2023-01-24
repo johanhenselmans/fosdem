@@ -1,0 +1,19 @@
+  <event id="257">
+      <start>15:15</start>
+      <duration>00:45</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>Hot Standby Live</title>
+      <subtitle></subtitle>
+      <track>PostgreSQL</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Live demo of Hot Standby, plus discussion of various features and difficulties. Requests for prioritisation of new feature development, with round table discussion and voting.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="2571">Simon Riggs</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="5">
+      <start>13:20</start>
+      <duration>00:40</duration>
+      <room>H.2213</room>
+      <slug></slug>
+      <title>Enhancing FreePBX with Adhearsion</title>
+      <subtitle></subtitle>
+      <track>Telephony and Communications Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Demonstration of building applications with the Adhearsion voice application development framework.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Many open source hackers see the allure of building applications that integrate with the&#xA;telephone network. However layers of industry jargon, proprietary technology and arcane&#xA;knowledge lead many to believe that telephony is &amp;#34;hard.&amp;#34; Adhearsion will change their minds.&#xA;The Adhearsion project is an open source voice application development framework, the first&#xA;of its kind in the open source world. In this talk we will build several working voice applications&#xA;and demonstrate how to integrate them with existing PBX installations. Along the way, we will&#xA;discuss voice application design and show how to avoid common pitfalls.&lt;/p&gt;      </description>
+      <persons>
+          <person id="51">Luca Pradovera</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

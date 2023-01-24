@@ -1,0 +1,19 @@
+  <event id="12">
+      <start>09:30</start>
+      <duration>00:45</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>Apache Giraph: distributed graph processing in the cloud</title>
+      <subtitle></subtitle>
+      <track>Graph Processing Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Web and online social graphs have been rapidly growing in size and scale during the past decade. In 2008, Google estimated that the number of web pages reached over a trillion. Online social networking and email sites, including Yahoo!, Google, Microsoft, Facebook, LinkedIn, and Twitter, have hundreds of millions of users and are expected to grow much more in the future. Processing these graphs plays a big role in relevant and personalized information for users, such as results from a search engine or news in an online social networking site.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;The Apache Giraph [1] project is a fault-tolerant in-memory distributed graph processing system which runs on top of a standard Hadoop [2] cluster and is capable of running any standard Bulk Synchronous Parallel (BSP) operation over any large generic data set which can be represented as a graph. Apache Giraph is a loose implementation of Google Pregel but can be added to any Hadoop job pipeline as a normal MapReduce job. Giraph entered the ASF Incubator in July 2011, where it has enlisted the aid of committers from Yahoo!, Facebook, LinkedIn, and Twitter.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;The talk will describe why running iterative MapReduce jobs for graph processing is not well suited for typical MapReduce jobs, introducing the reason why Google designed Pregel at first place. Next, the BSP model and how it is applied to graph processing will be explained. The last part of the talk will be dedicated to Apache Giraph, with a description of the programming model (i.e. the API, some typical examples such as PageRank and Single Source Shortest Path) along with a technical overview of how the architecture of Giraph works and how it leverages the Hadoop infrastructure.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="121">Claudio Martella</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

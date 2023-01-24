@@ -1,0 +1,19 @@
+  <event id="194">
+      <start>14:00</start>
+      <duration>01:00</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>mk-configure</title>
+      <subtitle>A lighweight alternative to GNU autotools, CMake and SCons based on NetBSD make</subtitle>
+      <track>BSD devroom</track>
+      <type></type>
+      <language></language>
+      <abstract></abstract>
+      <description>&#xA;&lt;p&gt;mk-configure is a lightweight replacement for GNU autotools, CMake and&#xA;scons based on bmake (a portable version of NetBSD make) and UNIX&#xA;tools (shell, awk etc.).  It is a fork of NetBSD mk files.  Thus, its&#xA;concept and design are very similar to the &amp;#34;traditional&amp;#34; bsd.&lt;em&gt;.mk&#xA;files available in all BSD flavours.  Unlike bsd.&lt;/em&gt;.mk, mk-configure is&#xA;portable and runs on a huge number of platforms. It provides support&#xA;for building shared libraries on all supported systems, supports many&#xA;different compilers and linkers and a lot of other interesting things&#xA;and additions.  It is easily extensible. Upon its name, it also has&#xA;&amp;#34;autoconfiguration&amp;#34; capabilities.  Thus, it is a full-featured&#xA;software build system for portable development.&lt;/p&gt;      </description>
+      <persons>
+          <person id="1941">Aleksey Cheusov</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

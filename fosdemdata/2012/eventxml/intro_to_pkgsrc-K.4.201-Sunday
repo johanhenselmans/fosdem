@@ -1,0 +1,22 @@
+  <event id="163">
+      <start>15:00</start>
+      <duration>00:30</duration>
+      <room>K.4.201</room>
+      <slug></slug>
+      <title>Introduction to pkgsrc, and to package creation in NetBSD</title>
+      <subtitle></subtitle>
+      <track>BSD Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;pkgsrc is a cross systems packaging system, used in NetBSD, but also DragonflyBSD, MirBSD, Minix3 and a lot more. Through the example of shotwell, a digital pictures management application, this talk will give an introduction to pkgsrc for users and packagers.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="1631">Guillaume Lasmayous</person>
+          <person id="1632">Emile Heitor</person>
+      </persons>
+      <links>
+          <link href="848/123_pkgsrc-FOSDEM.pdf">pkgsrc-FOSDEM.pdf (slides)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

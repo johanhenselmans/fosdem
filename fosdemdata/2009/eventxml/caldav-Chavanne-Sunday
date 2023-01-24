@@ -1,0 +1,19 @@
+  <event id="41">
+      <start>16:00</start>
+      <duration>01:00</duration>
+      <room>Chavanne</room>
+      <slug></slug>
+      <title>CalDAV - the open groupware  protocol</title>
+      <subtitle></subtitle>
+      <track>Collaboration</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Introduction into the CalDAV protocol and related protocols. Overview on OpenSource CalDAV clients and servers, and on libraries for CalDAV development.&#xA;Attempt to motivate people to implement IETF standard protocols instead of proprietrary ones.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;CalDAV is a calendaring and scheduling client/server protocol designed to allow users to access calendar data on a server, and to schedule meetings with other users on that server or other servers.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="411">Helge Heß</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

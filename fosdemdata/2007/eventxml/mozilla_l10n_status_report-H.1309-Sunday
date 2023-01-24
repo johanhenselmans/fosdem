@@ -1,0 +1,19 @@
+  <event id="158">
+      <start>15:00</start>
+      <duration>00:45</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>Mozilla Localization status report</title>
+      <subtitle></subtitle>
+      <track>Mozilla</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Mozilla Localization teams, a status report and whishlist.&#xA;&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Return of experience, wishes of the localisation teams (and specially the french one).&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Tools proposition.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Outline :&#xA;&lt;/p&gt;&lt;ol&gt;&lt;li&gt; Introduction&#xA;&lt;/li&gt;&#xA;&lt;li&gt; How do we work in the frenchmozilla team&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Wishes and improvement (from the french team and others)&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Proposition of a tool&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Conclusion&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Discussion&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA; </description>
+      <persons>
+          <person id="1581">Philippe Dessante</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

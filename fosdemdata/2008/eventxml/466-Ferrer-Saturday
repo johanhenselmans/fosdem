@@ -1,0 +1,22 @@
+  <event id="34">
+      <start>15:00</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>IOGrind: locating I/O performance problems</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;I/O latency is the dominating factor in desktop application&#xA;startup performance. It is also one of the hardest things to measure&#xA;in a reliable and deterministic fashion. Wall-clock timings on&#xA;just-booted, quiescent systems give unfeasibly large jitter making&#xA;optimising cold-start times extremely difficult.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&#x9;Measures of warm vs. cold start show eg. 80% of an OO.o cold&#xA;start is pure I/O time. I/O grind is a new valgrind based tool that&#xA;can record &amp;amp; simulate I/O patterns, allowing not only targeted&#xA;optimisation of applications, but deterministic comparisons of kernel&#xA;I/O algorithms. Kernel optimisation is often focused on more tractable&#xA;CPU cycles, however the big wins are in I/O behavior - saving only one&#xA;seek on cold OO.o startup, is the equivalent of a 500 cycle win on&#xA;every system call emitted.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;IOGrind is a tool for locating I/O related performance problems,&#xA;&#x9;  that hurt application cold-start times.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="341">Michael Meeks</person>
+      </persons>
+      <links>
+          <link href="http://fosdem.org/2008/slides/lightningtalks/fosdem08_ltalk_iogrind.pdf">Slides (PDF)</link>
+          <link href="http://video.fosdem.org/2008/lightningtalks/FOSDEM2008-iogrind.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

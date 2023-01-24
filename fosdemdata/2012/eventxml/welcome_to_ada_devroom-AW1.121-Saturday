@@ -1,0 +1,21 @@
+  <event id="414">
+      <start>12:00</start>
+      <duration>00:05</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>Welcome</title>
+      <subtitle></subtitle>
+      <track>Ada Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Welcome to the Ada Developer Room at FOSDEM 2012, which is organized by Ada-Belgium in cooperation with Ada-Europe.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Ada-Belgium and Ada-Europe are both non-profit organizations set to promote the use of Ada, and to disseminate the knowledge of it into academic, research and industrial establishments in Belgium and Europe, resp. Ada-Europe has member-organizations, such as Ada-Belgium, in various countries.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;More information on this event is available on the Ada-Belgium web-site (see link).&lt;/p&gt;      </description>
+      <persons>
+          <person id="4141">Dirk Craeynest</person>
+      </persons>
+      <links>
+          <link href="http://www.cs.kuleuven.be/~dirk/ada-belgium/events/12/120204-fosdem.html">Ada Developer Room at FOSDEM 2012</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

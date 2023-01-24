@@ -1,0 +1,19 @@
+  <event id="131">
+      <start>16:00</start>
+      <duration>00:50</duration>
+      <room>Janson</room>
+      <slug></slug>
+      <title>I&#39;m Going M.A.D.</title>
+      <subtitle></subtitle>
+      <track>System Track</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;When people talk about monitoring generally they are system people talking of hosts and network gear going up and down. That is the monitoring world as most people know it and it must change if we want to write better applications and offer better services.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="1311">Spike Morelli</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

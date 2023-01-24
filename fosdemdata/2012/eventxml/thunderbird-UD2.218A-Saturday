@@ -1,0 +1,19 @@
+  <event id="381">
+      <start>15:30</start>
+      <duration>00:30</duration>
+      <room>UD2.218A</room>
+      <slug></slug>
+      <title>Thunderbird</title>
+      <subtitle></subtitle>
+      <track>Mozilla Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Thunderbird since version 3.0, what happened, how it happened and what&amp;#39;s coming up.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="3811">Ludovic Hirlimann</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

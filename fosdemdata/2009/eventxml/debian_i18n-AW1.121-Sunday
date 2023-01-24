@@ -1,0 +1,19 @@
+  <event id="57">
+      <start>11:00</start>
+      <duration>01:00</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>Internationalization in Debian: How to improve further?</title>
+      <subtitle></subtitle>
+      <track>Debian</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Nicolas will present the status of the localization support for&#x9;Lenny. He will then present the tools and processes for translators, developers, and maintainers which permitted these achievements, and how they could be improved.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="571">Nicolas François</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

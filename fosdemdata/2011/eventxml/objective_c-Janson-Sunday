@@ -1,0 +1,19 @@
+  <event id="232">
+      <start>11:00</start>
+      <duration>00:50</duration>
+      <room>Janson</room>
+      <slug></slug>
+      <title>Objective-C: Not just for Macs and iPhones</title>
+      <subtitle></subtitle>
+      <track>Languages Track</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;According to TIOBE[1], Objective-C is on track to be language of the year 2010. This relatively sudden growth has come largely as a result of Apple&amp;#39;s increasing popularity and it&amp;#39;s tempting to think of Objective-C as a language solely for developing for Apple products.  This is not the case.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Open source Objective-C has been around for a long time; GCC has supported the language for two decades.  The GNUstep project began in the early &amp;#39;90s to&#xA; create an implementation of the OpenStep specification, published by Sun and NeXT.  When Apple bought NeXT, their implementation of this specification was renamed Cocoa, and GNUstep has continued to track these changes.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Objective-C support languished in GCC somewhat over the last decade and Apple abandoned the project in response to the switch to GPLv3, beginning work on a new compiler: Clang.  Clang has a clean separation of the generic and implementation-specific parts of the language, so support for the Apple and&#xA; FSF Objective-C implementations can easily coexist.  This is fortunate, as the two implementations differ in a number of important ways.  This talk will discuss the various ways in which the two implementations differ at the low level, including a simple way of corrupting the stack with the Apple and GCC implementations, which provides a recoverable error with the latest GNUstep implementation.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Some parts of Objective-C 2 are purely implemented in the compiler, but most require some library support.  The Étoilé project provided a framework that&#xA; implemented some of these on top of the GCC Objective-C runtime library..&#xA;This included support for Apple&amp;#39;s blocks (closures), about six months before Apple&amp;#39;s first public release of this feature.  This approach has some&#xA; limitations that could only be avoided by changing the ABI and either creating a new runtime library: the GNUstep Objective-C runtime.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Today, we have solid open source support for the Objective-C language.  This talk will discuss the challenges involved in supporting Objective-C 2 on&#xA; non-Apple platforms, covering the compiler, the runtime library, and the supporting frameworks.  Time-permitting, it will also cover some of the&#xA; features that make the language interesting, including higher-order messaging and the ability to trivially bridge other dynamic languages.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;This talk will also cover the new optimisations, inspired by earlier work from the Self team, that allow safe method lookup caching, eliminating the&#xA; overhead imposed by the dynamic nature of Objective-C, in most common cases.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2321">David Chisnall</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="153">
+      <start>12:45</start>
+      <duration>00:30</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>JSR292 - Supporting Dynamically Typed Languages</title>
+      <subtitle></subtitle>
+      <track>Free Java</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;JSR292 introduces VM supports that ease the implementation of dynamic languages on Java VM.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;This talk will present the different parts of the spec (knowing that is a work in progress) and some details/strategies of&#xA;the implementation of the JSR292 specification in hotspot.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1531">Remi Forax</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

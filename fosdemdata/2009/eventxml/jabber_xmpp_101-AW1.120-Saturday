@@ -1,0 +1,20 @@
+  <event id="141">
+      <start>13:00</start>
+      <duration>01:00</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>XMPP 101: A Fast-Paced Introduction to XMPP Technologies</title>
+      <subtitle></subtitle>
+      <track>Jabber + XMPP</track>
+      <type></type>
+      <language></language>
+      <abstract></abstract>
+      <description></description>
+      <persons>
+          <person id="1411">Remko Tronçon</person>
+          <person id="1412">Peter Saint-Andre</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

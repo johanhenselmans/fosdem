@@ -1,0 +1,19 @@
+  <event id="196">
+      <start>09:45</start>
+      <duration>00:45</duration>
+      <room>H.1308</room>
+      <slug></slug>
+      <title>Overview of Mozilla QA</title>
+      <subtitle></subtitle>
+      <track>Mozilla</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Who we are, what we do, how to get involved.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="1961">Carsten Book</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="160">
+      <start>17:00</start>
+      <duration>00:45</duration>
+      <room>Janson</room>
+      <slug></slug>
+      <title>How kernel development goes wrong and why you should be a part of it anyway</title>
+      <subtitle></subtitle>
+      <track>Keynotes</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The Linux kernel is at the core of any Linux system; the performance and&#xA; capabilities of the kernel will, in the end, place an upper bound on what the&#xA; system as a whole can do.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt; The Linux kernel is at the core of any Linux system; the performance and&#xA; capabilities of the kernel will, in the end, place an upper bound on what the&#xA; system as a whole can do.  This talk will review recent events in the kernel&#xA; development community, discuss the current state of the kernel and the&#xA; challenges it faces, and look forward to how the kernel may address those&#xA; challenges.  Attendees of any technical ability should gain a better&#xA; understanding of how the kernel got to its current state and what can be&#xA; expected in the near future.&lt;/p&gt;      </description>
+      <persons>
+          <person id="1601">Jonathan Corbet</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

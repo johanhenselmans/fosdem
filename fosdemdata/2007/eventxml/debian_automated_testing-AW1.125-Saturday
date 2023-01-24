@@ -1,0 +1,24 @@
+  <event id="16">
+      <start>16:15</start>
+      <duration>00:45</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>Automated Testing of Debian Package</title>
+      <subtitle></subtitle>
+      <track>Debian</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Automated Testing of Debian Packages: Past, Present and Future&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Quality Assurance plays a very important role in Debian, ensuring that all packages meet a certain quality standard. Due to the high number of&#xA;packages in Debian, it is necessary to perform such tasks in an automated way. This talk will describe two diffferent kinds of tests that were run before the etch release (rebuild of all packages, and installation testing using piuparts), outlining current problems and possible future improvements. It will also discuss what could be done during the lenny release cycle.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="161">Lucas Nussbaum</person>
+      </persons>
+      <links>
+          <link href="http://meetings-archive.debian.net/pub/debian-meetings/2007/fosdem/slides/Automated_Testing_of_Debian_Package-Lucas_Nussbaum/fosdem07-auttest.pdf">Slides (PDF)</link>
+          <link href="http://meetings-archive.debian.net/pub/debian-meetings/2007/fosdem/ogg_theora/720x576/Automated_Testing_of_Debian_Package-Lucas_Nussbaum.ogg">Video (Ogg/Theora)</link>
+          <link href="http://meetings-archive.debian.net/pub/debian-meetings/2007/fosdem/xvid/Automated_Testing_of_Debian_Package-Lucas_Nussbaum_xvid.avi">Video (DIVX)</link>
+          <link href="http://meetings-archive.debian.net/pub/debian-meetings/2007/fosdem/ogg_theora/360x288/Automated_Testing_of_Debian_Package-Lucas_Nussbaum.ogg">Video (Ogg/Theora/Low quality)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

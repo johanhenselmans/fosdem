@@ -1,0 +1,20 @@
+  <event id="192">
+      <start>14:00</start>
+      <duration>02:00</duration>
+      <room>AW1.105</room>
+      <slug></slug>
+      <title>Mozilla Marketing Café</title>
+      <subtitle></subtitle>
+      <track>Mozilla</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Members of Mozilla&amp;#39;s marketing team will lead an informal brainstorm/discussion on open source marketing over fresh coffee and biscuits.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;This session is open to all those interested in talking about the marketing of open source projects and learning more about how Mozilla Communiy Marketing works.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1921">John Slater</person>
+          <person id="1922">William Quiviger</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

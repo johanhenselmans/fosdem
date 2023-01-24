@@ -1,0 +1,19 @@
+  <event id="119">
+      <start>15:30</start>
+      <duration>00:15</duration>
+      <room>AW1.124</room>
+      <slug></slug>
+      <title>GDL - GNU Data Language</title>
+      <subtitle></subtitle>
+      <track>Data Analytics devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;GDL is a free/libre/open-source incremental compiler of the IDL (tm) language for data analysis and visualization.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;GDL is a free/libre/open-source incremental compiler of the IDL (tm) language. Together with its library routines it serves as a tool for data analysis and visualization. GDL is written in C++ using the ANTLR language-recognition framework. Most of the library routines are implemented as interfaces to open-source packages such as GNU Scientific Library, PLPlot, FFTW, Image.Magick, netCDF, HDF, GRIB_API, and others. Packaged versions of GDL are available for several Linux distributions and Mac OS X. As its proprietary counterparts (IDL and PV-WAVE), GDL is used particularly in geosciences and astronomy.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;The talk will cover a brief description of GDL features. Presented examples will show how it can be used to access, process and visualise publicly available dataset such as weather forecast data and satellite imagery.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;GDL is released under GPL. It is developed by a group of volunteers led by Marc Schellens - the project founder.&lt;/p&gt;      </description>
+      <persons>
+          <person id="1191">Sylwester Arabas</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

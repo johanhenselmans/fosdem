@@ -1,0 +1,19 @@
+  <event id="65">
+      <start>09:00</start>
+      <duration>01:00</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>CentOS Debate</title>
+      <subtitle></subtitle>
+      <track>CentOS + Fedora</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Workshop and discussions on and around CentOS. Open to everyone !&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description></description>
+      <persons>
+          <person id="651">Dag Wieers</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

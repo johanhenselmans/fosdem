@@ -1,0 +1,19 @@
+  <event id="9">
+      <start>10:00</start>
+      <duration>00:50</duration>
+      <room>Chavanne</room>
+      <slug></slug>
+      <title>Apache Wicket</title>
+      <subtitle></subtitle>
+      <track>Web Frameworks Track</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Apache Wicket is a component oriented Java web framework. With proper mark-up/logic separation, a POJO data model, and a refreshing lack of XML, Wicket makes developing web-apps simple and enjoyable again.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;This talk provides a short introduction to the framework&amp;#39;s concepts: components, behaviors and models. We&amp;#39;ll take a short look at integrating with Spring and integrating with JQuery. For the test infected we&amp;#39;ll cover testing your web pages with Wicket&amp;#39;s internal test framework. But most importantly we&amp;#39;ll take a look at the new Wicket release 1.5 and see what has changed for the better and worse&lt;/p&gt;      </description>
+      <persons>
+          <person id="91">Martijn Dashorst</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="208">
+      <start>15:00</start>
+      <duration>00:55</duration>
+      <room>Chavanne</room>
+      <slug></slug>
+      <title>Building app sandboxes on top of LXC and KVM with libvirt</title>
+      <subtitle></subtitle>
+      <track>Virtualization and Cloud Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The libvirt library provides a hypervisor agnostic API for interacting with &amp;amp; managing virtualization hosts. Traditional uses of virtualization have focused on running entire operating systems in virtual machines or containers. The libvirt-sandbox library builds on libvirt, LXC &amp;amp; KVM, providing an API which facilitates the use of virtualization as a tool for building secure application sandboxes, without the additional burden of maintaining additional OS installations.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="2081">Daniel Berrange</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

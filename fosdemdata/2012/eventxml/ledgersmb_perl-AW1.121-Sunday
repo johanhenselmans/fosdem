@@ -1,0 +1,21 @@
+  <event id="183">
+      <start>12:25</start>
+      <duration>00:20</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>LedgerSMB: Open source accounting running on Perl</title>
+      <subtitle></subtitle>
+      <track>Perl Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The talk introduces LedgerSMB - its technical structure, its community, the direction of development and the vision of the developers.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;LedgerSMB is a webbased ERP built with Apache, Perl and PostgreSQL, featuring general ledger accounting, receivables and payables management, budgeting, quotation and order management and more. It aims to be a platform to build businesses on: with existing installs running payment runs of 1000s of items each week it can be considered to be high performance being able to serve larger businesses. With a user community focus, the project strives to achieve easy installation and use to best serve small businesses and single person companies. The talk touches all of these subjects as well as describing the future direction of development.&lt;/p&gt;      </description>
+      <persons>
+          <person id="1831">Erik Huelsmann</person>
+      </persons>
+      <links>
+          <link href="http://ledgersmb.org/">http://ledgersmb.org/</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

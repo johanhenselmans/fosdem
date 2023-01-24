@@ -1,0 +1,19 @@
+  <event id="217">
+      <start>09:45</start>
+      <duration>00:30</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>Multi-Master Replication Manager for MySQL</title>
+      <subtitle></subtitle>
+      <track>MySQL</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;ul&gt;&lt;li&gt; Introduction to MySQL high availability with MMM&#xA;&lt;/li&gt;&#xA;&lt;li&gt; MMM architecture overview&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Pros and cons&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Examples of usage&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="2171">Piotr Biel</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

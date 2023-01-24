@@ -1,0 +1,21 @@
+  <event id="291">
+      <start>13:45</start>
+      <duration>00:45</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>The Semantic Desktop, SPARQL and You!</title>
+      <subtitle></subtitle>
+      <track>CrossDesktop</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;You&amp;#39;ve probably heard about the Semantic Web and the Semantic Desktop. But what lies behind the buzzwords? Let&amp;#39;s look together at at effective examples, running code and actual applications. Be inspired, tame the sparql beast and join the future of desktop computing!&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;We will demonstrate:&#xA;&lt;/p&gt;&lt;ul&gt;&lt;li&gt; &amp;#34;Daily Catchup&amp;#34;, which uses Tracker to mash together feeds from Facebook, Twitter and Flickr&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Solang, a photo browser built on SPARQL&#xA;&lt;/li&gt;&#xA;&lt;li&gt; FSter, a FUSE file system to browse files by their metadata information&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Gnome Activity Journal: see what you did when.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;  </description>
+      <persons>
+          <person id="2911">Roberto Guido</person>
+          <person id="2912">Rob Taylor</person>
+          <person id="2913">Philip Van Hoof</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

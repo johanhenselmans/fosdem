@@ -1,0 +1,19 @@
+  <event id="46">
+      <start>10:45</start>
+      <duration>00:45</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>Config::Model and configuration upgrades during package upgrade</title>
+      <subtitle></subtitle>
+      <track>Distributions</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;For a casual user, editing configuration files in /etc in an intimidating task. Manually managing configuration upgrade is even worse as it requires good knowledge to merge current configuration data with new data coming from new packages.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Config::Model was designed to make user&amp;#39;s life easier by providing a configuration GUI and handle configuration upgrades transparently.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;This presentation will explain how to provide these capabilities and will cover:&#xA;&lt;/p&gt;&lt;ul&gt;&lt;li&gt; the main notions or Config::Model (config tree and model)&#xA;&lt;/li&gt;&#xA;&lt;li&gt; how to create a model &#xA;&lt;/li&gt;&#xA;&lt;li&gt; how to interface the model with the configuration files&#xA;&lt;/li&gt;&#xA;&lt;li&gt; how package and configuration upgrade is performed &#xA;&lt;/li&gt;&#xA;&lt;li&gt; how to specify upgrade feature in the configuration model&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;  </description>
+      <persons>
+          <person id="461">Dominique Dumont</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

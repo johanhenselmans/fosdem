@@ -1,0 +1,23 @@
+  <event id="22">
+      <start>13:00</start>
+      <duration>01:00</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>Kernel and d-i in lenny and beyond</title>
+      <subtitle></subtitle>
+      <track>Debian</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;A reflection on the kernel, and its relationship with d-i in lenny and beyond&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;The title says it all, but the talk will mention issues regarding the kernel, what we have achieved since the kernel team took over, what we failed to achieve for etch, plans regarding the non-free firmware issue, the non-free firmware .udeb archive, and ideas on how the new initramfs ramdisk format may be taken to profit to improve the way d-i is built and works.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="221">Sven Luther</person>
+      </persons>
+      <links>
+          <link href="http://meetings-archive.debian.net/pub/debian-meetings/2007/fosdem/ogg_theora/720x576/Kernel_and_d-i_in_lenny_and_beyond-Sven_Luther.ogg">Video (Ogg/Theora)</link>
+          <link href="http://meetings-archive.debian.net/pub/debian-meetings/2007/fosdem/xvid/Kernel_and_d-i_in_lenny_and_beyond-Sven_Luther_xvid.avi">Video (DIVX)</link>
+          <link href="http://meetings-archive.debian.net/pub/debian-meetings/2007/fosdem/ogg_theora/360x288/Kernel_and_d-i_in_lenny_and_beyond-Sven_Luther.ogg">Video (Ogg/Theora/Low quality)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="238">
+      <start>15:45</start>
+      <duration>00:55</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>odt2daisy and odt2braille: OpenOffice.org/LibreOffice extensions for accessible formats</title>
+      <subtitle>OpenOffice.org/LibreOffice extensions for accessible formats</subtitle>
+      <track>Accessibility devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;People with disabilities sometimes use formats that were specially designed for them. These formats include digital talking books and Braille; they usually require dedicated software to produce them. odt2daisy and odt2braille enable the production of DAISY and Braille, respectively, with mainstream software, i.e. OpenOffice.org/LibreOffice Writer.&#xA;odt2daisy is an extension that converts word processing files into digital talking books in the DAISY format. odt2daisy produces Full DAISY 3 (text synchronised with audio), DAISY 3 XML (text without audio) and Full DAISY 2.02. It also supports mathematical content (MathML). odt2daisy works on Microsoft Windows, Mac OS X, Linux and Solaris. For the production of audio, odt2daisy relies on the DAISY Pipeline Lite, an open-source software developed by the DAISY Consortium, the LAME MP3 encoding technology, and the operating system&amp;#39;s text-to-speech (TTS) engine(s). The supported languages depend on the TTS engines available on the user&amp;#39;s system.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;People with disabilities sometimes use formats that were specially designed for them. These formats include digital talking books and Braille; they usually require dedicated software to produce them. odt2daisy and odt2braille enable the production of DAISY and Braille, respectively, with mainstream software, i.e. OpenOffice.org/LibreOffice Writer.&#xA;odt2daisy is an extension that converts word processing files into digital talking books in the DAISY format. odt2daisy produces Full DAISY 3 (text synchronised with audio), DAISY 3 XML (text without audio) and Full DAISY 2.02. It also supports mathematical content (MathML). odt2daisy works on Microsoft Windows, Mac OS X, Linux and Solaris. For the production of audio, odt2daisy relies on the DAISY Pipeline Lite, an open-source software developed by the DAISY Consortium, the LAME MP3 encoding technology, and the operating system&amp;#39;s text-to-speech (TTS) engine(s). The supported languages depend on the TTS engines available on the user&amp;#39;s system.&#xA;odt2Braille is an extension that turns word processing documents into Braille. It is powered by liblouisxml, a library intended to provide complete Braille transcription services for XML documents. Odt2Braille enables authors to print their document to an embosser or to export a Braille file. The output is well-formatted and highly customizable.&#xA;Both odt2daisy - originally started by Vincent Spiewak - and odt2braille are part of the European R&amp;amp;D project AEGIS.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Note: this presentation is meant to complement a presentation on accessible authoring that does not discuss these extensions in detail; this other presentation has been submitted to the LibreOffice devroom: &lt;a href=&#34;http://wiki.documentfoundation.org/Marketing/Events/Fosdem2011&#34;&gt;http://wiki.documentfoundation.org/Marketing/Events/Fosdem2011&lt;/a&gt;.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2381">Christophe Strobbe</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

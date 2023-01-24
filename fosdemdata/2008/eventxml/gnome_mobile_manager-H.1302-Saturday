@@ -1,0 +1,20 @@
+  <event id="150">
+      <start>17:30</start>
+      <duration>00:45</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>Mobile Manager</title>
+      <subtitle></subtitle>
+      <track>GNOME</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Mobile Manager stems from a previous commercial project called Escritorio movistar, which is an end-user 3G connectivity app distributed by Telefónica España (commercial name movistar) in order to ease the usage of its mobile data networks. We&amp;#39;ve opened the source of this app and our next step is to promote the most valuable core component, the Mobile Manager, within the community.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Mobile Manager is a D-Bus service and a UI core with some useful widgets for handling of several aspects of 3G connection devices (PIN/PUK dialogs, signal strength polling, roaming...) as well as connection initiation. Mobile Manager is developed in Python/GTK and D-Bus and is fully compatible with GNOME and FreeDesktop.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;As part of our plan to promote Mobile Manager, we&amp;#39;re studying the possibility of having it integrated with GNOME System Tools and other network applications; we would also like to discuss about this dissemination plans at the dev talk.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Although the project has been originated inside an operator (Telefónica España), our commitement is one of total operator- and network- agnosticism, so that the component can be used in whatever 3G scnearios.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1501">Roberto Majadas</person>
+          <person id="1502">Joaquín López Muñoz</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

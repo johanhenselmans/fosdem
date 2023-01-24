@@ -1,0 +1,19 @@
+  <event id="58">
+      <start>17:30</start>
+      <duration>00:25</duration>
+      <room>Chavanne</room>
+      <slug></slug>
+      <title>Orchestration for the cloud</title>
+      <subtitle></subtitle>
+      <track>Virtualization and Cloud Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;In this presentation we will use Orchestra (including juju) to deploy an openstack powered cloud. We will dive into the components and how they fit together to orchestrate an openstack cloud deployment.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="581">Dave Walker</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

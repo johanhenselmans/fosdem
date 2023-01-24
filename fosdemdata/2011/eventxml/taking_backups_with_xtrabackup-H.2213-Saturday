@@ -1,0 +1,19 @@
+  <event id="294">
+      <start>15:30</start>
+      <duration>00:25</duration>
+      <room>H.2213</room>
+      <slug></slug>
+      <title>Taking Backups With XtraBackup</title>
+      <subtitle></subtitle>
+      <track>MySQL &amp; friends devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;XtraBackup is an open-source online backup solution for InnoDB/XtraDB databases with support for MyISAM.&#xA;The session will cover all the current features XtraBackup has:&lt;/p&gt;&#xA;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;compressed backups&lt;/li&gt;&#xA;&lt;li&gt;use filters to choose which tables/schemas to backup&lt;/li&gt;&#xA;&lt;li&gt;stream backups to another server&lt;/li&gt;&#xA;&lt;li&gt;export/importing of tables&lt;/li&gt;&#xA;&lt;li&gt;incremental backups&lt;/li&gt;&#xA;&lt;li&gt;throttling backups to a certain amount of IO requests&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;      </abstract>
+      <description>&#xA;&lt;p&gt;XtraBackup is an open-source online backup solution for InnoDB/XtraDB databases with support for MyISAM.&#xA;The session will cover all the current features XtraBackup has:&lt;/p&gt;&#xA;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;compressed backups&lt;/li&gt;&#xA;&lt;li&gt;use filters to choose which tables/schemas to backup&lt;/li&gt;&#xA;&lt;li&gt;stream backups to another server&lt;/li&gt;&#xA;&lt;li&gt;export/importing of tables&lt;/li&gt;&#xA;&lt;li&gt;incremental backups&lt;/li&gt;&#xA;&lt;li&gt;throttling backups to a certain amount of IO requests&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;      </description>
+      <persons>
+          <person id="2941">Kenny Gryp</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

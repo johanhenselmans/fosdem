@@ -1,0 +1,24 @@
+  <event id="23">
+      <start>15:15</start>
+      <duration>01:00</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>Mole -- Infrastructure for Managing Information</title>
+      <subtitle></subtitle>
+      <track>Debian</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk describes &amp;#34;mole&amp;#34;, a set of scripts which together comprise infrastructure with which various sorts of information can be managed.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;The major properties of mole are:&#xA;&lt;/p&gt;&lt;ul&gt;&lt;li&gt; A means to accept submitted information, with optional access control and moderation&#xA;&lt;/li&gt;&#xA;&lt;li&gt; A means to store both transient and constant information (&amp;#34;data&amp;#34;)&#xA;&lt;/li&gt;&#xA;&lt;li&gt; A means to retrieve this information quickly and efficiently in both micro-queries and as whole datasets&#xA;&lt;/li&gt;&#xA;&lt;li&gt; A means to coordinate the generation of information&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;This is very generally spoken mole. To make things a bit more concrete, one example:&#xA;&lt;ul&gt;&lt;li&gt; Mole would accept (by mail, HTTP post, or otherwise) build logs for building source package in current unstable/testing in a standard or rather a specifically tweaked environment&#xA;&lt;/li&gt;&#xA;&lt;li&gt; It would store it in its database in an efficient form, keeping some configured amount of older versions too&#xA;&lt;/li&gt;&#xA;&lt;li&gt; It would maintain a list of source packages that don&amp;#39;t have such log yet, or which log is older than a configurable amount of time, and provide worker machines that can do such rebuilding with a todo-list.&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Mole would automatically keep track such that double work is prevented.&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Via for example a web interface people can query results of specific packages, but one can also retrieve the full database.&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;This approach is very powerful, because mole &amp;#34;jobs&amp;#34; can be stacked. To continue with the above example, a different job could keep track of such logs that didn&amp;#39;t get &amp;#39;judged&amp;#39; yet, and have a worker judge them for &amp;#34;successful/not-successful&amp;#34;, and store those qualifications in a result table.&#xA;&#xA;Additionally, data-providers do not need to be computer programs, they can also be humans. For example, the job could be &amp;#34;file bugs on failed logs/mark a failed log as &amp;#34;wrongly failed&amp;#34;. Data can also be about non-package things, such as bugs, or mirrors. It can itself also be something else than quality tests, examples would be mere extraction of data such as .desktop files for auto-installers, SLOC-counts for funny statistics, or (user-supplied) screenshots and reviews.&#xA;&#xA;Current implementation is functional, but is still a little bit rough.&#xA;It lacks mostly on documentation, needs some scalability tweaks, and perhaps most importantly, it doesn&amp;#39;t have an easy query interface such as a web interface yet.&#xA;&#xA; </description>
+      <persons>
+          <person id="231">Jeroen Van Wolffelaar</person>
+      </persons>
+      <links>
+          <link href="http://meetings-archive.debian.net/pub/debian-meetings/2007/fosdem/slides/Mole_-_Infrastructure_for_Managing_Information-Jeroen_Van_Wolffelaar/Mole_-_Infrastructure_for_Managing_Information-Jeroen_Van_Wolffelaar.odp">Slides (OOo)</link>
+          <link href="http://meetings-archive.debian.net/pub/debian-meetings/2007/fosdem/ogg_theora/720x576/Mole_-_Infrastructure_for_Managing_Information-Jeroen_Van_Wolffelaar.ogg">Video (Ogg/Theora)</link>
+          <link href="http://meetings-archive.debian.net/pub/debian-meetings/2007/fosdem/xvid/Mole_-_Infrastructure_for_Managing_Information-Jeroen_Van_Wolffelaar_xvid.avi">Video (DIVX)</link>
+          <link href="http://meetings-archive.debian.net/pub/debian-meetings/2007/fosdem/ogg_theora/360x288/Mole_-_Infrastructure_for_Managing_Information-Jeroen_Van_Wolffelaar.ogg">Video (Ogg/Theora/Low quality)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

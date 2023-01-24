@@ -1,0 +1,21 @@
+  <event id="147">
+      <start>11:40</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>ReaR</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;A lightning talk on Relax and Recover, a disaster recovery framework.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Short presentation on Rear (history, architecture, design, purpose).&#xA;A live demo (movie) of a real disaster recovery process will be shown&#xA;during the talk.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;i&gt;About ReaR:&lt;/i&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Relax and Recover (abbreviated rear) is a highly modular disaster recovery&#xA;framework for GNU/Linux based systems, but can be easily extended to other&#xA;UNIX alike systems. The disaster recovery information (and maybe the&#xA;backups) can be stored via the network, local on hard disks or USB&#xA;devices, DVD/CD-R, tape, etc. The result is also a bootable image that is&#xA;capable of booting via PXE, DVD/CD and tape (OBDR).&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1471">Gratien D&#39;haese</person>
+      </persons>
+      <links>
+          <link href="../../slides/lightningtalks/ReaR.pdf">Slides (PDF)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

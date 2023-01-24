@@ -1,0 +1,19 @@
+  <event id="245">
+      <start>14:00</start>
+      <duration>00:45</duration>
+      <room>AW1.105</room>
+      <slug></slug>
+      <title>CSA on Rails: a practical case-study</title>
+      <subtitle></subtitle>
+      <track>Ruby on Rails</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This presentation aims at telling the story behind one of the first real-life implementations of RoR in a Belgian internet website. The CSA (Conseil supérieur de l&amp;#39;audiovisuel) is a public regulation authority for the media sector for the French community in Belgium. It is a small organization with approx. 20 full time agents, with a rather autonomous functioning.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;In January 2007, we launched a new website entirely based on RoR, with a lot of classical CMS features. The website was done on internal resources for 80% of the work. The development had stretched over 9 months (part time) and we are still continuously improving the solution. One particularity worth noting: using mostly internal resources implied to rely on people with little    development background. Practically, the internal development was done by one agent with a good web design and multimedia project management background, who learned the technology on his way. The other 20% of the work was given to a RoR code monkey. His role was to give practical support to the lead developer, code some complex and time consuming features, and take care of the hosting and deployment solution.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The presentation will not be technical : you won&amp;#39;t learn any undocumented tips and tricks about RoR here. Rather, it will mostly give the user/project manager point of view. The aim is to give feedback on our experience to people considering using the solution (as a report on the overall strengths and weaknesses of the solution), as well as nourishing a reflexion on the impact of using Rails on the way CSA works, and to what extent the found advantages are replicable.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="2451">Bernard Dubuisson</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

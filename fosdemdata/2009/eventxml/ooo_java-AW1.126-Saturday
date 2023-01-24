@@ -1,0 +1,19 @@
+  <event id="217">
+      <start>14:15</start>
+      <duration>01:00</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>Introduction to Java development with OpenOffice.org</title>
+      <subtitle></subtitle>
+      <track>OpenOffice.org</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;OpenOffice.org entry barrier is quite high - people need lot of time to learn how to develop for the OpenOffice.org. This talk is more or less theoretical and it tries to cover all possible areas.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;We will define common terms, describe UNO Java bridge, go through documentation and explain how to read it, where to find information we need. Introspection interface with tool examples will be described too. And finally, we will take a look at the OpenOffice.org on the server. This talk should lower entry barrier for developers and prepare them for OpenOffice.org development.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2171">Robert Vojta</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

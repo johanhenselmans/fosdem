@@ -1,0 +1,19 @@
+  <event id="53">
+      <start>18:15</start>
+      <duration>00:45</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>What does the DPL do?</title>
+      <subtitle></subtitle>
+      <track>Debian</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;After being the person in the hot seat for most of a year, Steve wants to give some details about how the job works and how he thinks it should work.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;This is *not* meant to be an early start to an election campaign, but instead an objective discussion of the role of the DPL within the Debian Project.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="531">Steve McIntyre</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

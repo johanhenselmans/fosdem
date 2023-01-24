@@ -1,0 +1,21 @@
+  <event id="41">
+      <start>17:00</start>
+      <duration>01:00</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>Linux in embedded security devices</title>
+      <subtitle></subtitle>
+      <track>Embedded</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Linux in embedded security devices: a showcase&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;As we all know, GNU/Linux has become a very stable and secure operating system. Companies worldwide are starting to see this and have come to a&#xA;point where linux really is a key differentiator in their product portfolio.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;One of such product portfolios is the latest product line of &lt;a href=&#34;http://www.idcs.be/&#34;&gt;IDCS&lt;/a&gt;, a company specialised in Integrated Security &amp;amp; Video&#xA;Systems. By integrating standard open source products like openssl, apache, postgresql and others, IDCS has build a range of IP-based security&#xA;devices for access control.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;This presentation will discuss:&#xA;&lt;/p&gt;&lt;ul&gt;&lt;li&gt; system architecture&#xA;&lt;/li&gt;&#xA;&lt;li&gt; open source components&#xA;&lt;/li&gt;&#xA;&lt;li&gt; benefits of linux&#xA;&lt;/li&gt;&#xA;&lt;li&gt; mesh networks using PoE and SSL&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA; </description>
+      <persons>
+          <person id="411">Jan Veldeman</person>
+      </persons>
+      <links>
+          <link href="../../slides/devrooms/embedded/Jan_Veldeman_embedded_security_devices.pdf">Slides (PDF)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

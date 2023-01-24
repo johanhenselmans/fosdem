@@ -1,0 +1,19 @@
+  <event id="66">
+      <start>16:45</start>
+      <duration>00:45</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>Translations of package descriptions</title>
+      <subtitle></subtitle>
+      <track>Distributions</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Easy software access should be considered as one of the key success for Linux distributions. One important consideration to ease the access to software is the quality and localization of software descriptions. At the moment each distribution has its own way to manage this using different processes, each one being more or less manual. This also requires a huge effort for localization teams since the amount of text to translate is important.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;This session aims to start an effort of investigation on how this work can be mutualized between distributions: avoiding the duplicated work would certainly benefit everybody. This would also enable a focus on providing one user-friendly solution for localization teams to work on the translations. As a first step, the current processes in distributions have to be evaluated, in order to develop a good plan on how to best achieve a cross-distribution effort.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="661">Anne Nicolas</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

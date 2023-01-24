@@ -1,0 +1,19 @@
+  <event id="198">
+      <start>15:30</start>
+      <duration>01:30</duration>
+      <room>AW1.117</room>
+      <slug></slug>
+      <title>Creating OpenOffice.org Wizards</title>
+      <subtitle></subtitle>
+      <track>OpenOffice.org</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This workshop would be about the practical steps to create an OpenOffice.org wizard.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Describe an (existing) PDF-converterthat roughly contains about 1000 lines of sourcecode and converts documents to PDF format.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;In this workshop the following topics will be handled:&#xA;&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Design of graphical user interfaces based on OpenOffice.org API and (maybe) also other platforms like Java Swing.&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Where do I get API related Information - work with the OpenOffice-SDK, interface and service descriptions. In this context I will also introduce the &lt;a href=&#34;http://wiki.services.openoffice.org/wiki/Object_Inspector&#34;&gt;object inspector&lt;/a&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;as a helpful extension to inspect Uno -objects during runtime&#xA;&lt;ul&gt;&lt;li&gt; Remote control of an Office application.&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Practical use of services and interfaces.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA; </description>
+      <persons>
+          <person id="1981">Berend Cornelius</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

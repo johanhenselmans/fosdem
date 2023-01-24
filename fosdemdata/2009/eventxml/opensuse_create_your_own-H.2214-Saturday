@@ -1,0 +1,19 @@
+  <event id="227">
+      <start>16:15</start>
+      <duration>00:45</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>Create your own Linux Distribution</title>
+      <subtitle></subtitle>
+      <track>openSUSE</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk will explain briefly how you create your own openSUSE based Linux distribution installation media and Live media with the openSUSE Build Service.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;It includes a brief introduction to kiwi-instsource (which was presented as an outlook last year) and the way we define products; how the buildservice creates an installation source from that.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;= Gory details:&#xA;&lt;/p&gt;&lt;ul&gt;&lt;li&gt; kiwi in general (few minutes)&#xA;&lt;/li&gt;&#xA;&lt;li&gt; kiwi-instsource: purpose, implementation, xml extension, metapackages (10-15 minutes)&#xA;&lt;/li&gt;&#xA;&lt;li&gt; product definition file (5-10 minutes)&#xA;&lt;/li&gt;&#xA;&lt;li&gt; plugging together: product converter, necessary permission, vision of the release process, target groups etc. (10-15 minutes)&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;= Demo:&#xA;Jan-Christoph will demonstrate the following:&#xA;&lt;ul&gt;&lt;li&gt; setup your own project&#xA;&lt;/li&gt;&#xA;&lt;li&gt; how to get this marked as product project&#xA;&lt;/li&gt;&#xA;&lt;li&gt; how to set base repos&#xA;&lt;/li&gt;&#xA;&lt;li&gt; how to define a product (package groups)&#xA;&lt;/li&gt;&#xA;&lt;li&gt; build a product: instsource(ftp repo, dvd) and live medium&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;  </description>
+      <persons>
+          <person id="2271">Jan-Christoph Bornschlegel</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

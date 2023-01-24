@@ -1,0 +1,19 @@
+  <event id="249">
+      <start>10:00</start>
+      <duration>00:45</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>Perl data structures</title>
+      <subtitle></subtitle>
+      <track>Perl devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Make sure you know the details of the perl data structures!&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;All things you need to do often in a program have an extremely brief syntax in Perl. This make the language hard to read for newbies. In this presentation, we will visit scalars, lists, arrays, hashes and refs. The level is targeted on regular Perl users who may have heart about &amp;#34;Context&amp;#34; and &amp;#34;Topics&amp;#34;, but do not exactly know how it works&lt;/p&gt;      </description>
+      <persons>
+          <person id="2491">Mark Overmeer</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

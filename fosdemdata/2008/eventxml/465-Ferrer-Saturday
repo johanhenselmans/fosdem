@@ -1,0 +1,22 @@
+  <event id="33">
+      <start>18:40</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Squeak: modern development environment for Smalltalk.</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The talk will give an overview of Squeak the language, the platform, and of the recent advances in the larger Smalltalk community: the Seaside web framework, the release of GNU Smalltalk 3.0.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Squeak is a modern open-source development environment for the classic Smalltalk-80 programming language. Despite being the first purely object-oriented language and environment, Smalltalk is in many ways still far ahead of its successors in promoting a vision of an environment where everything is an object, and anything can change at run-time.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="331">Damien Pollet</person>
+      </persons>
+      <links>
+          <link href="http://fosdem.org/2008/slides/lightningtalks/fosdem08_ltalk_squeak.pdf">Slides (PDF)</link>
+          <link href="http://video.fosdem.org/2008/lightningtalks/FOSDEM2008-squeak.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

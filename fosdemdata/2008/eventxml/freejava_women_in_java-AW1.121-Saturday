@@ -1,0 +1,20 @@
+  <event id="144">
+      <start>16:00</start>
+      <duration>00:45</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>Women in Java Technology</title>
+      <subtitle></subtitle>
+      <track>Free Java</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Female programmers are rare. Female Java programmers are even more rare. As female Java programmers ourselves, our interest in this issue led us to start Duchess, an organization to support and promote women in the Java industry and hopefully to encourage more to join.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description></description>
+      <persons>
+          <person id="1441">Linda van der Pal</person>
+          <person id="1442">Clara Ko</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

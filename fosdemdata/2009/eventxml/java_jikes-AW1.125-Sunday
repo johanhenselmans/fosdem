@@ -1,0 +1,19 @@
+  <event id="151">
+      <start>10:45</start>
+      <duration>00:15</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>Jikes RVM 3</title>
+      <subtitle></subtitle>
+      <track>Free Java</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Jikes RVM has turned ten years old and to wish it a happy birthday this talk will give a brief review of its history, notable events in its life time and where it is currently heading.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="1511">Ian Rogers</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

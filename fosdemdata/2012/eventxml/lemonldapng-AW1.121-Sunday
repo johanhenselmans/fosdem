@@ -1,0 +1,19 @@
+  <event id="186">
+      <start>11:55</start>
+      <duration>00:20</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>The LemonLDAP::NG Project</title>
+      <subtitle></subtitle>
+      <track>Perl Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;LemonLDAP::NG is a free WebSSO software written in Perl and using Apache engine. It supports CAS, OpenID and SAML 2.0 protocols.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="1861">Clément Oudot</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

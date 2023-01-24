@@ -1,0 +1,21 @@
+  <event id="8">
+      <start>14:00</start>
+      <duration>00:45</duration>
+      <room>Chavanne</room>
+      <slug></slug>
+      <title>CakePHP</title>
+      <subtitle></subtitle>
+      <track>Web</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This session will introduce the latest version of the &lt;a href=&#34;http://www.cakephp.org/&#34;&gt;CakePHP framework&lt;/a&gt;.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;&lt;a href=&#34;http://www.cakephp.org/&#34;&gt;CakePHP&lt;/a&gt; is a rapid development framework for PHP,  which derives principles from Ruby on Rails, and has since become a popular choice for building web applications.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;We will start by looking at some of these principles behind CakePHP and continue by looking deeply into a CakePHP application. We will see how CakePHP reduces the amount of maintainable lines of code, while providing a robust and extensible architecture to handle the features needed for a web application.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;With this knowledge, we can look at some of the more advanced features of CakePHP that make developers lives easier with simple approaches to common web application problems. Some of the features to be reviewed include the Bake command line code generation tool, application scaffolding, association data mapping, API services.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The talk will also share some of the history, heritage, and goals of the&#xA;project.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Attend this talk to see why over 6500 developers have joined the CakePHP google group.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="81">Garrett J Woodworth</person>
+      </persons>
+      <links>
+          <link href="http://video.fosdem.org/2008/maintracks/FOSDEM2008-cakephp.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

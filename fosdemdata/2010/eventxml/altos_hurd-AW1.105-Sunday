@@ -1,0 +1,19 @@
+  <event id="10">
+      <start>10:30</start>
+      <duration>00:30</duration>
+      <room>AW1.105</room>
+      <slug></slug>
+      <title>Why is Anyone Still Working on the GNU Hurd?</title>
+      <subtitle></subtitle>
+      <track>Alt-OS</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Hurd having been in development for so long, but still not production-ready; and with Linux as a mature free kernel being firmly established as the de-facto standard kernel for the GNU system -- people often wonder: why haven&amp;#39;t developers abandoned the Hurd long ago?&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Without going into technical details, this short talk tries to explain the main idea behind the Hurd architecture, which sets it apart from other systems.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="101">Olaf Buddenhagen</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

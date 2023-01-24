@@ -1,0 +1,22 @@
+  <event id="84">
+      <start>13:00</start>
+      <duration>01:00</duration>
+      <room>H.1301</room>
+      <slug></slug>
+      <title>Distributions&#39; infrastructure system administration (round table/Q&amp;A)</title>
+      <subtitle></subtitle>
+      <track>CrossDistribution Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract></abstract>
+      <description></description>
+      <persons>
+          <person id="841">Martin Zobel-Helas</person>
+          <person id="842">Michael Scherer</person>
+      </persons>
+      <links>
+          <link href="http://video.fosdem.org/2012/crossdistro/Distributions__infrastructure_system_administration__round_table_Q_A_.webm">Video recording</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

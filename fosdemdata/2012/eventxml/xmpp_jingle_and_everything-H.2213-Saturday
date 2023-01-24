@@ -1,0 +1,19 @@
+  <event id="428">
+      <start>17:30</start>
+      <duration>00:30</duration>
+      <room>H.2213</room>
+      <slug></slug>
+      <title>Multimedia: Jingle, the Universe, and Everything </title>
+      <subtitle></subtitle>
+      <track>Jabber and XMPP Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;A talk about Jingle, its variants, its features, its NAT traversal, how it compares to SIP and everything you can do with it.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="4281">Emil Ivov</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

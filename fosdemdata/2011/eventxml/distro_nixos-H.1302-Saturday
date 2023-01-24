@@ -1,0 +1,19 @@
+  <event id="75">
+      <start>14:00</start>
+      <duration>01:00</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>Using NixOS for declarative deployment and testing</title>
+      <subtitle></subtitle>
+      <track>CrossDistro devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Linux distributions are often used in a distributed setting, such as web application environments containing web servers, databases, proxy servers which are all connected to each other. Manually installing and configuring networks of machines is often a complex and time-consuming process. Upgrading is even more difficult, as this may render (parts) of a system inaccessible.  Furthermore, it is also difficult to test a distributed environment, since it is usually too expensive to set up a test environment faithfully reproducing a production environment.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;NixOS is a Linux distribution built on top of the Nix package manager, a purely functional package manager. In NixOS, a system configuration is built from a declarative specification capturing the complete system configuration.  Moreover, because of the Nix heritage, a user can safely and efficiently install multiple configurations next to each other without interference. This allows users to perform atomic upgrades and rollbacks of a complete Linux distribution.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;In this talk we explain how we can use NixOS to manage a network of machines by using a declarative specification of a network of NixOS configurations. We can use this specification to:&lt;/p&gt;&#xA;&#xA;&lt;p&gt;(1) Automatically, reliably and efficiently install or upgrade a network of physical machines&#xA;(2) Deploy virtual machines in a cloud infrastructure&#xA;(3) Generate networks of virtual machines to automatically test a distributed environment with complex environmental dependencies.  These virtual machine instances use components stored on the host machine, so that the same components can be shared across multiple machines and no disk images are required, making virtual machine instances relatively cheap.&lt;/p&gt;      </description>
+      <persons>
+          <person id="751">Sander van der Burg</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="70">
+      <start>11:45</start>
+      <duration>00:45</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>Drupal Multi-site for Fun and Profit</title>
+      <subtitle></subtitle>
+      <track>Drupal</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Tired of handing out FTP accounts for Web site hosting? Get a little queasy whenever someone asks about Front Page extensions? Drupal to the rescue!&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;By using Drupal&amp;#39;s multi-site install you can use a single code base to power all of your customers&amp;#39; Web sites. Installing a single code base will also make tech support and security updates a whole lot easier. In this session you will learn how to install Drupal, where to put modules and themes so they show up in the right places, and how ensure your customers have the right amount of control over their own domain. Emma will use real world examples from her own business network to reveal how Drupal can convert even the smallest clients to pots of gold.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="701">Emma Jane Hogbin</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

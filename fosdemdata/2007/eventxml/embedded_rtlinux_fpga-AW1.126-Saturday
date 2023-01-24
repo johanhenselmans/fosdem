@@ -1,0 +1,22 @@
+  <event id="40">
+      <start>18:00</start>
+      <duration>01:00</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>RTLinux into an FPGA</title>
+      <subtitle></subtitle>
+      <track>Embedded</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Description of the work done to port the RTLinux-free microkernel to the uClinux/Microblaze architecture, enabling hard real-time programming in an FPGA based system.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Microblaze is a soft processor which can be added into an FPGA design, just using the IP block offered by Xilinx. The combination of an FPGA and a microprocessor running an operating system like uClinux offers great flexibility to embedded designs. &#xA;&lt;/p&gt;&#xA;&lt;p&gt;With this enviroment, the critical part of the system can be resolved using the programmable logic array, and the functionalities offered by the operating system facilitates other tasks such as data storage, communications, graphical interfaces, etc. However, the border between critical tasks and the rest of the system is not fully clear, and sometimes responsiveness and accuracy are needed in the operating system.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;We describe the work done to port the RTLinux-free microkernel to the uClinux/Microblaze architecture, enabling hard real-time programming in an FPGA based system.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="401">Alejandro Lucero</person>
+      </persons>
+      <links>
+          <link href="../../slides/devrooms/embedded/Alejandro_lucero_FPGA.pdf">Slides (PDF)</link>
+          <link href="../../slides/devrooms/embedded/Alejandro_lucero_FPGA.odp">Slides (OOo)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="3">
+      <start>11:00</start>
+      <duration>00:45</duration>
+      <room>AW1.105</room>
+      <slug></slug>
+      <title>Network virtualisation using Crossbow technology</title>
+      <subtitle></subtitle>
+      <track>Alt-OS</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Leveraging current hardware capacities becomes one of the major topics in current IT business. Designing tools for deploying network virtualization and effectively controlling virtual network environments from the perspective of network capacities raised demand for a project called Crossbow.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;With this technology we could effectively control how an application access to the network and decide how much bandwidth it could use. Also, we could dynamically allocate bandwidth resources giving to the application surplus if needed on behalf of other(s) application(s) whose network resources are underutilized. This is done by creating Virtual Network Interface Cards (VNICs)and dedicating each of them to the different application we want to deploy. In this presentation we&amp;#39;ll show how Crossbow technology work in practice deployed on OpenSolaris.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="31">Uros Nedic</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,20 @@
+  <event id="221">
+      <start>18:00</start>
+      <duration>00:30</duration>
+      <room>AW1.124</room>
+      <slug></slug>
+      <title>PC-BSD Live demo, pbi essentials</title>
+      <subtitle></subtitle>
+      <track>BSD + PostgreSQL</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;n/a&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description></description>
+      <persons>
+          <person id="2211">Tim McCormick</person>
+          <person id="2212">Matt Olander</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

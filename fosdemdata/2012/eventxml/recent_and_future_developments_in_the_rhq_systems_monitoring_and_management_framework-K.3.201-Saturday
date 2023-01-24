@@ -1,0 +1,19 @@
+  <event id="342">
+      <start>17:00</start>
+      <duration>00:55</duration>
+      <room>K.3.201</room>
+      <slug></slug>
+      <title>RHQ: Recent and future developments in the RHQ systems monitoring and management framework</title>
+      <subtitle></subtitle>
+      <track>JBoss.org Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk will give a quick intro into the RHQ systems management and monitoring system and then show recent developments like &amp;#34;Dritf&amp;#34;, the detection of changes of files and configurations, the REST api for easy access to collected data from other programming languages. Last but not least I want to point out some possible future development - especially in the area of alerting.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Ref : http://www.jboss.org/jopr&lt;/p&gt;      </description>
+      <persons>
+          <person id="3421">Heiko Rupp</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

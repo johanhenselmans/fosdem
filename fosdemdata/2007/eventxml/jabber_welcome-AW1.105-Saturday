@@ -1,0 +1,19 @@
+  <event id="100">
+      <start>14:15</start>
+      <duration>00:15</duration>
+      <room>AW1.105</room>
+      <slug></slug>
+      <title>Welcome</title>
+      <subtitle></subtitle>
+      <track>Jabber</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Welcome to the Jabber developer room at FOSDEM.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description></description>
+      <persons>
+          <person id="1001">Ralph Meijer</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

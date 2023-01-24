@@ -1,0 +1,20 @@
+  <event id="274">
+      <start>15:00</start>
+      <duration>01:00</duration>
+      <room>K.3.401</room>
+      <slug></slug>
+      <title>Nouveau: Recap, on-going and future work</title>
+      <subtitle></subtitle>
+      <track>X.org+OpenICC Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk is about the Linux open-source driver for nVidia GPUs (desktop and laptop). It will start by a recap of the history of this open source driver.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;The talk will then continues by detailing the current (and future) state of the following components:&#xA;- DRM + ddx: Modesetting &amp;amp; 2D&#xA;- Mesa: 3D&#xA;- Power Management&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Some demonstrations will also be performed such as video decoding and power management.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Finally, this talk will also allow you to interact with many Nouveau developers and ask your questions directly.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="2741">Lucas Stach</person>
+          <person id="2742">Martin Peres</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

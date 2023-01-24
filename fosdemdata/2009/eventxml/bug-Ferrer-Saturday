@@ -1,0 +1,19 @@
+  <event id="39">
+      <start>18:00</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>An Introduction to BUG</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This lightning talk will cover the basics of the BUG platform and show a brief working demo.  We will show aspects of the Linux OS running and focus on the OSGi service layer and how Java applications can easily be written to work with custom hardware devices.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;BUG is an open source hardware and software gadget creation platform.  There are no proprietary or closed software components running on the BUG CPU.  New devices can be created by snapping a variety of hardware modules (camera, motion sensor, GPS, LCD Touchscreen, WiFi, 3g, etc.) onto a small Linux base computer to make things like GPS enabled motion detectors, alarms, crowdsourced input devices, and wireless weather stations.  The hardware schematics for the device are GPL and the computer runs Linux, FOSS Java, and OSGi to enable a dynamic service runtime.  &#xA;An SDK is available that&amp;#39;s based on Eclipse and we have a application collaboration website based on Ruby on Rails.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="391">Ken Gilmer</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

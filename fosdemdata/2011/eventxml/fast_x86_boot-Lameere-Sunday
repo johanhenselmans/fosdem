@@ -1,0 +1,19 @@
+  <event id="100">
+      <start>14:30</start>
+      <duration>00:30</duration>
+      <room>Lameere</room>
+      <slug></slug>
+      <title>Really fast x86 boot</title>
+      <subtitle>Getting things done in millisecond scale</subtitle>
+      <track>Embedded devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The x86 is notorious for slow boot times, proprietary BIOS and annoying messages about missing keyboards.  We would like to introduce Coreboot - a Free Software project aimed at replacing the proprietary BIOS with a fast lightweight firmware.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;We present the basics of x86 initialization and its initialization flow. We present measurements of typical time spent in various stages of system boot up (including kernel loading). We describe multiple ways to boot Linux - including directly from NOR flash and via SeaBIOS (which can use a harddrive or USB media).&lt;/p&gt;      </description>
+      <persons>
+          <person id="1001">Rudolf Marek</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

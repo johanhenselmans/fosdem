@@ -1,0 +1,21 @@
+  <event id="186">
+      <start>16:00</start>
+      <duration>00:45</duration>
+      <room>Chavanne</room>
+      <slug></slug>
+      <title>Profiling Desktop Applications</title>
+      <subtitle></subtitle>
+      <track>Development and Languages</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;In this talk Federico will examine the basics of how to do a performance investigation, of which profiling is just one part.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Performance has to be focused on tangible benefits: will users stop noticing an annoying delay ? Will making an operation faster make the program more usable ? Will I get more transactions per second, and do I really need them ?&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Doing an analysis of performance makes you feel good for various reasons: you end up using the scientific method, you get to really understand the code you are fixing, and you learn many obscure techniques along the way.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;After this talk you will know how to do a performance investigation, and you will know about the basic tools you can use to profile your programs.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1861">Federico Mena Quintero</person>
+      </persons>
+      <links>
+          <link href="http://video.fosdem.org/2007/FOSDEM2007-ProfilingDesktopApplication.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

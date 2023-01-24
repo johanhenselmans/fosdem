@@ -1,0 +1,19 @@
+  <event id="249">
+      <start>13:00</start>
+      <duration>00:30</duration>
+      <room>UA2.114</room>
+      <slug></slug>
+      <title>Migration from informix to PostgreSQL at VPRO</title>
+      <subtitle></subtitle>
+      <track>BSD + PostgreSQL</track>
+      <type></type>
+      <language></language>
+      <abstract></abstract>
+      <description></description>
+      <persons>
+          <person id="2491">Koen Martens</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

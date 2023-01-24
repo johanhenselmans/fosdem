@@ -1,0 +1,19 @@
+  <event id="80">
+      <start>09:30</start>
+      <duration>00:30</duration>
+      <room>H.1308</room>
+      <slug></slug>
+      <title>Improving Rollback in Linux via DSL approach &amp; distributing</title>
+      <subtitle></subtitle>
+      <track>CrossDistro devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Following on from the Distribution Talk at FOSDEM last year the subject of this presentation focuses on Rollback within Linux.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Rollback has been&#xA;around in various forms for many years within GNU/Linux Systems. This&#xA;talk looks at the current mechanism proposed by Caixa Mágica Software in&#xA;collaboration with the Mancoosi Project and how it improves the existing&#xA;mechanisms. A Domain Specific Language (DSL) that has been specified is&#xA;being used to describe the way in which package evolution occurs to feed&#xA;a three-tiered rollback approach. This DSL information, the binary and&#xA;configuration data of the packages can then be transmitted and stored&#xA;away from the local machine using various techniques to help record the&#xA;state of the machine. This distributed information can then be recalled&#xA;in the event of catastrophe and help restore the state of the system&#xA;back in terms of packages and configurations to a previous working state&#xA;using simple interfaces.&lt;/p&gt;      </description>
+      <persons>
+          <person id="801">John Thomson</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

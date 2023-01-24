@@ -1,0 +1,19 @@
+  <event id="259">
+      <start>14:00</start>
+      <duration>00:50</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>Multicore programming support in Ada</title>
+      <subtitle></subtitle>
+      <track>Ada Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;A presentation of Ada&amp;#39;s features in the parallel/multicore area, given in such a way that people can start experimenting and doing &amp;#34;interesting stuff&amp;#34;.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Ada had built-in support for parallel programming from the start, and the successive standards keep improving that support, up to most recently for the new multiprocessor architectures.&#xA;An overview of the support that already existed in Ada 83 and Ada 95 will be given, with practical examples so participants can try out some simple things first.&#xA;Ada 2012 comes with interesting additions for using multiprocessors effectively. Embedded systems can use an extension of the Ravenscar profile to achieve analyzable real-time behavior on multicore platforms. Ada&amp;#39;s dispatching domains achieve flexible allocation schemes for high-performance computing.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2591">José F. Ruiz</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

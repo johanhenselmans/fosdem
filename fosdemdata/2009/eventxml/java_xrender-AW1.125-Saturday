@@ -1,0 +1,19 @@
+  <event id="164">
+      <start>17:45</start>
+      <duration>00:30</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>XRender Java2D Pipeline</title>
+      <subtitle></subtitle>
+      <track>Free Java</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;ul&gt;&lt;li&gt; Overview over the current X11 pipeline and xorg enhancements and the problems they cause for Java.&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Short introduction into XRender&amp;#39;s features and how it maps to Java2D&amp;#39;s functionality.&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Presentation of the existing Java/C based implementation that was created at the OpenJDK Challenge&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Future development, goals and design of the new pure Java based pipeline.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="1641">Clemens Eisserer</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

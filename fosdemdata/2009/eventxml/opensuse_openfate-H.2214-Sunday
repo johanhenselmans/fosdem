@@ -1,0 +1,19 @@
+  <event id="236">
+      <start>14:15</start>
+      <duration>00:30</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>openFATE - How to get your most wanted features into openSUSE</title>
+      <subtitle></subtitle>
+      <track>openSUSE</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Every distribution have features beside the usual version updates of packages. How to decide which feature should be in the next version, which are doable in the usually short timeframe, where to focus the energy and time of the developers? openfate makes the process more easy to track and more transparent.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="2361">Thomas Schmidt</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

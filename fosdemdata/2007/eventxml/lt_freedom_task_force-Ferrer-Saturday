@@ -1,0 +1,21 @@
+  <event id="129">
+      <start>14:00</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Freedom Task Force</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;A lightning talk about Free Sofware licensing and the FTF.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;The talk will explain the type of licence used in the Free Software&#xA;eco-system.  It will examine the legal questions involved in a project&#xA;with multiple participants, describing what possibilities and dangers&#xA;exist in mixing code from different sources.  The talk will cover&#xA;best-practice models for developers and projects that adopt Free&#xA;Software, and will examine how Free Software licensing can be used to&#xA;produce commercial products within the context of existing business&#xA;models.  The services and reasoning behind the creation of FSFE&amp;#39;s&#xA;Freedom Task Force (FTF) will then be explained.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;i&gt;About the Free Software Foundation Europe:&lt;/i&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The FTF is FSFE&amp;#39;s licensing project.  It provides licensing education,&#xA;fiduciary services for projects, and works in partnership with&#xA;gpl-violations.org to deal with licence violations in the European&#xA;arena.  The FTF website is located here:&#xA;http://fsfeurope.org/ftf&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The FTF is an infrastructure project for the Free Software eco-system.&#xA;We have a network of technical and legal experts that can help&#xA;individuals, projects and businesses understand Free Software licensing&#xA;and the opportunities that it presents.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;We have two press releases that give more detailed information about the&#xA;FTF, see Links section.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1291">Shane Coughlan</person>
+      </persons>
+      <links>
+          <link href="../../slides/lightningtalks/FTF.pdf">Slides (PDF)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

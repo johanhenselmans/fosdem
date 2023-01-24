@@ -1,0 +1,19 @@
+  <event id="47">
+      <start>11:45</start>
+      <duration>00:45</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>CESecore and common criteria certification of open source software</title>
+      <subtitle></subtitle>
+      <track>Hardware Cryptography Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;CESeCore is a common criteria certified security core. It is a developer&#xA;library, including support for hardware cryptographic devices, of JEE&#xA;components and was recently certified at Common Criteria level EAL4+.&#xA;This talk will give an overview of what CESeCore is and what it can be&#xA;used for. It will also share experiences about Common Criteria&#xA;certification, what it is, what&amp;#39;s good and what&amp;#39;s bad, and challenges&#xA;involved for open source software.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="471">Tomas Gustavsson</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="77">
+      <start>15:30</start>
+      <duration>00:45</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>Why do we do it ?</title>
+      <subtitle></subtitle>
+      <track>GNOME</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Navigating the minefield: a personal guide to contributing to free software&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description></description>
+      <persons>
+          <person id="771">Dave Neary</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

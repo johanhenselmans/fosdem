@@ -1,0 +1,19 @@
+  <event id="97">
+      <start>15:00</start>
+      <duration>01:00</duration>
+      <room>Lameere</room>
+      <slug></slug>
+      <title>Media Controller, harnessing the full power of tomorrow&#39;s video devices</title>
+      <subtitle></subtitle>
+      <track>Embedded</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Back when the first version of the Video 4 Linux (V4L) API was written, video acquisition and output devices available to Linux users ands developers only offered basic functions. With the introduction of hardware compression, V4L showed its limits and the new V4L2 API saw the light of the day in the 2.5.x kernels. Video hardware available today once again pushes the Linux video API to its limits, and there&amp;#39;s no doubt that tomorrow&amp;#39;s devices will offer even more complex features.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Several V4L developers go together during the Linux Plumbers Conference 2009 to discuss a possible future extension to the V4L subsystem called the Media Controller.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Targeted at both embedded and desktop hardware, the Media Controller will let userspace applications access media hardware internals to discover and control device internals. This talk will introduce the Media Controller concept and present the current state of the draft implementation.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="971">Laurent Pinchart</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

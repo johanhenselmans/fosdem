@@ -1,0 +1,19 @@
+  <event id="159">
+      <start>14:15</start>
+      <duration>00:30</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>Small Language Changes</title>
+      <subtitle></subtitle>
+      <track>Free Java</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;In addition to modularity support, JDK 7 is also planned to have a number of small language changes. Unlike previous JSRs to change the Java programming language, this project will be taking input from a public call for proposals phase.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Joe will be talking about criteria developed to evaluate language changes and the current status of the project.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1591">Joe Darcy</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

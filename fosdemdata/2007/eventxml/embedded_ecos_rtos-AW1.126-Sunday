@@ -1,0 +1,21 @@
+  <event id="32">
+      <start>16:00</start>
+      <duration>01:00</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>eCos RTOS in commercial use</title>
+      <subtitle></subtitle>
+      <track>Embedded</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The eCos RTOS in commercial use - the digital camera back Eyelike eMotion&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;The Eyelike eMotion is a digital back for medium format cameras, available in variants with a 22 megapixel and a 33 megapixel sensor. In contrast to all other cameras developed by Jenoptik LOS before, it is a mobile camera and is intended to be used indepedent from a computer.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;With these requirements a new platform was needed, more powerful than the 16bit microcontroller used exclusively until then.&#xA;Due to the much increased complexity of the required firmware the need for an operating system arose. Some options were evaluated and eCos was selected.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;eCos features employed in this project will be introduced. The development environment both on Linux and Windows as well as the software quality&#xA;assurance means will be presented, organizational issues as well. Finally strong and weak areas of eCos will be discussed and future directions&#xA;are shown.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="321">Alexander Neundorf</person>
+      </persons>
+      <links>
+          <link href="../../slides/devrooms/embedded/Alexander_Neundorf_ecos_in_commercial_use.pdf">Slides (PDF)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="330">
+      <start>18:00</start>
+      <duration>00:50</duration>
+      <room>K.4.201</room>
+      <slug></slug>
+      <title>Database Virtualization</title>
+      <subtitle></subtitle>
+      <track>PostgreSQL Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Virtualization presents a unique set both of challenges and opportunities. You&amp;#39;ll find out what a good many of these are, and how to take advantage of the latter while avoiding the former as much as possible.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="3301">David Fetter</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

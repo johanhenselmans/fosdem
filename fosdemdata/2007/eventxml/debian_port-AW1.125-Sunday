@@ -1,0 +1,24 @@
+  <event id="26">
+      <start>15:00</start>
+      <duration>00:45</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>Let&#39;s port together</title>
+      <subtitle></subtitle>
+      <track>Debian</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Let&amp;#39;s port together. Debian fun&#x9;for everyone&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;In this talk we will explain how modern system architectures look like and what implications the architecture choices have on the software side of things. Architecture differences like endianess, alignment requirements, cache coherency, out of order execution and representation of standard C types and their impact on portability will be discussed as well as strategies for avoiding or working around these problems.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="261">Peter De Schrijver</person>
+      </persons>
+      <links>
+          <link href="http://meetings-archive.debian.net/pub/debian-meetings/2007/fosdem/slides/Lets_port_together-Peter_De_Schrijver/Lets_port_together-Peter_De_Schrijver.pdf">Slides (PDF)</link>
+          <link href="http://meetings-archive.debian.net/pub/debian-meetings/2007/fosdem/ogg_theora/720x576/Lets_port_together-Peter_De_Schrijver.ogg">Video (Ogg/Theora)</link>
+          <link href="http://meetings-archive.debian.net/pub/debian-meetings/2007/fosdem/xvid/Lets_port_together-Peter_De_Schrijver_xvid.avi">Video (DIVX)</link>
+          <link href="http://meetings-archive.debian.net/pub/debian-meetings/2007/fosdem/ogg_theora/360x288/Lets_port_together-Peter_De_Schrijver.ogg">Video (Ogg/Theora/Low quality)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

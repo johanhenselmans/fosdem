@@ -1,0 +1,19 @@
+  <event id="71">
+      <start>17:00</start>
+      <duration>01:00</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>CentOS 5 and Virtualization</title>
+      <subtitle></subtitle>
+      <track>CentOS + Fedora</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;An overview of the different virtualization possibilities using CentOS and the tools for managing them.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Virtualization is useful in many situations, for instance to increase server utilization, to run legacy applications, and for application testing. &#xA;&lt;/p&gt;&#xA;&lt;p&gt;CentOS includes support for both &lt;a href=&#34;http://www.xensource.com/&#34;&gt;paravirtualization (Xen)&lt;/a&gt; and hardware-assisted full-virtualization (Xen, &lt;a href=&#34;http://linuxvirtualization.com/&#34;&gt;KVM&lt;/a&gt;), with a &lt;a href=&#34;http://libvirt.org/&#34;&gt;generic virtualization library (libvirt)&lt;/a&gt; on top of them to make life easier for developers and system administrators.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;This talk will introduce these technologies and, discusses their use uses. Additionally, provisioning of virtual machines with &lt;a href=&#34;http://cobbler.et.redhat.com/&#34;&gt;Cobbler&lt;/a&gt; will be touched upon.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="711">Tim Verhoeven</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

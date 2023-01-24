@@ -1,0 +1,19 @@
+  <event id="241">
+      <start>13:45</start>
+      <duration>00:55</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>Orca - A screenreader sailing into uncharted waters</title>
+      <subtitle>A screenreader sailing into uncharted waters</subtitle>
+      <track>Accessibility devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Orca, the screen reader of the GNOME Desktop, is moving into previously-uncharted territory: giving computer users who are blind -- and the developers of the assistive technologies they use -- a single tool which is more tightly integrated within the platform and designed to access multiple desktop environments, including KDE.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Orca, the screen reader of the GNOME Desktop, is moving into previously-uncharted territory: giving computer users who are blind -- and the developers of the assistive technologies they use -- a single tool which is more tightly integrated within the platform and designed to access multiple desktop environments, including KDE.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;This session will take a brief look back at the history of Orca and screenreaders in general and bring audience up to speed on screen reading technologies. With this foundation laid, the current and future development of Orca will be presented, including the team’s efforts to further eliminate access barriers for people with visual impairments.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2411">Alejandro Leiva</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="88">
+      <start>17:30</start>
+      <duration>00:30</duration>
+      <room>Lameere</room>
+      <slug></slug>
+      <title>Scripting Mobile Devices with AmbientTalk</title>
+      <subtitle></subtitle>
+      <track>Embedded</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk is about programming mobile handheld devices with a scripting language called AmbientTalk.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;This language has been designed with the goal of easily prototyping applications that run on mobile devices interacting via a wireless network. &#xA;&lt;/p&gt;&#xA;&lt;p&gt;Programming such applications traditionally involves interacting with low-level APIs in order to perform basic tasks like service discovery and communicating with remote services. We introduce the AmbientTalk scripting language, its implementation on top of the Java Micro edition platform (J2ME).&#xA;&lt;/p&gt;&#xA;&lt;p&gt;AmbientTalk is an experimental object-oriented distributed programming language developed at the Software Languages Lab at&#xA;the Vrije Universiteit Brussel, Belgium. The language is primarily targeted at writing programs deployed in mobile ad hoc networks.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;AmbientTalk is meant to serve as an experimentation platform to experiment with new language features or programming abstractions to facilitate the construction of software that has to run in highly volatile networks exhibiting intermittent connectivity and little infrastructure.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="881">Wolfgang De Meuter</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

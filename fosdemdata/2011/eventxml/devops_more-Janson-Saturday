@@ -1,0 +1,19 @@
+  <event id="50">
+      <start>14:00</start>
+      <duration>00:50</duration>
+      <room>Janson</room>
+      <slug></slug>
+      <title>DevOps? - More than Marketing</title>
+      <subtitle></subtitle>
+      <track>System Track</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;DevOps is a new concept that has emerged in the Development and Operations  community. It calls for closer relations between developers and operations  people with a view toward improving the quality of the services we provide.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;I&amp;#39;ll introduce the tenants of DevOps:&lt;/p&gt;&#xA;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Simplicity&lt;/li&gt;&#xA;&lt;li&gt;Relationships&lt;/li&gt;&#xA;&lt;li&gt;Process, automation, tooling&lt;/li&gt;&#xA;&lt;li&gt;Continuous improvement&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&#xA;&lt;p&gt;I&amp;#39;ll also focus on automation and tooling and especially some of the more  interesting open source projects (and people!) that make DevOps possible:  configuration management tools, monitoring, metrics management and  visualisation.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Finally, I&amp;#39;ll cover some of the critiques, criticisms and FUD throw at DevOps  and why the concepts are more than just marketing.&lt;/p&gt;      </description>
+      <persons>
+          <person id="501">James Turnbull</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

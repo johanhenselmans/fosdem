@@ -1,0 +1,19 @@
+  <event id="16">
+      <start>18:00</start>
+      <duration>01:00</duration>
+      <room>Lameere</room>
+      <slug></slug>
+      <title>Booting and upgrading a flashless system</title>
+      <subtitle></subtitle>
+      <track>Embedded devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Booting a CPU has become more complex,&#xA;as the internal bootROMs have gained more flexibility.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;The speech will describe the issues&#xA;encountered when booting a flashless system&#xA;(AT91SAM9G45 based) from an SD-Card.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Some problems encountered are&#xA;* Traps due to poor documentation&#xA;* Lack of SD-Card support in bootloaders / U-Boot.&#xA;* Inability to store the u-boot environment on the board (no flash)&#xA;* Inability to rewrite the u-boot environment to SD-Card&lt;/p&gt;&#xA;&#xA;&lt;p&gt;A mechanism to handle the environment is proposed&#xA;where U-Boot has a precompiled bootargs, which will&#xA;first read a script from the SD-Card and execute it&#xA;before the kernel is loaded.&#xA;Both the u-boot script and the original are stored on&#xA;the SD-Card so that if the environment needs&#xA;to be updated, the original is edited, and a new script&#xA;is generated.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;A simple mechanism to update the kernel/root fs is&#xA;shown where the first level bootloader is making&#xA;a choice between loading u-boot or alternatively,&#xA;if a button is pressed, the first level bootloader&#xA;loads a USB Mass Storage Adapter application,&#xA;which exports the contents of the SD-Card to&#xA;any USB connected host system, allowing the kernel&#xA;to be updated using a simple drag-and-drop.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;The SD-Card has two partitions, so the filesystem&#xA;can be updated either by untaring a tarball,&#xA;or by drag-and-drop of single files or directory structures.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="161">Ulf Samuelsson</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

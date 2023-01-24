@@ -1,0 +1,19 @@
+  <event id="123">
+      <start>13:00</start>
+      <duration>00:45</duration>
+      <room>AW1.117</room>
+      <slug></slug>
+      <title>Fast and Flexible UI Development with EtoileUI and Smalltalk</title>
+      <subtitle></subtitle>
+      <track>GNUstep</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;EtoileUI is a high-level UI toolkit for Étoilé where elements visible on screen are abstract nodes to which pluggable aspects can be bound. The same uniform tree structure is used to describe any kind of structured content (composite document, application User Interface etc.) and the role of each node can be entirely changed at runtime by altering the aspects bound to it.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;All User Interface concerns such as layouts, tools, action handlers, styles, model objects etc. are pluggable aspects which can be easily reused and recombined.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;In this presentation, we will give a general introduction to the EtoileUI framework available on any GNUstep platform and also Mac OS X (EtoileUI is Cocoa compatible).&#xA;We will discuss which problems EtoileUI tries to solve, how it integrates with the GNUstep/Cocoa AppKit, and how it moves away from the monolithic widget model used by most other UI toolkits to support treating the User Interface as a permanent prototype. Finally we will show various examples written in Smalltalk and Objective-C to illustrate some key ideas and their benefits:&#xA;&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Everything can be changed at runtime&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Represents the whole screen as a composite document&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Closer to the mental model we use to describe a User Interface&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;  </description>
+      <persons>
+          <person id="1231">Quentin Mathé</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

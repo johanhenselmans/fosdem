@@ -1,0 +1,19 @@
+  <event id="259">
+      <start>10:00</start>
+      <duration>00:50</duration>
+      <room>Janson</room>
+      <slug></slug>
+      <title>PL/Parrot: Cutting Edge Free Software</title>
+      <subtitle></subtitle>
+      <track>Languages Track</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt; Parrot is a virtual machine for dynamic languages, including Rakudo Perl 6..&#xA; PostgreSQL is the world&amp;#39;s most powerful open source database management&#xA; system.  Find out how we brought them together, and what you can do, now that&#xA; we have.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="2591">David Fetter</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

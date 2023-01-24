@@ -1,0 +1,20 @@
+  <event id="161">
+      <start>13:15</start>
+      <duration>00:30</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>The state of OpenJDK &amp; OpenJDK6</title>
+      <subtitle></subtitle>
+      <track>Free Java</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;A summary of the past year&amp;#39;s accomplishments, some views on what remains to be done, and a look ahead to the content of JDK 7 and the process by which it will be developed.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;And where are we with OpenJDK 6 today and where will we go tomorrow? The origins and initial design decision of the project will be discussed and well as possible future directions of the project.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1611">Joe Darcy</person>
+          <person id="1612">Mark Reinhold</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

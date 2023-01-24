@@ -1,0 +1,19 @@
+  <event id="289">
+      <start>11:00</start>
+      <duration>00:45</duration>
+      <room>H.1301</room>
+      <slug></slug>
+      <title>Xfce 4.6 and then?</title>
+      <subtitle></subtitle>
+      <track>CrossDesktop</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk will be about the new &lt;a href=&#34;http://www.xfce.org/&#34;&gt;Xfce&lt;/a&gt; release and it will also try to answer what comes after 4.6.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Some of the new features of Xfce 4.6 will be presented and explained, the release process will be evaluated. Finally, we will give a feature preview for Xfce 4.8.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2891">Jannis Pohlmann</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

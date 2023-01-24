@@ -1,0 +1,20 @@
+  <event id="72">
+      <start>14:45</start>
+      <duration>00:45</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>Drupal Showcase: Cultural Activities in Flanders</title>
+      <subtitle></subtitle>
+      <track>Drupal</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Davy explains how they implement a complex Drupal website at DotProjects.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;DotProjects is developing a new website for Cultuurnet Vlaanderen. This website allows users to browse all kinds of events happening in Belgium. All event data is not managed in Drupal but is managed in Cultuurnet&amp;#39;s own system and access to this data is provided by their REST API.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;This event data, which is &amp;#34;hosted&amp;#34; on their API is enriched with comments, ratings, YouTube video&amp;#39;s, Press releases, ... in Drupal. To make this possible, all events need to exist in Drupal as nodes. For this we developed an offline synchronisation method and a real time synchronisation method where nodes for events are only created as soon as their node page is accessed.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;For each event the system also tries to look for a YouTube video, Flickr image, Wikipedia entry. This all happens automatically without any user interaction. For this a custom Drupal module was developed (Service Attachments) which allows to automatically look for content on APIs for each node.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;With a high focus on these two problems, we&amp;#39;ll explain the process of implementing this website in Drupal.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="721">Frederik Van Outryve</person>
+          <person id="722">Davy Van Den Bremt</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

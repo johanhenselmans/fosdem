@@ -1,0 +1,19 @@
+  <event id="51">
+      <start>12:00</start>
+      <duration>01:00</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>The Common Debian Build System (CDBS)</title>
+      <subtitle></subtitle>
+      <track>Debian</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;CDBS is a set of makefile fragments that you can include into debian/rules to automate common routines for building Debian packages.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;It has evenly divided the Debian community into lovers and haters. In this presentation, Peter will present the background and functionality of CDBS, discuss some of the criticisms, and muse about future plans.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="511">Peter Eisentraut</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

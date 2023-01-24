@@ -1,0 +1,19 @@
+  <event id="83">
+      <start>11:15</start>
+      <duration>01:00</duration>
+      <room>H.1301</room>
+      <slug></slug>
+      <title>Integrating the Web into GTK+ applications with WebKit</title>
+      <subtitle></subtitle>
+      <track>CrossDesktop</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;WebKit/GTK+ is a brand new port of the &lt;a href=&#34;http://live.gnome.org/WebKit&#34;&gt;WebKit&lt;/a&gt; content engine aiming for standards compliance, high performance and seamless integration with the GTK+ stack. I&amp;#39;ll be demonstrating some of the latest features as well as taking a look at how various GNOME applications like IM clients, mailers and feed readers have adopted the &lt;a href=&#34;http://live.gnome.org/WebView&#34;&gt;WebView API&lt;/a&gt;.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description></description>
+      <persons>
+          <person id="831">Alp Toker</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

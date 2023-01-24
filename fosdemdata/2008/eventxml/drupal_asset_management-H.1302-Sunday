@@ -1,0 +1,19 @@
+  <event id="103">
+      <start>13:00</start>
+      <duration>00:30</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>Asset Management in Drupal using the Asset Module</title>
+      <subtitle></subtitle>
+      <track>Drupal</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk will illustrate the asset management problem in content management systems and how the &lt;a href=&#34;http://drupal.org/project/asset&#34;&gt;Asset module&lt;/a&gt; tries to solve it.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;The &lt;a href=&#34;http://drupal.org/project/asset&#34;&gt;Asset module&lt;/a&gt; tries to tackle asset management in a highly integrated manner. It provides integration with cck, views, panels and imagecache.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;There is also a TinyMCE plug-in for inserting and managing assets or an &amp;#34;Add asset&amp;#34; link below textareas if TinyMCE is not enabled.&#xA;Image galleries are created using a special panels field.&#xA;Any type of file can be added, many of which have specific plug-ins or players to display them: mp3, flv, swf, youtube, ...&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1031">Wim Mostrey</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

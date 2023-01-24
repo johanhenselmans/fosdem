@@ -1,0 +1,19 @@
+  <event id="208">
+      <start>16:45</start>
+      <duration>01:00</duration>
+      <room>H.1301</room>
+      <slug></slug>
+      <title>Sync/Weave</title>
+      <subtitle></subtitle>
+      <track>Mozilla</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;How Weave and in particular sync is going to integrate with Firefox through 2010 and Firefox 4.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;There will be some discussion on how add-on authors can integrate with Weave starting now, and directions being made to surface this data in the browser.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2081">Mike Connor</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

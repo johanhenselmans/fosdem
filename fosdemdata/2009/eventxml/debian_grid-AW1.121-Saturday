@@ -1,0 +1,21 @@
+  <event id="55">
+      <start>17:30</start>
+      <duration>00:45</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>Grid Computing with Debian, Globus and ARC</title>
+      <subtitle></subtitle>
+      <track>Debian</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Grid Computing with Debian, Globus and ARC - collaborations in high-performance computing beyond programming and packaging.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Debian is known for being developed from its userbase. The individuals mutually trust each other, implemented mechanisms for peer review and have the technical support for authorisation and authentication. This way, the workload to provide the software packages for the compute infrastructure is shouldered by many individuals. Grid computing takes this collaboration further. Here, research groups offer access to their local resources not only to other research groups, but they may even grant the right to admit users to virtual organisations - much like the Debian keyring.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The presentation presents an overview on current grid middleware and computational grids established. The Globus grid middleware and its Debian packaging are explained, together with the packages of the Advanced Resource Connector (ARC). &#xA;&lt;/p&gt;&#xA;&lt;p&gt;Today, the most usecases of the technology are the sharing of the computational resources like plain compute power or storage. With the advent of these packages in the Debian main distribution, the adoption of these packages is expected to become more of a commodity to exchange computational workflows, share the burden to maintain rapidly changing data, or control the limited access to special hardware.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The speakers are researchers at the Universities of Copenhagen, Lübeck and Uppsala. With funds from several national and international projects in high-energy physics or grid computing, the three are contributing to the development of the ARC grid middleware - and for the provisioning of its Debian packages.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="551">Anders Wäänänen</person>
+          <person id="552">Steffen Möller</person>
+          <person id="553">Mattias Ellert</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

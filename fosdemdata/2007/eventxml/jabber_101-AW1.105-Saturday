@@ -1,0 +1,19 @@
+  <event id="91">
+      <start>14:30</start>
+      <duration>00:45</duration>
+      <room>AW1.105</room>
+      <slug></slug>
+      <title>Jabber 101</title>
+      <subtitle></subtitle>
+      <track>Jabber</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;A fast-paced overview of Jabber technologies: where they came from, how they work, how you can use them, and where they&amp;#39;re going.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;The focus will be on information that developers and sysadmins need to get things done with Jabber.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="911">Peter Saint-Andre</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

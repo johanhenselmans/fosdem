@@ -1,0 +1,19 @@
+  <event id="319">
+      <start>11:45</start>
+      <duration>00:30</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>Wikihelp, moving our help on-line</title>
+      <subtitle>making help easier to translate and use</subtitle>
+      <track>LibreOffice devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;How wikihelp works, its issues and opportunities.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;The LibreOffice built-in help, as we know it, is not really easy to edit. It uses a custom XML markup, full of IDs with no meaning for a normal man, impossible to preview without actually building a new LibreOffice version. We wanted to change that - convert to a wiki for easier editing both for the developers (authors of the features), and the documentation team. And of course, we need to do this all easy for the localization team too. The last step is to create an off-line help from all this again, so that even people without a reliable Internet connection can access the help.&lt;/p&gt;      </description>
+      <persons>
+          <person id="3191">Jan Holesovsky</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

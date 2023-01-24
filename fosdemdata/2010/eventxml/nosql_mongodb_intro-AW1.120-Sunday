@@ -1,0 +1,19 @@
+  <event id="233">
+      <start>10:00</start>
+      <duration>00:45</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>Introduction to MongoDB</title>
+      <subtitle></subtitle>
+      <track>NoSQL</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;MongoDB is a fast, scalable database that was designed for web development.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;This talk will cover:&#xA;&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Scaling with MongoDB (replica pairs, master/slave, sharding)&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Getting started - CRUD and the JavaScript shell&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Creating schemas for a document-oriented DB&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Interesting features for developers (capped collections, file storage, upserts and more)&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;MongoDB&amp;#39;s goals are:&#xA;&lt;ol&gt;&lt;li&gt; Be easy to learn and simple to deploy&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Have the scalability BigTable clones but with dynamic queries&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Have the speed of key value stores but with secondary indexes&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Be a floor wax and a dessert topping&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;Maybe not that last one.&#xA;&#xA;MongoDB is being used by SourceForge, EA Games, Github, the New York Times, and tons of other companies.&#xA;&#xA;  </description>
+      <persons>
+          <person id="2331">Kristina Chodorow</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

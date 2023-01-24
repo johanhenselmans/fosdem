@@ -1,0 +1,19 @@
+  <event id="145">
+      <start>11:45</start>
+      <duration>00:30</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>Gervill Software Synthesizer: Effects processing</title>
+      <subtitle></subtitle>
+      <track>Free Java</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk will focus on insert effects and how they are to be used in Gervill Synthesizer.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Currently insert effects haven&amp;#39;t been implemented and it has been the main user request. Insert effects are used to tweak and enhance performance on MIDI playback. For example distortion effect applied to guitar instrument to create buzzy sound.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;There will also be audio demonstration on these features.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="1451">Karl Helgason</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

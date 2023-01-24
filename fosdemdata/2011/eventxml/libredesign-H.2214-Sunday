@@ -1,0 +1,19 @@
+  <event id="169">
+      <start>13:30</start>
+      <duration>00:30</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>Kicking off the LibreOffice design team</title>
+      <subtitle>where we absorb bright ideas variously</subtitle>
+      <track>LibreOffice devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Getting the LibreOffice design team setup effectively.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;LibreOffice aims to be a great tool for people to let them create, edit and share any kind of information - enabling them to turn their ideas into documents. But offering that much capability doesn&amp;#39;t require the software be complicated for all the different users ... The LibreOffice Design Team wants to &amp;#34;Make it just work, and look great, too!&amp;#34; by offering User Experience Design and Visual Identity Design.&#xA;But what does that mean? How does the team work? How does it make a difference for the rest of the LibreOffice community? Together, we&amp;#39;ll have a look at this initiative - what we&amp;#39;ve achieved so far, how we currently work, and how we may cooperate in the near future to support software development, the website team, and the marketing people.&#xA;Even better, take the chance to make LibreOffice a great product - add your ideas, your thoughts and join this talk.&lt;/p&gt;      </description>
+      <persons>
+          <person id="1691">Christophe Noack</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

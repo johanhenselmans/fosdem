@@ -1,0 +1,25 @@
+  <event id="275">
+      <start>15:20</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>FOSS in Broadcast</title>
+      <subtitle>Using FOSS in an industry with very little current use of FOSS</subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Broadcast has generally been the realm of expensive hardware and software and in the main quite objectionable to the use of FOSS. This presentation will talk about the challenges with developing and deploying FOSS in the broadcast environment, using the Open Broadcast Encoder as the main example.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;This presentation will go into the technical, social and legal challenges of using FOSS in broadcasting; an industry viewed as highly sceptical of using FOSS directly. Nonetheless, the industry has passionate and dedicated individuals developing and slowly deploying FOSS. This presentation will use the development and deployment of the Open Broadcast Encoder, a FOSS application intended to replace expensive hardware encoders with commodity software as an example of FOSS can be incorporated into an industry not used to it.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2751">Kieran Kunhya</person>
+      </persons>
+      <links>
+          <link href="484/52_FOSS%20in%20Broadcast.pdf">FOSS in Broadcast.pdf (slides)</link>
+          <link href="http://www.ob-encoder.com/">&#34;Corporate site&#34;</link>
+          <link href="http://obe.wikia.com/">Wiki</link>
+          <link href="http://code.google.com/p/open-broadcast-encoder/">Code site</link>
+          <link href="http://video.fosdem.org/2012/lightningtalks/FOSS_in_Broadcast.webm">Video recording</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,20 @@
+  <event id="69">
+      <start>18:15</start>
+      <duration>00:45</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>Spacewalk: Linux Systems Lifecycle Management</title>
+      <subtitle></subtitle>
+      <track>Distributions</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Brief introduction of the Spacewalk systems management solution with a short live demo.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Spacewalk is a free and open source lifecycle management which provides software management, provisioning and monitoring capabilities. The clean web interface allows viewing of systems and their software update status, as well as initiating actions like kickstarting systems or managing configuration files.&#xA;&lt;/p&gt;   &#xA;&lt;p&gt;Spacewalk&amp;#39;s monitoring feature lets you view monitoring status for your systems alongside their software update status. Spacewalk also has virtualization capabilities to enable you to provision, control, manage, and monitor virtual Xen and KVM guests.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="691">Marcus Moeller</person>
+          <person id="692">Sandro Mathys</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

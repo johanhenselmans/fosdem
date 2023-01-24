@@ -1,0 +1,21 @@
+  <event id="209">
+      <start>14:00</start>
+      <duration>00:45</duration>
+      <room>Chavanne</room>
+      <slug></slug>
+      <title>X.org</title>
+      <subtitle></subtitle>
+      <track>Desktop Applications</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;X.org: Projects and People&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;This talk presents an overview of the current projects related to the X window system and some of the people involved in them.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The goals and challenges facing each project will be presented along with a brief history of a couple of the contributors. Rather than simply presenting where X.org is today, the hope is that this presentation will encourage people to watch X grow and come help us solve issues facing the free software desktop.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="2091">Keith Packard</person>
+      </persons>
+      <links>
+          <link href="http://video.fosdem.org/2007/FOSDEM2007-Xorg.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,21 @@
+  <event id="114">
+      <start>10:00</start>
+      <duration>00:55</duration>
+      <room>Chavanne</room>
+      <slug></slug>
+      <title>Ganeti: &#34;how you can use it&#34;</title>
+      <subtitle>News, deployment suggestions, crash course</subtitle>
+      <track>Virtualization and Cloud Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Brief introduction to the Ganeti cluster virtual machine manager, latest features and suggestion for creating a production environment.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="1141">Guido Trotter</person>
+      </persons>
+      <links>
+          <link href="574/84_ganeti_news.pdf">Slides for the Ganeti Updates talk (slides)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

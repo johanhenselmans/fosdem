@@ -1,0 +1,19 @@
+  <event id="275">
+      <start>18:20</start>
+      <duration>00:30</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>GNU recutils - your data in plain text</title>
+      <subtitle>your data in plain text</subtitle>
+      <track>GNU devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;GNU recutils is a set of utilities to manipulate text databases called &amp;#39;recfiles&amp;#39;.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;GNU recutils is a set of utilities to manipulate text databases called &amp;#39;recfiles&amp;#39;.  The speech will cover the format used to store the data and the usage of the several utilities.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2751">Jose E. Marchesi</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

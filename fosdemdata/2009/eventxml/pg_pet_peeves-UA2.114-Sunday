@@ -1,0 +1,19 @@
+  <event id="252">
+      <start>09:30</start>
+      <duration>00:30</duration>
+      <room>UA2.114</room>
+      <slug></slug>
+      <title>Postgres Pet Peeves</title>
+      <subtitle></subtitle>
+      <track>BSD + PostgreSQL</track>
+      <type></type>
+      <language></language>
+      <abstract></abstract>
+      <description></description>
+      <persons>
+          <person id="2521">Greg Stark</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

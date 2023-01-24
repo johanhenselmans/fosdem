@@ -1,0 +1,21 @@
+  <event id="85">
+      <start>15:00</start>
+      <duration>00:45</duration>
+      <room>Chavanne</room>
+      <slug></slug>
+      <title>Crystalspace3D</title>
+      <subtitle></subtitle>
+      <track>Games</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;&lt;a href=&#34;http://www.crystalspace3d.org/main/Main_Page&#34;&gt;Crystalspace3D&lt;/a&gt; is a free cross-platform software development kit for realtime 3D graphics, in particular games.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;This talk is about Crystal Space and Crystal Entity Layer. Crystal&#xA;Space is an Open Source platform for developing 3D programs. It is not&#xA;specific to games but that&amp;#39;s the most important usage. Crystal Entity&#xA;Layer is a game layer sitting on top of Crystal Space making it easier&#xA;to create games. In this talk Jorrit will discuss the modular&#xA;structure of the engine and how this structure enables the project to&#xA;be very flexible and extendable. He will go over various plugins in&#xA;Crystal Space and discuss how they interact with each other. Also he&#xA;will explain the Crystal Entity Layer plugins and what they add on top&#xA;of Crystal Space. Other topics that will also be touched in this&#xA;presentation are Blender, blender2crystal, and the Apricot project.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="851">Jorrit Tyberghein</person>
+      </persons>
+      <links>
+          <link href="http://video.fosdem.org/2008/maintracks/FOSDEM2008-crystalspace.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="194">
+      <start>09:15</start>
+      <duration>01:30</duration>
+      <room>AW1.117</room>
+      <slug></slug>
+      <title>OpenOffice.org extensions development in Java with NetBeans in practise</title>
+      <subtitle></subtitle>
+      <track>OpenOffice.org</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This workshop will explain how developers can use the OpenOffice.org API plugin for NetBeans for developing with and for OpenOffice.org in Java.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;The popularity of the standardized (OASIS and ISO/IEC 26300) Open Document Format for Office Applications (OpenDocument) is growing. This also drives the popularity of OpenOffice.org office in government agencies and enterprises. Corporate users often demand the integration of office productivity into existing workflows and applications. They also often require additional functionality or special customizations of the existing features.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;OpenOffice.org offers a language independent application programming interface (API) which allows to program OpenOffice.org in Java. It allows to use OpenOffice.org as service provider in other applications, extend it with new functionality or simply customize and control OpenOffice.org.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Typical use cases are document creation, conversion or printing from remote client applications (typical server scenarios). Embedding office functionality into own Java applications to make use of the rich feature set. For example using the editor of the word processor application with all its features in your own application. Or intercept and replace existing commands with own implementations. For example replace the standard save/load commands to save/load directly into/from a document management system (DMS). Alternatively it is possible to insert additional save/load menu entries to support the DMS additionally. Do you have thought about embedding your own Java component into an OpenOffice.org writer document? Embed Java components and activate them outplace in an external window. The use cases can be extended easily and it is obvious that both the OpenOffice.org and the Java world can benefit from each other.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The OpenOffice.org API plugin for NetBeans helps to use this API most effectively from NetBeans. The workshop will give an overview of the provided features of the plugin and will explain step by step how to - use wizards to create complete extensions for OpenOffice.org - deploy extensions directly from NetBeans into a running office program - debug the running extensions in NetBeans&#xA;&lt;/p&gt;&#xA;&lt;p&gt;And in more detail the audience will learn how to develop an own Smart Tag extensions for the OpenOffice.org Writer application. Smart Tags are known from a well known other office application and are new in OpenOffice.org since version 2.3. Smart Tags open the door for creativity and a lot of small, nice and probably useful new features (implemented as extensions) for the Writer application.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;A second example will explain step by step how to implement an options dialog pane for an own extension. More comprehensive extensions often allow the configuration of options and a well integrated options pane in the default office options dialog make extensions looking more professional and helps to improve the overall user experience of the office. Users can find all configuration in one place under Tools - Options.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The workshop examples are explained in detail and step by step. The provided workshop material provides links to further background documentation.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1941">Jürgen Schmidt</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

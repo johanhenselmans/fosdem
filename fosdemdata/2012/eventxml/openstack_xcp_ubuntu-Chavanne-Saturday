@@ -1,0 +1,19 @@
+  <event id="305">
+      <start>17:00</start>
+      <duration>00:25</duration>
+      <room>Chavanne</room>
+      <slug></slug>
+      <title>Deploying OpenStack with the XCP toolstack on Ubuntu</title>
+      <subtitle></subtitle>
+      <track>Virtualization and Cloud Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The Xen Cloud Platform (XCP) is an open source virtualization platform based on the Xen hypervisor. XCP isn&amp;#39;t a server application which you install alongside of Xen, but rather an &amp;#34;embedded&amp;#34; appliance, which manages your host. While this gives XCP developers the ability to provide a tightly controlled, well integrated system, it makes it more difficult for FOSS developers to use and modify our software. To correct this, we have recently ported the XCP toolstack to run on Debian; it is currently in Debian unstable and will be in the next release of Ubuntu.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;In this presentation, we would like to demonstrate the XCP toolstack running on Ubuntu. We will show how easy it is to use the toolstack to create and manage virtual machines, and how you can use XCP and XenServer management tools with the XCP toolstack on Ubuntu. We will also demo our software running OpenStack.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="3051">Mike McClurg</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="91">
+      <start>12:00</start>
+      <duration>00:55</duration>
+      <room>K.3.201</room>
+      <slug></slug>
+      <title>Drools Planner: Planning optimization by example</title>
+      <subtitle></subtitle>
+      <track>JBoss.org Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Better planning algorithms can help save the environment, reduce costs and improve service quality. All organisations have planning problems, such as employee rostering, task scheduling, vehicle routing or bin packing. Yet, they hardly optimize those problems. Why? Because those problems are “NP-complete”: computationally very difficult and humanly impossible to optimize.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Drools Planner optimizes such planning problems for normal Java programmers.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;It implements a series of optimization algorithms which can optimize any planning problem: heuristics and metaheuristics with fancy names such as “First Fit Decreasing”, “Tabu Search”, “Simulated Annealing”, … The input and output are plain old java beans (POJO’s), so it’s easy to integrate with JPA, JDBC, JSF, ... The constraints are expressed as Drools Expert rules, so adding extra constraints is object-orientated and scalable. And it’s easy to get a Planner project started with the detailed reference manual and many examples.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;In this presentation, Geoffrey De Smet (Drools Planner lead) will explain the nature of planning problems, go through an entire Drools Planner example, show some demo’s and compare the results of different optimization algorithms.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Ref : http://www.jboss.org/drools/drools-planner.html&lt;/p&gt;      </description>
+      <persons>
+          <person id="911">Geoffrey De Smet</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

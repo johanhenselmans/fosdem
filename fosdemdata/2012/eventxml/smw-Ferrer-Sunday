@@ -1,0 +1,23 @@
+  <event id="359">
+      <start>16:20</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Semantic MediaWiki</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;What is Semantic MediaWiki, what can it do for me, and why is it not on Wikipedia yet?&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Semantic MediaWiki (SMW) is a free, open-source extension to MediaWiki – the wiki software that powers Wikipedia – that lets you store and query data within the wiki&amp;#39;s pages.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Semantic MediaWiki is also a full-fledged framework, in conjunction with many spinoff extensions, that can turn a wiki into a powerful and flexible “collaborative database”. All data created within SMW can easily be published via the Semantic Web, allowing other systems to use this data seamlessly.&lt;/p&gt;      </description>
+      <persons>
+          <person id="3591">Jeroen De Dauw</person>
+      </persons>
+      <links>
+          <link href="493/41_2011_12_14_FOSDEM2012_SMW.pdf">Slides PDF (audio)</link>
+          <link href="493/40_2011_12_14_FOSDEM2012_SMW.odp">Slides (slides)</link>
+          <link href="http://semantic-mediawiki.org/">Semantic MediaWiki</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

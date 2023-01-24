@@ -1,0 +1,20 @@
+  <event id="57">
+      <start>16:45</start>
+      <duration>00:15</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>Closing talk</title>
+      <subtitle></subtitle>
+      <track>Graph Processing Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Saying proper good bye to our attendees plus with a resume of the sessions with resources, links, videos, etc where you will be able to extend and continue accessing the talks we made after Fosdem.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="571">Pere  Urbón-Bayes</person>
+          <person id="572">Achim Friedland</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

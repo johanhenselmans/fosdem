@@ -1,0 +1,19 @@
+  <event id="233">
+      <start>14:45</start>
+      <duration>00:45</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>Collaboration in the openSUSE Build Service</title>
+      <subtitle></subtitle>
+      <track>openSUSE</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk explains how to use the Collaboration features of the openSUSE Build Service. Its based on two openSUSE repositories that use them: openSUSE:Factory:Contrib and openSUSE:Factory.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="2331">Hendrik Vogelsang</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

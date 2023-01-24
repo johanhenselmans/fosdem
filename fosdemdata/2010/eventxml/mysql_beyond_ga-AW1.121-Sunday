@@ -1,0 +1,19 @@
+  <event id="210">
+      <start>10:15</start>
+      <duration>00:30</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>Beyond MySQL GA: patches, storage engines, forks, and pre-releases</title>
+      <subtitle></subtitle>
+      <track>MySQL</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;There is more to the MySQL server than MySQL 5.1 GA. There are a lot of patches available that are not included in the official MySQL source tree. There are several new or enhanced storage engines.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;There are a handful of branches of the MySQL source code maintained by community members. And there are official MySQL milestone releases and snapshots. But to benefit from all of this, one has to know that they exist, and know how to use them.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;In my talk, I will first give an overview of what community enhancements of various kinds are available. I will then go through the options for using these enhancements, including using pre-build binaries from various sources, building from alternative source trees, building storage engine plugins, and patching upstream MySQL sources.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2101">Kristian Nielsen</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

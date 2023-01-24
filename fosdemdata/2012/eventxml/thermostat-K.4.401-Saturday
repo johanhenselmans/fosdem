@@ -1,0 +1,20 @@
+  <event id="379">
+      <start>18:00</start>
+      <duration>00:30</duration>
+      <room>K.4.401</room>
+      <slug></slug>
+      <title>Thermostat: Taking over the Java tooling world with Open Source Software</title>
+      <subtitle></subtitle>
+      <track>Free Java Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;One area in which proprietary JDK releases have traditionally showed superiority over OpenJDK is in monitoring and instrumentation tools.  We aim to overcome this shortcoming and even reverse the trend by introducing a new, scalable tool to the the ecosystem: Thermostat.  During the last half year, we&amp;#39;ve been quietly coming up with a plan for how this tool should work, and we&amp;#39;re now ready to share what we&amp;#39;ve come up with.  By working with others in the open Java community, we believe that we can make the most useful, most comprehensive, and all around best application of its kind.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;In our presentation, we will describe our extensible model for collecting JVM and system monitoring data side by side.  Attendees will learn about the features we have planned, see a short demo of what is already working, and hopefully be inspired to join us in in making this awesome tool a reality.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="3791">Jon VanAlten</person>
+          <person id="3792">Omair Majid</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

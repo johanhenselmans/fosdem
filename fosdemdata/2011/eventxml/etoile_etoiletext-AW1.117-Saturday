@@ -1,0 +1,19 @@
+  <event id="95">
+      <start>14:45</start>
+      <duration>00:15</duration>
+      <room>AW1.117</room>
+      <slug></slug>
+      <title>EtoileText</title>
+      <subtitle></subtitle>
+      <track>World of GNUstep devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;EtoileText is a framework designed for supporting structured text with semantic annotations. It was used to generate the XHTML for the ePub edition of my latest book, the Objective-C Phrasebook, from LaTeX sources. This talk will discuss the core design of EtoileText, its use, and plans for its future evolution.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;EtoileText is a framework designed for supporting structured text with semantic annotations. It was used to generate the XHTML for the ePub edition of my latest book, the Objective-C Phrasebook, from LaTeX sources. This talk will discuss the core design of EtoileText, its use, and plans for its future evolution.&lt;/p&gt;      </description>
+      <persons>
+          <person id="951">David Chisnall</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

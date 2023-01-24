@@ -1,0 +1,22 @@
+  <event id="37">
+      <start>09:40</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Sepia: metadata based file browser</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;In my Talk, I plan to:&#xA;&lt;/p&gt;&lt;ul&gt;&lt;li&gt; give a general overview of the project,&#xA;&lt;/li&gt;&#xA;&lt;li&gt; show how you can create a music folder and define some virtual folders and&#xA;&lt;/li&gt;&#xA;&lt;li&gt; explain the sparse folder tree for navigation.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;(Meta) Sepia is a new file browser that adapts to the current folder&#xA;and makes heavy use of metadata.&#xA;It integrates features like (mass) tagging, virtual folders, metadata&#xA;search and directory/file-specific views and actions. These features&#xA;are all well known from domain specific file browsers like F-Spot or&#xA;Amarok and are now usable for all files.&#xA;While designing the user interface, I developed a new navigational&#xA;widget: the sparse folder tree. It displays places, where you will&#xA;likely want to go to next and presents them in a tree. It replaces the&#xA;normal folder tree with expanders, the history, the places sidebar,&#xA;bookmarks and the button-based location bar, like they all exist in&#xA;nautilus. It turned out to be very useful and I described it in my&#xA;blog at http://p4n.net.&#xA;(Meta) Sepia is written in Ruby with Ruby-GNOME2 and uses (Meta)&#xA;Tracker as indexing backend and metadata storage.&#xA;Just recently, I switched from Qt to Gtk and I havn&amp;#39;t finished all&#xA;features yet. So, the program is still to be considered alpha and&#xA;there is plenty of bugfixing and polishing to do. I hope to get a beta&#xA;version out before FOSSDEM&amp;#39;08.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="371">Peter Rullmann</person>
+      </persons>
+      <links>
+          <link href="http://video.fosdem.org/2008/lightningtalks/FOSDEM2008-sepia.ogg">Slides (PDF)</link>
+          <link href="http://fosdem.org/2008/slides/lightningtalks/fosdem08_ltalk_metasepia.pdf">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

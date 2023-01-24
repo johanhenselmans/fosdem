@@ -1,0 +1,19 @@
+  <event id="225">
+      <start>13:45</start>
+      <duration>00:45</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>openSUSE Community</title>
+      <subtitle></subtitle>
+      <track>openSUSE</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk gives you an overview about the openSUSE community. What we have, what we need. It also covers some topics from the mailinglists, like Weekly-news i18n, plans for language specific news.o.o, and why i18n is important for us.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;The Talk will also have short overview about the upcoming openSUSE spokesperson program.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Dinar will also talk about the Contrib repository.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2251">Dinar Valeev</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

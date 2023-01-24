@@ -1,0 +1,20 @@
+  <event id="81">
+      <start>14:00</start>
+      <duration>01:00</duration>
+      <room>AW1.115</room>
+      <slug></slug>
+      <title>Étoilé: a Desktop Environment</title>
+      <subtitle></subtitle>
+      <track>OpenGroupware + GNUstep</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;&lt;a href=&#34;http://www.etoile-project.org/&#34;&gt;Étoilé&lt;/a&gt;: a Desktop Environment&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description></description>
+      <persons>
+          <person id="811">Quentin Mathé</person>
+          <person id="812">Nicolas Roard</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

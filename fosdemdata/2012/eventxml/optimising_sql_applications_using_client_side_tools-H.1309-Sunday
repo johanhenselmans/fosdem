@@ -1,0 +1,19 @@
+  <event id="309">
+      <start>12:30</start>
+      <duration>00:25</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>Optimising SQL applications by using client side tools</title>
+      <subtitle></subtitle>
+      <track>MySQL and Friends Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Much is discussed regarding query optimisers within database server, attention is not always paid however to the actual queries that are passed to a database server to execute and the value of those queries within an application context.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;No matter how good a query optimiser is it can not match the performance improvement that can be gained by not running a particular query at all, retrieving smaller result sets or running queries less frequently.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;We will discuss some methods to investigate the SQL your application is sending to your MySQL server, and examine some techniques to visualise the cost of the interactions your application has with the MySQL database.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="3091">Mark Riddoch</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

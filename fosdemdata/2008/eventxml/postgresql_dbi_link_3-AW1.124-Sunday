@@ -1,0 +1,19 @@
+  <event id="225">
+      <start>12:00</start>
+      <duration>00:15</duration>
+      <room>AW1.124</room>
+      <slug></slug>
+      <title>DBI-Link 3.0</title>
+      <subtitle></subtitle>
+      <track>BSD + PostgreSQL</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Have you ever needed to get data from a spreadsheet and put it in a database?  Have you ever wanted to do real queries on a CSV file?&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://pgfoundry.org/projects/dbi-link/&#34;&gt;DBI-Link 3.0&lt;/a&gt; makes these operations easy.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;For years, &lt;a href=&#34;http://pgfoundry.org/projects/dbi-link/&#34;&gt;DBI-Link&lt;/a&gt; has been used in large production systems for communicating between Postgres and other data sources, not just other RDBMSs.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Find out what&amp;#39;s new in the latest version, and make your migration easier.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="2251">David Fetter</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

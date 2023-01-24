@@ -1,0 +1,19 @@
+  <event id="122">
+      <start>15:00</start>
+      <duration>01:30</duration>
+      <room>Lameere</room>
+      <slug></slug>
+      <title>LPI exam session 5</title>
+      <subtitle></subtitle>
+      <track>LPI Certification</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;LPI Exam Session #5&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;See &lt;a href=&#34;http://fosdem.org/2007/lpi&#34;&gt;http://fosdem.org/2007/lpi&lt;/a&gt;&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1221">Klaus Behrla</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

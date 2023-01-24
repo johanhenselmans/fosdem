@@ -1,0 +1,19 @@
+  <event id="16">
+      <start>10:00</start>
+      <duration>01:00</duration>
+      <room>Chavanne</room>
+      <slug></slug>
+      <title>OWASP Testing Guide v3 and Secure Software Development</title>
+      <subtitle></subtitle>
+      <track>Security</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The speech goal is to show the OWASP testing methodology and how you&#xA;can implement a software development lifecycle that permit to develop&#xA;more secure applications.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;The Open Web Application Security Project (OWASP) wants to deliver&#xA;free tools and documentation for the Web Application Security.&#xA;The talk will present the new OWASP Testing Guide v3 that includes a&#xA;&amp;#34;best practice&amp;#34; penetration testing framework which users can&#xA;implement in their own organizations and a &amp;#34;low level&amp;#34; penetration&#xA;testing guide that describes techniques for testing most common web&#xA;application and web service security issues. OWASP Testing Guide v3 is&#xA;a 349 page book; we have split the set of active tests in 9&#xA;sub-categories for a total of 66 controls to test during the Web&#xA;Application Testing activity.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="161">Matteo Meucci</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="101">
+      <start>17:30</start>
+      <duration>00:45</duration>
+      <room>AW1.105</room>
+      <slug></slug>
+      <title>Yate</title>
+      <subtitle></subtitle>
+      <track>Jabber</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;&lt;a href=&#34;http://yate.null.ro/&#34;&gt;Yate&lt;/a&gt;, Yet Another Telephony Engine, is a next-generation telephony engine.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;While currently focused on Voice over Internet Protocol (VoIP) and PSTN, the power of Yate lies in its ability to be easily extended.&#xA;Voice, video, data and instant messaging can all be unified under Yate&amp;#39;s flexible routing engine, maximizing communications efficiency and minimizing infrastructure costs for businesses.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;This talk is about the interoperability between &lt;a href=&#34;http://yate.null.ro/&#34;&gt;Yate&lt;/a&gt; and Jabber server &lt;a href=&#34;http://www.tigase.org/&#34;&gt;Tigase&lt;/a&gt;.&#xA;Yate supports Jingle protocol and together with Tigase can be used to build tomorrow&amp;#39;s open telephony networks.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1011">Diana Cionoiu</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

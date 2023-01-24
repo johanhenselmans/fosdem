@@ -1,0 +1,19 @@
+  <event id="250">
+      <start>18:30</start>
+      <duration>00:30</duration>
+      <room>K.3.601</room>
+      <slug></slug>
+      <title>MonoMac</title>
+      <subtitle></subtitle>
+      <track>Mono Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talk will cover the basics of MonoMac and how the Mono runtime was integrated with the Objective-C runtime.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Although MonoMac is actively being developed on OSX, there are efforts to make it run also out of the box with two open source Objective-C/AppKit Stacks.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="2501">Miguel De Icaza</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

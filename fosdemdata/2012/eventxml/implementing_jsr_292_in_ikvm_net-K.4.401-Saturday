@@ -1,0 +1,19 @@
+  <event id="154">
+      <start>12:00</start>
+      <duration>00:30</duration>
+      <room>K.4.401</room>
+      <slug></slug>
+      <title>Implementing JSR 292 in IKVM.NET</title>
+      <subtitle></subtitle>
+      <track>Free Java Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;IKVM.NET is an implementation of a Java VM on top of Microsoft .NET and Mono. In this talk I&amp;#39;ll describe how Java 7&amp;#39;s JSR 292 invokedynamic and MethodHandles have been implemented in IKVM.NET.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="1541">Jeroen Frijters</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

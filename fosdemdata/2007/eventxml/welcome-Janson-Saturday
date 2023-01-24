@@ -1,0 +1,21 @@
+  <event id="208">
+      <start>10:00</start>
+      <duration>00:30</duration>
+      <room>Janson</room>
+      <slug></slug>
+      <title>Welcome</title>
+      <subtitle></subtitle>
+      <track>Opening/Closing talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;FOSDEM Opening Talk&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;The FOSDEM Opening Talk, including the famous FOSDEM dance.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="2081">FOSDEM</person>
+      </persons>
+      <links>
+          <link href="http://video.fosdem.org/2007/FOSDEM2007-Welcome.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="155">
+      <start>16:00</start>
+      <duration>01:00</duration>
+      <room>AW1.105</room>
+      <slug></slug>
+      <title>Drools</title>
+      <subtitle></subtitle>
+      <track>JBoss</track>
+      <type></type>
+      <language></language>
+      <abstract></abstract>
+      <description></description>
+      <persons>
+          <person id="1551">Mark Proctor</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

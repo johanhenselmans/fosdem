@@ -1,0 +1,19 @@
+  <event id="21">
+      <start>15:40</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Beernet: Building peer-to-peer systems with transactional replicated storage</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;We will very briefly introduce Beernet&amp;#39;s architecture describing the peer-to-peer network topology, the distributed hash table, and the transactional layer for replicated storage (called Trappist). We will also describe Beernet&amp;#39;s API to create peers, exchange information between them, and to store and retrieve data from them. We will finally describe some applications built on top of Beernet, such as a small wiki, a collaborative drawing tool, and a web-base recommendation system.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Beernet is a library to build distributed systems as peer-to-peer networks. It provides replicated storage with distributed transactions, which are highly robust because they do not rely on a centralized point of control. Beernet can be used to develop synchronous and asynchronous collaborative applications. We have used it to build a decentralized wiki, a collaborative drawing application with gPhone clients, and a web-base recommendation system.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Beernet stands for pbeer-to-pbeer network, where words peer and beer are mixed to emphasise the fact that this is peer-to-peer built on top of a relaxed-ring topology (beers are a known mean to achieve relaxation). The relaxed-ring provides a distributed hash table (DHT) with no central point of control and without relying on transitive connectivity between peers.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="211">Boriss Mejias</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

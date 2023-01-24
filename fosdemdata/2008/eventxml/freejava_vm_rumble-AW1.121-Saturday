@@ -1,0 +1,25 @@
+  <event id="142">
+      <start>17:30</start>
+      <duration>01:30</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>VM Rumble, Porting and Architectures</title>
+      <subtitle></subtitle>
+      <track>Free Java</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;There are lots of runtimes able to execute your java byte code. But which one is the best, coolest, smartest, easiest portable or just simply the most fun?&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Various virtual machine hackers will each give a short presentation on what makes their runtime special and fun to work with. What cool things they have been doing this last year. What are their plans for next year.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;What can other runtimes learn from their experiences.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;And how can YOU help! The session will end with a general VM discussion.&#xA;&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Kaffe (Dalibor Topic)&#xA;&lt;/li&gt;&#xA;&lt;li&gt; JamVM (Robert Lougher)&#xA;&lt;/li&gt;&#xA;&lt;li&gt; HotSpot (Peter Kessler)&#xA;&lt;/li&gt;&#xA;&lt;li&gt; JikesRVM (Ian Rogers)&#xA;&lt;/li&gt;&#xA;&lt;li&gt; CACAO (Christian Thalinger)&#xA;&lt;/li&gt;&#xA;&lt;li&gt; ikvm (Jeroen Frijters)&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Zero-assembler Port (Gary Benson)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA; </description>
+      <persons>
+          <person id="1421">Jeroen Frijters</person>
+          <person id="1422">Ian Rogers</person>
+          <person id="1423">Peter Kessler</person>
+          <person id="1424">Robert Lougher</person>
+          <person id="1425">Dalibor Topic</person>
+          <person id="1426">Gary Benson</person>
+          <person id="1427">Christian Thalinger</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

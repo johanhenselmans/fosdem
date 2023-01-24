@@ -1,0 +1,21 @@
+  <event id="94">
+      <start>14:45</start>
+      <duration>00:45</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>Creating a nice view into the Debian archives</title>
+      <subtitle></subtitle>
+      <track>Debian</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This talks presents an overview over the code running behind &lt;a href=&#34;http://packages.debian.org/&#34;&gt;packages.debian.org&lt;/a&gt; (and &lt;a href=&#34;http://packages.ubuntu.com/&#34;&gt;packages.ubuntu.com&lt;/a&gt;), its history, its design, its problems, and its future.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Finally it will include a short introduction on how to hack on the code to improve it.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="941">Frank Lichtenheld</person>
+      </persons>
+      <links>
+          <link href="http://meetings-archive.debian.net/pub/debian-meetings/2008/fosdem/ogg_theora/384x288/Creating_a_nice_view_into_the_Debian_archives___Frank_Lichtenheld.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

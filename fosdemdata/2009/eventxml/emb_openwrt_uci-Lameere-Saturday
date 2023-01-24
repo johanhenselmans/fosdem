@@ -1,0 +1,20 @@
+  <event id="81">
+      <start>13:00</start>
+      <duration>01:00</duration>
+      <room>Lameere</room>
+      <slug></slug>
+      <title>OpenWrt: UCI and beyond</title>
+      <subtitle></subtitle>
+      <track>Embedded</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Most embedded routers and similar devices have traditionally limited themselves to a very static system, typically providing the web interface as the only means of doing any configuration.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;OpenWrt intends to solve this problem in a generic way by providing a structured, extensible and modular configuration system, which does not limit itself to being the backend of a web interface.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="811">John Crispin</person>
+          <person id="812">Felix Fietkau</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

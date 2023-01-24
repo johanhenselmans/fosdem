@@ -1,0 +1,19 @@
+  <event id="315">
+      <start>12:00</start>
+      <duration>00:25</duration>
+      <room>Chavanne</room>
+      <slug></slug>
+      <title>VDSM - The oVirt Node Management Agent</title>
+      <subtitle></subtitle>
+      <track>Virtualization and Cloud Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;VDSM, the cluster node agent, is in charge of executing, managing and monitoring all the virtualization tasks needed in a large scale deployment. This session will give an overview of the project, including:&lt;/p&gt;&#xA;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;VDSM and its responsibilities&lt;/li&gt;&#xA;&lt;li&gt;Who should use VDSM&lt;/li&gt;&#xA;&lt;li&gt;Architecture, packages and infrastructure&lt;/li&gt;&#xA;&lt;li&gt;Short description of interesting APIs and use cases&lt;/li&gt;&#xA;&lt;li&gt;Roadmap and how to contribute&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;      </abstract>
+      <description></description>
+      <persons>
+          <person id="3151">Federico Simoncelli</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

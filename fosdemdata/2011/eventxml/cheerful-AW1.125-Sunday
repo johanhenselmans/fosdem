@@ -1,0 +1,20 @@
+  <event id="28">
+      <start>14:00</start>
+      <duration>00:30</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>Free Java</title>
+      <subtitle>Reasons to be Cheerful!</subtitle>
+      <track>Free Java devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Java isn&amp;#39;t dead, it&amp;#39;s just been sleeping! Look at its lovely new plumage!&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;There&amp;#39;s been much debate in the last year on the future of the Java language, many doom mongers have stated that Java as a language and as a platform is in decline and will no longer be relevant in the all too near future.&#xA;This talk debunks those naysayers and covers the exciting new world of a modern Java developer and how she can utilise the language and platform extensions to deliver awesome solutions. Our major themes:&lt;/p&gt;&#xA;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;We have a VM which is arguably the most capable on the planet - and it&amp;#39;s GPL.&lt;/li&gt;&#xA;&lt;li&gt;We have a wealth of new JVM languages which both complement and challenge the Java language.&lt;/li&gt;&#xA;&lt;li&gt;We have a set of &amp;#34;software craftsmanship&amp;#34; tools which are increasingly mature - and they&amp;#39;re open source.&lt;/li&gt;&#xA;&lt;li&gt;This is a great time to be a developer working on this platform!&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&#xA;&lt;p&gt;This will be a technical talk, but not closely tied to an specific F/OSS coding project. Some of the topics we will prepare are:&lt;/p&gt;&#xA;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;invokeDynamic &amp;amp; Method Handles - and how closures might evolve&lt;/li&gt;&#xA;&lt;li&gt;How open source Java tool stacks won the war&lt;/li&gt;&#xA;&lt;li&gt;Dynamic Languages on the platform (eg Clojure, Groovy)&lt;/li&gt;&#xA;&lt;li&gt;How Concurrency is thriving in many (often very different) implementations on the JVM&lt;/li&gt;&#xA;&lt;li&gt;Future Directions (eg fixnums, mandated tail-calls, type annotations)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&#xA;&lt;p&gt;The format will then be highly audience-led, to allow discussion of 2-3 topics during the talk, based on demand. This is a speaking style we&amp;#39;ve previously used and find it highly effective and popular with audiences.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;#&lt;/p&gt;&#xA;&#xA;&lt;p&gt;{i}&lt;/p&gt;      </description>
+      <persons>
+          <person id="281">Ben Evans</person>
+          <person id="282">Martijn Verburg</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

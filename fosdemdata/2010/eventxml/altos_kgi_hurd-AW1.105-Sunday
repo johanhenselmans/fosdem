@@ -1,0 +1,19 @@
+  <event id="11">
+      <start>13:00</start>
+      <duration>00:30</duration>
+      <room>AW1.105</room>
+      <slug></slug>
+      <title>Porting KGI graphics drivers from Linux to GNU Hurd</title>
+      <subtitle></subtitle>
+      <track>Alt-OS</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;GGI/KGI is a graphics driver framework, offering a clear seperation between actual hardware access and abstraction. The hardware access part was originally a kernel driver for monolithic UNIX kernels like Linux and FreeBSD. This talk is about porting that framework, to work with the hardware access part running as a userspace server process on top of the multiserver microkernel system GNU Hurd.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;After a short introduction to GGI/KGI and Hurd architecture, this talk will dwell a bit on the interesting aspects of porting the kernel driver to run as a userspace process instead.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="111">Olaf Buddenhagen</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

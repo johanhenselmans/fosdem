@@ -1,0 +1,21 @@
+  <event id="92">
+      <start>13:00</start>
+      <duration>01:00</duration>
+      <room>Lameere</room>
+      <slug></slug>
+      <title>Cross Build Systems: Present &amp; Future</title>
+      <subtitle></subtitle>
+      <track>Embedded</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;There are lots of cross build systems out there these days. While all of these projects have their own focus, concept and design, there are a lot of problems most of us know very well, for example cross build problems,developing patches in an upstream-acceptable way etc.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;In this workshop, all participating build system groups will get the opportunity to present three slides and five minutes, in order to outline:&#xA;&lt;/p&gt;&lt;ul&gt;&lt;li&gt; short project description&#xA;&lt;/li&gt;&#xA;&lt;li&gt; plans for the future&#xA;&lt;/li&gt;&#xA;&lt;li&gt; ideas to collaborate&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;After that, we&amp;#39;ll collect and discuss those ideas in order to create benefit for both, the involved projects and the whole open-source eco-system.&#xA;&#xA;Any project interested in participation, please write us a mail to crossdev@send-patches.org, in order to organize the presentations.&#xA;&#xA;  </description>
+      <persons>
+          <person id="921">Yann E. Morin</person>
+          <person id="922">Robert Schwebel</person>
+          <person id="923">Peter Korsgaard</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

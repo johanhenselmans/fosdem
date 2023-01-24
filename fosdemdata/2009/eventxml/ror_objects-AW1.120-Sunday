@@ -1,0 +1,19 @@
+  <event id="266">
+      <start>13:30</start>
+      <duration>00:45</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>On objects, classes, binding and scoping in Ruby</title>
+      <subtitle></subtitle>
+      <track>Ruby and Rails</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This presentation delves into Ruby&amp;#39;s object model.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Ruby&amp;#39;s object model is class-based, so we cannot discuss objects without including classes. Next we discuss bindings and scoping in Ruby, which are somewhat related but still two different concepts. This presentation intends to go beyond the knowledge of the average Rubyist and aims to teach you more about the intricate details of how Ruby works and how you can exploit these to your advantage, even if just to wow (TM) your coworkers.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2661">Peter Vanbroekhoven</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

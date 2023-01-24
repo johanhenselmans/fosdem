@@ -1,0 +1,19 @@
+  <event id="145">
+      <start>11:45</start>
+      <duration>00:30</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>Groovy Grails for NetBeans</title>
+      <subtitle></subtitle>
+      <track>Free Java</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This short talk should give Java/NetBeans developers an overview about how the &lt;a href=&#34;http://wiki.netbeans.org/Groovy&#34;&gt;Groovy and Grails support in NetBeans&lt;/a&gt; works under the hood.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="1451">Matthias Schmidt</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

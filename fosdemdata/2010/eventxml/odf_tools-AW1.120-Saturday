@@ -1,0 +1,19 @@
+  <event id="238">
+      <start>17:30</start>
+      <duration>00:30</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>ODF Tools and Resources</title>
+      <subtitle></subtitle>
+      <track>OpenOffice.org</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;This session lists the various ODF tools and libraries that are &amp;#34;out there&amp;#34;, and where one can find additional info about ODF itself.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;ODF has become a popular document format, but for new developers it isn&amp;#39;t always clear what open source tools exist and where to find them. This presentations aims to list the most interesting tools, libraries, projects and other resources available.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2381">Bart Hanssens</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="29">
+      <start>11:00</start>
+      <duration>00:45</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>The Newcons Project</title>
+      <subtitle></subtitle>
+      <track>BSD</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Last year I gave a talk on the state of FreeBSD&amp;#39;s console driver called syscons. Since then I&amp;#39;ve started working on a new console driver architecture for the kernel, which I&amp;#39;m hoping will be finished before FreeBSD 9.0.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;This talk will describe how the new console driver is implemented and will highlight some of its key features, such as exclusive support for UTF-8 and reduced graphics I/O.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="291">Ed Schouten</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

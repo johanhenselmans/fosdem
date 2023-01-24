@@ -1,0 +1,19 @@
+  <event id="278">
+      <start>17:00</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Sahi: automated cross-browser web testing</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The talk will introduce Sahi and what features make it easy to use for beginners. Furthermore I will present some highlights and neat features for daily usage such as nightly builds. I&amp;#39;ll show how fast one can advance in writing testscripts for their web applications, it&amp;#39;s pretty intuitive.&#xA;The automated creation of testlogs will be shown and the possibility of multi-threaded playback.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Sahi is a tester friendly tool. It abstracts out most difficulties that testers face while automating web applications. Some salient features include excellent recorder, platform and browser independence, no XPaths, no waits, multithreaded playback, excellent Java interaction and inbuilt reporting.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2781">Andreas Worm</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

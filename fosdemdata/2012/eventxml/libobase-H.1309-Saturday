@@ -1,0 +1,19 @@
+  <event id="191">
+      <start>17:30</start>
+      <duration>00:30</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>Base Hacking</title>
+      <subtitle>please join us</subtitle>
+      <track>LibreOffice Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The database component is one of the pieces most in need of love in LibreOffice. Come and hear how one noble, lone hacker has made a huge difference to this component, and how you can get stuck into improving this key piece of the suite.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="1911">Lionel Elie Mamane</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

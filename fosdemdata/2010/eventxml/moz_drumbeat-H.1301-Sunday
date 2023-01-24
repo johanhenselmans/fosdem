@@ -1,0 +1,20 @@
+  <event id="194">
+      <start>14:30</start>
+      <duration>00:45</duration>
+      <room>H.1301</room>
+      <slug></slug>
+      <title>Mozilla Drumbeat in Europe</title>
+      <subtitle></subtitle>
+      <track>Mozilla</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Actions, ideas and projects for an open Internet&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description></description>
+      <persons>
+          <person id="1941">Mark Surman</person>
+          <person id="1942">Alina Mierlus</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

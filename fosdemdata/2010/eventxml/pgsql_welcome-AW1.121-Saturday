@@ -1,0 +1,19 @@
+  <event id="260">
+      <start>13:00</start>
+      <duration>00:15</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>Welcome to the PostgreSQL devroom</title>
+      <subtitle></subtitle>
+      <track>PostgreSQL</track>
+      <type></type>
+      <language></language>
+      <abstract></abstract>
+      <description></description>
+      <persons>
+          <person id="2601">Andreas Scherbaum</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

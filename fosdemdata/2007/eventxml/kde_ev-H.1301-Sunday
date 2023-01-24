@@ -1,0 +1,21 @@
+  <event id="108">
+      <start>16:30</start>
+      <duration>00:30</duration>
+      <room>H.1301</room>
+      <slug></slug>
+      <title>KDE e.V.</title>
+      <subtitle></subtitle>
+      <track>KDE</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;KDE e.V. - The organization behind the project&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;A big Free Software project such as the KDE e.V. needs some administrative care. This talks outlines the why and the how of KDE e.V. the foundation that is the legal representative of the KDE project. The mission of KDE e.V. is to support the development in the project.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1081">Sebastian Kügler</person>
+      </persons>
+      <links>
+          <link href="http://www.kde.org/kdeslides/fosdem2007/2007-02-sebas-kde_ev.pdf">Slides (PDF)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

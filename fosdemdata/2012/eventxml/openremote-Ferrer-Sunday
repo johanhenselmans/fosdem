@@ -1,0 +1,23 @@
+  <event id="301">
+      <start>15:20</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Home Automation with Open Remote</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;OpenRemote is an open source project operating in the field of Domotics.  OpenRemote develops and distributes a standard based platform that is extensible and flexible with applications to Home Automation, Energy Management and Healthcare.  This community based project integrates varied field protocols (such as KXN, X10 and Z-Wave) in a common framework and allows for easy creation of visual panels.  Open Remote supports the leading standard platforms iOS, Android and web.  OpenRemote offers a variety of cloud-based tools which are aimed at simplifying the work of professionals as well as hobbyists.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;After a quick business introduction, covering the business model, the raison d&amp;#39;etre for a standards based, open source platform in the crowded field of home automation, this presentation will address:&#xA;- the global architecture of the OpenRemote ecosystem and its components&#xA;- a detail presentation of each components, their role and the technologies used&#xA;- a short video of the great applications the community has used OpenRemote for&#xA;- a technical walk-through of the how to implement a new protocol&#xA;- the OpenRemote community&lt;/p&gt;      </description>
+      <persons>
+          <person id="3011">Eric Bariaux</person>
+      </persons>
+      <links>
+          <link href="461/20_OpenRemote%20compilation.mov">OpenRemote compilation.mov (video)</link>
+          <link href="461/71_FOSDEM%20Presentation%20800x600%20-%20more%20tech.pdf">Slides - PDF version (slides)</link>
+          <link href="http://www.openremote.org/">OpenRemote website</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

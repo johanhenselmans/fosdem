@@ -1,0 +1,19 @@
+  <event id="103">
+      <start>14:00</start>
+      <duration>00:50</duration>
+      <room>Chavanne</room>
+      <slug></slug>
+      <title>The life of a Firefox feature</title>
+      <subtitle></subtitle>
+      <track>Web Browsing Track</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The life of a Firefox feature : idea ? bug ? discussion ? patch ? experiments ? discussion ? tests ? beta ? full feature in Firefox.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="1031">Chris Hofmann</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

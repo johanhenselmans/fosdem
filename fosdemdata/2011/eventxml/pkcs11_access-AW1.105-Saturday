@@ -1,0 +1,19 @@
+  <event id="257">
+      <start>16:00</start>
+      <duration>00:30</duration>
+      <room>AW1.105</room>
+      <slug></slug>
+      <title>Unifying access to PKCS#11 tokens</title>
+      <subtitle></subtitle>
+      <track>Security &amp; hardware crypto devroom</track>
+      <type></type>
+      <language></language>
+      <abstract></abstract>
+      <description>&#xA;&lt;p&gt;ryptographic services in modern operating systems today are being&#xA;accessed by applications by using libraries, either high level ones&#xA;that hide all details, or low level ones that force the user to deal&#xA;with an amount of (un)interesting details of each cryptographic&#xA;algorithm.&#xA;Applications in the GNU/Linux and *BSD operating systems usually share&#xA;the same libraries for cryptographic operations and protocols. Those&#xA;can be one of Botan, OpenSSL, NSS, GnuTLS and maybe some more. This is&#xA;quite a variety of choices which we believe is because of the&#xA;different programming style that each library enforces, the different&#xA;algorithms it provides and the ease of usage, which are subjective&#xA;issues that depend on the eye of the beholder.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;However this diversity of cryptographic libraries has some&#xA;disadvantages. For operations such as signing/encryption involving&#xA;PKCS #11 hardware tokens, or software modules, objects need to be&#xA;referenced. Currently there is no uniform way of referencing those&#xA;objects and each of the libraries has its own conventions or delegate&#xA;the burden of referencing objects to the application. This in effect&#xA;makes sharing of those object references between different&#xA;applications impossible and users are required to learn each&#xA;application&amp;#39;s unique interface. Moreover the fact that usually there&#xA;are more than one PKCS #11 providers in a system, but no way to&#xA;globally enable them for all cryptographic applications, leaves the&#xA;burden of setup to users.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;We will discuss the challenges posed and and propose a solution.&lt;/p&gt;      </description>
+      <persons>
+          <person id="2571">Nikos Mavrogiannopoulos</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

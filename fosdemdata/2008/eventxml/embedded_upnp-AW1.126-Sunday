@@ -1,0 +1,19 @@
+  <event id="122">
+      <start>17:00</start>
+      <duration>00:45</duration>
+      <room>AW1.126</room>
+      <slug></slug>
+      <title>UPnP: dead simple, or simply deadly ?</title>
+      <subtitle></subtitle>
+      <track>Embedded</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;One of the protocols that is in wide use on embedded devices (routers, mediaplayers, etcetera) is Universal Plug and Play (UPnP). The protocol was designed by Microsoft in the late 1990s to adapt the plug and play concept as used for USB on desktop machines to the world of networked devices. Now,&#xA;nearly ten years later there are a lot of devices that use UPnP.&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;The UPnP protocol enables programs to do a lot of things automatically, for which normally a system administrator is needed, such as opening ports&#xA;in firewalls in the case of routers. While it is convenient for normal users it enables a whole range of interesting attacks. The complete lack of authentication, combined with grave programming errors leads to situations where an attacker can gain complete control over devices, including&#xA;reconfiguring firewalls and remote code execution. Many exploits were discussed and revealed at the SANE 2006 conference in Delft, The Netherlands, but new exploits keep popping up.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;One of the latest exploits takes UPnP hacking to the web, using a Flash program and cross site scripting.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;In this talk I will show why UPnP was developed, where the errors in common implementations are (and the reason why: the ODM development model), why you should care and what you can do to make sure you are not an attractive target. Exploit code will be shown.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1221">Armijn Hemel</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,22 @@
+  <event id="74">
+      <start>11:30</start>
+      <duration>00:30</duration>
+      <room>H.1302</room>
+      <slug></slug>
+      <title>How to replace a legacy tool with 100k installations</title>
+      <subtitle>... and 50 reverse package dependencies in Debian</subtitle>
+      <track>CrossDistribution Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Debian has a number of legacy tools (that&amp;#39;s a euphemism for ugly hacks) that are not addressed due to inertia, fear of breaking stuff, and the difficulty of reaching consensus for changes with cross-package impact. I&amp;#39;ll talk about dealing with the above issues in the context of ongoing work as part of Debian Enhancement Proposal 9.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Specifically, the talk will cover how (not) to make proposals for cross-package changes, and how to map behaviour in a technical spec to feature-centered assertions in a test suite.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="741">Serafeim Zanikolas</person>
+      </persons>
+      <links>
+          <link href="http://dep.debian.net/deps/dep9/">Debian DEP9</link>
+          <link href="http://video.fosdem.org/2012/crossdistro/How_to_replace_a_legacy_tool_with_100k_installations.webm">Video recording</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

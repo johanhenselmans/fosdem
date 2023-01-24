@@ -1,0 +1,21 @@
+  <event id="153">
+      <start>14:00</start>
+      <duration>01:00</duration>
+      <room>H.1301</room>
+      <slug></slug>
+      <title>Illumian, a new illumos based distribution</title>
+      <subtitle></subtitle>
+      <track>CrossDistribution Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Nexenta has had their own distribution since their inception. Now with the move to an illumos core we are launching a new distribution with an illumos kernel and debian packaging.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="1531">Linda Kateley</person>
+      </persons>
+      <links>
+          <link href="http://video.fosdem.org/2012/crossdistro/Illumian.webm">Video recording</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

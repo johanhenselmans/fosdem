@@ -1,0 +1,19 @@
+  <event id="242">
+      <start>16:20</start>
+      <duration>00:15</duration>
+      <room>Ferrer</room>
+      <slug></slug>
+      <title>Opsview: Network monitoring made easy</title>
+      <subtitle></subtitle>
+      <track>Lightning Talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;The past, present and future of the project. This talk will coincide with Opsview v3.0 release scheduled for early February 2009.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Opsview is network monitoring software that significantly extends the functionality of Nagios and integrates tools such as MRTG, NMIS, RANCID and Net-SNMP. Opsview is developed using Catalyst web framework and MySQL database.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2421">James Peel</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

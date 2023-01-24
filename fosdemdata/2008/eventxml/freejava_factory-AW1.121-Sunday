@@ -1,0 +1,23 @@
+  <event id="136">
+      <start>10:00</start>
+      <duration>02:00</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>The Free Java Factory</title>
+      <subtitle></subtitle>
+      <track>Free Java</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;OpenJDK and IcedTea, how are they made and how do you test them?&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;In the factory there will be discussions about functional testing and quality, an overview of the work of the client team and an overview of the transformation process that turns openjdk/hotspot into icedtea with some spicy applet, liveconnect and webstart support.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="1361">Tom Marble</person>
+          <person id="1362">Thomas Fitzsimmons</person>
+          <person id="1363">Lillian Angel</person>
+          <person id="1364">Igor Nekrestyanov</person>
+          <person id="1365">David Herron</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

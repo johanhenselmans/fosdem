@@ -1,0 +1,27 @@
+  <event id="202">
+      <start>11:00</start>
+      <duration>02:00</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>Panels and open discussion</title>
+      <subtitle></subtitle>
+      <track>Research Room</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Panel: Issues of Company Involvement in Open Source Software Projects&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;ul&gt;&lt;li&gt; Motivation and presentation: Matthias Stuermer (chair)&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Firms&amp;#39; involvement in the projects of the OS community (short presentation): Cristina Rossi&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Open discussion&#xA;&lt;/li&gt;&#xA;&lt;li&gt; Research and libre software:&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt; - what can research about libre software contribute to libre software development;&#xA; - what do developers feel about research&#xA; - some academics and developers (3 min. position talk each, then open discussion)&#xA;&#xA; </description>
+      <persons>
+          <person id="2021">Cristina Rossi</person>
+          <person id="2022">Matthias Stuermer</person>
+      </persons>
+      <links>
+          <link href="http://gsyc.escet.urjc.es/~herraiz/fosdem2007/papers/stuermer_proposal.pdf">Slides (PDF)</link>
+          <link href="http://gsyc.escet.urjc.es/~herraiz/fosdem2007/slides/ethz_Presentation_2007-02-25_IssuesOnCompanyInvolvementInOSS.pdf">Slides (PDF)</link>
+          <link href="http://gsyc.escet.urjc.es/~herraiz/fosdem2007/papers/paper_brussels_20070219.pdf">Slides (PDF)</link>
+          <link href="http://libresoft.urjc.es/videos/FOSDEM07/20070225_panel.ogg">Video (Ogg/Theora)</link>
+          <link href="http://libresoft.urjc.es/videos/FOSDEM07/20070225_panel_Heymans.ogg">Video (Ogg/Theora)</link>
+          <link href="http://libresoft.urjc.es/videos/FOSDEM07/20070225_Maemo-panel_Stuermer.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

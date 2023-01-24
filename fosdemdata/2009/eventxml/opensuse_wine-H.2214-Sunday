@@ -1,0 +1,19 @@
+  <event id="239">
+      <start>11:15</start>
+      <duration>00:45</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>Wine - the free Windows Emulator</title>
+      <subtitle></subtitle>
+      <track>openSUSE</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;After 15 years of development Wine, the free Windows Emulator, has reached the level of completeness a 1.0 release, allowing users to now run a broad spectrum of applications between Office productivity applications, Games or speciality applications.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;This talk will give an introduction on how Wine works, what is possible and how it all works together, why it is not slower, why emulating only the runtime environment is to a distinct advantage compared to virtual machines.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2391">Marcus Meissner</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

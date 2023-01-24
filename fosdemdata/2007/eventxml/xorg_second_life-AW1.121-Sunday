@@ -1,0 +1,19 @@
+  <event id="215">
+      <start>13:00</start>
+      <duration>01:00</duration>
+      <room>AW1.121</room>
+      <slug></slug>
+      <title>Second Life</title>
+      <subtitle></subtitle>
+      <track>X.org</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;&lt;a href=&#34;http://secondlife.com/&#34;&gt;Second Life&lt;/a&gt; opens the source code: what happens when a company frees their software BEFORE they jump the shark&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Aaron Brashears from &lt;a href=&#34;http://lindenlab.com/&#34;&gt;Linden Lab&lt;/a&gt; discusses what happens when a company with a proprietary code base decides to open it up, and talk about some of the contributions that have already come in and some of the things that have the community buzzing (such as the community effort to design a plugin architecture).&#xA;&lt;/p&gt;&#xA;&lt;p&gt;There will be a discussion of the architectural elements of the Second Life viewer, some of the ideas Linden Lab has for the future of the project, and what new technology is coming down the pipe for release.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="2151">Aaron Brashears</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

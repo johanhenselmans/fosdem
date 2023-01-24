@@ -1,0 +1,21 @@
+  <event id="207">
+      <start>12:00</start>
+      <duration>00:45</duration>
+      <room>Janson</room>
+      <slug></slug>
+      <title>Keynote: Liberating Java</title>
+      <subtitle></subtitle>
+      <track>Opening/Closing talks</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Liberating Java&#xA;&lt;/p&gt;&#xA; </abstract>
+      <description>&#xA;&lt;p&gt;Sun Microsystems committed to liberate all its Java implementations under the GPL.&#xA;What does this mean for the Free software community ?&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Simon will be talking about Java and Free Software, as well as the issues around them and Sun&amp;#39;s vision on Free Software in both the community and in the commercial world.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;He will also give an overview of the projects some key people at Sun have been leading and contributing to in the community.&#xA;&lt;/p&gt;&#xA; </description>
+      <persons>
+          <person id="2071">Simon Phipps</person>
+      </persons>
+      <links>
+          <link href="http://video.fosdem.org/2007/FOSDEM2007-Liberating-Java.ogg">Video (Ogg/Theora)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="361">
+      <start>09:35</start>
+      <duration>00:25</duration>
+      <room>H.1309</room>
+      <slug></slug>
+      <title>Sphinx User stories</title>
+      <subtitle></subtitle>
+      <track>MySQL and Friends Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Different users stories like delcampe and Pierre &amp;amp; vacances&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="3611">Stéphane Varoqui</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

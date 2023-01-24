@@ -1,0 +1,19 @@
+  <event id="307">
+      <start>18:00</start>
+      <duration>01:00</duration>
+      <room>Lameere</room>
+      <slug></slug>
+      <title>OpenWrt: Evolution of an Embedded Linux Distribution</title>
+      <subtitle></subtitle>
+      <track>Embedded Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;In this presentation, I will provide an overview of how big rewrite and&#xA;redesign efforts have affected the development of the OpenWrt project.&#xA;After showing two past examples of big structural changes, I will&#xA;introduce the current effort to redesign large parts of the OpenWrt&#xA;user space components.&#xA;This redesign aims to bring some interesting approaches from the&#xA;Desktop Linux world over to Embedded, without bringing along the&#xA;amount of bloat that is usually associated with them.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="3071">Felix Fietkau</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

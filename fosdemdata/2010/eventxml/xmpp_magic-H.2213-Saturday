@@ -1,0 +1,19 @@
+  <event id="299">
+      <start>13:15</start>
+      <duration>00:45</duration>
+      <room>H.2213</room>
+      <slug></slug>
+      <title>The Extraordinary, Magical Powers and Possibilities of XMPP</title>
+      <subtitle></subtitle>
+      <track>Jabber + XMPP</track>
+      <type></type>
+      <language></language>
+      <abstract></abstract>
+      <description></description>
+      <persons>
+          <person id="2991">Remko Tronçon</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

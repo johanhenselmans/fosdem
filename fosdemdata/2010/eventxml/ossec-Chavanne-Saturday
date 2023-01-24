@@ -1,0 +1,21 @@
+  <event id="252">
+      <start>16:00</start>
+      <duration>00:45</duration>
+      <room>Chavanne</room>
+      <slug></slug>
+      <title>OSSEC</title>
+      <subtitle></subtitle>
+      <track>Security</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Expect an overview of the basic architecture as well as practical examples of how to customize OSSEC to manage logging from your infrastructure and applications.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Log management, Intrusion detection/prevention and event correlation is a challenge we have been facing for decades.  Most of us have been able to ignore it but with developments in regulatory compliance (PCI-DSS, HIPAA, SOX, ISO27K, ...) companies are required to investigate solutions.  &#xA;In this talk we will firstly touch upon the&#xA;problems that will be faced during such a project and how log management will look in the future (new standards are on their way).   After this boring introduction to&#xA;the magical world that is log management and intrusion detection we will delve into the solution that is presented with OSSEC.  While labeled as a Host-based Intrusion&#xA;Detection System (HIDS), OSSEC provides you with a complete arsenal of functionalities that allow you to build a log management solution which will translate&#xA;the most cryptic log message into a clear and actionable alert.  Expect an overview of the basic architecture as well as practical examples of how to customize OSSEC to manage logging from your infrastructure and applications.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2521">Wim Remes</person>
+      </persons>
+      <links>
+          <link href="http://video.fosdem.org/2010/maintracks/ossec.xvid.avi">Video (DIVX)</link>
+      </links>
+      <video></video>
+      <end></end>
+  </event>

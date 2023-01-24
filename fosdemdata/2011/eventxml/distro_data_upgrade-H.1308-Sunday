@@ -1,0 +1,19 @@
+  <event id="59">
+      <start>14:00</start>
+      <duration>01:00</duration>
+      <room>H.1308</room>
+      <slug></slug>
+      <title>Configuration data upgrade during package upgrade</title>
+      <subtitle></subtitle>
+      <track>CrossDistro devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;For a casual user, editing configuration files in /etc in an intimidating task. Manually managing configuration upgrade is even worse as it requires good knowledge to merge current configuration data with new data coming from new packages.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;Config::Model was designed to make user&amp;#39;s life easier by providing a configuration GUI and handle configuration upgrades transparently.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;This presentation will explain how to provide these capabilities and will cover:&lt;/p&gt;&#xA;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;the main notions or Config::Model (config tree and model)&lt;/li&gt;&#xA;&lt;li&gt;how to create a model&lt;/li&gt;&#xA;&lt;li&gt;how package and configuration upgrade is performed&lt;/li&gt;&#xA;&lt;li&gt;how to specify upgrade feature in the configuration model * explain how Config::Model can be used from other languages through the fuse interface.&lt;/li&gt;&#xA;&lt;li&gt;Show a demo.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&#xA;&lt;p&gt;Important: This presentation does &lt;em&gt;not&lt;/em&gt; require Perl knowledge&lt;/p&gt;      </description>
+      <persons>
+          <person id="591">Dominique Dumont</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="231">
+      <start>15:30</start>
+      <duration>00:45</duration>
+      <room>AW1.120</room>
+      <slug></slug>
+      <title>Comparing the MapReduce way in CouchDB with the SQL way in a RDBMS</title>
+      <subtitle></subtitle>
+      <track>NoSQL</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Using NoSQL data stores makes you change the way you design and query data, so you have to learn new tools and methods to get the full power of your NoSQL DB. In this session we will focus on how to stop thinking &amp;#39;SQL and relations&amp;#39; and start thinking &amp;#39;views and MapReduce&amp;#39; with CouchDB.&#xA;&lt;/p&gt;&#xA;  </abstract>
+      <description>&#xA;&lt;p&gt;Our first challenge will be to query our documents with flexibility to get the data we need. To handle this, we will show how we can translate our good old SQL SELECT queries into Map and/or Reduce functions.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The second challenge of our session will be to design a model both able to deal with the absence of relations between data and easy to query against. After describing basic but not totally satisfying solutions to this problem, we will delve into a more CouchDB-compliant way.&#xA;&lt;/p&gt;&#xA;  </description>
+      <persons>
+          <person id="2311">Stéphane Combaudon</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

@@ -1,0 +1,19 @@
+  <event id="41">
+      <start>10:20</start>
+      <duration>00:45</duration>
+      <room>AW1.125</room>
+      <slug></slug>
+      <title>Using Cascalog and Hadoop for rapid graph processing and exploration </title>
+      <subtitle></subtitle>
+      <track>Graph Processing Devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Graphs are becoming increasingly popular as ways of modeling a wide variety of systems. As such, the label &amp;#34;graph processing&amp;#34; also covers a range of objectives and architectural constraints.&#xA;At [Linkfluence][http://us.linkfluence.net/], we use graph processing on datasets produced with very different systems (Web crawler, Twitter and Facebook API, feed aggregator, etc.) We spend a lot of time doing exploratory programming, trying to use our eclectic datasets in interesting ways, and processing our data in asynchronous workflows.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;We have come to see [Hadoop][http://hadoop.apache.org/] and the processing framework [Cascalog][https://github.com/nathanmarz/cascalog] as essential tools in our toolbox when dealing with graphs, since it gives us architectural flexibility, scalability and the possibility of rapid prototyping.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Cascalog is an open source framework built on top of Hadoop and [Cascading][http://www.cascading.org/]. Its syntactic and semantic roots come from Datalog and Prolog, which have been succesfully applied for a long time in the manipulation of graphs. Also, its ability to directly embed the expressive [Clojure][http://clojure.org/] language allows to very easily define&#xA;custom operations and ad-hoc processing.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;In this talk, we will present the framework, consider its advantages and drawbacks when compared to other approaches, show concrete exemples of usage for graph processing and how we use them to complement graph databases.&lt;/p&gt;      </abstract>
+      <description></description>
+      <persons>
+          <person id="411">Nils Grunwald</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>

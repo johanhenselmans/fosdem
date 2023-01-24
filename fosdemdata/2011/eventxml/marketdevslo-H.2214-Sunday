@@ -1,0 +1,19 @@
+  <event id="189">
+      <start>10:00</start>
+      <duration>00:30</duration>
+      <room>H.2214</room>
+      <slug></slug>
+      <title>Marketing to develoeprs</title>
+      <subtitle>lets grow the community</subtitle>
+      <track>LibreOffice devroom</track>
+      <type></type>
+      <language></language>
+      <abstract>&#xA;&lt;p&gt;Discussion of how to encourage more developers to contribute.&lt;/p&gt;      </abstract>
+      <description>&#xA;&lt;p&gt;The community is a key asset of The Document Foundation. Developers are a key component of the community, and their number has grown steadily since the day of the announcement. We must grow the number even further, though, and the session is meant to find marketing strategies and tactics capable of attracting other developers and community members.&lt;/p&gt;      </description>
+      <persons>
+          <person id="1891">Italo Vignoli</person>
+      </persons>
+      <links></links>
+      <video></video>
+      <end></end>
+  </event>
