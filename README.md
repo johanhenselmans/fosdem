@@ -1,6 +1,12 @@
 fosdem
 ======
 
+Note: this package is obsolete, I have converted most of the functionality to an app written in Flutter, 
+which you can find at https://github.com/johanhenselmans/fosdemall.
+
+If you want something to look at, go to that repo.
+
+
 An expanded iPhone application for FOSDEM in Brussels. You can browse the conference per year, and if 
 there is a video available of the session, you can play it. 
 
